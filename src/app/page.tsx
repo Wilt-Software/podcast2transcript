@@ -192,7 +192,7 @@ export default function Home() {
             <div className="text-xl text-glass-primary mb-2">per minute</div>
             <div className="text-glass-secondary mb-6">+ $1 per file</div>
             <div className="text-glass-primary">
-              <p className="mb-2">✓ No subscription required</p>
+              <p className="mb-2">✓ Not subscription required</p>
               <p className="mb-2">✓ Pay only for what you use</p>
               <p className="mb-2">✓ Lightning-fast processing</p>
               <p>✓ Multiple export formats</p>
