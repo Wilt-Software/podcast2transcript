@@ -1,0 +1,3936 @@
+1
+00:00:02,480 --> 00:00:03,940
+A Listener Production.
+
+2
+00:00:13,269 --> 00:00:14,710
+G'day, it's Luke Darcy here.
+
+3
+00:00:15,130 --> 00:00:16,730
+Welcome to the Empowering Leaders Podcast.
+
+4
+00:00:17,530 --> 00:00:19,469
+It's the product of one of my oldest friendships.
+
+5
+00:00:20,210 --> 00:00:22,850
+Matt Wadowicz and I started playing junior footy together
+
+6
+00:00:22,850 --> 00:00:24,289
+when we were 14 years old.
+
+7
+00:00:24,649 --> 00:00:26,390
+He was the junior superstar of our team,
+
+8
+00:00:26,690 --> 00:00:28,929
+but when he shattered his ankle in our last game together,
+
+9
+00:00:29,390 --> 00:00:31,550
+it was me who went on to play AFL football for a living
+
+10
+00:00:31,550 --> 00:00:34,270
+while Matt became an incredible school teacher.
+
+11
+00:00:35,829 --> 00:00:37,609
+Matt's relentlessly authentic nature
+
+12
+00:00:37,609 --> 00:00:40,770
+was behind his refusal to allow a group of 25 kids
+
+13
+00:00:40,770 --> 00:00:42,009
+to be managed out of his school.
+
+14
+00:00:42,770 --> 00:00:44,049
+He went to the principal and told him
+
+15
+00:00:44,049 --> 00:00:46,789
+that these kids were the reason why he became a teacher.
+
+16
+00:00:47,429 --> 00:00:50,390
+The story of how all these kids went from being out of the school
+
+17
+00:00:50,390 --> 00:00:52,530
+to successfully completing Year 12,
+
+18
+00:00:52,990 --> 00:00:54,689
+and many then on to further education,
+
+19
+00:00:55,229 --> 00:00:55,990
+captivated me.
+
+20
+00:00:57,789 --> 00:00:59,850
+As a father of four school-aged children,
+
+21
+00:01:00,229 --> 00:01:01,869
+the idea that our kids would have a voice
+
+22
+00:01:01,869 --> 00:01:02,909
+in their own learning environment
+
+23
+00:01:02,909 --> 00:01:04,750
+and that their teachers would collaborate,
+
+24
+00:01:05,170 --> 00:01:07,030
+share ideas and work together
+
+25
+00:01:07,030 --> 00:01:07,590
+on the best outcomes,
+
+26
+00:01:07,609 --> 00:01:08,549
+for everyone,
+
+27
+00:01:08,989 --> 00:01:10,590
+was a lightbulb moment for me.
+
+28
+00:01:11,269 --> 00:01:11,609
+A leader,
+
+29
+00:01:12,069 --> 00:01:13,409
+spelled A-L-E-D-A,
+
+30
+00:01:13,829 --> 00:01:15,390
+a misspelling of an old Scots word
+
+31
+00:01:15,390 --> 00:01:16,250
+meaning to guide,
+
+32
+00:01:16,549 --> 00:01:16,829
+educate,
+
+33
+00:01:17,250 --> 00:01:17,530
+teach,
+
+34
+00:01:17,769 --> 00:01:18,689
+and draw out information,
+
+35
+00:01:19,090 --> 00:01:20,030
+was born out of this.
+
+36
+00:01:20,769 --> 00:01:21,170
+Together,
+
+37
+00:01:21,469 --> 00:01:23,129
+Matt and I have had the great privilege of working
+
+38
+00:01:23,129 --> 00:01:25,250
+with thousands of leaders in education,
+
+39
+00:01:25,629 --> 00:01:25,989
+sport,
+
+40
+00:01:26,310 --> 00:01:26,709
+industry,
+
+41
+00:01:26,909 --> 00:01:27,430
+and the arts.
+
+42
+00:01:40,670 --> 00:01:42,590
+And the only place to start, really,
+
+43
+00:01:42,890 --> 00:01:43,650
+is at the beginning,
+
+44
+00:01:43,810 --> 00:01:46,409
+and I'm sitting across from one of my oldest friends,
+
+45
+00:01:46,590 --> 00:01:47,230
+Matt Wadowicz,
+
+46
+00:01:47,969 --> 00:01:48,510
+who I met,
+
+47
+00:01:48,510 --> 00:01:49,250
+I think,
+
+48
+00:01:49,769 --> 00:01:50,670
+at the age of,
+
+49
+00:01:50,790 --> 00:01:52,489
+I'm thinking 12 or 13,
+
+50
+00:01:52,489 --> 00:01:54,209
+at the South Adelaide Football Club.
+
+51
+00:01:54,250 --> 00:01:54,989
+Is that your recollection?
+
+52
+00:01:55,430 --> 00:01:56,290
+I think so, mate.
+
+53
+00:01:56,329 --> 00:01:59,969
+I remember meeting you at a game against Sacred Heart
+
+54
+00:01:59,969 --> 00:02:02,150
+and South Adelaide were playing against them.
+
+55
+00:02:02,189 --> 00:02:03,750
+And I remember when you arrived,
+
+56
+00:02:03,890 --> 00:02:05,989
+you stole my position, mate,
+
+57
+00:02:06,030 --> 00:02:06,769
+in the first game.
+
+58
+00:02:06,849 --> 00:02:09,310
+So I wasn't too happy with this big skinny fella
+
+59
+00:02:09,310 --> 00:02:11,009
+from Ross Trevor coming to play for us.
+
+60
+00:02:11,189 --> 00:02:13,110
+Well, and that was my recollection, mate,
+
+61
+00:02:13,229 --> 00:02:15,330
+speaking about leadership and empowering leaders,
+
+62
+00:02:15,449 --> 00:02:18,210
+that you were the captain of all our junior sides.
+
+63
+00:02:18,210 --> 00:02:19,629
+You were the best player in all our junior,
+
+64
+00:02:19,629 --> 00:02:23,330
+and I was the ring-in that was father-son,
+
+65
+00:02:23,430 --> 00:02:24,750
+because my dad played at South Adelaide.
+
+66
+00:02:24,849 --> 00:02:27,770
+So I was a private school boy coming down South
+
+67
+00:02:27,770 --> 00:02:30,129
+with all the tough lads from down South.
+
+68
+00:02:30,289 --> 00:02:32,050
+And I did take a few people's positions,
+
+69
+00:02:32,610 --> 00:02:33,949
+and that didn't go down that well, mate.
+
+70
+00:02:33,990 --> 00:02:36,229
+But you stood up for me at a young age,
+
+71
+00:02:36,530 --> 00:02:38,189
+and I never forgot that,
+
+72
+00:02:38,250 --> 00:02:39,490
+because you were in my corner,
+
+73
+00:02:39,689 --> 00:02:42,009
+and it never lost me that you were the person
+
+74
+00:02:42,009 --> 00:02:43,789
+that came and extended that hand of friendship
+
+75
+00:02:43,789 --> 00:02:45,270
+when others weren't prepared to do it.
+
+76
+00:02:45,830 --> 00:02:46,849
+I do remember it, mate.
+
+77
+00:02:46,969 --> 00:02:48,849
+And yeah, I remember it fondly.
+
+78
+00:02:48,849 --> 00:02:49,610
+And so,
+
+79
+00:02:49,629 --> 00:02:50,530
+I'm really glad I did, really.
+
+80
+00:02:50,729 --> 00:02:51,849
+I mean, I just,
+
+81
+00:02:51,990 --> 00:02:54,889
+I can remember thinking to myself,
+
+82
+00:02:55,189 --> 00:02:55,469
+you know,
+
+83
+00:02:55,590 --> 00:02:57,310
+he's definitely got more aggression than me,
+
+84
+00:02:57,409 --> 00:02:58,830
+and you just, you know, you did.
+
+85
+00:02:58,930 --> 00:03:00,150
+You had a lot more aggression than me.
+
+86
+00:03:00,210 --> 00:03:01,550
+It's a work in progress still, mate.
+
+87
+00:03:02,849 --> 00:03:04,710
+But yeah, I was a bit surprised,
+
+88
+00:03:04,770 --> 00:03:07,349
+because I didn't realise growing up down South,
+
+89
+00:03:07,449 --> 00:03:10,810
+the rivalry between Ross Trevor and Sacred Heart.
+
+90
+00:03:10,909 --> 00:03:11,530
+And I was wondering,
+
+91
+00:03:11,689 --> 00:03:13,250
+why is this guy so fired up?
+
+92
+00:03:13,310 --> 00:03:14,930
+And I just had to try and settle you down.
+
+93
+00:03:15,030 --> 00:03:17,650
+But I just love playing footy with you.
+
+94
+00:03:17,650 --> 00:03:18,810
+And I remember, you know,
+
+95
+00:03:19,629 --> 00:03:21,150
+I just had this sense you're going to be a good player.
+
+96
+00:03:21,409 --> 00:03:23,030
+And you hadn't put it all together.
+
+97
+00:03:23,150 --> 00:03:24,370
+You were still growing at that stage.
+
+98
+00:03:24,449 --> 00:03:26,849
+But I remember really making sure when I had the ball,
+
+99
+00:03:26,930 --> 00:03:28,330
+I'd kick it to you as much as I could
+
+100
+00:03:28,330 --> 00:03:30,729
+and trying to support you as much as I could.
+
+101
+00:03:30,810 --> 00:03:32,449
+And then it was just awesome for me to,
+
+102
+00:03:33,090 --> 00:03:34,849
+you know, when my journey ended with footy,
+
+103
+00:03:34,930 --> 00:03:37,349
+to be able to watch you continuously get better and better
+
+104
+00:03:37,349 --> 00:03:38,430
+and watch from afar.
+
+105
+00:03:38,629 --> 00:03:39,810
+And no, it was brilliant, mate.
+
+106
+00:03:39,849 --> 00:03:41,250
+We loved having you on board.
+
+107
+00:03:41,389 --> 00:03:43,050
+And yeah, been great mates ever since.
+
+108
+00:03:43,210 --> 00:03:45,050
+Yeah, it was a fierce school rivalry
+
+109
+00:03:45,050 --> 00:03:47,189
+and a great friendship, mate,
+
+110
+00:03:47,189 --> 00:03:49,550
+being able to come down and play,
+
+111
+00:03:49,629 --> 00:03:50,770
+with you and we played all the way through.
+
+112
+00:03:50,870 --> 00:03:51,629
+We ended up, you know,
+
+113
+00:03:51,650 --> 00:03:53,530
+playing our first games in league football
+
+114
+00:03:53,530 --> 00:03:54,930
+in South Australia with South Adelaide,
+
+115
+00:03:54,990 --> 00:03:57,110
+I think a couple of weeks apart from memory.
+
+116
+00:03:57,250 --> 00:03:58,629
+And it culminated in 1992.
+
+117
+00:03:58,629 --> 00:04:00,189
+You were drafted to the Bombers.
+
+118
+00:04:00,669 --> 00:04:03,449
+I was drafted under the father-son to the Bulldogs,
+
+119
+00:04:03,550 --> 00:04:05,969
+which was probably the fulfillment of a lifelong dream.
+
+120
+00:04:06,069 --> 00:04:07,490
+But unfortunately for you, mate,
+
+121
+00:04:07,550 --> 00:04:09,349
+now last game of South Adelaide,
+
+122
+00:04:09,409 --> 00:04:11,090
+you shattered your ankle horrifically
+
+123
+00:04:11,090 --> 00:04:13,729
+to the point where the Bombers thought
+
+124
+00:04:13,729 --> 00:04:16,709
+that it was a two-year recovery and didn't take you over.
+
+125
+00:04:16,889 --> 00:04:18,329
+But how hard was that on you?
+
+126
+00:04:18,569 --> 00:04:19,610
+Because it changed your life.
+
+127
+00:04:19,610 --> 00:04:20,509
+Pretty much from then.
+
+128
+00:04:20,990 --> 00:04:22,089
+Yeah, it was at the time.
+
+129
+00:04:22,209 --> 00:04:25,029
+I remember it's funny now because you feel so long ago
+
+130
+00:04:25,029 --> 00:04:27,730
+that you feel like it's a different lifetime.
+
+131
+00:04:27,730 --> 00:04:30,110
+But I do remember at the time really affecting me.
+
+132
+00:04:30,209 --> 00:04:32,230
+I remember being, you know, very flat
+
+133
+00:04:32,230 --> 00:04:35,870
+because, you know, for probably the five years
+
+134
+00:04:35,870 --> 00:04:37,529
+leading up to it, you felt like, you know,
+
+135
+00:04:37,610 --> 00:04:38,910
+potentially this could be my career.
+
+136
+00:04:38,990 --> 00:04:39,769
+This could be my life.
+
+137
+00:04:40,230 --> 00:04:44,089
+And it was those days where SADFL players
+
+138
+00:04:44,089 --> 00:04:45,709
+and I'm sure Waffle players were the same
+
+139
+00:04:45,709 --> 00:04:47,569
+is that you would go over and train
+
+140
+00:04:47,569 --> 00:04:49,250
+with the team that drafted you.
+
+141
+00:04:49,250 --> 00:04:49,310
+Yeah.
+
+142
+00:04:49,610 --> 00:04:51,069
+I remember getting drafted the first year
+
+143
+00:04:51,069 --> 00:04:53,769
+and actually staying home, which is unheard of now.
+
+144
+00:04:53,850 --> 00:04:55,029
+But a lot of us did do that.
+
+145
+00:04:55,149 --> 00:04:56,649
+And including yourself, I think, Darce.
+
+146
+00:04:56,730 --> 00:04:59,029
+But a lot of us stayed home that first year.
+
+147
+00:04:59,170 --> 00:05:02,410
+And, you know, I always had in my mind that I'd go.
+
+148
+00:05:02,410 --> 00:05:05,110
+But the experience of training at an AFL club
+
+149
+00:05:05,110 --> 00:05:08,269
+over that pre-season, really just amazing.
+
+150
+00:05:08,430 --> 00:05:09,730
+And you just think, you know, this is going to happen.
+
+151
+00:05:09,850 --> 00:05:10,569
+This is going to be great.
+
+152
+00:05:10,670 --> 00:05:13,089
+So you almost get a taste of it and then it's taken away.
+
+153
+00:05:13,250 --> 00:05:15,709
+So I do remember dwelling on it for a few months.
+
+154
+00:05:15,829 --> 00:05:18,910
+But it's probably with me not so much in my nature
+
+155
+00:05:18,910 --> 00:05:21,009
+to continue to dwell on that.
+
+156
+00:05:21,129 --> 00:05:23,470
+I recognise that, you know, that door is closed for me.
+
+157
+00:05:23,930 --> 00:05:25,649
+Gave it a little bit of a go to come back,
+
+158
+00:05:25,730 --> 00:05:26,949
+but it didn't quite work out.
+
+159
+00:05:27,170 --> 00:05:29,189
+I remember you coming back from your first training session
+
+160
+00:05:29,189 --> 00:05:29,709
+at the Bombers.
+
+161
+00:05:29,790 --> 00:05:31,990
+We were desperate to make it in the AFL
+
+162
+00:05:31,990 --> 00:05:34,529
+and you'd done a weight session with the great Paul Salmon
+
+163
+00:05:34,529 --> 00:05:37,889
+and you were full of life and full of stories, as you said.
+
+164
+00:05:38,610 --> 00:05:40,870
+And you were, mate, I've said this very often,
+
+165
+00:05:41,170 --> 00:05:43,870
+a star player and athletically gifted.
+
+166
+00:05:44,529 --> 00:05:47,069
+Unfortunately, that recovery meant that that chapter was closed.
+
+167
+00:05:47,170 --> 00:05:48,170
+But I often tell this story.
+
+168
+00:05:48,170 --> 00:05:48,829
+You went to teachers.
+
+169
+00:05:48,910 --> 00:05:51,269
+You went to college, which is where our paths crossed again
+
+170
+00:05:51,269 --> 00:05:54,209
+and became a legendary teacher in South Australia.
+
+171
+00:05:54,949 --> 00:05:58,110
+And I remember, you know, we stayed in touch
+
+172
+00:05:58,110 --> 00:06:00,569
+and you're a great friend connecting all the way through
+
+173
+00:06:00,569 --> 00:06:01,610
+whenever you came to Melbourne.
+
+174
+00:06:02,050 --> 00:06:05,069
+But I'd occasionally hear the stories of a friend of a friend
+
+175
+00:06:05,069 --> 00:06:08,089
+or someone I knew ended up in Matt Waterwitz's class
+
+176
+00:06:08,089 --> 00:06:11,810
+and that it was a life-changing experience to be in your classroom.
+
+177
+00:06:12,149 --> 00:06:16,850
+And I know you're probably humble enough not to want to go too far into that,
+
+178
+00:06:16,850 --> 00:06:18,850
+but you clearly had a passion for being a teacher.
+
+179
+00:06:18,910 --> 00:06:20,629
+And you were clearly really good at it.
+
+180
+00:06:21,350 --> 00:06:22,189
+Yeah, it's funny.
+
+181
+00:06:22,329 --> 00:06:24,490
+I think when you reflect on it,
+
+182
+00:06:24,509 --> 00:06:27,389
+I reckon the original idea for getting into teaching
+
+183
+00:06:27,389 --> 00:06:29,089
+was the idea that I could do PE
+
+184
+00:06:29,089 --> 00:06:31,449
+and that I could have 12 weeks a year holiday.
+
+185
+00:06:31,629 --> 00:06:33,850
+So I think if I search really honestly in myself,
+
+186
+00:06:33,930 --> 00:06:34,569
+that was the reason.
+
+187
+00:06:34,709 --> 00:06:36,470
+But I remember in my last year,
+
+188
+00:06:36,629 --> 00:06:39,110
+and I still, you know, probably not dismissing the fact
+
+189
+00:06:39,110 --> 00:06:41,110
+that I really love working with kids.
+
+190
+00:06:41,269 --> 00:06:44,370
+But in my last year, I remember doing this presentation.
+
+191
+00:06:44,509 --> 00:06:46,449
+It was my final presentation at university
+
+192
+00:06:46,449 --> 00:06:48,129
+and it was about accountability.
+
+193
+00:06:48,230 --> 00:06:48,889
+And, you know,
+
+194
+00:06:49,029 --> 00:06:50,689
+you're going out in the world to become a teacher.
+
+195
+00:06:51,689 --> 00:06:54,069
+What's the most important things in terms of accountability?
+
+196
+00:06:54,310 --> 00:06:56,410
+And there's so many things you're accountable for.
+
+197
+00:06:56,509 --> 00:06:59,050
+You know, you're accountable for the students in your care.
+
+198
+00:06:59,170 --> 00:07:01,589
+You're accountable for the teachers around you,
+
+199
+00:07:01,589 --> 00:07:02,629
+the school values.
+
+200
+00:07:02,750 --> 00:07:04,529
+You're accountable to the Department of Education.
+
+201
+00:07:04,689 --> 00:07:05,069
+You're accountable.
+
+202
+00:07:05,670 --> 00:07:06,329
+And I remember this.
+
+203
+00:07:06,750 --> 00:07:08,930
+I remember thinking, I've nailed this presentation.
+
+204
+00:07:09,129 --> 00:07:09,829
+Like, this is great.
+
+205
+00:07:09,910 --> 00:07:12,230
+I'm going to get some great responses here.
+
+206
+00:07:12,509 --> 00:07:14,589
+I'll get a good score and away we go.
+
+207
+00:07:14,649 --> 00:07:15,050
+I finished.
+
+208
+00:07:15,490 --> 00:07:17,370
+And luckily for me,
+
+209
+00:07:17,470 --> 00:07:18,709
+or luckily for me in that,
+
+210
+00:07:18,709 --> 00:07:21,089
+my lecturer at the time was away.
+
+211
+00:07:22,009 --> 00:07:25,550
+And a philosophy major PhD doctor came in
+
+212
+00:07:25,550 --> 00:07:27,970
+and he was looking after our class that day.
+
+213
+00:07:28,250 --> 00:07:30,149
+And I'd finished my presentation sitting down,
+
+214
+00:07:30,290 --> 00:07:31,230
+feeling good about myself.
+
+215
+00:07:31,689 --> 00:07:34,269
+And he said, Matt, I've got a concern for you here.
+
+216
+00:07:34,329 --> 00:07:37,990
+And he said, I think if I was a teacher sitting in this room right now,
+
+217
+00:07:37,990 --> 00:07:40,829
+I'd be thinking, why the hell am I going to be a teacher?
+
+218
+00:07:40,990 --> 00:07:43,410
+Because you've just told me about all these terrible things
+
+219
+00:07:43,410 --> 00:07:45,350
+that I now need to worry about.
+
+220
+00:07:45,970 --> 00:07:47,689
+So think about the list now, Matt.
+
+221
+00:07:47,689 --> 00:07:48,449
+And you tell me,
+
+222
+00:07:48,449 --> 00:07:51,269
+what is the most important thing you're accountable for as a teacher?
+
+223
+00:07:51,930 --> 00:07:54,509
+And of course, there's a long silence and a big pause by me.
+
+224
+00:07:54,569 --> 00:07:55,649
+And I'm thinking through the list
+
+225
+00:07:55,649 --> 00:07:57,870
+and I'm thinking about all this stuff that I've just covered,
+
+226
+00:07:58,610 --> 00:07:59,329
+wondering what is it?
+
+227
+00:07:59,350 --> 00:08:01,290
+And of course, you know, you come straight back to it.
+
+228
+00:08:01,350 --> 00:08:03,930
+It is actually, you're accountable to the kids in your care.
+
+229
+00:08:04,550 --> 00:08:07,750
+And so that was big for me because I just thought, right,
+
+230
+00:08:08,029 --> 00:08:10,949
+if that's true, then I've got to get bloody good at this job.
+
+231
+00:08:11,149 --> 00:08:14,050
+So I can't really just think about the 12 weeks of your holidays
+
+232
+00:08:14,050 --> 00:08:16,649
+and kicking the footy with the kids out in the oval,
+
+233
+00:08:16,649 --> 00:08:18,389
+which is my original intention.
+
+234
+00:08:18,889 --> 00:08:20,589
+I've actually got to really take this seriously.
+
+235
+00:08:20,910 --> 00:08:24,009
+And that way you really enjoy it because it's part of your value.
+
+236
+00:08:24,310 --> 00:08:26,350
+So that's how I got into that.
+
+237
+00:08:26,769 --> 00:08:29,410
+There's around 25 kids, I understand,
+
+238
+00:08:29,629 --> 00:08:32,470
+were troubled and having challenges at school.
+
+239
+00:08:32,549 --> 00:08:35,850
+And schools traditionally manage kids out of school
+
+240
+00:08:35,850 --> 00:08:37,990
+who maybe aren't living up to the standard.
+
+241
+00:08:38,190 --> 00:08:41,769
+You're at a Cardone College on the McLaren Vale of South Australia
+
+242
+00:08:41,769 --> 00:08:46,330
+and some of those kids are probably going to get exited out of the school in year 10.
+
+243
+00:08:46,330 --> 00:08:47,610
+And you go to the principal and you say,
+
+244
+00:08:47,690 --> 00:08:49,889
+I became a teacher for these kids.
+
+245
+00:08:49,990 --> 00:08:51,029
+Give me these kids.
+
+246
+00:08:51,409 --> 00:08:52,490
+But there was a couple of conditions.
+
+247
+00:08:52,649 --> 00:08:54,429
+Can you pick up the story and tell us what happened?
+
+248
+00:08:54,809 --> 00:08:55,090
+Yeah.
+
+249
+00:08:55,549 --> 00:08:58,590
+Originally, I was a bit challenged by it because I just had this belief
+
+250
+00:08:58,590 --> 00:09:01,490
+that every classroom teacher should be integrating
+
+251
+00:09:02,049 --> 00:09:04,129
+and finding opportunities for those kids.
+
+252
+00:09:04,470 --> 00:09:08,889
+And I was sort of diametrically opposed to getting them out of class at the start.
+
+253
+00:09:08,990 --> 00:09:12,590
+But when I really realised that they were going to be turfed out,
+
+254
+00:09:13,129 --> 00:09:14,990
+I just came up with some alternatives.
+
+255
+00:09:14,990 --> 00:09:17,309
+And I got together with a great mate of mine,
+
+256
+00:09:17,309 --> 00:09:19,149
+who's now working with us, DAS, Damien Hill.
+
+257
+00:09:19,610 --> 00:09:22,350
+And we came up with this concept of masterclass,
+
+258
+00:09:22,490 --> 00:09:26,190
+which is this fully integrated rich task scenario
+
+259
+00:09:26,190 --> 00:09:30,269
+where the kids would be immersed in deep learning for each term of the year.
+
+260
+00:09:30,929 --> 00:09:35,470
+And the way that we tapped into the interest of the kids is,
+
+261
+00:09:36,169 --> 00:09:39,549
+day one, we brought them down to a beach.
+
+262
+00:09:39,610 --> 00:09:40,570
+They didn't know what was going on.
+
+263
+00:09:40,590 --> 00:09:43,070
+They just knew they were going to be immersed in this learning experience for the year.
+
+264
+00:09:43,070 --> 00:09:46,049
+And we took them down to the beach down at Somerton in South Australia.
+
+265
+00:09:46,049 --> 00:09:51,009
+And the way we launched it with them is we said approximately 40 years ago,
+
+266
+00:09:51,009 --> 00:09:52,809
+and I thought they had the exact date of the time.
+
+267
+00:09:52,809 --> 00:09:58,950
+And I said, there was a body here that was a dead body was found here on the beach.
+
+268
+00:09:59,370 --> 00:10:02,230
+And to this day, no one knows exactly what happened.
+
+269
+00:10:02,669 --> 00:10:03,669
+And it's a true story.
+
+270
+00:10:03,669 --> 00:10:06,669
+And now it's been in the media this year a lot, actually,
+
+271
+00:10:06,669 --> 00:10:10,789
+because I've tapped into some DNA stuff about this body.
+
+272
+00:10:10,789 --> 00:10:16,029
+But we gave the job to the students to help us solve the mystery of the Somerton Man.
+
+273
+00:10:16,049 --> 00:10:18,230
+The unknown, the unknown grave.
+
+274
+00:10:19,230 --> 00:10:23,029
+And yeah, we got them to, as part of this learning experience,
+
+275
+00:10:23,029 --> 00:10:26,370
+we got them to interview past detectives that worked on the case.
+
+276
+00:10:26,769 --> 00:10:28,429
+We got them to write letters to the editor.
+
+277
+00:10:28,429 --> 00:10:32,850
+We got them to do mathematical equations because there was a code that was linked to this story.
+
+278
+00:10:32,850 --> 00:10:36,870
+In this case, we got them to do presentations to their parents.
+
+279
+00:10:37,409 --> 00:10:40,929
+Yeah, the results were fantastic for these, for these boys.
+
+280
+00:10:41,070 --> 00:10:42,049
+Incredible story.
+
+281
+00:10:42,049 --> 00:10:45,929
+There's a theory that the Somerton Man potentially was a Russian spy who washed
+
+282
+00:10:45,929 --> 00:10:47,710
+up on Somerton Beach in South Australia.
+
+283
+00:10:47,710 --> 00:10:50,330
+He'd been almost surgically scrubbed, we understand.
+
+284
+00:10:50,330 --> 00:10:53,049
+And all the tags on his clothes removed.
+
+285
+00:10:53,049 --> 00:10:57,049
+And some of the markings were Russian tattoos.
+
+286
+00:10:57,169 --> 00:10:59,230
+And as you said, in recent times, the body's been exhumed.
+
+287
+00:10:59,230 --> 00:11:00,549
+There's such a fascination with it.
+
+288
+00:11:00,929 --> 00:11:04,950
+I believe you've got the old detective who was obsessed with the case back to speak to the kids.
+
+289
+00:11:05,269 --> 00:11:07,870
+So these kids have gone from being disengaged in their learning.
+
+290
+00:11:08,129 --> 00:11:10,830
+You've come up with a fairly random way to integrate it.
+
+291
+00:11:10,830 --> 00:11:12,490
+And all of a sudden, they're writing letters to the editor.
+
+292
+00:11:12,490 --> 00:11:13,570
+They're engaged in class.
+
+293
+00:11:13,570 --> 00:11:18,649
+And that group in year 10, from really maybe being out of the school, I understand every
+
+294
+00:11:18,649 --> 00:11:20,269
+one of them went on and finished year 12.
+
+295
+00:11:20,769 --> 00:11:24,309
+And a big portion of them actually then got to tertiary education after that.
+
+296
+00:11:24,330 --> 00:11:25,870
+Yeah, we had some great results.
+
+297
+00:11:25,870 --> 00:11:32,309
+And I guess the immediate impact we saw was attendance rates going up and behavior issues
+
+298
+00:11:32,309 --> 00:11:34,049
+was the big one going straight down.
+
+299
+00:11:34,289 --> 00:11:38,830
+And just the fact that some of the boys in particular were not attending.
+
+300
+00:11:39,269 --> 00:11:42,490
+And all of a sudden, they're writing me emails on the weekend saying, I've got another theory.
+
+301
+00:11:42,610 --> 00:11:43,389
+I've got another theory.
+
+302
+00:11:43,389 --> 00:11:43,450
+Mr. Man.
+
+303
+00:11:43,450 --> 00:11:43,549
+I've got another theory.
+
+304
+00:11:43,570 --> 00:11:44,809
+This is what I think's happened.
+
+305
+00:11:45,070 --> 00:11:50,970
+And even this is going back a number of years now, but as these stories have been unfolding
+
+306
+00:11:50,970 --> 00:11:56,629
+in the South Australian newspapers recently, I got an email from one of the old boys that
+
+307
+00:11:56,629 --> 00:11:57,669
+went through this program.
+
+308
+00:11:57,769 --> 00:11:59,269
+He said, Mr. Woodhouse, I thought we solved it.
+
+309
+00:12:00,190 --> 00:12:01,009
+What's the problem?
+
+310
+00:12:01,250 --> 00:12:04,330
+But it's great that we had that experience with the boys.
+
+311
+00:12:04,529 --> 00:12:10,470
+You being who you are, then said to the principal in the school, I'm handing these boys back
+
+312
+00:12:10,470 --> 00:12:13,450
+into the system next year, but I'm only doing it if you allow me to.
+
+313
+00:12:13,450 --> 00:12:15,850
+I'm only doing it if you allow me to help coach the teachers on how to engage these
+
+314
+00:12:15,850 --> 00:12:16,509
+boys properly.
+
+315
+00:12:16,629 --> 00:12:19,370
+And that is why you and I are sitting across from each other today.
+
+316
+00:12:19,470 --> 00:12:21,669
+It's where this whole story starts.
+
+317
+00:12:21,870 --> 00:12:24,970
+Can you talk about what you did and where that's gone?
+
+318
+00:12:25,250 --> 00:12:29,110
+The story of the summited man was great because it engaged people, but I knew it would only
+
+319
+00:12:29,110 --> 00:12:31,730
+last if teachers picked up and run with it.
+
+320
+00:12:31,789 --> 00:12:36,570
+And to their credit, the way they collaborated with us and took up this advantage to all
+
+321
+00:12:36,570 --> 00:12:42,509
+of a sudden for young Jimmy to want to write an essay about a topic that maybe wasn't part
+
+322
+00:12:42,509 --> 00:12:43,009
+of the syllabus.
+
+323
+00:12:43,009 --> 00:12:47,409
+But it's actually part of, you know, still doing the skills of essay writing, but now
+
+324
+00:12:47,409 --> 00:12:48,450
+it's about the summited man.
+
+325
+00:12:48,549 --> 00:12:52,409
+To their credit, they picked that up and they started really working and collaborating together.
+
+326
+00:12:52,669 --> 00:12:57,429
+And so I started to understand like the real power of me making a change was not just me.
+
+327
+00:12:57,509 --> 00:13:02,110
+It actually was all about the way that I'd construct the conditions where teachers were
+
+328
+00:13:02,110 --> 00:13:02,830
+working together.
+
+329
+00:13:03,070 --> 00:13:07,049
+And when I was asked to, you know, and work with my principal at the time, who was brilliant
+
+330
+00:13:07,049 --> 00:13:12,809
+at supporting me, to try and work out what's going to be the best way to coach teachers.
+
+331
+00:13:13,009 --> 00:13:17,470
+And how can I convince teachers that, you know, to ask what it's like that in education
+
+332
+00:13:17,470 --> 00:13:21,950
+that, you know, teachers are often in their classroom by themselves and they're given
+
+333
+00:13:21,950 --> 00:13:27,429
+that responsibility from such a young age and often the walls are shut, the doors are
+
+334
+00:13:27,429 --> 00:13:27,690
+shut.
+
+335
+00:13:27,830 --> 00:13:33,470
+So how do you create the conditions where you're breaking that down and trying to make
+
+336
+00:13:33,470 --> 00:13:37,509
+sure that they know you as a coach, you're in their corner and you're trying to best
+
+337
+00:13:37,509 --> 00:13:41,990
+support them because you know that they've got a really difficult job and it's incredibly
+
+338
+00:13:41,990 --> 00:13:42,509
+important.
+
+339
+00:13:43,009 --> 00:13:48,690
+And you ended up, I think people in education, I've been on this journey with you and I wish
+
+340
+00:13:48,690 --> 00:13:49,330
+they'd in touch.
+
+341
+00:13:49,429 --> 00:13:54,250
+I love the stories, you know, as a father of four myself and school age kids, you can
+
+342
+00:13:54,250 --> 00:13:59,450
+see the difference in their world when you have an engaged teacher and someone they connect
+
+343
+00:13:59,450 --> 00:14:03,769
+with, their life is just full of, you know, learning and excitement.
+
+344
+00:14:03,970 --> 00:14:07,210
+And when they're not so attached to a teacher, you could see what happens with, you know,
+
+345
+00:14:07,269 --> 00:14:08,830
+kids that were pretty otherwise happy.
+
+346
+00:14:08,830 --> 00:14:12,350
+So John Hattie is someone educators know a lot.
+
+347
+00:14:12,350 --> 00:14:14,210
+He's a professor of education.
+
+348
+00:14:14,370 --> 00:14:17,990
+He's currently at Melbourne University, but he was previously University of North Carolina
+
+349
+00:14:17,990 --> 00:14:20,070
+and also University of Auckland.
+
+350
+00:14:20,309 --> 00:14:26,450
+And he's known, Matt, for undertaking the largest ever meta-analysis into what effective
+
+351
+00:14:26,450 --> 00:14:28,529
+education looks like.
+
+352
+00:14:28,830 --> 00:14:32,950
+And, you know, without sort of stealing your thunder, I understand that he talks about
+
+353
+00:14:32,950 --> 00:14:37,149
+teachers first, second and third, the answer, good teachers.
+
+354
+00:14:37,250 --> 00:14:41,450
+So you can have a building that's been built for $50 million, the best new branch banking
+
+355
+00:14:41,450 --> 00:14:41,809
+library.
+
+356
+00:14:42,350 --> 00:14:46,210
+Excise is almost zero with that library, unless you fill up with great teachers.
+
+357
+00:14:46,309 --> 00:14:50,590
+And even greater than that, when you get teachers collaborating together, that's been shown
+
+358
+00:14:50,590 --> 00:14:52,370
+through his meta-analysis to work.
+
+359
+00:14:52,370 --> 00:14:57,009
+And he heard about you, heard about what you were doing, and, you know, maybe you can explain
+
+360
+00:14:57,009 --> 00:14:57,590
+what happened there.
+
+361
+00:14:58,129 --> 00:14:59,450
+Yeah, it was great to ask.
+
+362
+00:15:00,730 --> 00:15:05,389
+In Australia now, we have the AITSL standards, so the Australian Institute for Teaching and
+
+363
+00:15:05,389 --> 00:15:05,970
+School Leadership.
+
+364
+00:15:06,230 --> 00:15:11,610
+And teachers in Australia can now be judged, I guess, by criteria or standards in terms
+
+365
+00:15:11,610 --> 00:15:12,289
+of the way that...
+
+366
+00:15:12,350 --> 00:15:16,110
+They're impacting kids in the classroom, with the whole concept of we want to try and keep
+
+367
+00:15:16,110 --> 00:15:20,870
+great teachers in the classroom, and we want to try and increase their capacity and have
+
+368
+00:15:20,870 --> 00:15:22,330
+opportunities for them to develop.
+
+369
+00:15:22,710 --> 00:15:23,769
+And I went through the process.
+
+370
+00:15:23,889 --> 00:15:26,669
+When I was going to be a coach, I thought, well, I better know about these standards.
+
+371
+00:15:27,370 --> 00:15:30,970
+Managed to get myself certified as lead, which is the highest level.
+
+372
+00:15:31,629 --> 00:15:34,509
+And, you know, it was a funny story that I think is funny.
+
+373
+00:15:34,649 --> 00:15:38,169
+I had to present to a group of teachers who were going through certification.
+
+374
+00:15:38,549 --> 00:15:40,710
+I was one of the first that did it.
+
+375
+00:15:41,029 --> 00:15:41,669
+And I was talking about...
+
+376
+00:15:42,350 --> 00:15:46,309
+You know, I was a classic tall poppy, and some of my workmates were giving me a hard
+
+377
+00:15:46,309 --> 00:15:48,149
+time about certification.
+
+378
+00:15:48,610 --> 00:15:52,789
+And at that stage in South Australia, there was only about three or four teachers that
+
+379
+00:15:52,789 --> 00:15:54,250
+had been certified as lead.
+
+380
+00:15:54,350 --> 00:15:57,769
+And we had a consultant come out to the school saying, you know, we're thinking that the
+
+381
+00:15:57,769 --> 00:16:00,529
+next principal of this school will be certified as lead.
+
+382
+00:16:00,590 --> 00:16:04,389
+And everyone in the room knew that I was the only one in Catholic education in South Australia,
+
+383
+00:16:04,389 --> 00:16:07,330
+so they all looked at me and just started paying me out.
+
+384
+00:16:07,370 --> 00:16:08,250
+I was going to be the next principal.
+
+385
+00:16:08,529 --> 00:16:11,090
+And then all the payouts came through.
+
+386
+00:16:11,090 --> 00:16:16,990
+But when I was doing this story to the group of certified teachers, the CEO of AITS all
+
+387
+00:16:16,990 --> 00:16:18,970
+the time was in the room and liked my speech.
+
+388
+00:16:19,549 --> 00:16:24,129
+I didn't realise that later that day when she called me up on the phone to reflect on
+
+389
+00:16:24,129 --> 00:16:28,970
+that and how the process was for me and what I gleaned out of it, that John Hattie was
+
+390
+00:16:28,970 --> 00:16:33,029
+sitting in the car on speakerphone listening to my responses and taking note.
+
+391
+00:16:33,610 --> 00:16:38,009
+And I talked quite honestly about what I thought about the process and how it changed me as
+
+392
+00:16:38,009 --> 00:16:40,049
+a teacher, but also the bits I didn't like.
+
+393
+00:16:40,049 --> 00:16:40,250
+Yeah.
+
+394
+00:16:41,090 --> 00:16:41,490
+I appreciated that.
+
+395
+00:16:41,570 --> 00:16:46,509
+So they got me along to be on part of the teacher expert standing committee for Australia
+
+396
+00:16:46,509 --> 00:16:47,210
+for a couple of years.
+
+397
+00:16:47,269 --> 00:16:48,230
+So it was a real honour.
+
+398
+00:16:48,850 --> 00:16:49,909
+But you're right, Darce.
+
+399
+00:16:50,009 --> 00:16:54,690
+He was great at just cutting through stuff with the research saying it's all about the
+
+400
+00:16:54,690 --> 00:16:55,009
+teacher.
+
+401
+00:16:55,549 --> 00:16:57,509
+It's all about the way they collaborate.
+
+402
+00:16:57,909 --> 00:16:58,850
+It's not about the ego.
+
+403
+00:16:59,090 --> 00:17:01,690
+It's not about other things that we get distracted by.
+
+404
+00:17:02,190 --> 00:17:05,569
+And so that was really affirming to me that I was on the right track with the way I was
+
+405
+00:17:05,569 --> 00:17:05,890
+coaching.
+
+406
+00:17:05,890 --> 00:17:10,250
+So you built this model on the back of that, which initially called the Leadland Cycle.
+
+407
+00:17:10,430 --> 00:17:10,890
+It's been...
+
+408
+00:17:11,089 --> 00:17:14,490
+Rebranded to a leader, A-L-E-D-A, in recent times.
+
+409
+00:17:14,690 --> 00:17:19,269
+But effectively, we actually survey the kids in the classroom on their own learning environment.
+
+410
+00:17:19,430 --> 00:17:21,869
+And you think that, to me, would seem like an obvious thing, isn't it?
+
+411
+00:17:21,869 --> 00:17:23,589
+Let's listen to the people who we're trying to teach.
+
+412
+00:17:24,230 --> 00:17:26,230
+Not really done before, regularly.
+
+413
+00:17:26,809 --> 00:17:28,670
+And then getting these teachers to collaborate.
+
+414
+00:17:28,910 --> 00:17:32,349
+And I was just so inspired, mate, by getting a call from you.
+
+415
+00:17:32,509 --> 00:17:35,670
+You live in a beautiful part of the world, McLaren Vale, but you could be in the Barossa
+
+416
+00:17:35,670 --> 00:17:36,670
+and you'd be on the phone.
+
+417
+00:17:36,750 --> 00:17:39,309
+You'd be going, mate, I've just walked out of a year four classroom.
+
+418
+00:17:39,730 --> 00:17:41,069
+You're not going to believe what this is.
+
+419
+00:17:41,069 --> 00:17:42,009
+What are these teachers doing?
+
+420
+00:17:42,190 --> 00:17:42,529
+You can't...
+
+421
+00:17:42,529 --> 00:17:44,470
+This story, we need to capture it.
+
+422
+00:17:44,650 --> 00:17:50,650
+And I just kept thinking, God, imagine all the great teaching ideas and teaching practice
+
+423
+00:17:50,650 --> 00:17:52,529
+that's gone because no one shared it.
+
+424
+00:17:52,609 --> 00:17:53,630
+No one had collaborated.
+
+425
+00:17:53,690 --> 00:17:56,630
+We can all think of a great teacher that had an impact on our lives.
+
+426
+00:17:56,730 --> 00:17:58,150
+And great teachers change your lives.
+
+427
+00:17:58,210 --> 00:18:00,470
+We don't celebrate them enough, in my mind, in Australia.
+
+428
+00:18:00,569 --> 00:18:01,769
+What do we need to do that more?
+
+429
+00:18:02,410 --> 00:18:06,950
+I got through our process to go back to meet Peter Muddy Waters, who inspired me in year
+
+430
+00:18:06,950 --> 00:18:07,369
+four.
+
+431
+00:18:07,369 --> 00:18:10,309
+And amazing teacher, Tim Hart.
+
+432
+00:18:10,309 --> 00:18:12,730
+And in year 12, Ancient History, that had a huge impact.
+
+433
+00:18:12,869 --> 00:18:16,670
+So can you share with us stories where you've sat in classrooms and you've gone, God, we
+
+434
+00:18:16,670 --> 00:18:17,569
+need to share this.
+
+435
+00:18:17,650 --> 00:18:19,369
+We need to get teachers collaborating more.
+
+436
+00:18:19,670 --> 00:18:20,430
+Yeah, absolutely.
+
+437
+00:18:20,690 --> 00:18:21,809
+I mean, there's so many.
+
+438
+00:18:22,190 --> 00:18:23,349
+I'm really blessed.
+
+439
+00:18:23,490 --> 00:18:28,349
+I'm genuinely humbled by some of the teachers that are working in our schools.
+
+440
+00:18:28,869 --> 00:18:32,430
+And when you create the conditions where they're happy for you to sit in that classroom and
+
+441
+00:18:32,430 --> 00:18:34,450
+they're in your corner, you see some great things.
+
+442
+00:18:34,710 --> 00:18:38,609
+And one little example is when I first started this work, I remember going to a reception
+
+443
+00:18:38,609 --> 00:18:38,930
+class.
+
+444
+00:18:40,309 --> 00:18:42,809
+And it's actually in Old Norlunga in South Australia.
+
+445
+00:18:43,289 --> 00:18:46,710
+And I remember the teacher there taking the feedback from reception kids, you know, which
+
+446
+00:18:46,710 --> 00:18:49,170
+is staggering that they're even listening to the kids.
+
+447
+00:18:49,210 --> 00:18:52,710
+And I love that, that they're just not dismissing what the little ones are thinking.
+
+448
+00:18:53,190 --> 00:18:55,690
+Because, you know, they've got an opinion and they've got some thoughts.
+
+449
+00:18:55,750 --> 00:18:59,670
+And if you're smart about the questions you're asking them, you can actually get some real
+
+450
+00:18:59,670 --> 00:19:02,869
+insights into how they're going and how they're perceiving things.
+
+451
+00:19:02,869 --> 00:19:07,150
+But this teacher reflected, you know, with our feedback as well and just said, you know
+
+452
+00:19:07,150 --> 00:19:07,349
+what?
+
+453
+00:19:07,430 --> 00:19:09,869
+I think I'm being really much, 100%.
+
+454
+00:19:10,309 --> 00:19:13,849
+I'm teacher driven and I'd just love to hear some more of their voices sometimes.
+
+455
+00:19:13,849 --> 00:19:19,250
+And I think I can probably construct situations where they're actually engaged and really
+
+456
+00:19:19,849 --> 00:19:21,829
+having a greater level of involvement.
+
+457
+00:19:22,289 --> 00:19:26,930
+And so she she organized these little groups and pods of three or four kids and she she
+
+458
+00:19:26,930 --> 00:19:30,410
+worked out one person was going to be the leader and asking the questions and someone else
+
+459
+00:19:30,410 --> 00:19:33,650
+was going to make sure that someone was everyone was getting a turn.
+
+460
+00:19:33,650 --> 00:19:39,930
+And she just within a week had constructed this incredible learning experience and I was
+
+461
+00:19:39,930 --> 00:19:40,289
+just blown away.
+
+462
+00:19:40,289 --> 00:19:44,710
+Blown away by how amazing these kids were and how engaged they were.
+
+463
+00:19:44,890 --> 00:19:48,670
+And she was just sitting back just saying, like, this is a massive risk for me.
+
+464
+00:19:49,250 --> 00:19:50,329
+Like, you don't understand.
+
+465
+00:19:50,490 --> 00:19:54,970
+Like, I've never taken this much of a risk and I'm just so glad that it's working so
+
+466
+00:19:54,970 --> 00:19:55,289
+well.
+
+467
+00:19:55,789 --> 00:20:00,529
+And you almost get a tear in your eye when you see how pleased she is to be so, you know,
+
+468
+00:20:00,529 --> 00:20:04,910
+get someone in their corner and be reflective and just really change those, the outcomes
+
+469
+00:20:04,910 --> 00:20:06,089
+for those kids in the class.
+
+470
+00:20:06,490 --> 00:20:08,910
+And that's where, you know, the passion kicked in big time.
+
+471
+00:20:08,910 --> 00:20:10,269
+Is there anything more important?
+
+472
+00:20:10,289 --> 00:20:13,529
+And then us creating better environments for our kids and their education.
+
+473
+00:20:13,529 --> 00:20:16,910
+And I used to love, used to send me in the early days, a newsletter.
+
+474
+00:20:17,069 --> 00:20:20,950
+And so I have, this is principals taking us on and look at the front page of the newsletter.
+
+475
+00:20:20,950 --> 00:20:25,569
+And I used to complain sometimes most of the ones I would, we'd be telling us not to park.
+
+476
+00:20:25,650 --> 00:20:29,670
+And I felt like I was in trouble again, reading the newsletter from school sometimes, but
+
+477
+00:20:29,670 --> 00:20:33,490
+I'll paraphrase, but it was something like, I just want to write to the community and
+
+478
+00:20:33,490 --> 00:20:36,430
+tell you that we're surveying your kids on their learning environment.
+
+479
+00:20:36,430 --> 00:20:40,269
+Our teachers are undergoing a self-reflective practice on their own.
+
+480
+00:20:40,289 --> 00:20:43,190
+Learning journey, they're collecting that data.
+
+481
+00:20:43,190 --> 00:20:47,670
+They're working together to create better outcomes for the community and your kids.
+
+482
+00:20:47,670 --> 00:20:49,470
+I was like, that's what I want to hear.
+
+483
+00:20:49,470 --> 00:20:52,289
+I want to hear that everyone's on this learning journey.
+
+484
+00:20:52,289 --> 00:20:56,829
+And it just, it sounds simple what you've been able to do, but you've seen the transformation
+
+485
+00:20:56,829 --> 00:20:57,509
+in schools.
+
+486
+00:20:57,509 --> 00:21:02,289
+It's just, it's had a phenomenally positive effect on the places that you've been in.
+
+487
+00:21:02,789 --> 00:21:03,730
+Yeah, it is.
+
+488
+00:21:03,750 --> 00:21:04,450
+Uh, that's great.
+
+489
+00:21:04,450 --> 00:21:04,890
+Thanks, mate.
+
+490
+00:21:04,890 --> 00:21:09,769
+It's, it's brilliant to reflect on and, you know, I knew from the outset it needed to be simple.
+
+491
+00:21:09,769 --> 00:21:14,190
+Um, then there's gotta be, you know, if you understand something, well, you know, the
+
+492
+00:21:14,190 --> 00:21:18,309
+quote, you've, you've got to be able to simplify it and the concept of, you know, getting some
+
+493
+00:21:18,309 --> 00:21:23,289
+feedback, being curious, collaborating with others around you, being open that, you know,
+
+494
+00:21:23,309 --> 00:21:24,130
+no one's perfect.
+
+495
+00:21:24,410 --> 00:21:27,430
+You know, that's really part of this is to say no one's perfect.
+
+496
+00:21:27,490 --> 00:21:32,410
+It's a tough job, but, uh, we get so tied up in the next thing we have to do.
+
+497
+00:21:32,690 --> 00:21:34,650
+Sometimes we forget about how we're doing it.
+
+498
+00:21:34,650 --> 00:21:38,269
+And what are those strategies that we can harness from others that are going to make
+
+499
+00:21:38,269 --> 00:21:39,650
+our work more impactful?
+
+500
+00:21:39,769 --> 00:21:40,529
+And better for us.
+
+501
+00:21:40,529 --> 00:21:45,009
+And we can enjoy our jobs more, which I love those hacks that they shared within those
+
+502
+00:21:45,009 --> 00:21:47,769
+sessions that, uh, teachers can, can glean from each other.
+
+503
+00:21:48,269 --> 00:21:52,670
+Now the passion started in education, uh, Matty, but I've got to move to where it did
+
+504
+00:21:52,670 --> 00:21:54,089
+in our love of sport.
+
+505
+00:21:54,089 --> 00:21:58,789
+That's where we met, you know, 12 or 13 years of age at South Adelaide and, and clearly
+
+506
+00:21:58,970 --> 00:22:00,809
+onto AFL football in my journey.
+
+507
+00:22:00,809 --> 00:22:06,109
+But you've, uh, had that enormous passion for sport and, and the great part about the
+
+508
+00:22:06,109 --> 00:22:08,730
+coaches in 2020 and 2021.
+
+509
+00:22:08,730 --> 00:22:09,549
+And, and in recent times.
+
+510
+00:22:09,549 --> 00:22:12,289
+Is that they see themselves as educators more than ever.
+
+511
+00:22:12,490 --> 00:22:13,690
+They want to be better teachers.
+
+512
+00:22:13,950 --> 00:22:15,069
+They're open to feedback.
+
+513
+00:22:15,069 --> 00:22:17,950
+In fact, they're probably the most open group that you'd meet in the community.
+
+514
+00:22:17,950 --> 00:22:22,430
+And so we, uh, we started knocking on some doors in the world of sport and every second
+
+515
+00:22:22,430 --> 00:22:26,690
+week, I saw you in a different top, you're at the GWS giants one week, you're at Adelaide
+
+516
+00:22:26,690 --> 00:22:29,470
+Crows, the AFLW and the, uh, the Crows team.
+
+517
+00:22:29,470 --> 00:22:33,910
+You work with Luke Beveridge at the Bulldogs, Damien Hardwick at the Tigers, spent a lot
+
+518
+00:22:33,910 --> 00:22:37,809
+of time at Essendon who drafted you, which was fantastic to come full circle and work
+
+519
+00:22:37,809 --> 00:22:39,369
+with John Worsfold.
+
+520
+00:22:39,369 --> 00:22:39,470
+And.
+
+521
+00:22:39,549 --> 00:22:44,630
+His team and the handover to Ben, uh, Rutton now in the NRL, the Sydney Roosters and Trent
+
+522
+00:22:44,630 --> 00:22:46,589
+Robinson's incredibly successful team.
+
+523
+00:22:46,670 --> 00:22:52,289
+So it'd been remarkable to see how well that same cycle that you use in education, you
+
+524
+00:22:52,289 --> 00:22:55,690
+know, tailored a little bit to sport has been incredibly well-received.
+
+525
+00:22:56,009 --> 00:22:57,750
+Yeah, it was, it was fascinating, Darson.
+
+526
+00:22:58,410 --> 00:23:02,990
+Um, you know, I just had that hunch, you know, after doing it a number of times in schools
+
+527
+00:23:02,990 --> 00:23:07,789
+and getting such great feedback from, from an industry in an environment that is really
+
+528
+00:23:07,789 --> 00:23:09,309
+devoid traditionally of feedback.
+
+529
+00:23:09,309 --> 00:23:09,529
+Yeah.
+
+530
+00:23:09,529 --> 00:23:16,250
+education's improving a lot now. So I don't want to say that it's not, but if you compare it to
+
+531
+00:23:16,250 --> 00:23:21,529
+the world of elite sport, very devoid of feedback. So it was a challenge. And to get such good
+
+532
+00:23:21,529 --> 00:23:26,930
+responses, I was curious as to whether this would apply because I knew some of the great coaches I
+
+533
+00:23:26,930 --> 00:23:30,970
+had were great teachers and some of the great teachers I had were great coaches. And I was
+
+534
+00:23:30,970 --> 00:23:37,609
+wondering whether this would impact in the same way. And as you alluded to, what surprised me the
+
+535
+00:23:37,609 --> 00:23:44,109
+most is just how genuinely reflective and open the coaches in the AFL and in sport in general,
+
+536
+00:23:44,490 --> 00:23:50,470
+in regard to how can they best transmit information to players? How can they create
+
+537
+00:23:50,470 --> 00:23:55,710
+the conditions for learning? And how can they genuinely impact their performance? Because
+
+538
+00:23:55,710 --> 00:24:00,430
+they're given feedback from such a young age, as you know, and that really just sets them up for
+
+539
+00:24:00,430 --> 00:24:05,029
+this ability to be able to fast track any of the learning that I could bring to them, which was
+
+540
+00:24:05,029 --> 00:24:07,369
+great. Now, we're going to name drop here a little bit, mate,
+
+541
+00:24:07,430 --> 00:24:07,589
+because-
+
+542
+00:24:07,609 --> 00:24:12,690
+Because it has been quite an extraordinary story over the last six years. In recent times,
+
+543
+00:24:13,230 --> 00:24:20,230
+this process now from lead learn to a leader has passed its sixth birthday, but COVID hits,
+
+544
+00:24:20,609 --> 00:24:27,130
+hard to get into sporting organizations. But like a lot of people did, went to the online world and
+
+545
+00:24:27,130 --> 00:24:31,529
+you started the Australian Coach Symposium. I hope you can share some stories because the
+
+546
+00:24:31,529 --> 00:24:36,230
+Australian Coach Symposium had Don Pike, who's legendary West Coast Eagle and Adelaide Crows
+
+547
+00:24:36,230 --> 00:24:37,430
+coach, Justin Lang, the Australian.
+
+548
+00:24:37,430 --> 00:24:43,730
+Trent Robinson, who's a multiple premiership coach in the NRL. Matt King, who's a Melbourne
+
+549
+00:24:43,730 --> 00:24:48,970
+Storm legend and assistant coach as well to Trent Robinson. Ben Rutten is now at the Bombers. John
+
+550
+00:24:48,970 --> 00:24:53,849
+Wurstfold, Will Weaver has ended up at the Houston Rockets. So that group together through the COVID
+
+551
+00:24:53,849 --> 00:24:58,089
+period, right in the middle of their season in stressful times, decided that they wanted
+
+552
+00:24:58,089 --> 00:25:02,549
+you to facilitate a learning environment for them. Can you tell us how that experience has been?
+
+553
+00:25:02,730 --> 00:25:07,390
+Yeah, it's been amazing. And it came about through, you know, as a lot of these things do,
+
+554
+00:25:07,430 --> 00:25:13,910
+necessity because I was just driven to, you know, Essendon Football Club and the Sydney Roosters
+
+555
+00:25:13,910 --> 00:25:20,390
+had paid me some money, you know, to support the learning of their coaches. And so we had
+
+556
+00:25:20,390 --> 00:25:24,369
+organized an online learning environment for just their coaches individually with the Bombers.
+
+557
+00:25:24,829 --> 00:25:32,049
+But I knew that with Truck and Woosha, and then with Trent and also Kingy, that we weren't doing
+
+558
+00:25:32,049 --> 00:25:37,349
+them necessarily enough service there and we needed to extend their thinking. And so I started
+
+559
+00:25:37,430 --> 00:25:42,430
+to generate this idea of the collaboration. And then I got Pikey involved because he wasn't
+
+560
+00:25:42,430 --> 00:25:46,990
+coaching that year and he's good mates with Justin Langer. And we created, I'd come across
+
+561
+00:25:46,990 --> 00:25:51,569
+Will Weaver at the Sydney Kings. I'd been referred to him or he'd been referred to me, sorry, through
+
+562
+00:25:51,569 --> 00:25:56,470
+meeting at the Giants. And we put them together. And my concept was about, once again,
+
+563
+00:25:56,750 --> 00:26:02,470
+acknowledging that no one's perfect. Let's talk about what our strengths are and let's learn from
+
+564
+00:26:02,470 --> 00:26:06,950
+each other's strengths. And let's address what our greatest concerns are in terms of being a coach and
+
+565
+00:26:06,950 --> 00:26:13,049
+how can we support each other with that. And it's been an amazing, amazing group. So much so it was
+
+566
+00:26:13,049 --> 00:26:16,869
+meant to be an eight-week program and we've been going now, I think it's for about 18 months in
+
+567
+00:26:16,869 --> 00:26:21,829
+there. We still meet every fortnight and, you know, it's been an incredible example of that
+
+568
+00:26:21,829 --> 00:26:25,910
+collaborative learning. So these are highly successful people at the peak of their powers,
+
+569
+00:26:26,109 --> 00:26:31,509
+choosing to jump out, you know, with incredibly time poor, but, you know, the Australian cricket
+
+570
+00:26:31,509 --> 00:26:36,130
+coaches flying all around the world or even in COVID, they've got enormous amount of pressures
+
+571
+00:26:36,950 --> 00:26:42,750
+they are valuing, you know, jumping out even, you know, mid-test match. I want to get on and I want
+
+572
+00:26:42,750 --> 00:26:47,049
+to, you know, have this reflective practice with a group of my peers at the same level.
+
+573
+00:26:47,529 --> 00:26:49,950
+What are some of the things that you've seen firsthand? Because you've had this,
+
+574
+00:26:50,029 --> 00:26:54,150
+you've been flying the wall and facilitating and doing a great job in facilitating these
+
+575
+00:26:54,150 --> 00:26:58,849
+conversations. Yeah. Yeah. I mean, sometimes it can be as simple as little hacks in terms of,
+
+576
+00:26:58,890 --> 00:27:04,130
+you know, time management things that they share and little mantras that they use or
+
+577
+00:27:04,529 --> 00:27:06,890
+strategies they've got to make decisions.
+
+578
+00:27:06,950 --> 00:27:11,829
+Lots of those little hacks that they can all draw from, but sometimes it's even bigger than that.
+
+579
+00:27:11,970 --> 00:27:15,690
+You know, it could be that, and without the dropping the names, but you can imagine the
+
+580
+00:27:15,690 --> 00:27:21,210
+scenarios where a coach has just come online and after a really tough loss, you know, just
+
+581
+00:27:21,210 --> 00:27:26,190
+a soul destroying loss as a coach, you put everything into it. And then questioning quite
+
+582
+00:27:26,190 --> 00:27:32,470
+openly to the colleagues in our room, in our group, as you say, your peers and say, what do I do?
+
+583
+00:27:32,470 --> 00:27:36,529
+Like, this has been terrible. How do you guys relate?
+
+584
+00:27:36,950 --> 00:27:41,710
+I don't feel like my players have stepped up. I don't feel like they're delivering what they need
+
+585
+00:27:41,710 --> 00:27:45,349
+to deliver. And then, you know, someone else in the group will just, will say something. And this
+
+586
+00:27:45,349 --> 00:27:51,329
+is a real example of something that was said is, have you found a way to love every one of your
+
+587
+00:27:51,329 --> 00:27:56,630
+players? And just, there's this great pause and the other coaches are thinking like, you know,
+
+588
+00:27:56,890 --> 00:28:02,029
+what a great question, you know? And I reflect back as a teacher, having some of those kids
+
+589
+00:28:02,029 --> 00:28:06,069
+that you talked about, Dar, sometimes they're pretty tough to love, but you've got to find
+
+590
+00:28:06,069 --> 00:28:06,930
+that thing about them. And I think that's a great question. And I think that's a great question.
+
+591
+00:28:06,950 --> 00:28:12,650
+That makes them great and try and bring that out. And the feedback from the coach afterwards was
+
+592
+00:28:12,650 --> 00:28:18,869
+like, that is exactly what I needed to hear. Like, you know, you've made my day. Like I just,
+
+593
+00:28:19,130 --> 00:28:24,589
+that's exactly what I need to hear. I decompressed. I feel like I've got, you know, I feel like I can
+
+594
+00:28:24,589 --> 00:28:29,369
+go back tomorrow and I know my path's clear. I can now, you know, put that into action.
+
+595
+00:28:29,970 --> 00:28:32,750
+So there's some examples of the types of things that are discussed.
+
+596
+00:28:32,750 --> 00:28:36,789
+And I love it, mate. It's what inspires me and, you know, the passion and purpose that
+
+597
+00:28:36,950 --> 00:28:41,990
+I've got around this is that, you know, I played in an era where there was no collaboration. There
+
+598
+00:28:41,990 --> 00:28:45,869
+was no opportunity to do that. And in fairness to those coaches, they did the best they could
+
+599
+00:28:45,869 --> 00:28:51,210
+with their level of learning, but it was, you know, the one stick, which was, you know, probably
+
+600
+00:28:51,210 --> 00:28:56,690
+abuse and attack and see if you were strong enough to survive. And, you know, for some people that
+
+601
+00:28:56,690 --> 00:29:02,250
+worked, but for a lot of didn't. So to see, you know, the opportunity to be able to find ways and
+
+602
+00:29:02,250 --> 00:29:06,589
+learn from people who are in the arena at the moment, who are doing, you know, these things
+
+603
+00:29:06,950 --> 00:29:11,670
+high level. So the opportunity, that's what excites me to be out. And that flows, you know,
+
+604
+00:29:11,690 --> 00:29:15,710
+to me down to junior level, because a lot of, you know, you and I spent a lot of time at junior
+
+605
+00:29:15,710 --> 00:29:20,970
+sport and you just see people coaching like a video I saw from 1960 of John Kennedy screaming
+
+606
+00:29:20,970 --> 00:29:24,869
+at his head and said, probably not appropriate for 10 year olds. You know, we could probably
+
+607
+00:29:24,869 --> 00:29:36,150
+do that a little bit better and you can have a really amazingly powerful impact. The word got
+
+608
+00:29:36,150 --> 00:29:42,309
+out, Matty, and other coaches have been, you know, organically coming a leader's way. And you've got
+
+609
+00:29:42,309 --> 00:29:43,009
+now another group.
+
+610
+00:29:43,250 --> 00:29:48,269
+Paul Postacoglu is an incredible story. He's just signed as the first Australian to coach in the
+
+611
+00:29:48,269 --> 00:29:53,329
+Scottish league. The famous Celtic club having won a premiership in Japan. Neil Craig, legendary
+
+612
+00:29:53,329 --> 00:29:59,950
+Australian coach, former Crows and legendary in the world of exercise science. Eddie Jones is
+
+613
+00:29:59,950 --> 00:30:04,630
+coaching English rugby. Brian Gorgian, the current Australian basketball coach. And Luke Beveridge
+
+614
+00:30:04,630 --> 00:30:11,309
+is an old mate of mine, but incredible coach of the Bulldogs. So these other pods are popping up
+
+615
+00:30:11,309 --> 00:30:11,990
+of collaboration.
+
+616
+00:30:12,690 --> 00:30:12,809
+Yeah.
+
+617
+00:30:12,809 --> 00:30:12,829
+Yeah.
+
+618
+00:30:12,829 --> 00:30:12,849
+Yeah.
+
+619
+00:30:12,849 --> 00:30:12,869
+Yeah.
+
+620
+00:30:12,869 --> 00:30:12,890
+Yeah.
+
+621
+00:30:12,890 --> 00:30:12,910
+Yeah.
+
+622
+00:30:12,910 --> 00:30:12,930
+Yeah.
+
+623
+00:30:12,930 --> 00:30:12,950
+Yeah.
+
+624
+00:30:12,950 --> 00:30:12,970
+Yeah.
+
+625
+00:30:12,970 --> 00:30:12,990
+Yeah.
+
+626
+00:30:12,990 --> 00:30:13,230
+Yeah.
+
+627
+00:30:13,250 --> 00:30:16,829
+All of it. You're facilitating it. I know your eyes occasionally pop out. You go, you're
+
+628
+00:30:16,829 --> 00:30:19,250
+not going to believe what I'm hearing. It's been incredible, isn't it?
+
+629
+00:30:19,450 --> 00:30:24,329
+It has been amazing. I mean, it probably goes back to your previous point about in your
+
+630
+00:30:24,329 --> 00:30:27,970
+day, you know, there wouldn't have been that collaboration. I do, this is one I can definitely
+
+631
+00:30:27,970 --> 00:30:33,049
+share with you is that I got with the Australian Coach Symposium, the second group you're talking
+
+632
+00:30:33,049 --> 00:30:37,789
+about. There was a moment where we did reflect on the power of the collaborative learning
+
+633
+00:30:37,789 --> 00:30:43,089
+a couple of weeks ago. And Neil Craig did say, look, I really wish that I had this type
+
+634
+00:30:43,089 --> 00:30:48,730
+of forum when I was the coach of the Adelaide Crows. I've just, I've found it so affirming.
+
+635
+00:30:48,910 --> 00:30:54,289
+I've found it so challenging, but, you know, inspiring as well. And I thought, what a great
+
+636
+00:30:54,289 --> 00:30:59,490
+testimony to that. But, and I think, you know, if you, if you meant those names you've just
+
+637
+00:30:59,490 --> 00:31:03,750
+mentioned, Dars, what's, what's also been good is the, the challenges that they're facing
+
+638
+00:31:03,750 --> 00:31:08,410
+to be able to bounce their ideas and thoughts off a collaborative group of their peers has
+
+639
+00:31:08,410 --> 00:31:12,910
+just been outstanding. And my job is to really, uh, sometimes a lot get out of the way.
+
+640
+00:31:13,089 --> 00:31:17,769
+But make sure the questions are really, um, to the point where you're really delving into
+
+641
+00:31:17,769 --> 00:31:19,289
+the things that are going to matter most to them.
+
+642
+00:31:19,690 --> 00:31:24,210
+And based on reflection and a bit of data and them surveying their players. So they
+
+643
+00:31:24,210 --> 00:31:28,190
+take on the feedback. This is what you're doing well. And this is what, you know, the
+
+644
+00:31:28,190 --> 00:31:32,289
+areas to improve. And you always talk about being in the, in the corner of coaches. Um,
+
+645
+00:31:32,329 --> 00:31:38,230
+I had this great, uh, lunch a few months back. Marcus Pontempelli, uh, gave me a call. He
+
+646
+00:31:38,230 --> 00:31:42,230
+was a superstar, Australian rules, captain of the Bulldogs, the club that I was lucky
+
+647
+00:31:42,230 --> 00:31:42,950
+enough to play for.
+
+648
+00:31:43,089 --> 00:31:46,650
+You couldn't meet a more impressive young person in your life. And, you know, I think
+
+649
+00:31:46,650 --> 00:31:52,210
+he's close to 25, but just the way he's thinking. And again, he'd heard about this collaboration.
+
+650
+00:31:52,210 --> 00:31:57,809
+He was talking to me about it and he wanted to form a group of his own. And so he's ended
+
+651
+00:31:57,809 --> 00:32:01,789
+up with, uh, Pat Cummings, who I understand, I know you've been working with that. He's
+
+652
+00:32:01,789 --> 00:32:05,970
+almost the identical person in cricket, revered as just an incredible young leader. I know
+
+653
+00:32:05,970 --> 00:32:10,109
+you've been working with him and they, uh, you know, I know the guys won't mind, but
+
+654
+00:32:10,109 --> 00:32:12,809
+Andy Lee is one of the great success stories in entertainment.
+
+655
+00:32:13,089 --> 00:32:17,410
+You could meet a better person than Andy Lee, Hamish and Andy, and their success is
+
+656
+00:32:17,410 --> 00:32:22,609
+just extraordinary. Rob Sitch from Working Dog, who, again, you couldn't, you know, describe
+
+657
+00:32:22,609 --> 00:32:26,470
+the group that are more creative. And to think that group of people are getting together,
+
+658
+00:32:26,470 --> 00:32:31,549
+two young sporting leaders with a couple of leaders from the arts. Um, tell us a bit about
+
+659
+00:32:31,549 --> 00:32:32,549
+that one.
+
+660
+00:32:32,549 --> 00:32:36,089
+Yeah. And I mean, you can take a lot of credit for this too, Darce, in terms of, you know,
+
+661
+00:32:36,089 --> 00:32:40,910
+us reflecting over, over COVID time and saying, you know, we really probably need to challenge
+
+662
+00:32:40,910 --> 00:32:41,910
+ourselves a lot more in terms of getting, you know, a lot of people involved in the
+
+663
+00:32:41,910 --> 00:32:41,970
+sport.
+
+664
+00:32:41,970 --> 00:32:41,990
+Yeah.
+
+665
+00:32:41,990 --> 00:32:42,049
+Yeah.
+
+666
+00:32:42,049 --> 00:32:42,089
+Yeah.
+
+667
+00:32:42,089 --> 00:32:42,109
+Yeah.
+
+668
+00:32:42,109 --> 00:32:42,150
+Yeah.
+
+669
+00:32:42,150 --> 00:32:42,170
+Yeah.
+
+670
+00:32:42,170 --> 00:32:42,210
+Yeah.
+
+671
+00:32:42,210 --> 00:32:42,250
+Yeah.
+
+672
+00:32:42,250 --> 00:32:42,309
+Yeah.
+
+673
+00:32:42,309 --> 00:32:42,329
+Yeah.
+
+674
+00:32:42,329 --> 00:32:42,390
+Yeah.
+
+675
+00:32:42,390 --> 00:32:42,430
+Yeah.
+
+676
+00:32:42,430 --> 00:32:42,450
+Yeah.
+
+677
+00:32:42,450 --> 00:32:43,450
+Yeah.
+
+678
+00:32:43,450 --> 00:32:44,450
+Yeah.
+
+679
+00:32:44,450 --> 00:32:44,569
+Yeah.
+
+680
+00:32:44,569 --> 00:32:44,630
+Yeah.
+
+681
+00:32:44,630 --> 00:32:44,670
+Yeah.
+
+682
+00:32:44,670 --> 00:32:44,690
+Yeah.
+
+683
+00:32:44,690 --> 00:32:44,750
+Yeah.
+
+684
+00:32:44,750 --> 00:32:48,049
+We've done this great work within schools and we've done, well, we think it's great.
+
+685
+00:32:48,130 --> 00:32:48,890
+I think it's great.
+
+686
+00:32:48,990 --> 00:32:53,230
+We've done this work in sport, you know, but is there these opportunities and we'd done
+
+687
+00:32:53,230 --> 00:32:58,250
+in a working corporate, is there an opportunity for us to challenge, um, you know, I guess
+
+688
+00:32:58,250 --> 00:33:01,349
+what we'd done previously and have cross collaborative groups.
+
+689
+00:33:01,349 --> 00:33:07,009
+And if the, if the focus is on our own leadership of self or, you know, improving our own environments,
+
+690
+00:33:07,150 --> 00:33:10,490
+why can't it be someone from the arts and why can't it be someone from sport?
+
+691
+00:33:10,630 --> 00:33:12,390
+And so, you know, that's been a really good opportunity.
+
+692
+00:33:12,390 --> 00:33:19,369
+good process, hasn't it? It sure has. And again, I love what, I certainly at 25 years of age didn't
+
+693
+00:33:19,369 --> 00:33:25,250
+have the thought process of Marcus Bond and Pellier, I'm sure Pat Cummings, but it's sports
+
+694
+00:33:25,250 --> 00:33:31,109
+a chapter for all of us and there are other things to learn and the opportunity to be out, as you
+
+695
+00:33:31,109 --> 00:33:37,029
+said, create these learning collaborative pods. And that's where you and I see it, don't we,
+
+696
+00:33:37,089 --> 00:33:41,950
+this opportunity to connect, we're calling it. And the idea that organically now we're just sort
+
+697
+00:33:41,950 --> 00:33:47,309
+of pulling groups together, these learning environments based on you and your environment
+
+698
+00:33:47,309 --> 00:33:50,829
+in real term, it's not, you know, the guest speaker, we've all been and seen great guest
+
+699
+00:33:50,829 --> 00:33:55,109
+speakers and it's, you know, it's fantastic and we love it. This is really, we see incredible
+
+700
+00:33:55,109 --> 00:34:01,089
+opportunity to learn and grow. So we're interested in expanding that, aren't we, mate? Because you've
+
+701
+00:34:01,089 --> 00:34:05,150
+seen firsthand, the stories are just really powerful. Absolutely. It seems to be a really
+
+702
+00:34:05,150 --> 00:34:09,610
+great combination between having some rigor and depth and understanding of your own environment
+
+703
+00:34:09,610 --> 00:34:11,909
+and then being able to take some
+
+704
+00:34:11,949 --> 00:34:16,329
+really practical steps from the group, you know, as to how to address issues that we all face,
+
+705
+00:34:16,909 --> 00:34:21,690
+you know, issues about communication or issues about collaboration, issues about, you know,
+
+706
+00:34:21,710 --> 00:34:25,590
+having the vision of where to go. You know, there's a lot of great leaders out there that
+
+707
+00:34:25,590 --> 00:34:30,050
+have got brilliant hacks and a lot of people have listened to podcasts or read books and,
+
+708
+00:34:30,449 --> 00:34:34,369
+but if you've got the synthesis of people that are living it and breathing it at the time and
+
+709
+00:34:34,369 --> 00:34:39,690
+they can put it into practice and give you advice, but also on the flip side, if you can come armed
+
+710
+00:34:39,690 --> 00:34:41,750
+with some questions that are really going to be timely,
+
+711
+00:34:41,949 --> 00:34:46,989
+it's just such a powerful forum. Yeah. And that's, you know, why we're here.
+
+712
+00:34:46,989 --> 00:34:52,349
+The Empowering Leaders podcast is, you know, part of what we're hoping to bring together. And
+
+713
+00:34:52,349 --> 00:34:59,429
+we're seeing the 21st century guys firsthand who just get the idea that you need to give everyone
+
+714
+00:34:59,429 --> 00:35:03,809
+a voice. You can impact your invite, not just about you. It's not all about self all the time.
+
+715
+00:35:04,190 --> 00:35:09,389
+It's the shift from I, how about my self-improvement to how do I impact others? That's something that
+
+716
+00:35:09,389 --> 00:35:11,750
+we're really passionate about identifying, aren't we, mate?
+
+717
+00:35:11,949 --> 00:35:16,809
+Absolutely. It's such a key, isn't it? It's a crucial element. And if you think back to yourself
+
+718
+00:35:16,809 --> 00:35:22,050
+as when you had your first job, you know, any of the job you've had, if you had the type of leader
+
+719
+00:35:22,050 --> 00:35:27,809
+that really appreciated your thoughts and supported you along the way, communicated where they wanted
+
+720
+00:35:27,809 --> 00:35:32,510
+you to go with, provided you with feedback about what it was to get better, gave you opportunities
+
+721
+00:35:32,510 --> 00:35:38,170
+to impact and create the vision with them. I mean, it's an inspiring thing. And as you alluded to
+
+722
+00:35:38,170 --> 00:35:41,349
+with football coaches that coach the way that they were coached,
+
+723
+00:35:41,949 --> 00:35:46,789
+sometimes leaders lead the way they were led. And what we're finding is now the ones that are
+
+724
+00:35:46,789 --> 00:35:53,489
+really making a big difference in their environments and pushing forward, just they've got humility and
+
+725
+00:35:53,489 --> 00:35:57,429
+an understanding that they've got to bring people along for the journey. Sometimes it can be a bit
+
+726
+00:35:57,429 --> 00:36:02,590
+more time consuming because they like to be able to be decisive and there's always a time for that.
+
+727
+00:36:02,969 --> 00:36:06,550
+But great leaders recognize that collaboration is going to get you better results.
+
+728
+00:36:06,550 --> 00:36:11,889
+And we know firsthand that investing in this space, Matt, is an investment that does
+
+729
+00:36:11,889 --> 00:36:16,269
+pay off. I was looking at some stats, you know, in preparation for today, and there's a state of
+
+730
+00:36:16,269 --> 00:36:22,690
+the global workplace analysis done by Gallup back in 2018. And they came up with a number of 85%
+
+731
+00:36:22,690 --> 00:36:28,690
+of people generally not happy at work globally. And they had a number of $7 trillion annually
+
+732
+00:36:28,690 --> 00:36:34,769
+lost in productivity based on that. There was another survey of 400 large companies
+
+733
+00:36:34,769 --> 00:36:38,510
+called the cost of poor communication, talking about tens and tens of millions of dollars
+
+734
+00:36:38,510 --> 00:36:41,510
+just on the communication part alone. So,
+
+735
+00:36:41,889 --> 00:36:47,050
+to me, there's nothing sadder than being disengaged at work. It flows into your personal life. It
+
+736
+00:36:47,050 --> 00:36:51,710
+flows into your family. It flows into your general well-being and your happiness. People
+
+737
+00:36:51,710 --> 00:36:56,630
+take more sick days when they're disengaged at work. They cut corners because, you know,
+
+738
+00:36:56,650 --> 00:37:02,190
+they don't feel like they are connected to the place that they're in. It's a serious opportunity,
+
+739
+00:37:02,190 --> 00:37:06,630
+isn't it? Because we're, you know, seeing at the coalface. When you do reverse that,
+
+740
+00:37:07,010 --> 00:37:11,829
+you get buy-in, you get engagement. All these things come together in such an awesome way.
+
+741
+00:37:11,889 --> 00:37:15,489
+Yeah. Yeah, exactly right. And if I come back to my beginnings, you know,
+
+742
+00:37:15,989 --> 00:37:23,030
+the research into education leaves clues. And I know there's a lot of sporting analogies that
+
+743
+00:37:23,030 --> 00:37:28,409
+leaves clues too in terms of how to get the best out of people. But if the teacher has the greatest
+
+744
+00:37:28,409 --> 00:37:33,909
+impact in the environment of a classroom, it certainly makes sense to me that your leader
+
+745
+00:37:33,909 --> 00:37:39,809
+at your workplace has an incredibly impactful presence in your environment. So, if they change
+
+746
+00:37:39,809 --> 00:37:41,869
+their practice and their attitudes and their, you know, their, you know, their, you know, their, you
+
+747
+00:37:41,889 --> 00:37:46,750
+know, the way they work with the team, then it certainly can impact, you know, this idea that
+
+748
+00:37:46,750 --> 00:37:52,130
+you're talking about, which is people's willingness and love for their workplace. And as you know,
+
+749
+00:37:52,210 --> 00:37:56,250
+with this next era that we talk about, Darcy, there's going to be more and more push towards
+
+750
+00:37:56,250 --> 00:38:02,010
+working with a place that's, you know, relevant to you, they align to your values, and it's working
+
+751
+00:38:02,010 --> 00:38:06,489
+in the direction that you want to be going into. Now, the educator in you, mate, is always about
+
+752
+00:38:06,489 --> 00:38:11,869
+effectiveness and efficacy, and you won't do anything unless you measure it and can understand,
+
+753
+00:38:11,889 --> 00:38:18,710
+and part of what we're thinking in the Empowering Leaders podcast is to try and focus in, you've got
+
+754
+00:38:18,710 --> 00:38:23,210
+a lot of work now and a lot of history and a lot of data on the dimensions of what makes a great
+
+755
+00:38:23,210 --> 00:38:27,489
+leader. And you really put some work in the process of building an indicator tool. So, I encourage you
+
+756
+00:38:27,489 --> 00:38:31,530
+to have a look at doing that and start your own self-reflective journey on your impact on others
+
+757
+00:38:31,530 --> 00:38:36,349
+in the environment. But you've really put some thought and time and data into what makes a great
+
+758
+00:38:36,349 --> 00:38:40,969
+leader. So, I might try and delve into that with you. And hopefully, as the podcast progresses,
+
+759
+00:38:40,969 --> 00:38:41,869
+we can talk to you about that. So, thank you so much, Darcy.
+
+760
+00:38:41,889 --> 00:38:42,150
+Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.
+
+761
+00:38:42,150 --> 00:38:42,590
+Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you. Thank you.
+
+762
+00:38:42,590 --> 00:38:48,650
+Kylie Watson-Wheeler from Disney is an extraordinary leader about these dimensions and all the people
+
+763
+00:38:48,650 --> 00:38:54,030
+that we've mentioned before. I'm looking forward to finding if there is some synergy around these
+
+764
+00:38:54,030 --> 00:39:00,670
+dimensions we've talked about. So, let me start because self-leadership is a big part of what you
+
+765
+00:39:00,670 --> 00:39:05,389
+talk about and one of the key dimensions. What does it mean to you? Yeah, it's fascinating,
+
+766
+00:39:05,630 --> 00:39:10,010
+isn't it? So, your ability to be able to impact any environment, really, you can only do that if
+
+767
+00:39:10,010 --> 00:39:11,869
+you're feeling good about yourself. You've got a lot of experience, you've got a lot of experience,
+
+768
+00:39:11,869 --> 00:39:16,590
+you've got to be able to know what you stand for, know where you're headed. You need to be
+
+769
+00:39:16,590 --> 00:39:22,389
+healthy. And so, if you think about some leaders out there that don't look after themselves and
+
+770
+00:39:22,389 --> 00:39:27,510
+get that right, it's really hard. And the other thing I should say too, you've got to live the
+
+771
+00:39:27,510 --> 00:39:33,630
+example. Leaders that you want to follow are ones that actually, they walk the talk. They've got
+
+772
+00:39:33,630 --> 00:39:37,030
+often very aspirational in terms of what could be done, but they've got their feet on the ground
+
+773
+00:39:37,030 --> 00:39:41,809
+and they're trying to get things done that live up to where they're headed. And so,
+
+774
+00:39:41,869 --> 00:39:45,050
+they're some of the most important things to get right. Your well-being,
+
+775
+00:39:45,510 --> 00:39:50,110
+your clarity of your direction, your values, they need to be going in the right direction.
+
+776
+00:39:50,550 --> 00:39:54,929
+A lot of leadership in the past, Matt, has been about the I and this is my personality profile
+
+777
+00:39:54,929 --> 00:40:00,489
+and this is who I am. And there's a lot of those tools out there to identify you as a certain
+
+778
+00:40:00,489 --> 00:40:05,550
+character type. And in my mind, I've always felt that's a little bit restrictive in that that's
+
+779
+00:40:05,550 --> 00:40:10,070
+almost a definitive part about you're that type of character and you're going to have these
+
+780
+00:40:10,070 --> 00:40:11,849
+limitations. Whereas, we're talking about a lot of people that are going to have these
+
+781
+00:40:11,869 --> 00:40:15,750
+limitations. We're talking now about, yes, self-reflection, as you said, is where you need
+
+782
+00:40:15,750 --> 00:40:21,389
+to start. But then, the dimension you really want to focus in, how are you impacting others?
+
+783
+00:40:21,849 --> 00:40:26,349
+Why is that important? Yeah, that's right. I mean, I reflected on a lot of, I've done a lot
+
+784
+00:40:26,349 --> 00:40:30,710
+of those tests and they do give you an insight into yourself and I'm not dismissing those. But
+
+785
+00:40:30,710 --> 00:40:35,590
+that to me is always a small part of the puzzle. I'm with you, Darce. I just believe it's more
+
+786
+00:40:35,590 --> 00:40:41,230
+about, it can't be just about me. It can't be just about my knowledge of self. It's actually
+
+787
+00:40:41,230 --> 00:40:41,429
+going to be about me. It's going to be about me. It's going to be about me. It's going to be about
+
+788
+00:40:41,429 --> 00:40:41,449
+me. It's going to be about me. It's going to be about me. It's going to be about me. It's going to be about
+
+789
+00:40:41,449 --> 00:40:41,949
+me. It's going to be about me. It's going to be about me. It's going to be about me. It's going to
+
+790
+00:40:41,949 --> 00:40:41,989
+be about me. It's going to be about me. It's going to be about me. It's going to be about me.
+
+791
+00:40:41,989 --> 00:40:46,730
+How can I genuinely, and you've said it previously, how can I genuinely positively impact
+
+792
+00:40:46,730 --> 00:40:52,070
+those around me? That is the outcome of improving. You lead self, you change the environment,
+
+793
+00:40:52,369 --> 00:40:56,349
+you can change the practices around your environment. And the outcome of that is the
+
+794
+00:40:56,349 --> 00:41:01,690
+impact. And to your question about what have I seen and what's fascinating for me here,
+
+795
+00:41:02,090 --> 00:41:06,389
+and actually comes back to your comment about junior football coaches or junior any coaches,
+
+796
+00:41:06,389 --> 00:41:11,010
+is we just do, we get mesmerized by the scoreboard. And what's
+
+797
+00:41:11,010 --> 00:41:15,030
+astounding to me is that a lot of those junior coaches may not recognize that
+
+798
+00:41:15,030 --> 00:41:22,070
+virtually no elite coach does that. They definitely are process oriented. And they're
+
+799
+00:41:22,070 --> 00:41:26,489
+really about the impact they're having on the individuals in their environment and the processes
+
+800
+00:41:26,489 --> 00:41:31,449
+they're trying to improve to create great outcomes. The scoreboard is a byproduct of that.
+
+801
+00:41:31,449 --> 00:41:38,190
+And the same applies to KPIs in workplaces. So if you're just measuring the KPIs and you're
+
+802
+00:41:38,190 --> 00:41:40,329
+not considering how you're leading yourself,
+
+803
+00:41:41,010 --> 00:41:45,650
+the outcomes you're trying to achieve in terms of betterment of people and developing your people,
+
+804
+00:41:46,130 --> 00:41:50,750
+you're measuring the wrong thing. If you measure those things about developing your people and
+
+805
+00:41:50,750 --> 00:41:55,230
+developing your environment, the scoreboard is a great indicator as to it's working.
+
+806
+00:41:55,869 --> 00:42:01,269
+But that's where the impact conversation comes out. And you take it back to your comments and
+
+807
+00:42:01,269 --> 00:42:07,170
+about John Hattie at the start, it's being so curious as an educator about what am I doing
+
+808
+00:42:07,170 --> 00:42:10,769
+in the classroom today and this week that's going to make a difference to these kids in my care?
+
+809
+00:42:11,010 --> 00:42:12,989
+It's being quite relentless in that.
+
+810
+00:42:13,570 --> 00:42:17,030
+Yeah, it's brilliant. So that's talking about the dimension of how you impact others and
+
+811
+00:42:17,030 --> 00:42:21,469
+you're passionate about how you go about creating and sharing it. What can you tell us about that?
+
+812
+00:42:21,969 --> 00:42:27,170
+As we talked about before, there's a general push now in society for people to
+
+813
+00:42:27,170 --> 00:42:31,210
+understand and be cognizant that they're going to spend a lot of time at work.
+
+814
+00:42:31,590 --> 00:42:36,130
+And you want to be working or working towards something that you believe in.
+
+815
+00:42:36,510 --> 00:42:40,070
+And that's not always going to be the case for everyone, but there's always going to be
+
+816
+00:42:40,070 --> 00:42:40,989
+opportunities for you to be able to do that. And that's going to be the case for everyone.
+
+817
+00:42:41,010 --> 00:42:47,150
+to align some of your values to the vision of the company. And if companies can recognize or
+
+818
+00:42:47,150 --> 00:42:51,849
+businesses can recognize where they're trying to make a difference, and then you can enable
+
+819
+00:42:51,849 --> 00:42:56,969
+your team to be part of contributing or co-contributing to that vision, I think it's a
+
+820
+00:42:56,969 --> 00:43:01,769
+really great opportunity. And the great organizations I've worked with are really quite
+
+821
+00:43:01,769 --> 00:43:07,510
+inclusive in terms of shaping that together. There's always someone that's got that inspiration
+
+822
+00:43:07,510 --> 00:43:10,989
+and you look for that and you need that. And everyone's got their role to play.
+
+823
+00:43:11,010 --> 00:43:14,630
+But the contribution or the co-contribution is really important.
+
+824
+00:43:14,929 --> 00:43:17,630
+So how do you approach learning and improvement? That's the other dimension
+
+825
+00:43:17,630 --> 00:43:20,309
+that you want to talk about as well, learning and improvement.
+
+826
+00:43:20,869 --> 00:43:28,570
+So learning is generally about being quite open. Carol Dweck speaks about growth mindset.
+
+827
+00:43:29,250 --> 00:43:34,289
+And it's definitely about having that aptitude to say, as a leader, I just definitely don't
+
+828
+00:43:34,289 --> 00:43:38,030
+have to have all the answers. I do really need to be clear on where we're going and whether
+
+829
+00:43:38,170 --> 00:43:40,969
+whatever you're bringing to me in terms of new learning is
+
+830
+00:43:41,010 --> 00:43:45,989
+going to support me going along that journey. But it's genuinely about, is this going to
+
+831
+00:43:45,989 --> 00:43:52,349
+be a possibility here and being open to that? And acknowledging that you as a leader do not
+
+832
+00:43:52,349 --> 00:43:56,630
+have to have all the answers. You need to embrace your allies. You need to use people around you
+
+833
+00:43:56,630 --> 00:44:01,730
+for support. You need to seek counsel. You need to understand that you can't do it alone.
+
+834
+00:44:02,250 --> 00:44:05,929
+And we want to set leaders up for success. And we're not going to do that unless we
+
+835
+00:44:05,929 --> 00:44:10,090
+understand those things. Communicating with clarity is a dimension that you're
+
+836
+00:44:10,090 --> 00:44:10,989
+really passionate about. And I think that's a really important thing. And I think that's a
+
+837
+00:44:11,010 --> 00:44:16,929
+absolutely. I mean, when we go in, I've learned this. This actually came from our research that
+
+838
+00:44:16,929 --> 00:44:22,050
+we've done. One of the areas that there's often a great discrepancy in any environment we've
+
+839
+00:44:22,050 --> 00:44:28,309
+worked in, whether it be schools, corporate, or in sport, is the clarity around this particular
+
+840
+00:44:28,309 --> 00:44:33,949
+statement. What's the criteria by which you're being judged? And the clarity around that is,
+
+841
+00:44:34,630 --> 00:44:40,090
+how well is that communicated? How well is it today? For example, how well am I
+
+842
+00:44:41,010 --> 00:44:46,130
+the criteria by which I'm being judged? It's an interesting question. And sometimes there's a
+
+843
+00:44:46,130 --> 00:44:51,250
+lot of guesswork that goes into it. And I think that the way that leaders can communicate the
+
+844
+00:44:51,250 --> 00:44:57,070
+expectations, but even if they're going to elevate their performance, what you want to do in the end
+
+845
+00:44:57,070 --> 00:45:01,989
+is you want to create the conditions where the people that you're leading are co-constructing
+
+846
+00:45:01,989 --> 00:45:06,769
+the criteria by which they're being judged. Because if I'm doing that, I've got an intent
+
+847
+00:45:06,769 --> 00:45:10,949
+knowledge of, or an in-depth knowledge of your expectations of me, but also,
+
+848
+00:45:11,010 --> 00:45:15,050
+how I'm going to contribute to the betterment of where I am, whether it be the classroom,
+
+849
+00:45:15,590 --> 00:45:21,050
+or whether it be the organization, or the team. How am I going to contribute to that? And what
+
+850
+00:45:21,050 --> 00:45:25,010
+am I being judged on? What should I be judged on? And often we're thinking immediately,
+
+851
+00:45:25,670 --> 00:45:29,650
+in any startup business, and that's what we've created ourselves. It's the bottom line and,
+
+852
+00:45:30,170 --> 00:45:37,989
+God, how do I get to a successful, sustained part of your business and have enough income?
+
+853
+00:45:37,989 --> 00:45:40,389
+The financial metrics are huge, but
+
+854
+00:45:41,010 --> 00:45:46,230
+as we know, if you don't work on, there's a stat that I read recently, if people don't feel like
+
+855
+00:45:46,230 --> 00:45:50,269
+they're being developed in their environment, they're 12 times more likely to leave. And we
+
+856
+00:45:50,269 --> 00:45:55,849
+know the cost of that, finding new people to work with is just enormous strain and burden. So
+
+857
+00:45:55,849 --> 00:45:59,829
+having an understanding about this, isn't it? Whether you're, as I said before, in a small
+
+858
+00:45:59,829 --> 00:46:05,190
+business of two people, or three people, or in a huge organization, there's an opportunity to learn
+
+859
+00:46:05,190 --> 00:46:10,750
+and have an impact on this straight away, isn't there? Absolutely. I'm thinking about
+
+860
+00:46:10,750 --> 00:46:16,389
+communication at the moment and thinking about, there are different communication styles too, but
+
+861
+00:46:16,389 --> 00:46:22,530
+one thing that's been a surprise to me is the absolute elite leaders, they are exceptional
+
+862
+00:46:22,530 --> 00:46:27,389
+listeners. And if you think about when you're at school and the different lessons you learn,
+
+863
+00:46:27,449 --> 00:46:31,610
+and there's so many things, we don't want to throw stones at school, but certainly when I was at
+
+864
+00:46:31,610 --> 00:46:38,269
+school, no one ever picked up on my listening skills. And the great leaders in terms of
+
+865
+00:46:38,269 --> 00:46:40,730
+communication, they're intent listeners. And I think that's one of the things that I've been
+
+866
+00:46:40,750 --> 00:46:45,650
+and they're really reflective listeners, and they just don't jump to conclusions too quickly.
+
+867
+00:46:46,250 --> 00:46:50,889
+And once again, it can be time consuming, but it's about having that disciplined approach.
+
+868
+00:46:51,170 --> 00:46:54,730
+I'm actually, now I've got to be really present. I've really got to listen. I've got to put
+
+869
+00:46:54,730 --> 00:46:59,150
+everything aside and just be with you, Luke, right now, be understanding what you're saying,
+
+870
+00:46:59,289 --> 00:47:03,769
+not just to respond, but actually think about how that can impact me and improve my life.
+
+871
+00:47:04,590 --> 00:47:08,550
+Underestimated skill, isn't that? The ability to listen as part of communication. And
+
+872
+00:47:08,809 --> 00:47:10,670
+we're talking about this world of collaboration,
+
+873
+00:47:10,789 --> 00:47:14,610
+the leader of the world of collaboration is the language where you, how important is it to you?
+
+874
+00:47:14,889 --> 00:47:21,090
+It is right up there as one of the most important things you can do. And there is a time cost,
+
+875
+00:47:21,090 --> 00:47:27,090
+but it pays itself back in spades. If you prioritize collaboration and you're strategic
+
+876
+00:47:27,090 --> 00:47:33,030
+about how you do it and you embrace great strategies to do it, the payoffs are extreme,
+
+877
+00:47:33,150 --> 00:47:37,269
+whether it be the scoreboard taking care of itself, whether it be the outcomes in the classroom,
+
+878
+00:47:37,449 --> 00:47:40,690
+or whether it be the outcomes on the field, it pays.
+
+879
+00:47:40,750 --> 00:47:45,989
+It pays dividends if you can collaborate well and not dismiss the ideas of others too readily.
+
+880
+00:47:46,329 --> 00:47:49,969
+There'll be people that will say, yeah, okay, but you've got to have a decision maker,
+
+881
+00:47:50,530 --> 00:47:55,989
+can't have too many chiefs. And that's a thinking that a lot of people perhaps listened to this was
+
+882
+00:47:55,989 --> 00:48:01,630
+a sounds great and it sounds fluffy. But your experience is saying that, and clearly at some
+
+883
+00:48:01,630 --> 00:48:06,449
+point you do need decision making and you collaborate to an extent. What's the fine
+
+884
+00:48:06,449 --> 00:48:10,230
+line in achieving that? Yeah, I think it actually does come back to
+
+885
+00:48:10,750 --> 00:48:16,429
+energy. If you're setting up the conditions for collaboration, you've got to only pose the
+
+886
+00:48:16,429 --> 00:48:20,989
+question if you're genuine about it. I think sometimes people collaborate on the little
+
+887
+00:48:20,989 --> 00:48:24,269
+things that actually don't make a difference and they think, oh, yep, I've ticked that box.
+
+888
+00:48:24,789 --> 00:48:29,610
+We're going to collaborate today on how to paint the studio. Brilliant. That's a great thing.
+
+889
+00:48:30,130 --> 00:48:36,389
+Try and think about things that are genuinely a chance for you to improve, processes you can
+
+890
+00:48:36,389 --> 00:48:40,329
+improve and genuinely ask the question, and then do it in a strategic way,
+
+891
+00:48:40,750 --> 00:48:44,769
+not that you're going to guide the answer, but that there is going to be a conclusion.
+
+892
+00:48:45,210 --> 00:48:49,289
+So you're already thinking about that opportunity to collaborate and you're going to think about
+
+893
+00:48:49,289 --> 00:48:54,030
+when is the decision going to be made and how am I going to get the thoughts in? But at the end of
+
+894
+00:48:54,030 --> 00:48:57,929
+the day, Darcy, you're right, there's still going to be a decision to be made. And mate, it's
+
+895
+00:48:57,929 --> 00:49:03,230
+interesting, those six dimensions are something I know you're really passionate about. It's your
+
+896
+00:49:03,230 --> 00:49:09,650
+hack, it's your data. You put a lot of time into what you think over this journey makes a great
+
+897
+00:49:09,650 --> 00:49:10,730
+leader and you've been doing it for a long time. And I think that's a great thing to do. And I think
+
+898
+00:49:10,750 --> 00:49:15,070
+witnessing great leadership up close and personal now for many, many years. And is there
+
+899
+00:49:15,070 --> 00:49:21,369
+something that you think, God, I'm seeing traits already. There's a pattern here around what great
+
+900
+00:49:21,369 --> 00:49:27,190
+leadership looks like. There is a pattern. There is a pattern. And a lot of the qualities we've
+
+901
+00:49:27,190 --> 00:49:33,530
+talked about today is certainly part of that. I mean, the other part that I guess we haven't
+
+902
+00:49:33,530 --> 00:49:39,829
+talked too much about is the curiosity and the creativity together. Just being really curious
+
+903
+00:49:39,829 --> 00:49:40,730
+about what you're doing. And I think that's a great thing to do. And I think that's a great
+
+904
+00:49:40,750 --> 00:49:47,010
+I can do as a leader to impact positively those people around me. And what can I learn from other
+
+905
+00:49:47,010 --> 00:49:52,690
+people? Rob Sitch sent us a great article the other day and we read through it as a group. And
+
+906
+00:49:52,690 --> 00:49:58,030
+it was basically written by an astronaut and it was about the lessons learned from being an
+
+907
+00:49:58,030 --> 00:50:02,269
+astronaut and how it applies to life on earth. Sometimes when we go into a new environment,
+
+908
+00:50:02,489 --> 00:50:08,010
+we want to stand out, but it's about sometimes we actually just really need to be a great teammate
+
+909
+00:50:08,010 --> 00:50:10,590
+first. And I think what I'm noticing,
+
+910
+00:50:10,750 --> 00:50:16,590
+about great leaders is that they were once great teammates and they used to pride themselves on
+
+911
+00:50:16,590 --> 00:50:21,789
+being a great teammate. And that actually becomes a really good hallmark of a really good leader.
+
+912
+00:50:22,130 --> 00:50:27,409
+Because if you're a great teammate, you like to embrace the thoughts of others. You like to be
+
+913
+00:50:27,409 --> 00:50:31,989
+clear about where you're going. You like to communicate well with people. And so this
+
+914
+00:50:31,989 --> 00:50:36,690
+chapter that he sent through was talking about when you're a zero, that's about being a great
+
+915
+00:50:36,690 --> 00:50:40,730
+teammate. When you're a plus one, you really want to stand out from the crowd. And the chapter,
+
+916
+00:50:40,750 --> 00:50:45,210
+goes on to explain that when they're filtering out the NASA astronauts from when they've got
+
+917
+00:50:45,210 --> 00:50:49,929
+through top of their class, what they do is they take them to a cocktail party and the prior
+
+918
+00:50:49,929 --> 00:50:55,969
+NASA astronauts are at the cocktail party and they separate them out. And then they have a
+
+919
+00:50:55,969 --> 00:51:01,090
+drink with them all to work out whether this person is a zero or a plus one. Is this someone
+
+920
+00:51:01,090 --> 00:51:06,429
+who's just going to be a great teammate? Or is this someone who is going to try and stand out
+
+921
+00:51:06,429 --> 00:51:10,590
+from the crowd and be a hero? What they want is a zero. They don't always want the plus one.
+
+922
+00:51:10,750 --> 00:51:15,670
+And so a lot of the great leaders I'm working with is a zero. They really want a compliment.
+
+923
+00:51:16,210 --> 00:51:19,449
+They really want to make the most of their environment for the people that they're
+
+924
+00:51:19,449 --> 00:51:23,309
+working with. They don't necessarily want to be the hero, the sage on the stage.
+
+925
+00:51:23,869 --> 00:51:28,929
+It's a brilliant story, Matt. And Matt, I feel as connected to this space as anything I've done
+
+926
+00:51:28,929 --> 00:51:33,929
+in my life. And I feel lucky that to play sport for a living was a great thing I wanted to do
+
+927
+00:51:33,929 --> 00:51:38,389
+from a young age, a bit like you. Playing sport, I wanted to work in the media. I had a pretty
+
+928
+00:51:38,389 --> 00:51:40,730
+clear vision around that. But I already had a lot of experience with the media. I had a lot of
+
+929
+00:51:40,730 --> 00:51:45,750
+feel like this chapter, when we sit together, talk about these stories, see the impact it has
+
+930
+00:51:45,750 --> 00:51:50,269
+on people, genuinely positive impact it has on people. And I've been in work environments and
+
+931
+00:51:50,269 --> 00:51:54,389
+seen work environments with disengaged people. And it makes me sad because I've never felt that
+
+932
+00:51:54,389 --> 00:52:00,110
+way. I've always been fortunate to, and I suppose maybe determined that I wouldn't tolerate not
+
+933
+00:52:00,110 --> 00:52:05,530
+being in a space that you weren't focused and passionate about. So Matt, the work you're doing,
+
+934
+00:52:05,590 --> 00:52:09,670
+it's inspiring, Matt. To reconnect our old friendship has been one of the great things
+
+935
+00:52:09,670 --> 00:52:10,710
+that's happened in recent times.
+
+936
+00:52:10,730 --> 00:52:14,849
+Not that we ever lost touch, but now, Matt, I think I spend more time on the phone than you,
+
+937
+00:52:14,929 --> 00:52:20,510
+than I do with Beck. And I think Sarah, your wife's going, it's a bromance. We love it. We
+
+938
+00:52:20,510 --> 00:52:25,869
+see that there's so much potential in it. And it is an opportunity, Matt, to talk about, I hope
+
+939
+00:52:25,869 --> 00:52:30,469
+people do have a look at Alita, have a look at, we want to expand those Alita Connect little learning
+
+940
+00:52:30,469 --> 00:52:35,650
+pods. We want to get into education. We're really passionate about. I know we're going to do some
+
+941
+00:52:35,650 --> 00:52:40,570
+work in the mental health space in schools because the cold face you're telling me,
+
+942
+00:52:40,730 --> 00:52:45,150
+really clearly that we need to get back into schools. And we've got some great plans in the
+
+943
+00:52:45,150 --> 00:52:50,030
+world of collaboration that we're undertaking, mate. So it's a great way to start. I couldn't
+
+944
+00:52:50,030 --> 00:52:55,710
+be more passionate about what we're doing. And it's based on your ideas, mate, and your execution
+
+945
+00:52:55,710 --> 00:53:02,030
+and the way you, to me, it doesn't matter if you're in a room with a prep teacher or Justin
+
+946
+00:53:02,030 --> 00:53:06,269
+Langer, you're yourself in every environment. People pick up on your authenticity, mate,
+
+947
+00:53:06,289 --> 00:53:10,409
+and everything you do. And it's been an awesome thing to be involved with you in.
+
+948
+00:53:10,730 --> 00:53:15,010
+Thanks, mate. It's my privilege. And you're definitely underselling yourself there in terms
+
+949
+00:53:15,010 --> 00:53:20,949
+of the impact you have on our work. And we've described you as our centred visionary of the
+
+950
+00:53:20,949 --> 00:53:26,670
+team. And you get us to think big picture. And I think, and it comes back to some of the self
+
+951
+00:53:26,670 --> 00:53:31,309
+leadership that you do yourself, mate, with the meditation and your link to purpose and doing
+
+952
+00:53:31,309 --> 00:53:36,070
+things that are purposeful for you. It just resonates with us. And it's why we connect so
+
+953
+00:53:36,070 --> 00:53:40,150
+well. And it's why it's a great partnership, mate. So thanks for having me along. And yeah,
+
+954
+00:53:40,150 --> 00:53:40,710
+thanks for all that.
+
+955
+00:53:40,730 --> 00:53:43,469
+Thanks for all of your work that you've done to get the podcast going as well.
+
+956
+00:53:43,710 --> 00:53:49,369
+Head to Aleda, A-L-E-D-A, and have a look at the Empowering Leaders Indicator. So final question,
+
+957
+00:53:49,449 --> 00:53:53,210
+question without notice, who's been the greatest leader in your life?
+
+958
+00:53:54,090 --> 00:54:02,219
+Well, that's a brilliant question. The greatest leader. There's a big pause there. I mean,
+
+959
+00:54:02,340 --> 00:54:09,679
+I just, I'm genuinely, I just feel like, I just feel like no one's perfect. And I just feel like
+
+960
+00:54:09,679 --> 00:54:13,400
+I'm in the most privileged position ever, that I get to see these incredible,
+
+961
+00:54:13,420 --> 00:54:18,320
+incredible leaders. And if I could take parts of all of them, you could almost make up this
+
+962
+00:54:18,320 --> 00:54:23,500
+unbelievable leader. You know, there's some of the elements of some of these footy coaches that
+
+963
+00:54:23,500 --> 00:54:28,380
+are just incredible storytellers. There's elements of the school teachers that just got
+
+964
+00:54:28,380 --> 00:54:33,260
+incredible empathy and connection with their, with the kids that they're teaching. And then
+
+965
+00:54:33,260 --> 00:54:37,460
+some of these corporate leaders that have just got this vision of what's possible in terms of
+
+966
+00:54:37,460 --> 00:54:42,099
+having global impact that, I mean, if you could just combine those things together.
+
+967
+00:54:42,340 --> 00:54:43,400
+Um, but, but there's,
+
+968
+00:54:43,400 --> 00:54:47,960
+there's not one leader that just stands out as, as the, the standout that I've worked with
+
+969
+00:54:47,960 --> 00:54:52,760
+personally. Um, you know, from a historical perspective, I've just always loved, you know,
+
+970
+00:54:52,760 --> 00:54:57,500
+the idea of Gandhi and, and that, that the, the, the story of his life and the millions that he's
+
+971
+00:54:57,500 --> 00:55:02,840
+impacted and the way he went about it and the way he, you know, walk the talk. And so, you know,
+
+972
+00:55:02,840 --> 00:55:06,019
+he's one that just springs to mind to us, but there's, there's so many great ones. It's really
+
+973
+00:55:06,019 --> 00:55:09,940
+hard to, to choose. We didn't get you off the fence, mate. I think that's going to be a hard
+
+974
+00:55:09,940 --> 00:55:13,099
+question to answer for, uh, for our guests. We're, you know,
+
+975
+00:55:13,400 --> 00:55:18,219
+lucky to be connected, uh, as we said, from incredible educators to these amazing sporting
+
+976
+00:55:18,219 --> 00:55:22,719
+leaders and leaders from industry and the arts. That's what we're planning with the Empowering
+
+977
+00:55:22,719 --> 00:55:26,539
+Leaders podcast. We couldn't start anywhere apart from, uh, with you and your story,
+
+978
+00:55:27,039 --> 00:55:31,699
+Matty. As I said, it's a friendship that I value greatly, and we'll look forward to many more years
+
+979
+00:55:31,699 --> 00:55:36,559
+of, uh, hopefully inspiring people to, uh, to begin their learning and reflection and collaboration.
+
+980
+00:55:36,840 --> 00:55:37,579
+Thank you, mate.
+
+981
+00:55:40,739 --> 00:55:44,900
+Empowering Leaders was presented by me, Luke Darcy, produced by Matt Dwyer with audio
+
+982
+00:55:44,900 --> 00:55:49,639
+production by Darcy Thompson. To start your leadership journey, I encourage you to go to
+
+983
+00:55:49,639 --> 00:55:54,639
+elitacollective.com, take our Empowering Leaders indicator tool and understand the impact you have
+
+984
+00:55:54,639 --> 00:55:58,860
+on your environment. Join us at Elita to learn, lead, and collaborate.
+

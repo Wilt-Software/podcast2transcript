@@ -1,0 +1,5436 @@
+1
+00:00:02,120 --> 00:00:08,839
+I have no doubt you are going to love this conversation with international bestselling
+
+2
+00:00:08,839 --> 00:00:15,060
+author Johan Hari that includes a discussion about the fact that Ozempic is being used as
+
+3
+00:00:15,060 --> 00:00:20,160
+the wonder weight loss drug and the potential impacts it has here in Australia. So precisely
+
+4
+00:00:20,160 --> 00:00:23,260
+because these drugs haven't arrived in huge numbers in Australia yet, except the
+
+5
+00:00:23,260 --> 00:00:28,300
+diabetes, I really urge Australia can get this right in a way that Britain and the US have not
+
+6
+00:00:28,300 --> 00:00:34,320
+so far. These drugs absolutely should be prescribed, but they should be prescribed
+
+7
+00:00:34,320 --> 00:00:39,280
+very tightly. When it comes to Australia considering itself the lucky country
+
+8
+00:00:39,280 --> 00:00:45,140
+that we live in down under, statistically Johan Hari says our nation is at the top end for anxiety
+
+9
+00:00:45,140 --> 00:00:49,340
+and loneliness. Already in the Western world, we're the loneliest society there's ever been.
+
+10
+00:00:49,619 --> 00:00:54,079
+How many close friends do you have who you could turn to in a crisis? And when they started doing
+
+11
+00:00:54,079 --> 00:00:57,780
+it years ago, the most common answer is five. Today, the most common answer
+
+12
+00:00:57,780 --> 00:00:58,280
+is five.
+
+13
+00:00:58,299 --> 00:01:02,060
+None. And Australia is just off the scale on loneliness.
+
+14
+00:01:02,520 --> 00:01:06,159
+Johan Hari has had an extraordinary journey of his own in recent times,
+
+15
+00:01:06,500 --> 00:01:10,019
+has led him to strike up a friendship with the one and only Oprah Winfrey.
+
+16
+00:01:10,120 --> 00:01:15,459
+I was profoundly shaped by watching the Oprah Winfrey show every day for years and years and
+
+17
+00:01:15,459 --> 00:01:19,359
+years, right? But at the end of this message, she says, well, because your answer machine
+
+18
+00:01:19,359 --> 00:01:22,599
+doesn't have your voice, I'm not sure this is actually your number. So I don't want to leave
+
+19
+00:01:22,599 --> 00:01:26,379
+my number on a random answer machine. So I'll call you back, right? And then she phoned me one
+
+20
+00:01:26,379 --> 00:01:27,739
+day. We are friends.
+
+21
+00:01:28,299 --> 00:01:30,000
+We're going to see her in Montecito in a few weeks.
+
+22
+00:01:30,120 --> 00:01:34,560
+It's people like Johan Hari that inspire the work we do at Alita. We would love you to check
+
+23
+00:01:34,560 --> 00:01:38,299
+out our Alita Connect signature program. We bring together groups of five to six people
+
+24
+00:01:38,299 --> 00:01:42,579
+from around the globe to connect, to learn, and to share. Head to alitacollective.com
+
+25
+00:01:42,579 --> 00:01:46,879
+to check it out and book a discovery call with us today. Big thanks to Jason Nicholas
+
+26
+00:01:46,879 --> 00:01:52,200
+and his team from Temper Bedding. NASA approved, world's best in bedding. If you purchase a
+
+27
+00:01:52,200 --> 00:01:53,680
+Temper Bed, it will change your life.
+
+28
+00:01:55,019 --> 00:01:58,260
+Johan Hari is an internationally bestselling author whose books have
+
+29
+00:01:58,260 --> 00:02:02,319
+appeared in 38 languages. His first book, Chasing the Scream, was made into an Academy
+
+30
+00:02:02,319 --> 00:02:06,659
+Award nominated film and an eight-part TV series presented by Samuel L. Jackson.
+
+31
+00:02:07,219 --> 00:02:11,280
+His second book, Lost Connections, was a Sunday Times and New York Times bestseller.
+
+32
+00:02:11,280 --> 00:02:16,400
+His TED Talk on addiction and depression have been viewed more than 93 million times,
+
+33
+00:02:16,580 --> 00:02:22,300
+and his two latest books are absolute must-reads. Hillary Clinton says this about style and focus.
+
+34
+00:02:22,759 --> 00:02:27,680
+Johan Hari tackles the profound dangers facing humanity from information technology and rings
+
+35
+00:02:27,680 --> 00:02:33,080
+the alarm bell for what all of us must do to protect ourselves, our children, and our democracies.
+
+36
+00:02:33,520 --> 00:02:38,280
+His latest book, Magic Pill, gives an incredible insight and deep dive into the weight loss drug
+
+37
+00:02:38,280 --> 00:02:43,840
+ozempic and others like it, literally sweeping the globe to the extent that ozempic's manufacturer,
+
+38
+00:02:44,280 --> 00:02:48,740
+Nova Nordic, is a Danish pharmaceutical company and now the most valuable business in Europe
+
+39
+00:02:48,740 --> 00:02:53,900
+with a valuation of around 700 billion Australian dollars. It's a great pleasure to speak to you
+
+40
+00:02:53,900 --> 00:02:57,520
+this morning. Thanks for joining me. Well, chuffed to talk to you. I'm always happy to talk to people
+
+41
+00:02:57,520 --> 00:03:02,840
+who are in Melbourne because I had the closest thing I've ever had to a religious experience
+
+42
+00:03:02,840 --> 00:03:07,960
+in Melbourne, which was, it must have been, I don't know, eight years ago. I went to, came to
+
+43
+00:03:07,960 --> 00:03:12,759
+Melbourne for the first time and I went to the set of Neighbours. I went to Ramsey Street, it's
+
+44
+00:03:12,759 --> 00:03:17,780
+Pinnock Court, and because me and my grandmother every day religiously watched Neighbours when I
+
+45
+00:03:17,780 --> 00:03:22,719
+was a little kid, and my grandmother sadly is no longer around to do this, but I went there and I
+
+46
+00:03:22,719 --> 00:03:27,240
+thought to her that would have been like the most insane thing, the idea that I could have gone to
+
+47
+00:03:27,520 --> 00:03:31,919
+this side of the world and gone to Ramsey Street. She would have been so fucking happy. That's my
+
+48
+00:03:31,919 --> 00:03:35,280
+equivalent of like a Muslim going to Mecca or something. It's the closest I'll ever get.
+
+49
+00:03:35,460 --> 00:03:40,699
+So that is just brilliant. We forget in Australia that we export these things out sometimes to the
+
+50
+00:03:40,699 --> 00:03:46,659
+UK and we assume that no one remembers them, but clearly that's had an impact on you and your
+
+51
+00:03:46,659 --> 00:03:50,719
+upbringing. You've literally become one of the voices of our time and it feels to me as though
+
+52
+00:03:50,719 --> 00:03:55,520
+you've picked the number of the biggest issues facing the world and you've got a unique way of
+
+53
+00:03:55,520 --> 00:03:57,460
+explaining them the way very few people can.
+
+54
+00:03:57,520 --> 00:04:00,819
+Can you share with me what led you to wanting to write the way that you do?
+
+55
+00:04:00,919 --> 00:04:05,159
+That's very nice of you to say that. Thank you. Cheers, Luke. For me, every book I ever write,
+
+56
+00:04:05,939 --> 00:04:10,919
+I always start with a mystery that I want to understand for myself. So I'm not an expert,
+
+57
+00:04:11,120 --> 00:04:14,099
+right? I'm a journalist. I was trained in social sciences at Cambridge University,
+
+58
+00:04:14,199 --> 00:04:17,639
+so I've got pretty good training in that stuff, but I'm not an expert, right?
+
+59
+00:04:18,259 --> 00:04:22,399
+So I started with my first book, Chasing the Scream. It's about addiction. We had a lot of
+
+60
+00:04:22,399 --> 00:04:26,839
+addiction in my family. Nothing I was doing was helping. I was really concerned.
+
+61
+00:04:27,519 --> 00:04:31,519
+I wanted to figure out, well, what causes addiction? What can you actually do about it?
+
+62
+00:04:31,639 --> 00:04:36,399
+What actually solves this problem? So I ended up going on this big journey all over the world for
+
+63
+00:04:36,399 --> 00:04:40,939
+my book, Chasing the Scream, trying to figure that out. I think I found some really interesting
+
+64
+00:04:40,939 --> 00:04:45,180
+and important answers on that. My second book, Lost Connections, is about depression and anxiety,
+
+65
+00:04:45,399 --> 00:04:51,199
+right? At the time that I started writing it, I was about to turn 40 and every single year that
+
+66
+00:04:51,199 --> 00:04:56,480
+I've been alive, depression and anxiety had massively increased in Britain, in the US,
+
+67
+00:04:56,480 --> 00:04:57,279
+across the world.
+
+68
+00:04:57,519 --> 00:05:00,500
+Actually, particularly badly in Australia, for reasons we could talk about, if you like.
+
+69
+00:05:01,040 --> 00:05:04,579
+I wanted to figure out what's going on, how do we reverse that trend? So I ended up going on this
+
+70
+00:05:04,579 --> 00:05:08,199
+big journey for that. And the book I think we're going to talk about today, Stolen Focus, was really
+
+71
+00:05:08,199 --> 00:05:13,579
+a very basic problem. I could feel that my own attention was getting worse and worse,
+
+72
+00:05:14,160 --> 00:05:16,920
+and I could see this happening to loads of the people around me.
+
+73
+00:05:17,579 --> 00:05:20,759
+In fact, the figures on it are pretty shocking about the level of crisis we're in.
+
+74
+00:05:20,759 --> 00:05:25,759
+The average office worker now focuses on any one task for less than a minute,
+
+75
+00:05:27,519 --> 00:05:30,339
+and that's what we're talking about today. So it's a very basic problem, but it's a very big problem.
+
+76
+00:05:30,339 --> 00:05:34,740
+I was seven years old. There's now a hundred children who've been identified with that
+
+77
+00:05:34,740 --> 00:05:39,519
+problem. And I could feel it happening to me. I was quite ashamed and embarrassed. I thought there
+
+78
+00:05:39,519 --> 00:05:44,199
+must be something wrong with me. And that's when I kind of started realizing, okay, I need to
+
+79
+00:05:44,199 --> 00:05:49,680
+investigate this. I need to figure out what's actually happening here.
+
+80
+00:05:49,680 --> 00:05:54,420
+Yeah. And you just said depression, anxiety, particularly challenging in Australia,
+
+81
+00:05:54,660 --> 00:05:57,480
+and the evidence is there to suggest it. What's your...
+
+82
+00:05:57,519 --> 00:06:01,839
+What's your theory as to why, in what we often call the lucky country down here,
+
+83
+00:06:01,839 --> 00:06:06,399
+we have such an epidemic as we do in the rest of the world, but why particularly in Australia?
+
+84
+00:06:06,399 --> 00:06:09,939
+It's really interesting. I spent a lot of time in Australia, and I've interviewed a lot of experts
+
+85
+00:06:09,939 --> 00:06:15,040
+in Australia, and I absolutely love Australia. It's why I'm so excited to come back in October
+
+86
+00:06:15,040 --> 00:06:19,660
+for this speaking tour. I think the answer is complicated and we don't totally know,
+
+87
+00:06:20,560 --> 00:06:25,120
+but I think we've got a few hints. So what I learned from my book, Lost Connections, is that
+
+88
+00:06:25,120 --> 00:06:27,399
+there's scientific evidence for
+
+89
+00:06:27,519 --> 00:06:32,980
+brain factors that can make depression and anxiety, can cause it or make it much worse.
+
+90
+00:06:32,980 --> 00:06:38,079
+And some of them are in our biology. You know, there are real brain changes that happen when
+
+91
+00:06:38,079 --> 00:06:42,939
+you become depressed that can make it harder to get out, and your genes can make you more sensitive
+
+92
+00:06:42,939 --> 00:06:48,040
+to these problems. But most of the factors that cause depression and anxiety aren't factors in
+
+93
+00:06:48,040 --> 00:06:53,259
+our biology, they're factors in the way we live. And there's one in particular in Australia that's
+
+94
+00:06:53,259 --> 00:06:57,459
+shockingly high, which is loneliness. Already in the Western world,
+
+95
+00:06:57,519 --> 00:07:01,540
+we're the loneliest society there's ever been. There's a study that asked Americans,
+
+96
+00:07:01,540 --> 00:07:06,579
+how many close friends do you have who you could turn to in a crisis? And when they started doing
+
+97
+00:07:06,579 --> 00:07:11,980
+it years ago, the most common answer is five. Today, the most common answer is none, right?
+
+98
+00:07:11,980 --> 00:07:17,740
+I think the figure before the pandemic was 42% of Americans agreed with the statement,
+
+99
+00:07:17,740 --> 00:07:21,579
+no one knows me well. Like what is life like when no one knows you well,
+
+100
+00:07:21,579 --> 00:07:27,160
+you have no friends to share your joy or your pain with. And Australia is just off the scale
+
+101
+00:07:27,519 --> 00:07:32,680
+on loneliness for kind of complicated reasons. A lot of the other factors are going on as well,
+
+102
+00:07:32,680 --> 00:07:37,420
+the other factors that I wrote about. So yeah, I think that's a big thing that's going on there.
+
+103
+00:07:37,420 --> 00:07:41,680
+It's a real tragedy when you think, isn't it, that most people have got not one person in a crisis
+
+104
+00:07:41,680 --> 00:07:47,439
+they can call to support them or someone to turn to. And those numbers are, as you said, alarming,
+
+105
+00:07:47,439 --> 00:07:52,360
+particularly here in Australia. So much of what you write resonates, and you wrote this in Style
+
+106
+00:07:52,360 --> 00:07:56,800
+and Focus. At the moment, we think we are prosperous. If we are working ourselves ragged
+
+107
+00:07:56,800 --> 00:07:57,500
+to buy things, we're not going to be able to do that. We're not going to be able to do that.
+
+108
+00:07:57,500 --> 00:08:00,800
+We're not going to be able to do things, most of which don't even make us happy. We could
+
+109
+00:08:00,800 --> 00:08:05,300
+redefine prosperity to mean having time to spend with our children or to be in nature or to sleep
+
+110
+00:08:05,300 --> 00:08:09,259
+or to dream. Do you think we need to have a look at what success actually means?
+
+111
+00:08:09,259 --> 00:08:15,980
+Totally. And I feel that conflict in me. The way I began to think about this, Luke, is that,
+
+112
+00:08:15,980 --> 00:08:21,319
+so we all know that junk food has taken over our diets and made us physically sick, right? As you
+
+113
+00:08:21,319 --> 00:08:27,139
+can see from my chins, I'm not immune to that, right? I once got a Christmas card from KFC as
+
+114
+00:08:27,139 --> 00:08:27,439
+their best customer. I'm not immune to that, right? I once got a Christmas card from KFC as their best
+
+115
+00:08:27,439 --> 00:08:27,480
+customer. I'm not immune to that, right? I once got a Christmas card from KFC as their best customer.
+
+116
+00:08:27,480 --> 00:08:31,279
+It's not even a joke. And that wasn't even the fried chicken shop I went to the most.
+
+117
+00:08:31,720 --> 00:08:36,039
+But just like junk food has taken over our diets and made us physically sick,
+
+118
+00:08:36,659 --> 00:08:40,919
+there's this really interesting scientific evidence that a kind of junk values have taken
+
+119
+00:08:40,919 --> 00:08:46,759
+over our minds and made us mentally sick. But for thousands of years, philosophers have said,
+
+120
+00:08:47,039 --> 00:08:53,240
+if you think life is about money and status and showing off, you're going to feel like shit,
+
+121
+00:08:53,320 --> 00:08:56,559
+right? It's not an exact quote from Confucius or Schopenhauer, but that's basically what they said,
+
+122
+00:08:56,559 --> 00:08:57,419
+right? But weirdly,
+
+123
+00:08:57,419 --> 00:09:01,899
+nobody had actually scientifically investigated this until an incredible man who I got to
+
+124
+00:09:01,899 --> 00:09:06,700
+interview a lot named Professor Tim Kasser, who's at Knox College in Illinois, began to really dig
+
+125
+00:09:06,700 --> 00:09:12,100
+into this. And he discovered loads of things. But for the purposes of your question, I think the
+
+126
+00:09:12,100 --> 00:09:16,340
+most important thing he discovered is that the philosophers are right. The more you think life
+
+127
+00:09:16,340 --> 00:09:21,440
+is about money and status and showing off the kind of values that are just stimulated in you by
+
+128
+00:09:21,440 --> 00:09:26,279
+Instagram and advertising and so much of how we live, the more likely you are to become depressed
+
+129
+00:09:26,279 --> 00:09:27,360
+and anxious by it.
+
+130
+00:09:27,360 --> 00:09:31,179
+Quite a significant amount. And there's lots of reasons why, but one of them,
+
+131
+00:09:31,919 --> 00:09:35,519
+the way I began to think of it is we've been fed a kind of KFC for the soul.
+
+132
+00:09:36,139 --> 00:09:41,279
+We've been trained to look for happiness in all the wrong places. So at one level,
+
+133
+00:09:41,340 --> 00:09:46,139
+this is totally obvious and banal. Everyone listening knows none of you are going to lie
+
+134
+00:09:46,139 --> 00:09:49,679
+on your deathbed and think about all the likes you got on Instagram and all the shoes you bought
+
+135
+00:09:49,679 --> 00:09:53,620
+and all the money in the bank. You're not going to think about that. You're going to think about
+
+136
+00:09:53,620 --> 00:09:56,360
+moments of love and meaning and connection in your life.
+
+137
+00:09:56,360 --> 00:10:02,240
+But as Professor Kasa put it to me, we live in a machine that is designed to get us to neglect what
+
+138
+00:10:02,240 --> 00:10:07,059
+is most important about life. More three-year-old children know what the McDonald's M means than
+
+139
+00:10:07,059 --> 00:10:12,059
+know their own last name. For the moment we're born, we're pumped with these images. You don't
+
+140
+00:10:12,059 --> 00:10:16,200
+feel good. There's an answer to that. Go shopping. Display it on Instagram to make people say,
+
+141
+00:10:16,279 --> 00:10:20,159
+OMG, so jealous. Then when you don't feel good, work even harder to buy even more shit you don't
+
+142
+00:10:20,159 --> 00:10:25,360
+need to display even that on Instagram, right? So we're in this kind of ratchet. The fancy way of
+
+143
+00:10:25,360 --> 00:10:26,340
+putting it is we're in a value of value. We're in a value of value. We're in a value of value. We're in a value of value.
+
+144
+00:10:26,360 --> 00:10:31,700
+We're in a crisis of values. And it's really a kind of spiritual crisis. I'm not a religious
+
+145
+00:10:31,700 --> 00:10:37,580
+person, so I don't mean that as a kind of like God-bothering way. But it's a crisis of values.
+
+146
+00:10:37,679 --> 00:10:40,500
+We are taught to value the wrong things. I learned really interestingly there are interesting
+
+147
+00:10:40,500 --> 00:10:46,419
+techniques you can use to profoundly change your values and regain this, your inner conflict.
+
+148
+00:10:46,539 --> 00:10:52,159
+One of the ways Professor Kasa puts it as well is everyone is a mixture of two kinds of values.
+
+149
+00:10:52,440 --> 00:10:56,080
+The fancy term for them is intrinsic values and extrinsic values.
+
+150
+00:10:56,360 --> 00:11:01,419
+So imagine you play the piano. If you play the piano in the morning because you love it and it
+
+151
+00:11:01,419 --> 00:11:06,139
+gives you joy, that's what's called an intrinsic reason to play the piano. You're not doing it to
+
+152
+00:11:06,139 --> 00:11:09,240
+get anything out of it. You're just doing it because that's a thing you love to do, right?
+
+153
+00:11:09,720 --> 00:11:14,679
+Okay, now imagine you play the piano, not because you love it, but I don't know, because your parents
+
+154
+00:11:14,679 --> 00:11:20,179
+dream was to be a piano maestro and they're massively pressuring you. Or to post the clips
+
+155
+00:11:20,179 --> 00:11:23,879
+on Instagram to get likes and impress a woman. I don't know, maybe there's some woman out there
+
+156
+00:11:23,879 --> 00:11:25,779
+who's a piano fetishist, right? Loves a pianist.
+
+157
+00:11:26,360 --> 00:11:31,659
+Or you play the piano in a dive bar that you hate to pay the rent. Those would be what are called
+
+158
+00:11:31,659 --> 00:11:36,139
+extrinsic reasons to play the piano. You're not doing the thing because you love it. You're doing
+
+159
+00:11:36,139 --> 00:11:40,100
+it to get something out of it further down the line. And we're all a mixture of intrinsic and
+
+160
+00:11:40,100 --> 00:11:43,379
+extrinsic values. And you should be, right? You have to be to get through the day and it's healthy
+
+161
+00:11:43,379 --> 00:11:48,720
+to have both. But what's happened is our lives have become hugely dominated by extrinsic values.
+
+162
+00:11:49,299 --> 00:11:54,259
+They're hugely crowded out, intrinsic values. Think about how many times you'll be on a beautiful
+
+163
+00:11:54,259 --> 00:11:56,340
+beach and no one's looking at you. You're not looking at them. You're looking at them. You're
+
+164
+00:11:56,360 --> 00:11:59,980
+looking at the beach. They're just fucking taking pictures of it and posting them on Instagram and
+
+165
+00:11:59,980 --> 00:12:03,919
+then sitting there scrolling to see who commented and liked. That'd be a really good example of
+
+166
+00:12:03,919 --> 00:12:08,860
+people being jolted out of intrinsic experience. It's an amazing thing to be on a beach and watch
+
+167
+00:12:08,860 --> 00:12:14,360
+the sunset and into an extrinsic experience. But that's happening to us the whole time.
+
+168
+00:12:14,720 --> 00:12:20,039
+A kind of ego itching powder is being poured over us the whole time that's jolting us out
+
+169
+00:12:20,039 --> 00:12:25,059
+of these intrinsic experiences. That's just one of obviously many aspects of this, but I think that
+
+170
+00:12:25,059 --> 00:12:26,000
+is the case.
+
+171
+00:12:26,360 --> 00:12:31,279
+It's such a profound thing you're saying. I laugh and smile at times, but it's tragic really when
+
+172
+00:12:31,279 --> 00:12:35,340
+you think about it because we can all relate to that, can't you? You do sit on a beach now
+
+173
+00:12:35,340 --> 00:12:40,460
+somewhere beautiful in Hawaii and you look all around you and all it is is people taking photos
+
+174
+00:12:40,460 --> 00:12:45,940
+of themselves and not enjoying the moment for a second. I think your terminology again,
+
+175
+00:12:46,080 --> 00:12:51,940
+so that junk food for the soul is that our ultra processed foods killing us at one level, but
+
+176
+00:12:51,940 --> 00:12:56,200
+the same values that you just described are also poisoning.
+
+177
+00:12:56,360 --> 00:13:00,919
+People in horrific ways. We've got this anxious generation you talk about. Our kids are growing
+
+178
+00:13:00,919 --> 00:13:05,600
+up with more anxiety than we've ever seen before. Are you optimistic at all, Johan? Do you think that
+
+179
+00:13:05,600 --> 00:13:10,519
+there is a way to retrain ourselves? Because do you think we're taking the problem seriously enough?
+
+180
+00:13:10,519 --> 00:13:17,059
+I am optimistic. Well, I'm optimistic for lots of reasons, but one is it's like all the smoke
+
+181
+00:13:17,059 --> 00:13:23,019
+alarms are going off when depression and anxiety and addiction and attention problems are so
+
+182
+00:13:23,019 --> 00:13:25,120
+widespread in society. Obviously that's awful. It's
+
+183
+00:13:26,360 --> 00:13:31,080
+a distress signal. But as long as we learn to understand that these aren't signals,
+
+184
+00:13:31,620 --> 00:13:37,460
+that something deeper is going wrong, not just like purely biological malfunctions, like a
+
+185
+00:13:37,460 --> 00:13:42,740
+malfunction in a computer program or something, that they mean something, that your pain means
+
+186
+00:13:42,740 --> 00:13:49,279
+something, that it's connected to deeper problems and deeper unmet needs. Once we begin to understand
+
+187
+00:13:49,279 --> 00:13:53,360
+that, these problems can become fuel for actually changing and sorting out these problems.
+
+188
+00:13:53,860 --> 00:13:56,000
+And one of the reasons I'm optimistic, because
+
+189
+00:13:56,360 --> 00:14:01,159
+all my books, all the problems I write about, I don't write my books because I think of this as
+
+190
+00:14:01,159 --> 00:14:05,120
+like always an interesting intellectual problem, right? I mean, you know, I'm interested in
+
+191
+00:14:05,120 --> 00:14:07,940
+understanding the problem, but the reason I'm interested in understanding the problem is because
+
+192
+00:14:07,940 --> 00:14:10,879
+if you understand the problem differently, you get to different solutions, right?
+
+193
+00:14:10,879 --> 00:14:15,620
+There's a moment that's really fell into place for me. I'll never forget it. I was interviewing
+
+194
+00:14:15,620 --> 00:14:20,120
+this South African psychiatrist called Dr. Derek Summerfield, a great guy. And he told me this
+
+195
+00:14:20,120 --> 00:14:26,120
+story. So he happened to be in Cambodia in Southeast Asia in 2001, I think it was, when they
+
+196
+00:14:26,360 --> 00:14:30,080
+introduced chemical antidepressants for people in that country, they'd never had them in Cambodia
+
+197
+00:14:30,080 --> 00:14:37,759
+before. And he was like, he was with the doctors and they said to him, what are antidepressants?
+
+198
+00:14:37,759 --> 00:14:43,460
+And he explained. And they said to him, oh, we don't need them. We've already got antidepressants.
+
+199
+00:14:43,460 --> 00:14:46,759
+And he was like, what do you mean? He thought they were going to talk about some kind of herbal
+
+200
+00:14:46,759 --> 00:14:53,720
+remedy like St. John's wort or ginkgo biloba. Instead, they told him a story. There was a farmer
+
+201
+00:14:53,720 --> 00:14:55,639
+in their community who worked in the rice fields.
+
+202
+00:14:56,360 --> 00:15:01,220
+And one day he got his leg blown off by a landmine that was left over from the war with the U.S.
+
+203
+00:15:01,879 --> 00:15:06,159
+So they gave him an artificial leg. They're good at that in Cambodia. And a few months later,
+
+204
+00:15:06,159 --> 00:15:10,799
+he went back to work in the rice fields. But apparently it's very painful to work underwater
+
+205
+00:15:10,799 --> 00:15:14,440
+when you've got an artificial limb. And I'm obviously guessing it was pretty traumatic to
+
+206
+00:15:14,440 --> 00:15:20,059
+go back and work in the field where he got blown up. The guy started to cry all day. After a while,
+
+207
+00:15:20,120 --> 00:15:26,100
+he refused to get out of bed. He developed what we would call classic depression. The Cambodians said,
+
+208
+00:15:26,360 --> 00:15:30,759
+that's when we gave him an antidepressant. And Dr. Sommerfeld said, what was it?
+
+209
+00:15:31,820 --> 00:15:38,340
+They explained that they sat with him. They listened to him. You only had to listen to him
+
+210
+00:15:38,340 --> 00:15:43,720
+for five minutes to see why he was so distressed. One of the doctors thought, if we bought this guy
+
+211
+00:15:43,720 --> 00:15:48,740
+a cow, he could become a dairy farmer. He wouldn't be in this position that was screwing him up so
+
+212
+00:15:48,740 --> 00:15:53,620
+much. So they bought him a cow. Within a couple of weeks, his crying stopped. Within a month,
+
+213
+00:15:53,620 --> 00:15:56,200
+his depression was gone. It never came back. They said to Dr. Sommerfeld,
+
+214
+00:15:56,360 --> 00:16:00,899
+so you see, doctor, that cow, that was an antidepressant. That's what you mean, right?
+
+215
+00:16:01,519 --> 00:16:04,879
+Now, if you've been raised to think about depression the way we have, that sounds like
+
+216
+00:16:04,879 --> 00:16:08,759
+a weird joke. I went to my doctor for an antidepressant. She gave me a cow. But what
+
+217
+00:16:08,759 --> 00:16:14,200
+those Cambodian doctors knew intuitively from this kind of individual unscientific anecdote
+
+218
+00:16:14,200 --> 00:16:19,360
+is what the leading medical body in the whole world, the World Health Organization, has been
+
+219
+00:16:19,360 --> 00:16:24,539
+trying to tell us for years. If you're depressed, if you're anxious, you're not weak, you're not
+
+220
+00:16:24,700 --> 00:16:26,240
+crazy, you're not in the main.
+
+221
+00:16:26,360 --> 00:16:31,840
+You're a machine with broken parts. You're a human being with unmet needs. And what you need
+
+222
+00:16:31,840 --> 00:16:36,200
+is love and practical help to get those deeper needs met. So it's a very different way of thinking
+
+223
+00:16:36,200 --> 00:16:39,220
+about this. Of course, there are biological contributions. Of course, chemical antidepressants
+
+224
+00:16:39,220 --> 00:16:42,740
+can give some relief to some people. Anyone listening, if you're taking them and they're
+
+225
+00:16:42,740 --> 00:16:47,440
+helping you, carry on. But precisely because this problem goes deeper than our biology,
+
+226
+00:16:48,179 --> 00:16:52,019
+our understanding of it and the solutions to it need to go deeper. So of course, what I began to
+
+227
+00:16:52,019 --> 00:16:56,059
+ask is, well, what's the cow for the things that are screwing us up, right? And also go through a
+
+228
+00:16:56,360 --> 00:17:01,100
+lot of things in Lost Connections. But yeah, once you reframe with all these questions, addiction,
+
+229
+00:17:01,379 --> 00:17:06,220
+depression, attention problems, our weight problems, the subjects in my books, when you
+
+230
+00:17:06,220 --> 00:17:11,859
+understand what's causing these problems, it opens up a completely different set of solutions,
+
+231
+00:17:12,519 --> 00:17:16,720
+ones that actually work. And you do a brilliant job of that, Johan. You lift the lid for people
+
+232
+00:17:16,720 --> 00:17:22,880
+and you show them, yeah, our focus didn't just disappear. The fact that it's stolen focus is the
+
+233
+00:17:22,880 --> 00:17:26,279
+title of one of your books, meaning it's not the fault of the individual.
+
+234
+00:17:26,359 --> 00:17:33,339
+You give some great stats that people touch their phone 2,167 times a day. It's an actual stat that
+
+235
+00:17:33,339 --> 00:17:38,819
+you give us. You mentioned earlier, the average office worker can now focus on a task for maybe
+
+236
+00:17:38,819 --> 00:17:45,160
+one minute at a time. Our kids' attention spans have been obliterated, really. Do you think that
+
+237
+00:17:45,160 --> 00:17:49,000
+helps people understanding that a lot of these things are actually factors out of their control?
+
+238
+00:17:49,200 --> 00:17:52,180
+I would put it slightly differently. I think you phrased that really well.
+
+239
+00:17:52,880 --> 00:17:56,339
+It's not that they're out of your control. It's that when we're in a situation where we're in a
+
+240
+00:17:56,359 --> 00:18:02,140
+we reframe them, we have to understand where our control lies. So to be honest, I'd felt my
+
+241
+00:18:02,140 --> 00:18:05,819
+attention was getting worse for a long time. I was really worried about some of the young people that
+
+242
+00:18:05,819 --> 00:18:09,460
+I love and have particularly disturbing experience with one of them that I can tell you about in
+
+243
+00:18:09,460 --> 00:18:16,460
+Graceland. To be honest, I put off investigating this for a long time, this subject, because I
+
+244
+00:18:16,460 --> 00:18:20,640
+thought the reason my attention was getting worse was obvious. I thought, well, you're just not
+
+245
+00:18:20,640 --> 00:18:25,660
+strong enough. You're lacking willpower. You're weak. You should have the strength to resist
+
+246
+00:18:25,660 --> 00:18:26,339
+these temptations. You should have the strength to resist these temptations. You should have the
+
+247
+00:18:26,359 --> 00:18:30,400
+So I thought maybe I'm just getting older. Maybe it's just that someone invented the smartphone
+
+248
+00:18:30,400 --> 00:18:36,460
+that fucked me over. I was very self-critical, self-blaming. Actually, for Stolen Focus, which
+
+249
+00:18:36,460 --> 00:18:41,640
+as you know, I'm coming to loads of Australian cities to talk about, I went on this big journey
+
+250
+00:18:41,640 --> 00:18:46,119
+all over the world from Moscow to Miami to Melbourne, your hometown, not just to cities
+
+251
+00:18:46,119 --> 00:18:50,599
+that begin with letter M. And I interviewed over 200 of the leading experts on attention and focus.
+
+252
+00:18:51,039 --> 00:18:54,859
+And what I learned is, in fact, there's scientific evidence for 12 factors that can make your
+
+253
+00:18:54,859 --> 00:18:56,259
+attention better or can make it worse.
+
+254
+00:18:56,359 --> 00:19:00,420
+And loads of the factors that can make your attention worse have been hugely rising in
+
+255
+00:19:00,420 --> 00:19:03,900
+recent years. So if you're struggling to focus and pay attention, if your kids are struggling
+
+256
+00:19:03,900 --> 00:19:08,140
+to focus and pay attention, there's nothing wrong with you and there's nothing wrong with them,
+
+257
+00:19:08,140 --> 00:19:11,920
+but there is something wrong with the way we're living. And once you understand what these 12
+
+258
+00:19:11,920 --> 00:19:16,740
+factors are, you actually begin to regain your power. There's sort of two levels at which you
+
+259
+00:19:16,740 --> 00:19:21,119
+can regain your power. There are individual change. The way I think of it is defense and
+
+260
+00:19:21,119 --> 00:19:25,839
+offense. There are loads of things that you can do immediately to defend yourself and your children.
+
+261
+00:19:26,359 --> 00:19:29,920
+Against these factors that are harming our attention, I go through loads of them in the book. I'm sure
+
+262
+00:19:29,920 --> 00:19:35,460
+we can talk about them. And then there's also offense. Because the truth is, and I want to
+
+263
+00:19:35,460 --> 00:19:39,160
+really level with people because I don't feel most people communicating about attention are
+
+264
+00:19:39,160 --> 00:19:44,740
+leveling with people. I'm passionately in favor of these individual changes. I'm sure we can talk
+
+265
+00:19:44,740 --> 00:19:48,779
+about them. I love them. I do them myself. They've massively improved my life. They'll massively
+
+266
+00:19:48,779 --> 00:19:55,259
+improve yours. On their own, they won't fully solve this problem. Because the truth is, this
+
+267
+00:19:55,259 --> 00:19:56,339
+didn't happen because you and me didn't do it. It didn't happen because you and me didn't do it.
+
+268
+00:19:56,359 --> 00:19:59,519
+It didn't happen because you and me had bad habits or our kids have bad habits. This happened
+
+269
+00:19:59,519 --> 00:20:08,940
+because some really big forces fucked with us for very clear reasons. And at some level and at some
+
+270
+00:20:08,940 --> 00:20:14,140
+point, we have to take on those forces that are doing this to us. I went to places that have begun
+
+271
+00:20:14,140 --> 00:20:20,839
+to do that, from France to New Zealand, and I saw how it's begun. So I think when you understand the
+
+272
+00:20:20,839 --> 00:20:25,200
+problem, it's not a problem located in you. I mean, you can have failings as well, like we all do.
+
+273
+00:20:25,200 --> 00:20:29,960
+That's not why this crisis suddenly blew up in our lifetimes, right? Because we suddenly all got
+
+274
+00:20:29,960 --> 00:20:35,779
+bad habits. Once you understand what's causing the problem, you can begin to actually locate
+
+275
+00:20:35,779 --> 00:20:40,500
+where your power really lies, which to some degrees in defensive measures as individuals
+
+276
+00:20:40,500 --> 00:20:45,019
+and families, and to some degrees as banding together as societies and taking on these
+
+277
+00:20:45,019 --> 00:20:49,279
+bigger forces. Yeah. And I speak to a lot of people in this format who have really,
+
+278
+00:20:49,279 --> 00:20:54,960
+really powerful habits and they can articulate them and identify them really clearly. And often
+
+279
+00:20:55,200 --> 00:21:00,779
+patterns in them. Most of them have a really clear exercise routine. Most of them have some
+
+280
+00:21:00,779 --> 00:21:06,299
+form of mindfulness practice, whatever that shows up like for them. They've got organisational
+
+281
+00:21:06,299 --> 00:21:11,660
+skills. They have a great understanding of sleep. For parents listening, I think for most of us as
+
+282
+00:21:11,660 --> 00:21:16,339
+parents, I think that's where the emotion kicks in. We're fighting with our kids on a daily basis,
+
+283
+00:21:16,519 --> 00:21:20,059
+trying to get them off their smartphones, trying to get them to live a healthier life.
+
+284
+00:21:20,460 --> 00:21:24,980
+What would you say to parents listening to this? What are the places where you would start to try
+
+285
+00:21:25,200 --> 00:21:28,240
+and support our kids to live a healthier and more focused life?
+
+286
+00:21:28,559 --> 00:21:32,000
+It's such an important question. It's something I think about a lot about the young people that I
+
+287
+00:21:32,000 --> 00:21:36,799
+love. I would start by saying why it matters, because I think we can see it more easily in
+
+288
+00:21:36,799 --> 00:21:41,200
+our kids than we can see in ourselves. I'll just say to anyone listening, think about anything
+
+289
+00:21:41,200 --> 00:21:45,339
+you've ever achieved in your life that you're proud of, whether it's starting a business,
+
+290
+00:21:45,660 --> 00:21:50,220
+being a good parent, learning to play the guitar, whatever it is. That thing that you're proud of
+
+291
+00:21:50,220 --> 00:21:54,680
+required a huge amount of sustained focus and attention. And the evidence is clear that when
+
+292
+00:21:55,200 --> 00:22:00,059
+the focus and pay attention breaks down, your ability to achieve your goals diminishes. Your
+
+293
+00:22:00,059 --> 00:22:03,980
+ability to solve your problems diminishes. You feel worse about yourself because you actually
+
+294
+00:22:03,980 --> 00:22:09,039
+are significantly less competent when you can't pay attention. Attention is our superpower as a
+
+295
+00:22:09,039 --> 00:22:12,859
+species. At the moment, we're surrounded by kryptonite, to extend this analogy probably too
+
+296
+00:22:12,859 --> 00:22:20,000
+far. But when you get your attention back, it's a feeling of regaining your competence. And we
+
+297
+00:22:20,000 --> 00:22:22,539
+can particularly worry about this with our kids, because we can see if your kids can't pay
+
+298
+00:22:22,539 --> 00:22:25,119
+attention, they're going to die. They'll be okay.
+
+299
+00:22:25,200 --> 00:22:29,160
+But they're never going to be what they could have been if they could have paid attention.
+
+300
+00:22:30,019 --> 00:22:33,779
+Think about in every domain, like we're speaking just after the Olympics, it's during the
+
+301
+00:22:33,779 --> 00:22:38,940
+Paralympics, I was just watching them before we spoke with my god sons. Think about the incredible
+
+302
+00:22:38,940 --> 00:22:43,880
+amount of achievement that goes in. That achievement comes from unbelievably hard and
+
+303
+00:22:43,880 --> 00:22:50,480
+sustained focus over really long periods of time. That's true of all achievement. You can't pay
+
+304
+00:22:50,480 --> 00:22:55,059
+attention, you're going to achieve much less in your life. So in terms of how we have that
+
+305
+00:22:55,200 --> 00:22:57,819
+conversation, obviously it's a conversation I have all the time with my nephews, my god
+
+306
+00:22:57,819 --> 00:23:04,220
+sons, my niece. What absolutely does not work, and I understand the temptation to do it, and I've made
+
+307
+00:23:04,220 --> 00:23:08,059
+this mistake myself, so I'm not judging anyone who's done it, is standing over them saying,
+
+308
+00:23:08,180 --> 00:23:12,240
+there's something wrong with you. Because there's nothing wrong with them. There's something wrong
+
+309
+00:23:12,240 --> 00:23:17,200
+with the environment we've allowed to be built for them. I never approach them in a spirit of,
+
+310
+00:23:18,099 --> 00:23:22,559
+hey, listen, Sonny, I've got to tell you what's wrong with you. I always frame it as we're in a
+
+311
+00:23:22,559 --> 00:23:24,519
+shared struggle here. I've got this problem.
+
+312
+00:23:25,200 --> 00:23:29,859
+You've got this problem. And we all have that conflict where we're drawn to massive amounts
+
+313
+00:23:29,859 --> 00:23:32,740
+of distraction. And by the way, we want some of these distractions in our lives. I'm not saying
+
+314
+00:23:32,740 --> 00:23:36,160
+we should all go and live in a monastery, right? I want this to be part of our lives. We just don't
+
+315
+00:23:36,160 --> 00:23:40,799
+want it to dominate our lives in the way that it currently does. So you start from a position of,
+
+316
+00:23:40,900 --> 00:23:45,720
+we've got a shared problem here. What do you like about this stuff? What don't you like about this
+
+317
+00:23:45,720 --> 00:23:49,759
+stuff? How can we keep some of the stuff you like without all this stuff you don't like?
+
+318
+00:23:49,960 --> 00:23:53,680
+And then how can we build from there? In terms of advice I would give to parents, I would start,
+
+319
+00:23:53,680 --> 00:23:55,180
+there's loads of things, and we can go through.
+
+320
+00:23:55,200 --> 00:23:59,339
+There's many layers to this, but I would just start with one personal thing, and then we can go
+
+321
+00:23:59,339 --> 00:24:04,420
+to bigger stuff if you want. So this is something, I'm holding up something called a K-safe. As you
+
+322
+00:24:04,420 --> 00:24:09,460
+can see, it's a plastic safe. Go online, it's about a hundred bucks in Australian money. You take off
+
+323
+00:24:09,460 --> 00:24:14,880
+the lid, you put in your phone, you put on the lid, you turn this dial at the top, and it'll lock
+
+324
+00:24:14,880 --> 00:24:18,599
+your phone away for however long you tell it to, between five minutes and a whole day. You push
+
+325
+00:24:18,599 --> 00:24:23,980
+that button, it locks. You can't get your phone out, right? I use that for three hours a day to
+
+326
+00:24:23,980 --> 00:24:24,859
+do my writing.
+
+327
+00:24:25,200 --> 00:24:30,819
+I would have finished none of my books. I would recommend if you've got kids, get a K-safe and
+
+328
+00:24:30,819 --> 00:24:36,819
+just start with 15 minutes a day where you all put your phones in the K-safe and have to look
+
+329
+00:24:36,819 --> 00:24:42,700
+into each other's eyes, like in ye olden times. And it'll be really hard at first, right? But
+
+330
+00:24:42,700 --> 00:24:50,720
+the thing about attention is having someone actually listen to you and you actually listening
+
+331
+00:24:50,720 --> 00:24:55,180
+to them is so much more rewarding than whatever shitty update.
+
+332
+00:24:55,200 --> 00:25:00,099
+On Instagram, you're going to have to wait 15 minutes for, right? But you start small, you build
+
+333
+00:25:00,099 --> 00:25:03,400
+up those muscles. Now I can talk about lots of other, that's just one of dozens of things I would
+
+334
+00:25:03,400 --> 00:25:07,140
+say to parents, but I would start with that. I would say install on your phone and your kid's
+
+335
+00:25:07,140 --> 00:25:11,339
+phone, an app called Freedom. Do this with them. Don't impose it on them. Freedom can block you
+
+336
+00:25:11,339 --> 00:25:17,400
+either from specific websites. Let's say you're addicted to Instagram or eBay or TikTok or Porn
+
+337
+00:25:17,400 --> 00:25:21,880
+Hub, whatever it might be. You can say, don't let me go on that specific website for the next five
+
+338
+00:25:21,880 --> 00:25:24,420
+minutes, the next whole day. In fact, you should actually block porn sites,
+
+339
+00:25:25,200 --> 00:25:29,140
+even if your kids want them, but with the other stuff, negotiate with them. You can say for five
+
+340
+00:25:29,140 --> 00:25:33,400
+minutes for a whole day, you can say, give me an hour's window once a day. And then if you try to
+
+341
+00:25:33,400 --> 00:25:38,400
+go on it, it just says you have been set free and you can't get on it, right? So I have social media
+
+342
+00:25:38,400 --> 00:25:43,119
+permanently blocked on all my devices because I just don't want people to say at my funeral,
+
+343
+00:25:43,579 --> 00:25:48,579
+yeah, Johan spent a lot of time on Twitter. I just do not want that to be the life I had, right?
+
+344
+00:25:48,960 --> 00:25:54,400
+Your life is the sum total of the habits you had in that life, right? And there's no use saying I'm
+
+345
+00:25:54,400 --> 00:25:59,740
+the kind of person who reads books and runs on the beach. If hour by hour, you're spending your
+
+346
+00:25:59,740 --> 00:26:02,920
+life scrolling through TikTok. If you're the guy who spends your life scrolling through TikTok,
+
+347
+00:26:03,359 --> 00:26:07,119
+how you spend your hours is how you spend your life, right? I could say many, many more things,
+
+348
+00:26:07,180 --> 00:26:09,619
+but that's where I would begin the conversation. And then there's lots of other things I would
+
+349
+00:26:09,619 --> 00:26:12,880
+talk about. Yeah. And you've touched on that a few times. The regret of the dying is,
+
+350
+00:26:12,940 --> 00:26:17,380
+and I wish I loved and connected more and worked and strive less, or as it turns out,
+
+351
+00:26:17,440 --> 00:26:21,420
+maybe scrolled through my phone less. And I love some of the practical things you described there.
+
+352
+00:26:21,420 --> 00:26:24,200
+I did want to move on to your
+
+353
+00:26:24,400 --> 00:26:29,059
+book, Magic Pill, because it's such an important conversation to have. And I thought I'd just give
+
+354
+00:26:29,059 --> 00:26:33,279
+a little scene setter for those that maybe haven't had a chance to read. I'd encourage you to do it
+
+355
+00:26:33,279 --> 00:26:38,500
+because this is going to be the conversation of our times. In January, 2023, you started to inject
+
+356
+00:26:38,500 --> 00:26:42,880
+yourself once a week with Ozempic, one of the new drugs that produces significant weight loss.
+
+357
+00:26:43,460 --> 00:26:47,660
+And you're far from alone. There's some predictions that you talk about where potentially one in four
+
+358
+00:26:47,660 --> 00:26:52,619
+in the UK and the global population going forward will be taking a version of one of these Ozempic
+
+359
+00:26:54,400 --> 00:26:59,740
+80% of diets fail, but someone taking one of these new weight loss drugs can expect to lose a quarter
+
+360
+00:26:59,740 --> 00:27:04,740
+of their body weight in six months time. The drugs defenders will say this is a moment of liberation
+
+361
+00:27:04,740 --> 00:27:10,059
+from a condition that massively increases your chance of diabetes and cancer and early death.
+
+362
+00:27:10,180 --> 00:27:14,980
+I understand you still feel really conflicted about these Ozempic style drugs. Do they really
+
+363
+00:27:14,980 --> 00:27:19,640
+work as well as they sound? Are they a magic solution or a bit of a magic illusion you write
+
+364
+00:27:19,640 --> 00:27:24,380
+about? You found that the drugs alongside the massive benefits also have 12,
+
+365
+00:27:24,400 --> 00:27:28,579
+significant potential risks that you write about. I just wanted to ask you,
+
+366
+00:27:28,599 --> 00:27:31,880
+can you tell us a bit about your own personal journey with taking Ozempic?
+
+367
+00:27:32,259 --> 00:27:38,140
+Yeah, I remember so vividly the first time I learned about their existence.
+
+368
+00:27:39,059 --> 00:27:45,079
+It was that moment when the world was reopening again at the end of 2022. And I got invited to a
+
+369
+00:27:45,079 --> 00:27:48,619
+party for the first time in ages because no one had had any parties because the world was shut down.
+
+370
+00:27:48,619 --> 00:27:53,619
+And I thought, oh yeah, I remember them. Okay, I'll go. And I was in an Uber on the way there.
+
+371
+00:27:53,680 --> 00:27:54,259
+This party,
+
+372
+00:27:54,400 --> 00:27:57,759
+I'm not saying this just to name drop, it's relevant. This party was thrown by an Oscar
+
+373
+00:27:57,759 --> 00:28:02,440
+winning actor. And I was in an Uber on the way there. And I was feeling a bit kind of
+
+374
+00:28:02,440 --> 00:28:05,980
+self-conscious because I was quite fat when the pandemic started and I gained quite a lot of
+
+375
+00:28:05,980 --> 00:28:11,259
+weight during the pandemic. I thought, oh, it's a bit embarrassing. And then I thought,
+
+376
+00:28:11,319 --> 00:28:16,140
+oh, wait a minute. Actually, loads of people I know gained weight during the pandemic.
+
+377
+00:28:16,880 --> 00:28:20,059
+This party is going to be really interesting. I'm going to see all these Hollywood stars with a bit
+
+378
+00:28:20,059 --> 00:28:24,259
+of like podge on them. This is going to be fascinating. And I arrived and I started walking
+
+379
+00:28:24,259 --> 00:28:29,619
+around and it was the weirdest thing. It's not just that they hadn't gained weight. Everyone was
+
+380
+00:28:29,619 --> 00:28:36,700
+like gone. Like everyone was like markedly thinner and not just the stars, but like people I'd known
+
+381
+00:28:36,700 --> 00:28:42,420
+before, their agents, the screenwriters, the screenwriters, kids. Like I was like, wow.
+
+382
+00:28:42,880 --> 00:28:47,720
+And I bumped into a friend of mine on the dance floor and I said to her, wow, it looks like
+
+383
+00:28:47,720 --> 00:28:52,480
+everyone really did take up Pilates during lockdown. And she laughed. I didn't know why
+
+384
+00:28:52,480 --> 00:28:53,819
+she was laughing. And she said, right, well, you...
+
+385
+00:28:54,259 --> 00:29:00,079
+You know, this isn't Pilates, right? And she showed me a photograph of an Ozempic pen. And I
+
+386
+00:29:00,079 --> 00:29:03,779
+then learned in the next few days that, and obviously spent a lot of time researching this
+
+387
+00:29:03,779 --> 00:29:07,940
+for the book, there has been a staggering medical breakthrough. Sometimes I've seen in the Australian
+
+388
+00:29:07,940 --> 00:29:12,700
+press, this is still being referred to as if it was like a fad or, you know, a diet craze. It's
+
+389
+00:29:12,700 --> 00:29:16,220
+really important people understand. There are lots of things to be worried about here, but this is
+
+390
+00:29:16,220 --> 00:29:21,359
+not a fad. For the first time, we have a drug that means the average person who takes it loses
+
+391
+00:29:21,359 --> 00:29:23,660
+about a quarter of their body weight within a year.
+
+392
+00:29:24,259 --> 00:29:31,759
+It is staggering. And it's not a diet drug in the conventional sense. It radically dials down
+
+393
+00:29:31,759 --> 00:29:37,960
+your hunger. I can explain how. And I remember as soon as I learned about this, I felt two
+
+394
+00:29:37,960 --> 00:29:43,039
+completely conflicting things. The first thing I thought was, well, this could save my life
+
+395
+00:29:43,039 --> 00:29:47,799
+because I was about to turn 44, which is the age my grandfather was when he died of a heart attack.
+
+396
+00:29:48,740 --> 00:29:53,900
+Loads of the men in my family get fat and die of heart attacks. My dad had terrible heart problems.
+
+397
+00:29:53,900 --> 00:29:57,680
+They didn't die of them. My uncle died of a heart attack. As I said, my granddad died of it.
+
+398
+00:29:58,680 --> 00:30:03,460
+And I thought, well, I knew then that obviously obesity makes heart disease much more likely. It
+
+399
+00:30:03,460 --> 00:30:07,680
+actually makes over 200 known diseases or complications. It either causes them or makes
+
+400
+00:30:07,680 --> 00:30:12,259
+them much worse. So I thought, wow, if we've got a drug that can reverse obesity, that's
+
+401
+00:30:12,259 --> 00:30:19,680
+a big deal. But I also thought, oh, wait a minute. This sounds way too good to be true.
+
+402
+00:30:19,680 --> 00:30:23,460
+What effortless weight loss. Come on now.
+
+403
+00:30:23,900 --> 00:30:28,640
+So for the book, I went on this big journey all over the world, from Iceland to Minneapolis to
+
+404
+00:30:28,640 --> 00:30:33,940
+Japan, to interview the leading experts, the biggest defenders, the biggest critics of the
+
+405
+00:30:33,940 --> 00:30:38,359
+drug, to dig into how we got to this point as a society where so many people want to take these
+
+406
+00:30:38,359 --> 00:30:42,799
+drugs, what the alternatives to these drugs are. What I learned is there's a lot to be worried
+
+407
+00:30:42,799 --> 00:30:46,880
+about here. There's some really big risks, but there are staggering benefits to these drugs.
+
+408
+00:30:47,319 --> 00:30:52,640
+It's a complicated picture, but people should be really excited. For people with obesity,
+
+409
+00:30:53,900 --> 00:31:00,099
+this is a staggering game changer. There's a lot to worry about as well, but there's a lot to be
+
+410
+00:31:00,099 --> 00:31:06,059
+excited about. I want to touch on that because at the end of your book, you still say you can't
+
+411
+00:31:06,680 --> 00:31:13,279
+be in favor or against a Zempik because you outline 12 potential side effects. Fascinating
+
+412
+00:31:13,279 --> 00:31:20,039
+to hear you say now that for people with obesity, we know that the life expectancy and the issues
+
+413
+00:31:20,039 --> 00:31:23,880
+are complicated. But you talk about in the book,
+
+414
+00:31:23,900 --> 00:31:28,880
+about diminished muscle mass, fears about the prevalence of the increase in eating disorders.
+
+415
+00:31:29,319 --> 00:31:34,339
+Can I ask you this question then? What scares you the most about these Zempik-style drugs?
+
+416
+00:31:34,579 --> 00:31:41,220
+The way I would put it is these drugs are an unbelievably powerful tool. This is slightly
+
+417
+00:31:41,220 --> 00:31:47,039
+over the top, but only a little bit. The way I think of them is a bit like fire. Fire is a really
+
+418
+00:31:47,039 --> 00:31:52,759
+incredible tool. It's a great tool if I use it to warm my house up. It's a pretty shitty tool if I
+
+419
+00:31:52,759 --> 00:31:53,880
+use it to burn your house down. It's a pretty shitty tool if I use it to burn your house down.
+
+420
+00:31:53,900 --> 00:32:01,539
+And when you get an incredibly powerful new tool, it will obviously have great strengths and great
+
+421
+00:32:01,539 --> 00:32:08,819
+drawbacks. So we know that if you are, as I was pretty much all my adult life, obese, if you take
+
+422
+00:32:08,819 --> 00:32:12,619
+these drugs and you cease to be obese, as I have, I've gone from being, I'm sorry, I know this doesn't
+
+423
+00:32:12,619 --> 00:32:16,440
+work for Australians, but I was 14 and a half stone. I went down to I'm a little bit more than
+
+424
+00:32:16,440 --> 00:32:21,019
+11 stone now. I can never do pounds. I'm sorry, barbaric colonials will have to do the conversions
+
+425
+00:32:21,019 --> 00:32:23,880
+yourself. But we know that that reduces your risk of heart attack. And I think that's a really good
+
+426
+00:32:23,880 --> 00:32:23,900
+thing to do. And I think that's a really good thing to do. And I think that's a really good thing to
+
+427
+00:32:23,900 --> 00:32:24,019
+do. And I think that's a really good thing to do. And I think that's a really good thing to do.
+
+428
+00:32:24,019 --> 00:32:32,079
+stroke by 20% in two years. Incredible, right? Might well be saving my life. And there are huge
+
+429
+00:32:32,079 --> 00:32:38,339
+benefits like that for health. But there are also some pretty significant risks. In terms of what
+
+430
+00:32:38,339 --> 00:32:43,720
+worries me most. Well, there's what worries me for myself. And then there's what worries me
+
+431
+00:32:43,720 --> 00:32:49,460
+for the society and distinguish them a bit. What worries me most for myself, I've decided to
+
+432
+00:32:49,460 --> 00:32:53,720
+continue taking these drugs. Because the heart disease risk in my family is so great. Frankly,
+
+433
+00:32:53,720 --> 00:32:58,099
+out of vanity, like I prefer it now my neighbor's hot gardener hit on me within three months of like
+
+434
+00:32:58,099 --> 00:33:02,559
+taking them. There's loads of great things about not being fat, right? Which are not to do with
+
+435
+00:33:02,559 --> 00:33:06,220
+health. But so I tell myself it's primarily the health benefits. Some of my friends are like,
+
+436
+00:33:06,279 --> 00:33:10,359
+yeah, I can get real. Yeah, health benefits are nice. But come on, let's level with yourself.
+
+437
+00:33:10,920 --> 00:33:17,099
+What worries me for myself, there's a few things. One of them is that we don't know the long term
+
+438
+00:33:17,099 --> 00:33:21,079
+effects of these drugs. So diabetics have been taking them for people who don't know in addition
+
+439
+00:33:21,079 --> 00:33:26,180
+to having this incredible effect for weight loss. These drugs also treat type two diabetes,
+
+440
+00:33:27,039 --> 00:33:31,019
+and they stimulate the creation of insulin. So they've only been used for weight loss for a
+
+441
+00:33:31,019 --> 00:33:36,160
+couple of years, but diabetics have been using them for it'll be well 19 years now. So they
+
+442
+00:33:36,160 --> 00:33:40,539
+haven't been used for that long. There could be some long term effect of these drugs that we just
+
+443
+00:33:40,539 --> 00:33:45,859
+don't know about. Right? Especially since we know that these drugs work primarily by changing how
+
+444
+00:33:45,859 --> 00:33:51,059
+your brain works. That's pretty sobering, right? One of the obesity experts saying,
+
+445
+00:33:51,079 --> 00:33:56,160
+I interviewed a woman in New Orleans, brilliant woman called Dr. Shauna Levy, who's at the Tulane
+
+446
+00:33:56,160 --> 00:34:02,319
+University School of Medicine. She's an obesity specialist there. She said to me, we don't know
+
+447
+00:34:02,319 --> 00:34:07,000
+the long term effects of these drugs. But we do know the long term effects of obesity, and they
+
+448
+00:34:07,000 --> 00:34:12,860
+are catastrophic. So the long term effects of these drugs would have to be really bad to outweigh
+
+449
+00:34:12,860 --> 00:34:18,219
+the harms of obesity. Obesity makes pretty much everything we fear in medical terms much more
+
+450
+00:34:18,219 --> 00:34:21,039
+common. Dementia, heart disease, stroke.
+
+451
+00:34:21,039 --> 00:34:27,800
+Diabetes, cancer. I mean, I was embarrassed to say I was stunned by quite how bad for your obesity is
+
+452
+00:34:27,800 --> 00:34:33,280
+the evidence about this. That's my biggest worry for myself. My biggest worry for the society is
+
+453
+00:34:33,280 --> 00:34:37,000
+different. This is not something I think I'm saying I'm confident will not happen to me. But
+
+454
+00:34:37,000 --> 00:34:41,280
+I'm really worried about young girls with eating disorders getting hold of these drugs, which has
+
+455
+00:34:41,280 --> 00:34:47,019
+already begun. So I think got distinguished between people who take these drugs, who are obese,
+
+456
+00:34:47,019 --> 00:34:50,320
+who take them to come down to be a healthy weight for which there's a strong case, although there
+
+457
+00:34:50,320 --> 00:34:50,800
+are still significant risks. So I think we've got to distinguish between people who take these drugs,
+
+458
+00:34:50,800 --> 00:34:50,900
+who are obese, who take them to come down to be a healthy weight, for which there's a strong case,
+
+459
+00:34:50,900 --> 00:34:57,280
+and then there are people who are already healthy weight or indeed skinny who take them to be super
+
+460
+00:34:57,280 --> 00:35:03,719
+skinny. Like I was on a show recently with one of the Real Housewives of New Jersey who said we're
+
+461
+00:35:03,719 --> 00:35:10,239
+all on it and they were already skinny, right? Now, I don't judge anyone for doing that. Women
+
+462
+00:35:10,239 --> 00:35:13,639
+are made to feel like shit about their bodies, whatever they do. So I'm not standing over them
+
+463
+00:35:13,639 --> 00:35:20,659
+wagging my finger. I don't feel that way. But I am worried about that. And for a lot of people,
+
+464
+00:35:20,659 --> 00:35:24,960
+for lots of reasons, you mentioned loss of muscle mass, it can harm you. There's health risks to
+
+465
+00:35:24,960 --> 00:35:30,820
+being super skinny, right? Particularly as you age. But I'm most worried about girls with eating
+
+466
+00:35:30,820 --> 00:35:34,500
+disorders. I'm sure you've known, pretty much everyone has known someone with an eating disorder
+
+467
+00:35:34,500 --> 00:35:39,420
+in their life. Think about anorexia. If you're anorexic, there's a conflict going on inside you.
+
+468
+00:35:40,300 --> 00:35:44,920
+There's the biological part of you that wants to stay alive and therefore wants to eat.
+
+469
+00:35:45,579 --> 00:35:49,360
+And then there's the psychological part of you that for complicated reasons wants to starve yourself.
+
+470
+00:35:49,360 --> 00:35:54,460
+And what these drugs can do, if you take them at a high dose, they can just amputate your appetite.
+
+471
+00:35:55,320 --> 00:35:59,199
+They can just cut off that biological part of you that wants to eat. Obviously, you're taking too
+
+472
+00:35:59,199 --> 00:36:03,619
+high a dose if that happens, but that's what they want, right? If you have an eating disorder. And
+
+473
+00:36:03,619 --> 00:36:08,360
+there's already a, this is happening, Dr. Kimberly Dennis, one of the leading eating disorders
+
+474
+00:36:08,360 --> 00:36:12,639
+experts in the United States said to me that these drugs are rocket fuel for people with eating
+
+475
+00:36:12,639 --> 00:36:17,019
+disorders. So precisely because these drugs haven't arrived in huge numbers in Australia yet, except
+
+476
+00:36:17,019 --> 00:36:18,440
+for people with diabetes.
+
+477
+00:36:19,360 --> 00:36:22,860
+I would really urge Australia can get this right in a way that Britain and the US have not so far.
+
+478
+00:36:23,760 --> 00:36:28,179
+These drugs, I absolutely believe should be prescribed. More importantly, the world's
+
+479
+00:36:28,179 --> 00:36:31,579
+doctors and medical authorities think that, doesn't really matter what I think, but they should be
+
+480
+00:36:31,579 --> 00:36:39,000
+prescribed very tightly. So at the moment, right, I can look at you, you absolutely do not qualify
+
+481
+00:36:39,000 --> 00:36:43,659
+for these drugs, right? You do not meet the criteria. You are obviously not obese. I guarantee
+
+482
+00:36:43,659 --> 00:36:47,519
+you, you could get an appointment with a doctor on Zoom and pretend to be in Britain, get an
+
+483
+00:36:47,519 --> 00:36:49,320
+appointment with a doctor on Zoom or pretend to be in Britain. You could get an appointment with a doctor on
+
+484
+00:36:49,320 --> 00:36:53,860
+Vegas or anywhere in the US and you would get them delivered to an address in Britain or the US.
+
+485
+00:36:54,460 --> 00:36:59,139
+We need to do not allow them to be prescribed on Zoom in Australia, right? You should have to go
+
+486
+00:36:59,139 --> 00:37:03,840
+to a doctor. The doctor should weigh you and make sure you meet the medical criteria or you have
+
+487
+00:37:03,840 --> 00:37:07,880
+type two diabetes. If you don't meet the medical criteria, they shouldn't give it to you. And if
+
+488
+00:37:07,880 --> 00:37:12,059
+you're trying to get it, you're too skinny. They should be referring you for eating disorders,
+
+489
+00:37:12,519 --> 00:37:17,179
+counseling and help. I worry that in addition to the massive benefits for people like me,
+
+490
+00:37:17,179 --> 00:37:19,300
+and there will be many people in the world whose lives are
+
+491
+00:37:19,320 --> 00:37:23,059
+saved by these drugs, there will be no doubt about that, and whose lives are massively enriched
+
+492
+00:37:23,059 --> 00:37:28,699
+by it. The statistics that are emerging are staggering for the health benefits. I worry if
+
+493
+00:37:28,699 --> 00:37:35,780
+we don't fix the regulation, there will also be an opioid-like death toll of young girls. And for
+
+494
+00:37:35,780 --> 00:37:38,920
+complicated reasons, eating disorders mostly affect young girls, obviously sometimes boys,
+
+495
+00:37:39,000 --> 00:37:42,780
+sometimes older women, but it's overwhelmingly young girls. There'll just be a massive death
+
+496
+00:37:42,780 --> 00:37:46,219
+toll of young girls who would not have been able to starve themselves to death without these drugs,
+
+497
+00:37:46,219 --> 00:37:49,300
+but who will successfully starve themselves.
+
+498
+00:37:49,320 --> 00:37:54,000
+So yeah, and that's just one of the 12 drawbacks in addition to the benefits that I write about in
+
+499
+00:37:54,000 --> 00:37:57,860
+the book. I'm not normally on the one hand, on the other hand kind of person, but these drugs are
+
+500
+00:37:57,860 --> 00:38:03,519
+so powerful that the effects are complicated and we've got to level with people. The book is called
+
+501
+00:38:03,519 --> 00:38:08,139
+Magic Pill because there's three ways these drugs can be magic, right? The first way is they could
+
+502
+00:38:08,139 --> 00:38:11,880
+just solve the problem of obesity. I've got to level with you, Luke. There are days when it
+
+503
+00:38:11,880 --> 00:38:16,119
+feels like that. My whole adult life I've been obese. Now I inject myself in the leg once a week,
+
+504
+00:38:16,119 --> 00:38:18,119
+barely even feel it, tiny little scratch with an EpiPen.
+
+505
+00:38:19,320 --> 00:38:26,000
+I'm not fat anymore, right? It's mad. I don't feel hungry very much. I don't overeat. So it could be magic like that.
+
+506
+00:38:26,000 --> 00:38:31,139
+The second way it could be magic is more disturbing. It could be like a magic trick. It could be
+
+507
+00:38:31,139 --> 00:38:35,500
+like a magician who shows you a card trick while they pick your pocket. It could be that
+
+508
+00:38:35,500 --> 00:38:40,900
+over time the 12 risks associated with these drugs outweigh the benefits. I don't think
+
+509
+00:38:40,900 --> 00:38:45,059
+that's the most likely scenario, but you definitely can't rule it out. The third way it could
+
+510
+00:38:45,059 --> 00:38:48,260
+be magic is I actually think the most likely. Think about all the stories of magic that
+
+511
+00:38:48,260 --> 00:38:48,880
+we grew up with.
+
+512
+00:38:49,320 --> 00:38:55,679
+Think about Aladdin. You find the lamp, you rub it, the genie appears, the genie grants
+
+513
+00:38:55,679 --> 00:39:03,559
+your wish. And it comes true, but never quite in the way you expected. It has all these
+
+514
+00:39:03,559 --> 00:39:07,820
+unpredictable effects. And we're already seeing incredible, unpredictable rippling effects
+
+515
+00:39:07,820 --> 00:39:14,599
+throughout the economy in the US, where now half the population want to take these drugs.
+
+516
+00:39:14,599 --> 00:39:18,599
+So yeah, I think it's most likely to be magic in that third way. It's going to be unpredictable.
+
+517
+00:39:18,599 --> 00:39:19,099
+Yeah.
+
+518
+00:39:19,320 --> 00:39:23,219
+And for anyone that's considering it, you need to read Magic Pill because the brilliance
+
+519
+00:39:23,219 --> 00:39:28,579
+of Johan Hari is you go and speak to the best experts in the world. And there is no judgment
+
+520
+00:39:28,579 --> 00:39:33,360
+in your writing. You just present the facts as you hear them and see them. And it's a
+
+521
+00:39:33,360 --> 00:39:37,760
+complex one, this one. As you said, three-year-olds understand the McDonald's symbol before their
+
+522
+00:39:37,760 --> 00:39:44,460
+own surname often. We're filling the advertising world with these ultra-processed ads for McDonald's
+
+523
+00:39:44,460 --> 00:39:48,280
+and fast food chain. And then at the other end now, we're saying, here's a drug we can
+
+524
+00:39:48,280 --> 00:39:49,019
+inject yourself into.
+
+525
+00:39:49,320 --> 00:39:56,340
+So, it's a complex time, isn't it, for young people?
+
+526
+00:39:56,340 --> 00:39:59,219
+It's so interesting you say that, Luke, because actually, when I was thinking about that,
+
+527
+00:39:59,219 --> 00:40:04,260
+that whole thing you're talking about, there's a really interesting moment in the history
+
+528
+00:40:04,260 --> 00:40:09,139
+of Australia that I think helps us to think about this. So on the one hand, you look at
+
+529
+00:40:09,139 --> 00:40:12,579
+this and go, this is fucking crazy. How did we get to the point where half of Americans
+
+530
+00:40:12,579 --> 00:40:16,659
+want to inject themselves with a drug to stop themselves eating? That just seems so bizarre.
+
+531
+00:40:16,659 --> 00:40:19,000
+How did we reach this point?
+
+532
+00:40:19,320 --> 00:40:20,300
+And I would just say to everyone,
+
+533
+00:40:20,420 --> 00:40:22,539
+just stop listening to this podcast for a second
+
+534
+00:40:22,539 --> 00:40:23,739
+and Google something for me.
+
+535
+00:40:24,679 --> 00:40:27,099
+Google, you can, I found it online.
+
+536
+00:40:27,780 --> 00:40:29,599
+When your prime minister drowned in,
+
+537
+00:40:29,699 --> 00:40:31,519
+I think it was 1966, Harold Holt.
+
+538
+00:40:32,340 --> 00:40:33,719
+So I'm sure people remember,
+
+539
+00:40:33,800 --> 00:40:35,840
+but he disappeared off a beach and was never found.
+
+540
+00:40:36,860 --> 00:40:41,800
+Just Google the beach, video the beach that day.
+
+541
+00:40:42,000 --> 00:40:42,980
+There's news footage of it.
+
+542
+00:40:43,559 --> 00:40:45,639
+So loads of ordinary Australians were just at the beach.
+
+543
+00:40:45,739 --> 00:40:46,260
+They looked for him.
+
+544
+00:40:47,119 --> 00:40:48,280
+And you look at this beach,
+
+545
+00:40:48,280 --> 00:40:50,000
+just look at the people on that beach for a minute
+
+546
+00:40:50,000 --> 00:40:51,079
+and then come back, right?
+
+547
+00:40:52,980 --> 00:40:54,139
+It's really weird.
+
+548
+00:40:55,699 --> 00:40:57,119
+Everyone on the beach that day
+
+549
+00:40:57,119 --> 00:40:59,420
+looks to us to be skinny or ripped.
+
+550
+00:40:59,760 --> 00:41:00,079
+Everyone.
+
+551
+00:41:00,579 --> 00:41:01,360
+You look at it and go,
+
+552
+00:41:01,940 --> 00:41:04,199
+huh, where was everyone else on the beach that day?
+
+553
+00:41:04,400 --> 00:41:05,980
+Was it like a skinny person convention
+
+554
+00:41:05,980 --> 00:41:07,440
+that Harold Holt was attending?
+
+555
+00:41:08,119 --> 00:41:09,920
+And then you look at the figures for Australia.
+
+556
+00:41:10,920 --> 00:41:12,900
+That's what people look like in 1966.
+
+557
+00:41:13,440 --> 00:41:15,780
+There were almost literally no fat people
+
+558
+00:41:15,780 --> 00:41:16,940
+in Australia in 1966.
+
+559
+00:41:17,400 --> 00:41:18,260
+So in the year,
+
+560
+00:41:18,280 --> 00:41:20,119
+I was born 1979,
+
+561
+00:41:20,960 --> 00:41:23,679
+6% of British people were obese.
+
+562
+00:41:24,099 --> 00:41:27,539
+Now it's 27% and rising rapidly, right?
+
+563
+00:41:27,880 --> 00:41:29,380
+Between the year I was born
+
+564
+00:41:29,380 --> 00:41:30,760
+and the year I turned 21,
+
+565
+00:41:31,619 --> 00:41:32,599
+obesity doubled.
+
+566
+00:41:33,239 --> 00:41:34,860
+And then in the next 20 years,
+
+567
+00:41:35,179 --> 00:41:36,360
+severe obesity doubled again.
+
+568
+00:41:37,059 --> 00:41:38,719
+This is really strange.
+
+569
+00:41:39,800 --> 00:41:41,579
+Human beings exist in our modern form
+
+570
+00:41:41,579 --> 00:41:43,659
+for about 350,000 years,
+
+571
+00:41:43,920 --> 00:41:45,639
+between 300 and 350,000 years.
+
+572
+00:41:46,599 --> 00:41:47,960
+And obesity happens sometimes,
+
+573
+00:41:47,960 --> 00:41:48,099
+but it was not the case.
+
+574
+00:41:48,099 --> 00:41:48,239
+It was the case of obesity.
+
+575
+00:41:48,239 --> 00:41:48,260
+It was the case of obesity.
+
+576
+00:41:48,260 --> 00:41:49,340
+It was unbelievably rare.
+
+577
+00:41:49,960 --> 00:41:50,619
+And then literally,
+
+578
+00:41:50,739 --> 00:41:52,039
+I think we're probably about the same age, Luke,
+
+579
+00:41:52,119 --> 00:41:53,679
+in your lifetime and my lifetime,
+
+580
+00:41:54,039 --> 00:41:55,659
+it has blown the fuck up.
+
+581
+00:41:56,360 --> 00:41:56,719
+Why?
+
+582
+00:41:57,480 --> 00:41:58,199
+We know why.
+
+583
+00:41:58,679 --> 00:42:02,059
+This happens everywhere that makes one change.
+
+584
+00:42:02,719 --> 00:42:04,960
+It's where people go from mostly eating a diet
+
+585
+00:42:04,960 --> 00:42:07,179
+of fresh whole foods they prepare on the day
+
+586
+00:42:07,179 --> 00:42:10,260
+to mostly eating a diet of processed
+
+587
+00:42:10,260 --> 00:42:11,460
+and ultra-processed foods,
+
+588
+00:42:11,639 --> 00:42:14,159
+which means foods that are built in factories
+
+589
+00:42:14,159 --> 00:42:15,659
+out of chemicals in a process
+
+590
+00:42:15,659 --> 00:42:17,079
+that isn't actually even called cooking.
+
+591
+00:42:17,500 --> 00:42:18,219
+It's called manufacturing.
+
+592
+00:42:18,219 --> 00:42:18,820
+It's called manufacturing food.
+
+593
+00:42:19,719 --> 00:42:22,820
+And it turns out that new kind of food,
+
+594
+00:42:22,900 --> 00:42:23,699
+which never existed before,
+
+595
+00:42:23,760 --> 00:42:25,659
+your great-grandparents never had one mouthful of it,
+
+596
+00:42:25,719 --> 00:42:26,199
+nor did mine,
+
+597
+00:42:26,480 --> 00:42:27,380
+nor did anyone listening,
+
+598
+00:42:27,679 --> 00:42:28,360
+unless you're very young.
+
+599
+00:42:29,000 --> 00:42:32,000
+That new kind of food affects our bodies
+
+600
+00:42:32,000 --> 00:42:34,199
+in very different ways to the old kind of food.
+
+601
+00:42:34,599 --> 00:42:36,599
+And I go through lots of reasons why in Magic Pill,
+
+602
+00:42:36,659 --> 00:42:39,820
+but there's an experiment that to me really nailed it,
+
+603
+00:42:40,159 --> 00:42:42,079
+done by a guy I interviewed called Dr. Paul Kenny.
+
+604
+00:42:42,599 --> 00:42:44,519
+He's the head of neuroscience at Mount Sinai,
+
+605
+00:42:44,599 --> 00:42:45,159
+a great scientist.
+
+606
+00:42:46,159 --> 00:42:47,340
+It's a super simple experiment.
+
+607
+00:42:47,340 --> 00:42:48,179
+You can all try it.
+
+608
+00:42:48,179 --> 00:42:49,920
+It's at home if you're feeling a little bit sadistic.
+
+609
+00:42:50,679 --> 00:42:52,900
+He got a lot of rats and he raised them in a cage.
+
+610
+00:42:53,820 --> 00:42:56,039
+And all they had to eat was the kind of natural whole foods
+
+611
+00:42:56,039 --> 00:42:58,019
+that rats evolved to eat over thousands of years.
+
+612
+00:42:58,880 --> 00:42:59,900
+And when that's all they had,
+
+613
+00:43:00,579 --> 00:43:02,239
+the rats would eat when they were hungry
+
+614
+00:43:02,239 --> 00:43:04,380
+and stop when they were full.
+
+615
+00:43:05,139 --> 00:43:06,119
+They never overate.
+
+616
+00:43:06,340 --> 00:43:07,400
+They never became fat.
+
+617
+00:43:08,920 --> 00:43:11,199
+Then Dr. Kenny introduced them
+
+618
+00:43:11,199 --> 00:43:12,659
+to the kind of modern American diet
+
+619
+00:43:12,659 --> 00:43:13,800
+that's spreading all over the world,
+
+620
+00:43:14,039 --> 00:43:14,659
+almost all the world.
+
+621
+00:43:15,679 --> 00:43:17,019
+He fried up a load of bacon.
+
+622
+00:43:17,420 --> 00:43:18,159
+He bought a load of snacks.
+
+623
+00:43:18,159 --> 00:43:18,860
+He bought a load of Snickers bars.
+
+624
+00:43:19,000 --> 00:43:20,280
+Crucially, he bought a load of cheesecake.
+
+625
+00:43:21,099 --> 00:43:22,139
+And he put it in the cage.
+
+626
+00:43:23,059 --> 00:43:26,519
+And the rats went apeshit for the American diet.
+
+627
+00:43:26,539 --> 00:43:27,500
+Actually, I don't know if rats can't go apeshit.
+
+628
+00:43:27,559 --> 00:43:29,619
+The rats went crazy for the American diet.
+
+629
+00:43:29,940 --> 00:43:32,179
+They literally would dive into the cheesecake
+
+630
+00:43:32,179 --> 00:43:34,280
+and eat their way out
+
+631
+00:43:34,280 --> 00:43:37,119
+and just emerge completely slicked with cheesecake.
+
+632
+00:43:37,559 --> 00:43:40,139
+They ate and ate and ate and ate.
+
+633
+00:43:40,199 --> 00:43:41,440
+The way Dr. Kenny put it to me
+
+634
+00:43:41,440 --> 00:43:42,719
+is within a couple of days,
+
+635
+00:43:42,780 --> 00:43:43,639
+they were different animals.
+
+636
+00:43:44,000 --> 00:43:44,900
+And within a few weeks,
+
+637
+00:43:44,960 --> 00:43:47,159
+they were all severely obese.
+
+638
+00:43:47,280 --> 00:43:48,139
+Then Dr. Kenny,
+
+639
+00:43:48,139 --> 00:43:49,340
+Kenny tweaked the experiment again
+
+640
+00:43:49,340 --> 00:43:50,579
+in a way it feels a bit cruel to me.
+
+641
+00:43:51,179 --> 00:43:52,460
+He took away the American diet
+
+642
+00:43:52,460 --> 00:43:54,099
+and left them with nothing but the healthy food.
+
+643
+00:43:54,639 --> 00:43:55,860
+And he was sure he knew what would happen.
+
+644
+00:43:55,960 --> 00:43:57,300
+He thought they would eat more calories
+
+645
+00:43:57,300 --> 00:43:58,119
+than they had before.
+
+646
+00:43:58,480 --> 00:43:59,940
+And this would prove that exposure
+
+647
+00:43:59,940 --> 00:44:02,079
+to the American diet expands
+
+648
+00:44:02,079 --> 00:44:03,619
+the number of calories you eat in a day.
+
+649
+00:44:04,420 --> 00:44:05,880
+That is not what happened.
+
+650
+00:44:06,539 --> 00:44:08,219
+What happened was much weirder.
+
+651
+00:44:09,119 --> 00:44:10,780
+Once they'd had the American diet
+
+652
+00:44:10,780 --> 00:44:12,000
+and they stopped,
+
+653
+00:44:12,579 --> 00:44:15,079
+they refused to eat anything at all.
+
+654
+00:44:15,659 --> 00:44:18,119
+It was like they no longer recognized healthy food
+
+655
+00:44:18,119 --> 00:44:18,579
+as food.
+
+656
+00:44:18,860 --> 00:44:20,820
+They literally only went back to eating healthy food
+
+657
+00:44:20,820 --> 00:44:22,699
+when they were actually starving to death.
+
+658
+00:44:23,699 --> 00:44:24,639
+Now to me,
+
+659
+00:44:25,380 --> 00:44:27,639
+I've nicknamed that experiment Cheesecake Park.
+
+660
+00:44:28,239 --> 00:44:29,940
+I would argue we are all living
+
+661
+00:44:29,940 --> 00:44:31,119
+in a version of that experiment.
+
+662
+00:44:31,320 --> 00:44:32,820
+We're all living in Cheesecake Park.
+
+663
+00:44:33,360 --> 00:44:35,079
+Processed and ultra-processed foods
+
+664
+00:44:35,079 --> 00:44:37,719
+undermine your ability to feel full
+
+665
+00:44:37,719 --> 00:44:39,840
+and to get the signal from your body,
+
+666
+00:44:40,079 --> 00:44:41,559
+hey, stop eating now.
+
+667
+00:44:41,619 --> 00:44:42,260
+You've had enough.
+
+668
+00:44:42,900 --> 00:44:43,739
+And what these drugs do
+
+669
+00:44:43,739 --> 00:44:45,239
+is they give you back that feeling of fullness.
+
+670
+00:44:45,239 --> 00:44:46,920
+I actually realized when I started taking Osempic,
+
+671
+00:44:46,980 --> 00:44:48,099
+I had never really felt,
+
+672
+00:44:48,119 --> 00:44:49,219
+I had never really felt full in my life.
+
+673
+00:44:49,420 --> 00:44:50,280
+I'd felt stuffed.
+
+674
+00:44:50,380 --> 00:44:51,880
+I'd felt so stuffed I couldn't eat anymore.
+
+675
+00:44:52,219 --> 00:44:53,400
+But I'd never felt full,
+
+676
+00:44:53,480 --> 00:44:54,699
+not in the way I do now.
+
+677
+00:44:55,420 --> 00:44:56,820
+But obviously that comes at a cost, right?
+
+678
+00:44:57,039 --> 00:44:58,639
+So obviously the deeper solution is
+
+679
+00:44:58,639 --> 00:45:00,539
+let's not fuck up our kids
+
+680
+00:45:00,539 --> 00:45:01,960
+by feeding them this shit.
+
+681
+00:45:02,039 --> 00:45:03,719
+Now again, that's not something that you...
+
+682
+00:45:03,719 --> 00:45:04,300
+As we can see,
+
+683
+00:45:04,340 --> 00:45:05,219
+because I went to Japan
+
+684
+00:45:05,219 --> 00:45:07,139
+where they don't allow that to be done to their kids
+
+685
+00:45:07,139 --> 00:45:10,420
+and there is literally no childhood obesity in Japan.
+
+686
+00:45:10,579 --> 00:45:12,239
+It's a statistically negligible amount.
+
+687
+00:45:12,760 --> 00:45:14,079
+It's a very weird thing
+
+688
+00:45:14,079 --> 00:45:16,260
+to walk around a school of a thousand children
+
+689
+00:45:16,260 --> 00:45:18,099
+and there be not one child.
+
+690
+00:45:18,099 --> 00:45:19,800
+One single fat child in that school.
+
+691
+00:45:20,940 --> 00:45:22,039
+It's bizarre, right?
+
+692
+00:45:22,059 --> 00:45:23,579
+I talk about how Japan achieved that in the book,
+
+693
+00:45:23,659 --> 00:45:25,440
+but we should follow Japan's lead.
+
+694
+00:45:26,340 --> 00:45:27,400
+But for someone like me,
+
+695
+00:45:27,900 --> 00:45:29,380
+it's too late for that, right?
+
+696
+00:45:29,440 --> 00:45:31,719
+Like I would love to wind the clock back to my childhood
+
+697
+00:45:31,719 --> 00:45:34,059
+and do that, but I can't do that, right?
+
+698
+00:45:34,059 --> 00:45:35,360
+So I face this difficult choice,
+
+699
+00:45:35,440 --> 00:45:38,360
+but we should not tolerate that being the choice forever.
+
+700
+00:45:38,940 --> 00:45:40,619
+We can solve the problem at root.
+
+701
+00:45:40,719 --> 00:45:41,840
+You have to take on the food industry.
+
+702
+00:45:41,960 --> 00:45:43,179
+You have to take on all sorts of factors.
+
+703
+00:45:43,280 --> 00:45:44,920
+You have to do what Japan has done,
+
+704
+00:45:45,000 --> 00:45:45,860
+but we can do that.
+
+705
+00:45:45,860 --> 00:45:47,280
+Japan is not a fictional country.
+
+706
+00:45:47,440 --> 00:45:48,059
+It can feel like...
+
+707
+00:45:48,099 --> 00:45:49,340
+It can feel like it a bit at times, but it's not.
+
+708
+00:45:49,900 --> 00:45:51,940
+So yeah, we've got to solve the deeper problem.
+
+709
+00:45:52,039 --> 00:45:54,780
+But in the meantime, we face a difficult choice, right?
+
+710
+00:45:54,900 --> 00:45:55,840
+And some people go,
+
+711
+00:45:56,119 --> 00:45:58,280
+well, you know, I thought this myself.
+
+712
+00:45:58,320 --> 00:46:00,019
+Am I being hypocritical taking the drugs?
+
+713
+00:46:00,139 --> 00:46:01,400
+Because I talk all the time
+
+714
+00:46:01,400 --> 00:46:03,340
+about how we've got to solve these deeper problems.
+
+715
+00:46:03,920 --> 00:46:04,659
+So it's a hypocrisy.
+
+716
+00:46:04,860 --> 00:46:06,500
+But the way I began to think about it is,
+
+717
+00:46:06,539 --> 00:46:08,659
+you know, I spend a lot more time in the US.
+
+718
+00:46:08,760 --> 00:46:10,460
+I'm passionately in favor of gun control,
+
+719
+00:46:10,960 --> 00:46:12,699
+partly because of the lesson we have in Australia.
+
+720
+00:46:12,820 --> 00:46:14,699
+You haven't had any massacres since the Port Arthur massacre
+
+721
+00:46:14,699 --> 00:46:17,440
+because of what John Howard did.
+
+722
+00:46:17,440 --> 00:46:17,500
+Right?
+
+723
+00:46:17,500 --> 00:46:17,559
+Right?
+
+724
+00:46:17,559 --> 00:46:17,619
+Right?
+
+725
+00:46:17,619 --> 00:46:17,639
+Right?
+
+726
+00:46:17,639 --> 00:46:17,659
+Right?
+
+727
+00:46:17,659 --> 00:46:17,679
+Right?
+
+728
+00:46:17,679 --> 00:46:17,699
+Right?
+
+729
+00:46:17,699 --> 00:46:17,719
+Right?
+
+730
+00:46:17,719 --> 00:46:17,739
+Right?
+
+731
+00:46:17,739 --> 00:46:19,099
+And the Australian people supported.
+
+732
+00:46:19,659 --> 00:46:20,940
+I'm in favor of gun control.
+
+733
+00:46:21,800 --> 00:46:25,300
+Someone I know was murdered in a 7-Eleven in Vegas
+
+734
+00:46:25,300 --> 00:46:26,559
+in gun violence.
+
+735
+00:46:27,500 --> 00:46:28,760
+Random gun violence.
+
+736
+00:46:29,199 --> 00:46:30,039
+Not very long ago.
+
+737
+00:46:31,079 --> 00:46:32,320
+I'm passionately in favor of gun control,
+
+738
+00:46:32,420 --> 00:46:34,500
+but if I had been there when my friend Tommy was shot,
+
+739
+00:46:34,880 --> 00:46:37,239
+I would not have stood over him and said,
+
+740
+00:46:37,320 --> 00:46:39,880
+well, guys, we've got to close the gun show loophole
+
+741
+00:46:39,880 --> 00:46:42,179
+and we've got to ban bump stocks and we've got to...
+
+742
+00:46:42,179 --> 00:46:44,199
+No, I would have phoned an ambulance, right?
+
+743
+00:46:44,699 --> 00:46:46,940
+Like, in the same way,
+
+744
+00:46:46,940 --> 00:46:50,400
+of course, we should deal with the deeper factors
+
+745
+00:46:50,400 --> 00:46:51,619
+driving up the obesity crisis,
+
+746
+00:46:51,619 --> 00:46:53,340
+but if you're someone who's already been fucked
+
+747
+00:46:53,340 --> 00:46:54,739
+by the fact we're in this situation,
+
+748
+00:46:55,380 --> 00:46:57,159
+I'm not going to stand over you, wag my finger and say,
+
+749
+00:46:57,219 --> 00:46:58,719
+well, we've got to deal with the deeper social factors.
+
+750
+00:46:59,099 --> 00:46:59,880
+I'm going to say, yeah,
+
+751
+00:46:59,880 --> 00:47:02,019
+let's make sure we all live to fight another day
+
+752
+00:47:02,019 --> 00:47:04,260
+and then we can deal with the deeper social factors.
+
+753
+00:47:04,360 --> 00:47:05,739
+I can't deal with the deeper social factors
+
+754
+00:47:05,739 --> 00:47:07,119
+if I die of a heart attack, right?
+
+755
+00:47:07,460 --> 00:47:08,420
+Yeah, brilliantly said.
+
+756
+00:47:08,500 --> 00:47:11,880
+And you articulate that in a really fair and unique way.
+
+757
+00:47:11,940 --> 00:47:14,280
+I have to go back and comment on Harold Holtbrief.
+
+758
+00:47:14,280 --> 00:47:16,739
+I'm sitting about 45 minutes from that beach
+
+759
+00:47:16,940 --> 00:47:19,260
+and I have looked at that vision before
+
+760
+00:47:19,260 --> 00:47:22,400
+and it is stark to see how different, you know, 1966.
+
+761
+00:47:23,320 --> 00:47:24,460
+In a classic Australian one,
+
+762
+00:47:24,519 --> 00:47:27,000
+only Australians can then name swimming pools
+
+763
+00:47:27,000 --> 00:47:29,579
+after a former prime minister who's drowned.
+
+764
+00:47:29,599 --> 00:47:30,440
+It makes me so happy.
+
+765
+00:47:30,679 --> 00:47:32,639
+And the Harold Holt pool is about 10 minutes
+
+766
+00:47:32,639 --> 00:47:33,179
+from where I'm sitting.
+
+767
+00:47:33,780 --> 00:47:34,980
+It's just...
+
+768
+00:47:34,980 --> 00:47:37,179
+One of the many things I love about Australia,
+
+769
+00:47:37,719 --> 00:47:39,380
+if you ever say to someone you want to distill
+
+770
+00:47:39,380 --> 00:47:41,380
+the Australian spirit into one thing,
+
+771
+00:47:41,679 --> 00:47:42,619
+I wouldn't show them Uluru,
+
+772
+00:47:42,820 --> 00:47:43,960
+I wouldn't show them a fucking koala.
+
+773
+00:47:44,539 --> 00:47:45,980
+Here's the Harold Holt swing pool.
+
+774
+00:47:45,980 --> 00:47:46,219
+Huh?
+
+775
+00:47:46,219 --> 00:47:47,059
+Why is it called that?
+
+776
+00:47:47,199 --> 00:47:48,980
+Because that prime minister fucking drowned.
+
+777
+00:47:49,280 --> 00:47:51,820
+It'd be like having a JFK shooting range or something.
+
+778
+00:47:51,920 --> 00:47:52,860
+Like, what are you doing?
+
+779
+00:47:53,219 --> 00:47:53,679
+Love it.
+
+780
+00:47:53,800 --> 00:47:54,739
+So Australian.
+
+781
+00:47:55,000 --> 00:47:57,739
+And the fact that you can disappear off that beach
+
+782
+00:47:57,739 --> 00:47:58,699
+and never be seen again
+
+783
+00:47:58,699 --> 00:48:01,179
+is still one of the great bizarre mysteries of life.
+
+784
+00:48:01,420 --> 00:48:03,659
+I love this saying, Johan, that success leaves clues.
+
+785
+00:48:03,739 --> 00:48:06,880
+And I'm curious to fire a few questions your way
+
+786
+00:48:06,880 --> 00:48:09,139
+and just around what successful people like you
+
+787
+00:48:09,139 --> 00:48:11,820
+and you've had an incredible, fascinating, interesting life
+
+788
+00:48:11,820 --> 00:48:13,739
+and this idea of self-leadership.
+
+789
+00:48:13,739 --> 00:48:15,940
+But you've overcome your own fair share of challenges
+
+790
+00:48:15,940 --> 00:48:17,599
+in your life when you read about your history
+
+791
+00:48:17,599 --> 00:48:21,119
+before becoming this incredible, successful and trusted author.
+
+792
+00:48:21,239 --> 00:48:22,280
+You have battled your own addiction,
+
+793
+00:48:22,460 --> 00:48:23,679
+which you're incredibly open about.
+
+794
+00:48:23,840 --> 00:48:26,280
+And you resigned from your dream job as a columnist
+
+795
+00:48:26,280 --> 00:48:29,059
+and you had some public challenges with that.
+
+796
+00:48:29,300 --> 00:48:32,159
+And we know it's incredibly hard to lead other people
+
+797
+00:48:32,159 --> 00:48:34,619
+and do what you're doing without an understanding of yourself.
+
+798
+00:48:34,760 --> 00:48:37,039
+How would you describe the way that you lead yourself now?
+
+799
+00:48:37,820 --> 00:48:38,320
+It's interesting.
+
+800
+00:48:39,980 --> 00:48:43,559
+I don't know why, but that concept of leading myself doesn't,
+
+801
+00:48:44,260 --> 00:48:45,840
+it's not how I think about myself.
+
+802
+00:48:45,940 --> 00:48:47,699
+So I've got to think about it for a moment.
+
+803
+00:48:47,860 --> 00:48:52,239
+But I pursue things that I find incredibly meaningful.
+
+804
+00:48:53,920 --> 00:48:57,239
+So for me, when you get knocked off course, as we all do,
+
+805
+00:48:57,500 --> 00:48:59,219
+you face challenges, you face drawbacks.
+
+806
+00:49:00,900 --> 00:49:04,480
+Every book I ever write, very early on in writing it,
+
+807
+00:49:05,539 --> 00:49:09,219
+I write on top of it a paper, why does this matter?
+
+808
+00:49:11,199 --> 00:49:15,840
+And I write a list of reasons why it matters, why I'm doing it.
+
+809
+00:49:15,940 --> 00:49:16,820
+Why is it important?
+
+810
+00:49:18,400 --> 00:49:20,900
+And then when I have moments of writing,
+
+811
+00:49:21,340 --> 00:49:23,579
+I don't like it when writers go, oh, writing is so hard.
+
+812
+00:49:23,900 --> 00:49:25,639
+My grandmother left school when she was 13.
+
+813
+00:49:25,820 --> 00:49:27,699
+She spent her whole fucking life cleaning toilets.
+
+814
+00:49:28,219 --> 00:49:30,239
+I would not go back in time and say to my grandmother,
+
+815
+00:49:30,440 --> 00:49:31,420
+God, my life's so hard.
+
+816
+00:49:31,980 --> 00:49:34,320
+I think when writers say that, I say, get a fucking grip, mate.
+
+817
+00:49:34,480 --> 00:49:35,960
+Go look at how the rest of the world lives.
+
+818
+00:49:36,860 --> 00:49:39,920
+Yeah, there are challenges in our job, but we're really fucking lucky.
+
+819
+00:49:41,000 --> 00:49:43,659
+So with that caveat, when my job is hard,
+
+820
+00:49:45,039 --> 00:49:45,920
+I re-anchor myself.
+
+821
+00:49:46,079 --> 00:49:46,960
+I re-anchor myself around meaning.
+
+822
+00:49:47,980 --> 00:49:50,039
+Meaning gets you through a lot.
+
+823
+00:49:51,039 --> 00:49:55,860
+I interviewed a really amazing Russian psychologist in Moscow
+
+824
+00:49:55,860 --> 00:49:59,820
+who said to me once, you know, Russians,
+
+825
+00:49:59,980 --> 00:50:05,119
+when we look at Anglo-American philosophy and psychology,
+
+826
+00:50:05,860 --> 00:50:09,079
+we just laugh because you talk all the time about,
+
+827
+00:50:09,639 --> 00:50:13,639
+oh, you know, life is about pursuing happiness.
+
+828
+00:50:14,079 --> 00:50:15,280
+You know, it's even there in,
+
+829
+00:50:15,280 --> 00:50:17,260
+is it the Declaration of Independence or the Constitution?
+
+830
+00:50:17,440 --> 00:50:18,619
+I forget the Declaration of Independence, you know.
+
+831
+00:50:20,079 --> 00:50:22,679
+So this is just, to us, this is a joke.
+
+832
+00:50:23,420 --> 00:50:25,840
+Happiness will come and go and you have very little control over it.
+
+833
+00:50:26,119 --> 00:50:27,400
+Life isn't about pursuing happiness.
+
+834
+00:50:27,559 --> 00:50:29,000
+Life is about pursuing meaning.
+
+835
+00:50:29,980 --> 00:50:33,420
+And when you've got meaning, you can absorb a huge amount of pain.
+
+836
+00:50:33,679 --> 00:50:35,219
+Just think about, this is a trivial example,
+
+837
+00:50:35,300 --> 00:50:36,699
+but I went to the dentist last week, right?
+
+838
+00:50:36,760 --> 00:50:37,400
+It was fucking agony.
+
+839
+00:50:39,119 --> 00:50:43,900
+But because that pain happened in the context of a system of meaning,
+
+840
+00:50:43,900 --> 00:50:47,019
+the dentist said, I'm going to inflict terrible pain on you,
+
+841
+00:50:47,179 --> 00:50:49,619
+but it's so that you don't feel more pain in the future
+
+842
+00:50:49,619 --> 00:50:51,579
+and so that your teeth look nice and you're not fucked up.
+
+843
+00:50:52,159 --> 00:50:54,039
+Actually, I was able to endure that pain pretty easily.
+
+844
+00:50:54,440 --> 00:50:55,980
+Now, if someone broke into my house now
+
+845
+00:50:55,980 --> 00:50:58,000
+and stuck a drill into my mouth for no reason,
+
+846
+00:50:58,400 --> 00:50:59,699
+that would literally be torture.
+
+847
+00:50:59,860 --> 00:51:01,539
+I would be like traumatized for years, right?
+
+848
+00:51:01,860 --> 00:51:03,920
+So you see the difference is, what's the difference between the two?
+
+849
+00:51:04,000 --> 00:51:07,780
+So only one thing, which is the system of meaning surrounding it.
+
+850
+00:51:08,179 --> 00:51:12,280
+If you have a system of meaning, you will be able to absorb a lot, right?
+
+851
+00:51:12,679 --> 00:51:13,599
+So for me, I think,
+
+852
+00:51:13,599 --> 00:51:16,239
+one of the reasons, one of the ways I sort of lead myself
+
+853
+00:51:16,239 --> 00:51:19,539
+is I establish, I work on things that are very meaningful to me
+
+854
+00:51:19,539 --> 00:51:21,980
+and I anchor myself in that meaning
+
+855
+00:51:21,980 --> 00:51:26,400
+and I systematically remind myself of the meaning of what I'm doing.
+
+856
+00:51:26,840 --> 00:51:29,619
+Yeah, Johan, and the next sort of dimension I want to talk to you about
+
+857
+00:51:29,619 --> 00:51:30,460
+is that impact.
+
+858
+00:51:30,639 --> 00:51:33,199
+I mean, you've had a global impact on the way people think
+
+859
+00:51:33,199 --> 00:51:36,460
+and given people practical advice
+
+860
+00:51:36,460 --> 00:51:39,880
+and really important information in ways they haven't had before
+
+861
+00:51:39,880 --> 00:51:43,199
+and things that are incredibly challenging for those of us living
+
+862
+00:51:43,199 --> 00:51:43,579
+in the world.
+
+863
+00:51:43,599 --> 00:51:48,960
+What's your advice on how people can impact the way that you've been able
+
+864
+00:51:48,960 --> 00:51:52,119
+to go about other people or to be able to lead the teams of people
+
+865
+00:51:52,119 --> 00:51:52,559
+that they're in?
+
+866
+00:51:52,639 --> 00:51:55,519
+You write books and it's a bit of a solo pursuit that you're in,
+
+867
+00:51:55,599 --> 00:51:58,000
+but do you think about that impact that you have on others
+
+868
+00:51:58,000 --> 00:51:58,760
+in the work that you do?
+
+869
+00:51:59,360 --> 00:52:00,559
+I do think about it.
+
+870
+00:52:00,679 --> 00:52:02,619
+It wouldn't be honest if I said I didn't.
+
+871
+00:52:04,000 --> 00:52:07,059
+I was told something in the zoo in Sydney once.
+
+872
+00:52:08,380 --> 00:52:10,559
+Koala is obviously the only thing they eat, it's eucalyptus leaves,
+
+873
+00:52:10,559 --> 00:52:13,239
+but they're so thick that if the eucalyptus,
+
+874
+00:52:13,599 --> 00:52:15,199
+eucalyptus leaves are not above them,
+
+875
+00:52:15,679 --> 00:52:17,059
+they don't recognize it as food.
+
+876
+00:52:17,219 --> 00:52:20,340
+So the person said to me that a koala would starve to death
+
+877
+00:52:20,340 --> 00:52:24,039
+in a room full of eucalyptus leaves if they were just on the floor.
+
+878
+00:52:24,159 --> 00:52:24,820
+I don't know if that's actually true.
+
+879
+00:52:24,940 --> 00:52:25,539
+I'm going to look it up.
+
+880
+00:52:26,119 --> 00:52:29,960
+But the reason I mentioned that is because I think in a way,
+
+881
+00:52:30,420 --> 00:52:32,159
+a lot of us are a bit like those koalas.
+
+882
+00:52:32,599 --> 00:52:36,519
+The thing that drives me forward most is curiosity.
+
+883
+00:52:37,320 --> 00:52:40,219
+I'm really curious about other people.
+
+884
+00:52:40,980 --> 00:52:43,480
+I like almost everyone I actually meet.
+
+885
+00:52:43,599 --> 00:52:47,019
+And everyone you meet, you just think every single person you ever meet
+
+886
+00:52:47,019 --> 00:52:48,260
+knows stuff you don't know.
+
+887
+00:52:49,159 --> 00:52:51,980
+And they've had a life you haven't had.
+
+888
+00:52:53,099 --> 00:52:55,119
+And if you can tap into that,
+
+889
+00:52:56,179 --> 00:52:58,739
+if you can just be curious about people and develop skills
+
+890
+00:52:58,739 --> 00:53:00,719
+to kind of help people talk about themselves,
+
+891
+00:53:01,340 --> 00:53:03,199
+the world is like infinitely abundant.
+
+892
+00:53:03,320 --> 00:53:04,460
+You're just surrounded by riches.
+
+893
+00:53:04,559 --> 00:53:07,280
+But I think a lot of us, because we're in this culture,
+
+894
+00:53:07,619 --> 00:53:10,719
+again, it's not our fault, encourages us to be narcissistic,
+
+895
+00:53:10,940 --> 00:53:13,239
+to think about ourselves, to be kind of,
+
+896
+00:53:13,239 --> 00:53:15,480
+you know, sealed off in our own egos.
+
+897
+00:53:16,380 --> 00:53:20,639
+We're a bit like this hypothetical koala that's in a room full of eucalyptus leaves
+
+898
+00:53:20,639 --> 00:53:23,139
+but just doesn't even recognize it and is starving to death, right?
+
+899
+00:53:23,900 --> 00:53:26,780
+So I think the more you can be genuinely curious,
+
+900
+00:53:26,900 --> 00:53:30,579
+I think some people think that leadership is standing above people
+
+901
+00:53:30,579 --> 00:53:33,059
+and directing them, right?
+
+902
+00:53:33,239 --> 00:53:35,460
+And of course, there'll be times when leaders have to be like that, right?
+
+903
+00:53:35,619 --> 00:53:41,340
+A general on a battlefield is not conducting an open seminar the whole time, right?
+
+904
+00:53:41,340 --> 00:53:44,159
+The more you can be driven by curiosity,
+
+905
+00:53:44,880 --> 00:53:47,599
+the more you genuinely listen to people,
+
+906
+00:53:49,219 --> 00:53:52,940
+I think the, firstly, just the smarter you'll be.
+
+907
+00:53:53,400 --> 00:53:56,219
+Like, you learn stuff from everyone, right?
+
+908
+00:53:56,659 --> 00:53:59,440
+But also, the more people will lean into you,
+
+909
+00:53:59,500 --> 00:54:01,360
+particularly in a very narcissistic age,
+
+910
+00:54:01,739 --> 00:54:03,840
+when actually very few people feel listened to,
+
+911
+00:54:03,920 --> 00:54:05,400
+very few people are listened to,
+
+912
+00:54:06,239 --> 00:54:08,719
+I think the core of the answer to what you're,
+
+913
+00:54:08,719 --> 00:54:10,059
+I'm not quite getting at it,
+
+914
+00:54:10,159 --> 00:54:10,519
+but the,
+
+915
+00:54:10,519 --> 00:54:11,320
+the,
+
+916
+00:54:11,320 --> 00:54:14,500
+the reason I think I'm effective in so far as I am
+
+917
+00:54:14,500 --> 00:54:18,300
+is because I'm genuinely curious about these questions
+
+918
+00:54:18,300 --> 00:54:22,679
+and that means that I'm also eager once I've learned it
+
+919
+00:54:22,679 --> 00:54:24,639
+to communicate it to other people, right?
+
+920
+00:54:25,079 --> 00:54:27,940
+So I think a lot about how to communicate with people.
+
+921
+00:54:28,079 --> 00:54:29,159
+I don't talk in an,
+
+922
+00:54:29,800 --> 00:54:31,039
+you know, also partly, you know,
+
+923
+00:54:31,079 --> 00:54:32,019
+I'm from a working class family,
+
+924
+00:54:32,119 --> 00:54:33,019
+my dad was a bus driver,
+
+925
+00:54:33,139 --> 00:54:34,000
+my mom was a nurse
+
+926
+00:54:34,000 --> 00:54:36,900
+and then worked in shelters for victims of domestic violence.
+
+927
+00:54:37,599 --> 00:54:39,199
+I was mostly raised by my grandmother
+
+928
+00:54:39,199 --> 00:54:39,940
+because my mother was ill,
+
+929
+00:54:40,000 --> 00:54:40,920
+my dad was in a different country,
+
+930
+00:54:41,000 --> 00:54:41,300
+so most of the time,
+
+931
+00:54:41,300 --> 00:54:41,780
+I was raised by my grandmother
+
+932
+00:54:41,780 --> 00:54:42,320
+who, like I say,
+
+933
+00:54:42,360 --> 00:54:43,420
+left school when she was 13,
+
+934
+00:54:43,780 --> 00:54:45,280
+was a fucking amazing person.
+
+935
+00:54:45,820 --> 00:54:47,059
+I want to communicate
+
+936
+00:54:47,059 --> 00:54:49,059
+with the widest possible range of people.
+
+937
+00:54:49,960 --> 00:54:51,280
+I would always want to write a book
+
+938
+00:54:51,280 --> 00:54:52,619
+that my grandmother could have read, right?
+
+939
+00:54:53,000 --> 00:54:56,300
+A lot of people think kind of,
+
+940
+00:54:56,360 --> 00:54:57,159
+well, the wanky term,
+
+941
+00:54:57,300 --> 00:54:58,099
+even I even hate to use it,
+
+942
+00:54:58,159 --> 00:54:58,940
+but like thought leadership,
+
+943
+00:54:59,139 --> 00:55:00,400
+a lot of people think thought leadership
+
+944
+00:55:00,400 --> 00:55:04,980
+is making things complicated.
+
+945
+00:55:06,280 --> 00:55:08,059
+You know, you don't want to simplify things,
+
+946
+00:55:08,139 --> 00:55:08,960
+but at all,
+
+947
+00:55:08,960 --> 00:55:11,179
+but real intelligence comes from,
+
+948
+00:55:11,179 --> 00:55:13,360
+from making complicated things comprehensible,
+
+949
+00:55:13,659 --> 00:55:15,980
+not from making simple things incomprehensible,
+
+950
+00:55:16,219 --> 00:55:17,840
+which is how many people seem to think of it.
+
+951
+00:55:17,940 --> 00:55:19,780
+Which is the genius of your writing for me
+
+952
+00:55:19,780 --> 00:55:21,280
+is that you take these complex issues
+
+953
+00:55:21,280 --> 00:55:22,719
+and you write them in a way
+
+954
+00:55:22,719 --> 00:55:24,840
+that we can understand that very few can.
+
+955
+00:55:24,920 --> 00:55:26,099
+I want to pick up on that curiosity
+
+956
+00:55:26,099 --> 00:55:27,679
+because you strike me
+
+957
+00:55:27,679 --> 00:55:28,679
+as one of the most curious people
+
+958
+00:55:28,679 --> 00:55:31,780
+I've ever had the pleasure of speaking to you.
+
+959
+00:55:31,940 --> 00:55:34,780
+Could you give an example of a rabbit hole
+
+960
+00:55:34,780 --> 00:55:35,860
+you've gone down recently
+
+961
+00:55:35,860 --> 00:55:37,679
+where that curiosity just takes you
+
+962
+00:55:37,679 --> 00:55:39,460
+into a different direction?
+
+963
+00:55:39,960 --> 00:55:41,159
+Well, the last 15 years,
+
+964
+00:55:41,179 --> 00:55:42,980
+I've been investigating a series of crimes
+
+965
+00:55:42,980 --> 00:55:44,300
+that have been happening in Las Vegas.
+
+966
+00:55:44,500 --> 00:55:46,679
+My publishers will taser me
+
+967
+00:55:46,679 --> 00:55:48,519
+if I talk about it too much, but...
+
+968
+00:55:48,519 --> 00:55:49,460
+Is that the next book?
+
+969
+00:55:49,579 --> 00:55:50,440
+Is that...
+
+970
+00:55:50,440 --> 00:55:50,960
+Yeah.
+
+971
+00:55:52,659 --> 00:55:54,800
+And I've been working on it a really long time.
+
+972
+00:55:54,880 --> 00:55:59,179
+It's a really strange story, but...
+
+973
+00:55:59,980 --> 00:56:01,519
+And so on that, without giving away,
+
+974
+00:56:02,559 --> 00:56:05,219
+which you won't with the book to come out,
+
+975
+00:56:05,360 --> 00:56:07,000
+is it just a story that takes you
+
+976
+00:56:07,000 --> 00:56:08,559
+and that's enough to send you
+
+977
+00:56:08,559 --> 00:56:10,400
+on a mission to uncover more?
+
+978
+00:56:10,400 --> 00:56:11,159
+I mean, so it feels like,
+
+979
+00:56:11,179 --> 00:56:14,059
+a very different genre for you to go down.
+
+980
+00:56:14,280 --> 00:56:15,780
+It's just curiosity's got you
+
+981
+00:56:15,780 --> 00:56:16,760
+and you want to tell this story?
+
+982
+00:56:17,739 --> 00:56:19,719
+I learned that there were people living
+
+983
+00:56:19,719 --> 00:56:21,539
+in the drainage tunnels beneath Las Vegas.
+
+984
+00:56:22,400 --> 00:56:24,159
+So I went there in 2011
+
+985
+00:56:24,159 --> 00:56:27,159
+and I met this amazing couple
+
+986
+00:56:27,159 --> 00:56:29,480
+who I really kind of fell in love with
+
+987
+00:56:29,480 --> 00:56:30,239
+who were living there.
+
+988
+00:56:31,059 --> 00:56:33,659
+And they brought me into this world
+
+989
+00:56:33,659 --> 00:56:37,579
+and then we discovered some really
+
+990
+00:56:37,579 --> 00:56:40,500
+strange things were happening
+
+991
+00:56:40,500 --> 00:56:41,159
+in that world.
+
+992
+00:56:41,179 --> 00:56:45,260
+And I kept going back.
+
+993
+00:56:47,320 --> 00:56:51,219
+And it was curiosity.
+
+994
+00:56:51,480 --> 00:56:52,619
+It was concern for them.
+
+995
+00:56:53,440 --> 00:56:56,780
+It was something in myself.
+
+996
+00:56:57,380 --> 00:56:58,119
+I think a lot of people
+
+997
+00:56:58,119 --> 00:56:59,360
+who spend a lot of time in Vegas,
+
+998
+00:56:59,659 --> 00:57:00,179
+they...
+
+999
+00:57:01,099 --> 00:57:03,639
+Vegas attracts people who have a wound
+
+1000
+00:57:03,639 --> 00:57:05,000
+and don't quite know what it is.
+
+1001
+00:57:05,119 --> 00:57:06,420
+That's a very pretentious thing to say,
+
+1002
+00:57:06,480 --> 00:57:07,360
+but I do think it's true.
+
+1003
+00:57:08,559 --> 00:57:10,280
+Benny Binion, who was in one of the
+
+1004
+00:57:10,280 --> 00:57:11,159
+kind of...
+
+1005
+00:57:11,179 --> 00:57:13,519
+iconic casino owners of Vegas,
+
+1006
+00:57:13,639 --> 00:57:13,800
+said,
+
+1007
+00:57:14,019 --> 00:57:15,619
+if you have a weakness,
+
+1008
+00:57:15,760 --> 00:57:17,000
+Las Vegas will find it.
+
+1009
+00:57:17,639 --> 00:57:20,639
+Which I thought was a very true thing to say.
+
+1010
+00:57:20,920 --> 00:57:23,599
+But yeah, I think there are lots of things.
+
+1011
+00:57:23,920 --> 00:57:27,800
+So, I mean, that's been a bizarre rabbit hole
+
+1012
+00:57:27,800 --> 00:57:29,519
+for a big part of my life.
+
+1013
+00:57:30,480 --> 00:57:32,320
+And there's something about...
+
+1014
+00:57:32,320 --> 00:57:34,599
+You get a depth of understanding
+
+1015
+00:57:34,599 --> 00:57:35,400
+when you work on something
+
+1016
+00:57:35,400 --> 00:57:36,760
+for such a long time.
+
+1017
+00:57:37,480 --> 00:57:38,340
+Although I did the other day,
+
+1018
+00:57:38,340 --> 00:57:39,079
+quite recently,
+
+1019
+00:57:39,320 --> 00:57:40,719
+get someone I know
+
+1020
+00:57:40,719 --> 00:57:41,800
+who lives in one of the tunnels saying,
+
+1021
+00:57:42,019 --> 00:57:43,579
+have you still not written your book yet?
+
+1022
+00:57:43,599 --> 00:57:44,139
+I was like, wow,
+
+1023
+00:57:44,179 --> 00:57:45,679
+I'm being chided on unproductivity
+
+1024
+00:57:45,679 --> 00:57:47,820
+by one of our J's who lives in the tunnel.
+
+1025
+00:57:48,619 --> 00:57:50,719
+This is not a good sign, but...
+
+1026
+00:57:50,719 --> 00:57:51,940
+Johan Hari,
+
+1027
+00:57:52,039 --> 00:57:54,099
+who's been the greatest leader in your life?
+
+1028
+00:57:54,480 --> 00:57:55,519
+Oh God, there's so many.
+
+1029
+00:57:56,039 --> 00:57:56,539
+My grandmother.
+
+1030
+00:57:57,239 --> 00:57:58,539
+It was a great human being.
+
+1031
+00:57:59,380 --> 00:58:00,380
+Two people come to mind.
+
+1032
+00:58:00,820 --> 00:58:02,099
+My friend, Dorothy Byrne.
+
+1033
+00:58:02,659 --> 00:58:03,679
+So lots of British people
+
+1034
+00:58:03,679 --> 00:58:04,360
+will know who I'm talking about.
+
+1035
+00:58:04,460 --> 00:58:05,739
+Dorothy is an absolute legend
+
+1036
+00:58:05,739 --> 00:58:06,860
+in British television.
+
+1037
+00:58:07,639 --> 00:58:08,980
+She was the first woman
+
+1038
+00:58:08,980 --> 00:58:09,980
+to run orchestras
+
+1039
+00:58:10,719 --> 00:58:11,699
+for Current Affairs and News
+
+1040
+00:58:11,699 --> 00:58:12,739
+for a British TV channel
+
+1041
+00:58:12,739 --> 00:58:14,019
+for Channel 4 News in Britain.
+
+1042
+00:58:15,179 --> 00:58:16,500
+She ran it for 20 years.
+
+1043
+00:58:16,679 --> 00:58:18,500
+She's one of the wisest people I know.
+
+1044
+00:58:18,539 --> 00:58:19,699
+She's one of the funniest people I know.
+
+1045
+00:58:19,760 --> 00:58:21,019
+One of the wisest people I know.
+
+1046
+00:58:21,679 --> 00:58:22,980
+And she's a really...
+
+1047
+00:58:22,980 --> 00:58:24,480
+If people Google Dorothy Byrne,
+
+1048
+00:58:24,559 --> 00:58:25,980
+it's B-Y-R-N-E.
+
+1049
+00:58:26,340 --> 00:58:27,099
+She gave something called
+
+1050
+00:58:27,099 --> 00:58:29,260
+the McTaggart Lecture in 2019,
+
+1051
+00:58:29,440 --> 00:58:29,880
+I think it was,
+
+1052
+00:58:29,920 --> 00:58:31,360
+which is like one of the funniest
+
+1053
+00:58:31,360 --> 00:58:33,619
+and most brilliant talks you'll ever see.
+
+1054
+00:58:33,699 --> 00:58:34,219
+And you get a sense
+
+1055
+00:58:34,219 --> 00:58:36,639
+of what an incredible human being Dorothy is.
+
+1056
+00:58:36,920 --> 00:58:38,780
+But she's someone I've...
+
+1057
+00:58:38,780 --> 00:58:40,079
+We've been friends for 20 years.
+
+1058
+00:58:40,199 --> 00:58:40,699
+She's someone I go,
+
+1059
+00:58:40,699 --> 00:58:41,599
+I go to for advice a lot.
+
+1060
+00:58:41,659 --> 00:58:44,800
+She's got a really interesting style, Dorothy.
+
+1061
+00:58:45,300 --> 00:58:46,579
+She's just an incredible human being.
+
+1062
+00:58:46,699 --> 00:58:47,340
+She's someone...
+
+1063
+00:58:47,340 --> 00:58:48,340
+Another one is someone in Vegas,
+
+1064
+00:58:48,460 --> 00:58:49,460
+my friend Paul Votrino
+
+1065
+00:58:49,460 --> 00:58:51,099
+and my friends Paul and Rob,
+
+1066
+00:58:51,300 --> 00:58:52,300
+Rob Banghart.
+
+1067
+00:58:52,920 --> 00:58:53,760
+Paul and Rob used to live
+
+1068
+00:58:53,760 --> 00:58:54,920
+in the tunnels beneath Vegas.
+
+1069
+00:58:55,639 --> 00:58:56,559
+They got out.
+
+1070
+00:58:57,000 --> 00:58:57,880
+They now run a group
+
+1071
+00:58:57,880 --> 00:58:59,219
+which people can donate to online
+
+1072
+00:58:59,219 --> 00:59:00,119
+called Shine a Light
+
+1073
+00:59:00,119 --> 00:59:03,460
+where they go back into the tunnels every day.
+
+1074
+00:59:03,760 --> 00:59:05,320
+They give out supplies,
+
+1075
+00:59:05,619 --> 00:59:06,539
+food, water,
+
+1076
+00:59:06,940 --> 00:59:07,880
+sanitary products,
+
+1077
+00:59:08,519 --> 00:59:09,500
+stuff people need,
+
+1078
+00:59:09,500 --> 00:59:10,500
+but also most importantly,
+
+1079
+00:59:10,699 --> 00:59:11,980
+they offer people help.
+
+1080
+00:59:12,099 --> 00:59:12,980
+So if you want to get out,
+
+1081
+00:59:13,139 --> 00:59:13,900
+they help you.
+
+1082
+00:59:14,400 --> 00:59:15,559
+They've got hundreds of people
+
+1083
+00:59:15,559 --> 00:59:16,219
+out of the tunnels
+
+1084
+00:59:16,219 --> 00:59:18,380
+and back to a healthy life.
+
+1085
+00:59:19,420 --> 00:59:21,920
+They're just the best people I've ever met.
+
+1086
+00:59:22,099 --> 00:59:23,000
+They're amazing people.
+
+1087
+00:59:23,519 --> 00:59:24,699
+And they're like a real model of...
+
+1088
+00:59:25,460 --> 00:59:26,800
+I was thinking about a model of leaders.
+
+1089
+00:59:27,000 --> 00:59:27,539
+They're, fuck me,
+
+1090
+00:59:27,679 --> 00:59:27,699
+they...
+
+1091
+00:59:28,280 --> 00:59:29,480
+Rob and Paul know how to lead.
+
+1092
+00:59:29,579 --> 00:59:29,699
+And it's...
+
+1093
+00:59:30,300 --> 00:59:31,239
+In a funny way, like Dorothy,
+
+1094
+00:59:31,420 --> 00:59:32,699
+they lead in a very...
+
+1095
+00:59:33,460 --> 00:59:35,019
+They're hard-headed people,
+
+1096
+00:59:35,119 --> 00:59:36,460
+but they lead very much
+
+1097
+00:59:36,460 --> 00:59:37,860
+in a spirit of love and compassion.
+
+1098
+00:59:38,039 --> 00:59:40,300
+Dorothy's very much like that.
+
+1099
+00:59:40,300 --> 00:59:40,659
+And Dorothy,
+
+1100
+00:59:40,659 --> 00:59:42,960
+what I love about Dorothy's style of leadership
+
+1101
+00:59:42,960 --> 00:59:44,219
+and Rob and Paul's style of leadership
+
+1102
+00:59:44,219 --> 00:59:47,139
+is they're people who are very focused
+
+1103
+00:59:47,139 --> 00:59:48,900
+on the people who most need help.
+
+1104
+00:59:48,980 --> 00:59:49,480
+I'll give you an example.
+
+1105
+00:59:49,579 --> 00:59:49,880
+Dorothy,
+
+1106
+00:59:50,320 --> 00:59:51,780
+there was a paedophile in Britain
+
+1107
+00:59:51,780 --> 00:59:52,739
+called Sidney Cook
+
+1108
+00:59:52,739 --> 00:59:55,119
+who was one of the worst child abusers
+
+1109
+00:59:55,119 --> 00:59:55,820
+in British history.
+
+1110
+00:59:56,820 --> 00:59:58,320
+And Sidney Cook was about to be released.
+
+1111
+00:59:59,219 --> 01:00:00,800
+And Dorothy went into the NEWS meeting
+
+1112
+01:00:00,800 --> 01:00:02,699
+and they're having all this conversation about
+
+1113
+01:00:02,699 --> 01:00:04,719
+where's Sidney Cook going to live
+
+1114
+01:00:04,719 --> 01:00:05,480
+when he's released
+
+1115
+01:00:05,480 --> 01:00:06,659
+and how that's going to be handled.
+
+1116
+01:00:07,480 --> 01:00:08,239
+And Dorothy said to them,
+
+1117
+01:00:08,960 --> 01:00:10,460
+you're all asking the wrong question.
+
+1118
+01:00:10,659 --> 01:00:11,760
+The question isn't
+
+1119
+01:00:11,760 --> 01:00:12,820
+where will Sidney Cook live
+
+1120
+01:00:12,820 --> 01:00:14,059
+when he's released?
+
+1121
+01:00:14,360 --> 01:00:15,199
+The question is,
+
+1122
+01:00:15,280 --> 01:00:16,800
+why the fuck is Sidney Cook being released?
+
+1123
+01:00:16,880 --> 01:00:17,820
+He's one of the worst paedophiles
+
+1124
+01:00:17,820 --> 01:00:18,500
+in British history.
+
+1125
+01:00:18,980 --> 01:00:20,679
+Let's find all his other victims
+
+1126
+01:00:20,679 --> 01:00:21,659
+who haven't come forward
+
+1127
+01:00:21,659 --> 01:00:23,760
+and make sure he never gets out of prison.
+
+1128
+01:00:24,340 --> 01:00:24,539
+Right?
+
+1129
+01:00:24,820 --> 01:00:26,139
+So she then makes a film about that.
+
+1130
+01:00:27,119 --> 01:00:28,780
+He never got out of prison.
+
+1131
+01:00:29,019 --> 01:00:29,219
+Right?
+
+1132
+01:00:29,599 --> 01:00:30,619
+I mean, I could tell you
+
+1133
+01:00:30,619 --> 01:00:32,000
+like a hundred things like that
+
+1134
+01:00:32,000 --> 01:00:33,719
+that Dorothy did and led.
+
+1135
+01:00:34,579 --> 01:00:36,440
+Lots of Australians will have seen
+
+1136
+01:00:36,440 --> 01:00:37,260
+she made the documentary
+
+1137
+01:00:37,260 --> 01:00:38,219
+Leaving Neverland
+
+1138
+01:00:38,219 --> 01:00:39,860
+about Michael Jackson.
+
+1139
+01:00:39,860 --> 01:00:40,619
+That was her idea.
+
+1140
+01:00:40,659 --> 01:00:41,900
+She was one of the producers.
+
+1141
+01:00:42,579 --> 01:00:43,760
+She made the recent documentary
+
+1142
+01:00:43,760 --> 01:00:44,739
+about Kevin Spacey
+
+1143
+01:00:44,739 --> 01:00:46,039
+with my other amazing friend
+
+1144
+01:00:46,039 --> 01:00:46,860
+Patrick Strudwick
+
+1145
+01:00:46,860 --> 01:00:48,639
+exposing him.
+
+1146
+01:00:49,019 --> 01:00:49,179
+You know,
+
+1147
+01:00:49,840 --> 01:00:50,619
+I mean, Dorothy has just
+
+1148
+01:00:50,619 --> 01:00:52,199
+fearlessly taken on
+
+1149
+01:00:52,199 --> 01:00:53,099
+very powerful people
+
+1150
+01:00:53,099 --> 01:00:54,280
+in the interests of powerless
+
+1151
+01:00:54,280 --> 01:00:56,480
+or people who don't have much power.
+
+1152
+01:00:56,840 --> 01:00:57,880
+And Rob and Paul are the same.
+
+1153
+01:00:58,260 --> 01:00:59,599
+Always focused on, you know,
+
+1154
+01:00:59,980 --> 01:01:01,559
+hard to imagine less powerful people
+
+1155
+01:01:01,559 --> 01:01:03,039
+than people literally living in the drains.
+
+1156
+01:01:03,260 --> 01:01:05,019
+They are focused every day on
+
+1157
+01:01:05,019 --> 01:01:07,579
+they are rightly as valuable
+
+1158
+01:01:07,579 --> 01:01:09,280
+as every other person in Las Vegas.
+
+1159
+01:01:09,840 --> 01:01:10,519
+And okay,
+
+1160
+01:01:10,519 --> 01:01:11,519
+how do we get them
+
+1161
+01:01:11,519 --> 01:01:12,920
+the help they need
+
+1162
+01:01:12,920 --> 01:01:13,760
+to live the lives
+
+1163
+01:01:13,760 --> 01:01:14,860
+that they deserve to live?
+
+1164
+01:01:15,360 --> 01:01:16,139
+Yeah, brilliant answers.
+
+1165
+01:01:16,239 --> 01:01:17,559
+I love asking that question.
+
+1166
+01:01:17,760 --> 01:01:18,699
+You know, you went to your grandma
+
+1167
+01:01:18,699 --> 01:01:20,199
+and then these extraordinary people
+
+1168
+01:01:20,199 --> 01:01:22,400
+and that's what fills me with optimism
+
+1169
+01:01:22,400 --> 01:01:23,300
+is there's great people
+
+1170
+01:01:23,300 --> 01:01:24,659
+doing extraordinary things.
+
+1171
+01:01:25,280 --> 01:01:26,380
+And, you know, for someone like you
+
+1172
+01:01:26,380 --> 01:01:27,500
+to shine a light on that
+
+1173
+01:01:27,500 --> 01:01:29,320
+as you do is a really powerful thing.
+
+1174
+01:01:29,539 --> 01:01:30,920
+We're a bit obsessed with collaboration.
+
+1175
+01:01:31,079 --> 01:01:31,800
+We feel like the world
+
+1176
+01:01:31,800 --> 01:01:33,739
+had gone into silos
+
+1177
+01:01:33,739 --> 01:01:35,139
+and people, as you described,
+
+1178
+01:01:35,219 --> 01:01:36,480
+loneliness is a huge issue
+
+1179
+01:01:36,480 --> 01:01:37,980
+and great things happen
+
+1180
+01:01:37,980 --> 01:01:39,400
+when you connect people together
+
+1181
+01:01:39,400 --> 01:01:40,400
+in unique ways.
+
+1182
+01:01:40,400 --> 01:01:41,539
+From different backgrounds,
+
+1183
+01:01:41,659 --> 01:01:43,099
+a bit like your answer there, isn't it?
+
+1184
+01:01:43,139 --> 01:01:43,940
+Two people living
+
+1185
+01:01:43,940 --> 01:01:45,659
+in the drains of Las Vegas.
+
+1186
+01:01:45,800 --> 01:01:46,719
+Most of us didn't even know
+
+1187
+01:01:46,719 --> 01:01:47,940
+there were drains in Las Vegas,
+
+1188
+01:01:48,019 --> 01:01:49,619
+let alone a community living down there
+
+1189
+01:01:49,619 --> 01:01:51,139
+and exceptional producers
+
+1190
+01:01:51,139 --> 01:01:52,219
+changing the world.
+
+1191
+01:01:52,760 --> 01:01:54,239
+Is there been someone you thought,
+
+1192
+01:01:54,320 --> 01:01:55,840
+God, I'd love to collaborate with them
+
+1193
+01:01:55,840 --> 01:01:56,940
+on a project
+
+1194
+01:01:56,940 --> 01:01:58,420
+or another passion of yours
+
+1195
+01:01:58,420 --> 01:02:00,099
+or another area of your life?
+
+1196
+01:02:00,139 --> 01:02:02,059
+Is there a name that comes to mind?
+
+1197
+01:02:02,159 --> 01:02:02,840
+Clearly you've had access
+
+1198
+01:02:02,840 --> 01:02:04,280
+to interesting people over the journey,
+
+1199
+01:02:04,380 --> 01:02:05,059
+but has there been anyone
+
+1200
+01:02:05,059 --> 01:02:06,539
+that you've been curious about?
+
+1201
+01:02:07,280 --> 01:02:09,619
+I've been like freakishly
+
+1202
+01:02:09,619 --> 01:02:10,239
+and insanely
+
+1203
+01:02:10,239 --> 01:02:11,559
+lucky on this front.
+
+1204
+01:02:11,980 --> 01:02:13,159
+For my book, Stolen Focus,
+
+1205
+01:02:13,619 --> 01:02:15,280
+I did this experiment
+
+1206
+01:02:15,280 --> 01:02:16,579
+where I went off the internet
+
+1207
+01:02:16,579 --> 01:02:17,239
+for three months.
+
+1208
+01:02:17,320 --> 01:02:18,079
+I had no smartphone.
+
+1209
+01:02:18,280 --> 01:02:18,940
+I had no laptop.
+
+1210
+01:02:19,059 --> 01:02:19,659
+I went to this place
+
+1211
+01:02:19,659 --> 01:02:21,119
+in Cape Cod called Provincetown.
+
+1212
+01:02:21,880 --> 01:02:23,519
+It's kind of very up and down experience
+
+1213
+01:02:23,519 --> 01:02:24,380
+that I described in the book.
+
+1214
+01:02:24,539 --> 01:02:27,219
+But when I got reunited with my phone,
+
+1215
+01:02:28,440 --> 01:02:29,039
+for a couple of weeks,
+
+1216
+01:02:29,059 --> 01:02:30,380
+I didn't listen to all the voicemails.
+
+1217
+01:02:31,079 --> 01:02:31,860
+And there was a voicemail.
+
+1218
+01:02:31,940 --> 01:02:32,360
+I was going through
+
+1219
+01:02:32,360 --> 01:02:34,300
+the unidentified numbers
+
+1220
+01:02:34,300 --> 01:02:37,619
+and I was just deleting information
+
+1221
+01:02:37,619 --> 01:02:39,239
+like, you know, just spam.
+
+1222
+01:02:39,239 --> 01:02:39,460
+And I was like,
+
+1223
+01:02:39,460 --> 01:02:41,039
+and I almost didn't listen to this one
+
+1224
+01:02:41,039 --> 01:02:41,900
+that was an unidentified number.
+
+1225
+01:02:42,019 --> 01:02:42,980
+And it said,
+
+1226
+01:02:43,420 --> 01:02:46,219
+hi, Johan, this is Oprah calling.
+
+1227
+01:02:46,800 --> 01:02:47,599
+I read your book.
+
+1228
+01:02:47,639 --> 01:02:48,860
+And it was this long message from Oprah.
+
+1229
+01:02:49,739 --> 01:02:50,980
+And I, because my friends know
+
+1230
+01:02:50,980 --> 01:02:53,159
+how much I fucking love Oprah, right?
+
+1231
+01:02:53,239 --> 01:02:55,079
+Like, I know everyone likes Oprah in that way,
+
+1232
+01:02:55,099 --> 01:02:55,639
+but like, I mean,
+
+1233
+01:02:55,940 --> 01:02:58,079
+I was profoundly shaped
+
+1234
+01:02:58,079 --> 01:03:00,519
+by watching the Oprah Winfrey show every day
+
+1235
+01:03:00,519 --> 01:03:02,280
+for years and years and years, right?
+
+1236
+01:03:02,820 --> 01:03:04,079
+I'm like an Oprah mega fan.
+
+1237
+01:03:04,340 --> 01:03:06,019
+And I thought this is one of my friends
+
+1238
+01:03:06,019 --> 01:03:06,840
+taking the piss, right?
+
+1239
+01:03:06,880 --> 01:03:07,119
+But I was like,
+
+1240
+01:03:07,119 --> 01:03:08,739
+God, they've done a really,
+
+1241
+01:03:08,739 --> 01:03:09,420
+really good job.
+
+1242
+01:03:09,460 --> 01:03:11,480
+Really good impression of Oprah, right?
+
+1243
+01:03:11,800 --> 01:03:12,900
+But at the end of this message,
+
+1244
+01:03:13,159 --> 01:03:14,119
+she doesn't, she says,
+
+1245
+01:03:14,480 --> 01:03:15,719
+well, because your answer machine
+
+1246
+01:03:15,719 --> 01:03:16,300
+doesn't have your voice,
+
+1247
+01:03:16,360 --> 01:03:17,880
+I'm not sure this is actually your number.
+
+1248
+01:03:18,179 --> 01:03:19,340
+So I don't want to leave my number
+
+1249
+01:03:19,340 --> 01:03:20,099
+on a random answer machine.
+
+1250
+01:03:20,179 --> 01:03:21,480
+So I'll call you back, right?
+
+1251
+01:03:22,179 --> 01:03:23,559
+Three fucking months passed.
+
+1252
+01:03:23,639 --> 01:03:24,980
+I did not get a call back from Oprah.
+
+1253
+01:03:25,099 --> 01:03:26,639
+I was like, well, I said, I fucked it, right?
+
+1254
+01:03:26,699 --> 01:03:28,139
+This is, I've missed my one chance.
+
+1255
+01:03:28,480 --> 01:03:29,599
+She'd never got off the internet.
+
+1256
+01:03:30,099 --> 01:03:31,539
+And then she phoned me one day.
+
+1257
+01:03:31,860 --> 01:03:33,380
+I find this slightly surreal to say,
+
+1258
+01:03:33,420 --> 01:03:34,639
+but we are friends.
+
+1259
+01:03:34,780 --> 01:03:35,659
+I'm going to go and see her
+
+1260
+01:03:35,659 --> 01:03:36,920
+in Montecito in a few weeks.
+
+1261
+01:03:36,920 --> 01:03:39,300
+And probably the two people
+
+1262
+01:03:39,300 --> 01:03:40,400
+I most admire in the world
+
+1263
+01:03:40,400 --> 01:03:41,199
+are Noam Chomsky.
+
+1264
+01:03:41,320 --> 01:03:42,340
+In fact, probably the three people
+
+1265
+01:03:42,340 --> 01:03:43,139
+I most admire,
+
+1266
+01:03:43,920 --> 01:03:45,039
+kind of public figures,
+
+1267
+01:03:45,619 --> 01:03:47,119
+are Noam Chomsky, Oprah,
+
+1268
+01:03:47,320 --> 01:03:48,000
+and Eve Ensler,
+
+1269
+01:03:48,059 --> 01:03:48,699
+who a lot of people won't know
+
+1270
+01:03:48,699 --> 01:03:49,760
+because she wrote the vagina monologues,
+
+1271
+01:03:49,820 --> 01:03:50,940
+but has done many things.
+
+1272
+01:03:51,539 --> 01:03:53,400
+And I'm friends with all of them.
+
+1273
+01:03:53,980 --> 01:03:55,739
+So that's been a really bizarre,
+
+1274
+01:03:55,920 --> 01:03:57,380
+like I've cooperated with Chomsky
+
+1275
+01:03:57,380 --> 01:03:57,760
+because I was,
+
+1276
+01:03:58,099 --> 01:03:59,159
+he's sadly not well now,
+
+1277
+01:03:59,219 --> 01:04:00,780
+but he, for many years,
+
+1278
+01:04:00,800 --> 01:04:02,239
+I've been writing his biography,
+
+1279
+01:04:02,400 --> 01:04:03,360
+another long-term project.
+
+1280
+01:04:04,260 --> 01:04:06,019
+He's now 95 and I'll probably be older
+
+1281
+01:04:06,019 --> 01:04:07,079
+than he is now by the time I finish.
+
+1282
+01:04:07,280 --> 01:04:09,139
+So I've been really,
+
+1283
+01:04:09,139 --> 01:04:10,300
+really lucky with all three of them
+
+1284
+01:04:10,300 --> 01:04:11,360
+to get to know them well
+
+1285
+01:04:11,360 --> 01:04:13,360
+and sort of collaborate with them
+
+1286
+01:04:13,360 --> 01:04:14,079
+in various ways.
+
+1287
+01:04:14,260 --> 01:04:14,940
+With Oprah,
+
+1288
+01:04:15,079 --> 01:04:16,320
+she's interviewed me a few times.
+
+1289
+01:04:16,420 --> 01:04:17,659
+I'm going to go and see her
+
+1290
+01:04:17,659 --> 01:04:18,800
+because she's interviewed me again.
+
+1291
+01:04:19,639 --> 01:04:21,480
+If you had told my 10-year-old self
+
+1292
+01:04:21,480 --> 01:04:24,579
+one day you'll,
+
+1293
+01:04:24,760 --> 01:04:25,840
+well, I wouldn't know what texting was
+
+1294
+01:04:25,840 --> 01:04:26,519
+when I was 10, I guess,
+
+1295
+01:04:26,559 --> 01:04:28,340
+but you'll be like texting with Oprah
+
+1296
+01:04:28,340 --> 01:04:29,420
+and Chomsky.
+
+1297
+01:04:29,719 --> 01:04:30,539
+I would have been like,
+
+1298
+01:04:31,460 --> 01:04:33,780
+yeah, and you'll have a device
+
+1299
+01:04:33,780 --> 01:04:34,840
+on which you can push a button
+
+1300
+01:04:34,840 --> 01:04:36,099
+and someone will deliver KFC
+
+1301
+01:04:36,099 --> 01:04:37,239
+to your house.
+
+1302
+01:04:39,139 --> 01:04:40,780
+And you'll have a massive television
+
+1303
+01:04:40,780 --> 01:04:43,199
+on which you can watch any film
+
+1304
+01:04:43,199 --> 01:04:43,940
+that's ever been made.
+
+1305
+01:04:44,019 --> 01:04:44,360
+I would have been like,
+
+1306
+01:04:44,380 --> 01:04:44,920
+well, that's it.
+
+1307
+01:04:45,679 --> 01:04:46,579
+What you're telling me
+
+1308
+01:04:46,579 --> 01:04:48,119
+is I will live in Nirvana, right?
+
+1309
+01:04:48,159 --> 01:04:50,239
+My life will be entirely complete
+
+1310
+01:04:50,239 --> 01:04:51,639
+and I'll be in a state
+
+1311
+01:04:51,639 --> 01:04:53,820
+of constant ecstasy until death, right?
+
+1312
+01:04:54,480 --> 01:04:55,639
+So yeah, I've been very,
+
+1313
+01:04:55,639 --> 01:04:56,940
+very lucky with that.
+
+1314
+01:04:56,960 --> 01:04:58,239
+What a brilliant note to finish on
+
+1315
+01:04:58,239 --> 01:04:59,360
+and I've thoroughly enjoyed
+
+1316
+01:04:59,360 --> 01:05:00,340
+our conversation.
+
+1317
+01:05:00,639 --> 01:05:01,679
+I could talk for hours.
+
+1318
+01:05:01,800 --> 01:05:03,800
+So curious about the many things
+
+1319
+01:05:03,800 --> 01:05:05,420
+that you do and really excited
+
+1320
+01:05:05,420 --> 01:05:06,280
+to see you here in Australia.
+
+1321
+01:05:06,380 --> 01:05:07,539
+Hopefully you get to catch up
+
+1322
+01:05:07,539 --> 01:05:08,539
+in person.
+
+1323
+01:05:08,539 --> 01:05:09,119
+I know you're doing a lot of stuff.
+
+1324
+01:05:09,139 --> 01:05:09,760
+You're doing a great tour.
+
+1325
+01:05:10,239 --> 01:05:11,960
+Yeah, come to the Melbourne show.
+
+1326
+01:05:12,039 --> 01:05:12,619
+I should say to people
+
+1327
+01:05:12,619 --> 01:05:14,280
+or my publicist will taser me.
+
+1328
+01:05:14,739 --> 01:05:15,699
+But yeah, I'm speaking
+
+1329
+01:05:15,699 --> 01:05:17,159
+about our attention crisis,
+
+1330
+01:05:17,539 --> 01:05:18,739
+why it's happening in Australia,
+
+1331
+01:05:18,940 --> 01:05:20,079
+what people can do about it,
+
+1332
+01:05:20,480 --> 01:05:21,539
+very practical level,
+
+1333
+01:05:21,679 --> 01:05:23,300
+how we can all get our focus back.
+
+1334
+01:05:23,599 --> 01:05:25,280
+I'm doing it in Sydney, Melbourne,
+
+1335
+01:05:26,119 --> 01:05:28,260
+Perth, Adelaide, Canberra.
+
+1336
+01:05:28,539 --> 01:05:29,539
+We'll put all the dates out
+
+1337
+01:05:29,539 --> 01:05:31,079
+on the show notes on this show
+
+1338
+01:05:31,079 --> 01:05:33,159
+and hosted by the beautiful
+
+1339
+01:05:33,159 --> 01:05:34,659
+Sarah Grimberg, who's a champion,
+
+1340
+01:05:35,539 --> 01:05:36,800
+who's going to be sensational.
+
+1341
+01:05:37,260 --> 01:05:38,760
+And Johan, it's a great contribution
+
+1342
+01:05:38,760 --> 01:05:40,320
+that you make every day.
+
+1343
+01:05:40,420 --> 01:05:41,860
+We've all been inspired by your work
+
+1344
+01:05:41,860 --> 01:05:43,960
+and real pleasure to speak to you today.
+
+1345
+01:05:44,039 --> 01:05:44,539
+Thanks for your time.
+
+1346
+01:05:44,840 --> 01:05:45,900
+Oh, I really appreciate it.
+
+1347
+01:05:45,900 --> 01:05:46,659
+And I should just say as well
+
+1348
+01:05:46,659 --> 01:05:47,460
+that anyone who wants to know
+
+1349
+01:05:47,460 --> 01:05:48,340
+where to get the audio books,
+
+1350
+01:05:48,420 --> 01:05:49,460
+physical books and my books,
+
+1351
+01:05:49,920 --> 01:05:54,139
+you go to johannhari.com.
+
+1352
+01:05:54,739 --> 01:05:56,320
+Thanks for listening to another episode
+
+1353
+01:05:56,320 --> 01:05:57,760
+of the Empowering Leaders podcast.
+
+1354
+01:05:58,099 --> 01:05:59,079
+Huge thanks as always
+
+1355
+01:05:59,079 --> 01:06:00,239
+to our great friends at Temper.
+
+1356
+01:06:00,619 --> 01:06:02,239
+And we encourage you to check out
+
+1357
+01:06:02,239 --> 01:06:03,639
+our Leader Connect program.
+
+1358
+01:06:04,019 --> 01:06:05,039
+New episodes are out
+
+1359
+01:06:05,039 --> 01:06:06,980
+every Wednesday morning at 6am.
+

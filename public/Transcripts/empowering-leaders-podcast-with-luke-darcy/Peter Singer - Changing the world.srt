@@ -1,0 +1,2812 @@
+1
+00:00:02,480 --> 00:00:11,080
+What does it take to be the catalyst for a global movement for change?
+
+2
+00:00:12,259 --> 00:00:15,000
+And how do you effectively broadcast and communicate your beliefs
+
+3
+00:00:15,000 --> 00:00:18,019
+whilst being accepting and open to the opinion of others?
+
+4
+00:00:20,660 --> 00:00:21,660
+G'day, it's Luke Darcy.
+
+5
+00:00:21,899 --> 00:00:25,519
+The idea of self-improvement and leadership both on and off the field
+
+6
+00:00:25,519 --> 00:00:27,280
+has been a lifelong passion of mine.
+
+7
+00:00:28,000 --> 00:00:30,199
+With one of my oldest friends, we created a leader collective
+
+8
+00:00:30,199 --> 00:00:32,939
+and have had the privilege of working with thousands of leaders
+
+9
+00:00:32,939 --> 00:00:36,100
+in education, sport, industry and the arts
+
+10
+00:00:36,100 --> 00:00:40,079
+that have helped shift to what we see as the 21st century style of leadership
+
+11
+00:00:40,079 --> 00:00:41,539
+where everyone has a voice.
+
+12
+00:00:42,460 --> 00:00:46,119
+In this podcast, we hear stories from these iconic leaders.
+
+13
+00:01:02,630 --> 00:01:06,670
+Peter Singer has been described as the world's most influential living philosopher.
+
+14
+00:01:06,670 --> 00:01:09,629
+His book, Animal Liberation, published in 1975,
+
+15
+00:01:10,269 --> 00:01:13,150
+is credited with starting the modern animal rights movement.
+
+16
+00:01:13,829 --> 00:01:16,969
+Peter's influence and extensive writing on the topic of effective altruism
+
+17
+00:01:16,969 --> 00:01:20,530
+has led to many of the richest people on the planet committing to donating
+
+18
+00:01:20,530 --> 00:01:21,670
+the vast majority...
+
+19
+00:01:21,689 --> 00:01:23,409
+of their wealth in their lifetime.
+
+20
+00:01:24,109 --> 00:01:26,109
+He's the founder of The Life You Can Save,
+
+21
+00:01:26,530 --> 00:01:29,290
+an organisation based on his book of the same name,
+
+22
+00:01:29,709 --> 00:01:32,730
+which mounts a very convincing argument that we should all be doing more
+
+23
+00:01:32,730 --> 00:01:35,969
+to improve the lives of people living in extreme poverty.
+
+24
+00:01:36,530 --> 00:01:39,790
+Peter was born in Melbourne in 1946, educated at Melbourne University
+
+25
+00:01:39,790 --> 00:01:41,189
+and Oxford in the UK.
+
+26
+00:01:41,790 --> 00:01:45,810
+In 1999, Peter became the Professor of Bioethics at Princeton University.
+
+27
+00:01:45,989 --> 00:01:48,549
+Peter Singer, it's a great honour and a great privilege to meet you.
+
+28
+00:01:48,609 --> 00:01:49,750
+Thanks for joining me on the podcast.
+
+29
+00:01:49,750 --> 00:01:51,109
+You're very welcome, Luke.
+
+30
+00:01:51,109 --> 00:01:52,790
+And I'm pleased to be able to talk to you.
+
+31
+00:01:53,129 --> 00:01:56,829
+Peter, I have to say, effective altruism was not a term that I was familiar with
+
+32
+00:01:56,829 --> 00:02:00,930
+before reading your books and doing some research for today.
+
+33
+00:02:01,109 --> 00:02:04,950
+Can you explain to those listening to the podcast today what it means
+
+34
+00:02:04,950 --> 00:02:07,629
+and why you've had a real passion for expanding that around the world?
+
+35
+00:02:07,989 --> 00:02:10,250
+Yeah, it's actually a relatively new term.
+
+36
+00:02:10,330 --> 00:02:12,469
+It's only been going a dozen or so years.
+
+37
+00:02:12,849 --> 00:02:15,409
+I think most people understand what altruism means.
+
+38
+00:02:15,750 --> 00:02:19,610
+That's wanting to help others, wanting to make the world a better place,
+
+39
+00:02:19,610 --> 00:02:21,030
+not just thinking about yourself.
+
+40
+00:02:21,110 --> 00:02:25,789
+And that's been an ideal that many people have had and some of them have followed.
+
+41
+00:02:26,289 --> 00:02:30,469
+But they often haven't thought about how to do that most effectively.
+
+42
+00:02:31,110 --> 00:02:33,990
+And that's a contrast to a lot of the things that we do.
+
+43
+00:02:34,050 --> 00:02:40,509
+For example, if we need to buy something, we're often very concerned to look at what's online
+
+44
+00:02:40,509 --> 00:02:44,270
+to get information about is this going to give me the best value for my money?
+
+45
+00:02:44,669 --> 00:02:49,189
+Am I paying more for my phone or my new car or whatever else it might be
+
+46
+00:02:49,189 --> 00:02:51,050
+than I really need to to get what I want?
+
+47
+00:02:51,669 --> 00:02:58,210
+But when it comes to doing good, and the most obvious comparison here would be donating to a charity,
+
+48
+00:02:58,870 --> 00:03:04,610
+very few people really ask, is this charity going to do the most good with the money
+
+49
+00:03:04,610 --> 00:03:08,490
+that I'm going to give them as compared with other charities that I might give the same amount to?
+
+50
+00:03:09,490 --> 00:03:13,870
+And effective altruists got interested in that question and started doing some research
+
+51
+00:03:13,870 --> 00:03:18,849
+to find out how you can know which charities are doing the most good.
+
+52
+00:03:19,449 --> 00:03:21,050
+And then they all started looking up.
+
+53
+00:03:21,110 --> 00:03:25,669
+But at other things that you might do, apart from donating, like what career you might choose
+
+54
+00:03:25,669 --> 00:03:29,330
+if you're interested in a career that will help to improve the world,
+
+55
+00:03:29,810 --> 00:03:35,409
+and if you're going to volunteer to work for an organization, again, which one should you work for?
+
+56
+00:03:36,629 --> 00:03:40,629
+There's a whole lot of different things in which ways you can be effective
+
+57
+00:03:40,629 --> 00:03:42,169
+and try to make the world a better place.
+
+58
+00:03:42,610 --> 00:03:45,689
+And that's really what the effective altruism movement is all about.
+
+59
+00:03:46,050 --> 00:03:51,009
+And it's now a worldwide movement with people in many different places in touch
+
+60
+00:03:51,009 --> 00:03:51,090
+with the world. And that's really what the effective altruism movement is all about.
+
+61
+00:03:51,110 --> 00:03:56,330
+Having discussions, sharing experiences about how to do the most good most effectively.
+
+62
+00:03:56,789 --> 00:04:02,349
+Peter, you share some stories that I think really cut to the chase of what you're about.
+
+63
+00:04:02,449 --> 00:04:07,169
+And I wonder if you could retell the story of the two-year-old Wang Yu who was hit by a van
+
+64
+00:04:07,169 --> 00:04:10,949
+in Southern China. Everyone will be horrified by this story.
+
+65
+00:04:11,009 --> 00:04:15,990
+But I think then in the context that you explain around just how many children die each year
+
+66
+00:04:15,990 --> 00:04:21,089
+from preventable disease, can you share that story and then put it into the context of that story?
+
+67
+00:04:21,110 --> 00:04:26,850
+Yes, this was a tragic incident that happened in the Chinese town of Foshan.
+
+68
+00:04:28,189 --> 00:04:35,670
+And Wang Yu was a little girl about two years old who somehow wandered away from the attention
+
+69
+00:04:35,670 --> 00:04:41,810
+of her mother. It was a little street full of shops, but there was also some traffic in it.
+
+70
+00:04:42,389 --> 00:04:50,990
+And she wandered out into the street where she did get hit by a van. And while she was lying
+
+71
+00:04:50,990 --> 00:04:57,730
+there in the street, I think about 17 people walked past her and just kind of averted their
+
+72
+00:04:57,730 --> 00:05:01,750
+eyes. They didn't say, why is this little girl lying here? This is dangerous. We should do
+
+73
+00:05:01,750 --> 00:05:08,250
+something. They just walked on by. And it wasn't until a cleaner came along and noticed her and
+
+74
+00:05:08,250 --> 00:05:14,110
+sounded the alarm that help was called. But by that time, she'd actually already been run over
+
+75
+00:05:14,110 --> 00:05:18,189
+a second time. And by the time she got to hospital, it was too late. She was dead.
+
+76
+00:05:18,670 --> 00:05:20,970
+Now, that was captured.
+
+77
+00:05:20,990 --> 00:05:26,490
+It was captured on video because there was a video cam in the street. And when it was shown
+
+78
+00:05:26,490 --> 00:05:31,009
+on television in China, of course, people were shocked, horrified, as you would be,
+
+79
+00:05:31,269 --> 00:05:39,589
+that these people had just walked on by. And yet I used the incident to suggest to my students
+
+80
+00:05:39,589 --> 00:05:46,709
+that in a somewhat similar way, we're also walking on by when we could help people who
+
+81
+00:05:46,709 --> 00:05:50,970
+are dying of preventable causes, not in front of us, not on the street.
+
+82
+00:05:50,990 --> 00:05:57,629
+You know, where we're walking, but in distant countries. But still, we can easily find out
+
+83
+00:05:57,629 --> 00:06:03,870
+about this. We know that they are dying from preventable diseases like malaria, which can
+
+84
+00:06:03,870 --> 00:06:08,350
+be prevented if they can sleep under bed nets, or from diarrhea, which can be prevented with
+
+85
+00:06:08,350 --> 00:06:14,810
+simple treatment, or providing safe drinking water and sanitation. So there are things that
+
+86
+00:06:14,810 --> 00:06:20,970
+we can do at not very much expense to us that can help to save lives. And yet,
+
+87
+00:06:20,990 --> 00:06:28,069
+many of us know this in some dim way, but never act on it. Never think, well, look,
+
+88
+00:06:28,189 --> 00:06:32,850
+I'm spending money on something I don't really need. And I could save a child's life with it.
+
+89
+00:06:32,990 --> 00:06:39,269
+You know, a child may be quite similar to this little two-year-old girl. And, you know,
+
+90
+00:06:39,410 --> 00:06:46,370
+should I do that? That's the question that I use that sad story to raise to get people to think
+
+91
+00:06:46,370 --> 00:06:50,509
+about. And I think your numbers, Peter, suggest that there's, you know, five and a half million
+
+92
+00:06:50,990 --> 00:06:55,730
+children under the age of five still dying from preventable disease. As you said, stuff like
+
+93
+00:06:55,730 --> 00:07:02,610
+malaria, diarrhea, effectively dying of poverty rather than illness. And your book, The Life You
+
+94
+00:07:02,610 --> 00:07:09,170
+Can Save, How to Do Your Part to End World Poverty, reading it in recent times, it's confronting. And
+
+95
+00:07:09,170 --> 00:07:14,870
+I think you're right in that way, Peter, because you're left thinking immediately, am I doing
+
+96
+00:07:14,870 --> 00:07:19,389
+enough to help people less fortunate? Can I do more? Can I ask you that question then? Someone
+
+97
+00:07:19,389 --> 00:07:20,269
+like me who's lived clearly, I think, I think, I think, I think, I think, I think, I think, I think,
+
+98
+00:07:20,269 --> 00:07:20,970
+I think, I think, I think, I think, I think, I think, I think, I think, I think, I think, I think, I think, I think,
+
+99
+00:07:20,990 --> 00:07:26,529
+a fortunate life to be in the West and to live in affluence. I think anyone in the West is probably
+
+100
+00:07:26,529 --> 00:07:32,910
+in that category. What level should we be doing to make a difference? Yeah, so in The Life You
+
+101
+00:07:32,910 --> 00:07:37,889
+Can Save, at the back of the book, I do have a kind of a chart, which is somewhat arbitrary,
+
+102
+00:07:38,029 --> 00:07:44,110
+but I start off low for people who don't have very much to spare. Let's say, this was written
+
+103
+00:07:44,110 --> 00:07:49,709
+for the US, but it's roughly comparable. I was saying for people earning $40,000 or above,
+
+104
+00:07:49,970 --> 00:07:50,970
+maybe they could think of a way to save. I don't know. I don't know. I don't know. I don't know.
+
+105
+00:07:50,990 --> 00:07:56,230
+I think about giving 1% of their income to effective charities. And as that amount goes up,
+
+106
+00:07:56,730 --> 00:08:02,949
+let's say you're over $100,000, you might think about 5%. You might go higher than that,
+
+107
+00:08:03,029 --> 00:08:07,769
+and you might start to do the traditional tithe. In fact, obviously, I know many people at lower
+
+108
+00:08:07,769 --> 00:08:13,050
+incomes who are tithing, who are giving 10% of their income. And if you get really wealthy,
+
+109
+00:08:13,149 --> 00:08:19,649
+then maybe you could give 20% or a third of it. The idea of my scale is I don't want anybody to
+
+110
+00:08:19,649 --> 00:08:25,829
+feel that this is a huge hardship, that this is damaging their lives in a significant way.
+
+111
+00:08:25,829 --> 00:08:32,850
+I want people to realize that without much financial sacrifice, and I would argue with
+
+112
+00:08:32,850 --> 00:08:37,929
+actually positive benefits in terms of your well-being and your feeling of fulfillment
+
+113
+00:08:37,929 --> 00:08:44,590
+and purpose in your life, people can give enough to make a really big difference in
+
+114
+00:08:44,590 --> 00:08:45,610
+the lives of others.
+
+115
+00:08:45,610 --> 00:08:51,610
+Peter, your influence in writing has had a profound impact on the Giving Pledge, which
+
+116
+00:08:51,610 --> 00:08:58,250
+is, I think in 2019, 204 billionaires and possibly more now across 23 countries had
+
+117
+00:08:58,250 --> 00:09:01,370
+agreed to give away the vast majority of their wealth in their lifetime.
+
+118
+00:09:01,690 --> 00:09:05,450
+And these are household names, Warren Buffett, Bill and Melinda Gates, Michael Bloomberg,
+
+119
+00:09:06,330 --> 00:09:10,409
+Mackenzie Bezos, Carl Icahn, Ray Dalio, and the list goes on and on.
+
+120
+00:09:11,009 --> 00:09:13,610
+In your mind, are the super wealthy doing enough?
+
+121
+00:09:13,870 --> 00:09:15,250
+No, I don't think they're doing enough.
+
+122
+00:09:15,250 --> 00:09:19,490
+I think we ought to praise those who have signed the Giving Pledge and who are acting
+
+123
+00:09:19,490 --> 00:09:19,929
+on it.
+
+124
+00:09:21,289 --> 00:09:23,330
+But I think there are many who haven't.
+
+125
+00:09:24,409 --> 00:09:28,549
+And even for those who have, as you say, to give away half of their wealth before they
+
+126
+00:09:28,549 --> 00:09:33,190
+die, you know, if they're billionaires, they could give away a lot more than half.
+
+127
+00:09:34,190 --> 00:09:37,929
+They don't need, you know, 500 million.
+
+128
+00:09:38,029 --> 00:09:39,669
+They don't need 100 million.
+
+129
+00:09:40,409 --> 00:09:41,830
+So they could do a lot more.
+
+130
+00:09:41,830 --> 00:09:45,029
+And some of those, you know, are not giving.
+
+131
+00:09:45,250 --> 00:09:48,009
+They're not giving in the most effective ways either.
+
+132
+00:09:48,330 --> 00:09:52,509
+They're giving to buildings, you know, at my own university at Princeton.
+
+133
+00:09:53,610 --> 00:09:58,250
+You know, there's a huge building program going on because there are wealthy alumni of Princeton
+
+134
+00:09:58,250 --> 00:10:00,590
+who want buildings with their names on them.
+
+135
+00:10:00,649 --> 00:10:04,990
+And they're prepared to give for buildings more than they're prepared to give for, say,
+
+136
+00:10:05,070 --> 00:10:08,169
+scholarships to help needy people study at Princeton.
+
+137
+00:10:08,649 --> 00:10:10,769
+There are some who do give for that, I should say.
+
+138
+00:10:11,690 --> 00:10:14,730
+But, you know, that seems worldwide.
+
+139
+00:10:14,889 --> 00:10:15,169
+People were...
+
+140
+00:10:15,250 --> 00:10:20,570
+People give to art galleries or opera houses that will bear their name when that's not
+
+141
+00:10:20,570 --> 00:10:22,889
+at all the most effective way of doing good.
+
+142
+00:10:23,269 --> 00:10:27,250
+What do you say to people who are great contributors in their own community?
+
+143
+00:10:27,350 --> 00:10:29,850
+They donate generously in their own sphere.
+
+144
+00:10:30,029 --> 00:10:34,809
+They don't live extravagant lives and, you know, probably live with great values and,
+
+145
+00:10:34,809 --> 00:10:36,970
+you know, focus on their own community.
+
+146
+00:10:36,970 --> 00:10:41,690
+I suppose the feeling that they can tangibly do something to assist.
+
+147
+00:10:42,009 --> 00:10:44,049
+I mean, is that enough?
+
+148
+00:10:44,190 --> 00:10:44,970
+I mean, do you feel...
+
+149
+00:10:45,250 --> 00:10:48,090
+Do you feel as though that isn't making a significant enough contribution?
+
+150
+00:10:48,789 --> 00:10:50,350
+Yeah, I don't feel it's enough.
+
+151
+00:10:50,529 --> 00:10:53,409
+And, you know, look, I admire people who do something in their own community.
+
+152
+00:10:54,009 --> 00:10:58,629
+Obviously, many people do nothing either in their own community or elsewhere.
+
+153
+00:10:59,269 --> 00:11:04,149
+But I think, as you said, you know, pretty much everybody in Australia, not quite everybody,
+
+154
+00:11:04,149 --> 00:11:09,970
+but most people, probably most people listening to this, are affluent by global standards.
+
+155
+00:11:11,509 --> 00:11:14,190
+And to help others in your own community,
+
+156
+00:11:15,250 --> 00:11:17,990
+is often not getting the best value for what you're doing.
+
+157
+00:11:18,710 --> 00:11:21,009
+You know, I don't discourage people from giving in their own community,
+
+158
+00:11:21,009 --> 00:11:23,129
+but I just think that shouldn't be all that they're doing.
+
+159
+00:11:23,549 --> 00:11:29,090
+They should be thinking about people who are living on less than $2 a day,
+
+160
+00:11:29,190 --> 00:11:32,070
+which is the World Bank's extreme poverty line.
+
+161
+00:11:32,210 --> 00:11:37,049
+And the World Bank says there's more than 700 million people living on less than $2 a day.
+
+162
+00:11:38,149 --> 00:11:41,370
+Now, you know, those people are not in Australia.
+
+163
+00:11:41,529 --> 00:11:45,029
+Those people are overwhelmingly in low-income countries.
+
+164
+00:11:45,250 --> 00:11:50,250
+And, you know, relatively modest amounts of money can do a lot for them.
+
+165
+00:11:50,509 --> 00:11:54,570
+Whereas to help people in Australia, and there are people who need help,
+
+166
+00:11:54,809 --> 00:11:59,370
+but it's much more expensive because, you know, if you give somebody $1,000,
+
+167
+00:11:59,669 --> 00:12:04,029
+let's say if they're on less than $2 a day, you've more than doubled their annual income.
+
+168
+00:12:05,210 --> 00:12:09,090
+Nobody in Australia would have their annual income doubled if you gave them $1,000.
+
+169
+00:12:09,090 --> 00:12:13,009
+In fact, for a lot of people who are in poverty in Australia,
+
+170
+00:12:13,549 --> 00:12:15,090
+$1,000 wouldn't be...
+
+171
+00:12:15,250 --> 00:12:20,049
+a really significant difference at all, would be something quite nice.
+
+172
+00:12:20,230 --> 00:12:24,509
+But it wouldn't enable them, for example, to have the capital to start a small business,
+
+173
+00:12:24,590 --> 00:12:27,690
+which some people do when they're extremely poor
+
+174
+00:12:27,690 --> 00:12:29,789
+and they could never accumulate that capital before.
+
+175
+00:12:29,789 --> 00:12:34,629
+Or they can replace their leaky thatched roof with a corrugated iron roof,
+
+176
+00:12:34,750 --> 00:12:38,590
+which in the long run will save them money because it lasts so much longer than a thatched roof,
+
+177
+00:12:38,970 --> 00:12:42,029
+and keep themselves and their food supplies dry.
+
+178
+00:12:42,629 --> 00:12:44,509
+And that can be a life-changing difference.
+
+179
+00:12:45,049 --> 00:12:45,090
+But...
+
+180
+00:12:45,250 --> 00:12:48,909
+But you can't do that for that kind of money in Australia that you can
+
+181
+00:12:48,909 --> 00:12:51,450
+when donating to people in low-income countries.
+
+182
+00:12:52,029 --> 00:12:56,990
+Peter, you raise a point in your book and your writings that many people don't donate
+
+183
+00:12:56,990 --> 00:13:01,009
+because they think it's a helpless cause, that no progress is being made.
+
+184
+00:13:01,110 --> 00:13:04,149
+But you give good reason for optimism.
+
+185
+00:13:04,549 --> 00:13:06,509
+And you mentioned the World Bank just before.
+
+186
+00:13:06,889 --> 00:13:10,370
+And I suppose it is worth quoting the definition of extreme poverty.
+
+187
+00:13:10,370 --> 00:13:14,909
+You gave a version of it, not having enough income to meet the basic needs of adequate food,
+
+188
+00:13:14,909 --> 00:13:18,669
+water, shelter, clothing, sanitation, healthcare, and education.
+
+189
+00:13:18,909 --> 00:13:22,809
+But you cite from the World Bank stats that between 1999 and 2015,
+
+190
+00:13:22,809 --> 00:13:26,690
+more than a billion people lifted themselves out of global poverty,
+
+191
+00:13:27,190 --> 00:13:33,330
+leaving the number that you suggested before, 736 million people living on less than $1.90 a day.
+
+192
+00:13:33,450 --> 00:13:35,970
+So is that your message that it's not a hopeless cause?
+
+193
+00:13:36,149 --> 00:13:37,750
+We are actually making progress.
+
+194
+00:13:38,289 --> 00:13:41,529
+We can make a difference and we need to make a difference.
+
+195
+00:13:41,830 --> 00:13:42,330
+Yeah, absolutely.
+
+196
+00:13:42,330 --> 00:13:44,669
+We are making progress all the time.
+
+197
+00:13:44,669 --> 00:13:46,730
+And reducing the number of people in extreme poverty.
+
+198
+00:13:47,230 --> 00:13:54,889
+And even that figure you quoted, 5.5 million children under five dying each year from poverty-related causes,
+
+199
+00:13:55,370 --> 00:13:57,549
+has dropped since I quoted that figure.
+
+200
+00:13:57,649 --> 00:14:01,950
+And just in, I don't know, two or three years, it's down to about pretty close to 5 million now.
+
+201
+00:14:02,070 --> 00:14:08,870
+So that's another half million lives of young children each year that are being saved by the progress we're making.
+
+202
+00:14:09,470 --> 00:14:12,210
+So it's certainly not a hopeless cause at all.
+
+203
+00:14:12,730 --> 00:14:14,210
+It's actually, I think...
+
+204
+00:14:14,669 --> 00:14:17,629
+It's a good long-run investment in reducing poverty.
+
+205
+00:14:17,629 --> 00:14:20,509
+It contributes, you know, you help some people, they help others.
+
+206
+00:14:20,629 --> 00:14:23,389
+They may be able to start small businesses and employ people.
+
+207
+00:14:24,750 --> 00:14:30,850
+Despite the fact that the world's population is growing, the number of people in extreme poverty is falling.
+
+208
+00:14:31,330 --> 00:14:36,409
+The debate around overpopulation comes up in the context of some of your philosophy
+
+209
+00:14:36,409 --> 00:14:43,450
+and people who are, at one end of the scale, suggesting that that is one of the greatest crises that our planet faces,
+
+210
+00:14:43,590 --> 00:14:44,629
+is that we are going to have too many people.
+
+211
+00:14:44,629 --> 00:14:46,669
+And population expansion.
+
+212
+00:14:47,009 --> 00:14:52,029
+And at the same time, we're extending life as we all want to and should.
+
+213
+00:14:52,590 --> 00:15:00,149
+Do you give that any credence at all, that there is some element of natural selection that we can't avoid?
+
+214
+00:15:00,350 --> 00:15:05,610
+Or should we, as you're suggesting, distribute wealth in a way that saves more lives
+
+215
+00:15:05,610 --> 00:15:07,490
+and you're not concerned about overpopulation?
+
+216
+00:15:08,009 --> 00:15:09,629
+Well, I guess the answer is both.
+
+217
+00:15:10,309 --> 00:15:12,409
+I am concerned about overpopulation.
+
+218
+00:15:12,590 --> 00:15:14,409
+But I still think we should be helping people.
+
+219
+00:15:14,629 --> 00:15:20,929
+And I think, in fact, if you're really particularly concerned about overpopulation,
+
+220
+00:15:21,129 --> 00:15:26,509
+then helping to educate people, and in particular, helping to educate girls,
+
+221
+00:15:26,710 --> 00:15:29,129
+is the most effective way of doing that.
+
+222
+00:15:29,190 --> 00:15:34,190
+And I think that's been shown many times, that the number of years of schooling a girl gets
+
+223
+00:15:34,190 --> 00:15:39,370
+correlates inversely with the number of children she's likely to have.
+
+224
+00:15:39,470 --> 00:15:43,090
+So the more years of schooling, the fewer children she's likely to have.
+
+225
+00:15:43,549 --> 00:15:44,470
+So educating.
+
+226
+00:15:44,629 --> 00:15:47,509
+And empowering women is really important.
+
+227
+00:15:48,850 --> 00:15:52,809
+Now, you know, population is actually kind of, we're in a two-speed world now.
+
+228
+00:15:52,870 --> 00:15:57,809
+Because here in Australia, well, our population is growing, but mostly because of immigration.
+
+229
+00:15:58,389 --> 00:16:02,129
+The natural reproduction rate is below replacement level.
+
+230
+00:16:02,789 --> 00:16:04,789
+And that's true of Europe in general.
+
+231
+00:16:05,309 --> 00:16:09,110
+It's even true of the United States, I think, now again, apart from immigration.
+
+232
+00:16:10,009 --> 00:16:13,350
+Whereas some of the poorer parts of the world, especially sub-Saharan Africa,
+
+233
+00:16:13,350 --> 00:16:15,649
+where population is still growing quite rapidly.
+
+234
+00:16:16,250 --> 00:16:22,529
+But if we can help more people to be educated, and of course, make sure that they have access
+
+235
+00:16:22,529 --> 00:16:27,629
+to contraception, I think those are effective ways of slowing population growth.
+
+236
+00:16:27,950 --> 00:16:32,389
+And I think they will be helpful for reducing poverty in those countries as well.
+
+237
+00:16:32,610 --> 00:16:36,409
+Because obviously, if population is growing very fast, then you have to keep building
+
+238
+00:16:36,409 --> 00:16:40,090
+more schools and more hospitals and all the other facilities people need.
+
+239
+00:16:40,090 --> 00:16:43,250
+And that's difficult if you're already quite a poor country.
+
+240
+00:16:43,529 --> 00:16:49,730
+Peter, your leadership in the space of those living in extreme poverty is without question.
+
+241
+00:16:49,929 --> 00:16:52,669
+And as we said, it led to extraordinary change.
+
+242
+00:16:53,289 --> 00:16:59,269
+Also, I think the other part of your life that I think we celebrate is the work you've done for animal rights.
+
+243
+00:16:59,529 --> 00:17:03,950
+And your book, as we mentioned in the opener, published in 1975, Animal Liberation,
+
+244
+00:17:04,410 --> 00:17:08,230
+widely considered to have created the modern animal welfare movement.
+
+245
+00:17:08,230 --> 00:17:13,230
+When you look back over a considerable period of time, did it have the effect that you were,
+
+246
+00:17:13,349 --> 00:17:14,269
+hoping it was going to have?
+
+247
+00:17:15,069 --> 00:17:15,950
+Well, not quite.
+
+248
+00:17:16,089 --> 00:17:18,309
+I mean, at least not in my more optimistic moments.
+
+249
+00:17:18,509 --> 00:17:22,950
+You know, I wasn't quite sure what to think when I published it, because I knew it was
+
+250
+00:17:22,950 --> 00:17:24,069
+quite a radical idea.
+
+251
+00:17:24,970 --> 00:17:28,069
+And I realized it was possible it would be laughed at or ignored.
+
+252
+00:17:28,849 --> 00:17:33,769
+But I also thought that the arguments I was putting forward and the facts that I was describing
+
+253
+00:17:33,769 --> 00:17:38,670
+about how animals are treated in factory farms in particular, were quite shocking.
+
+254
+00:17:38,670 --> 00:17:41,910
+And I hope that people would say, oh, I can't support that.
+
+255
+00:17:42,329 --> 00:17:43,069
+And I'm going to...
+
+256
+00:17:43,349 --> 00:17:48,750
+stop buying those products, because I don't want to buy products that support such cruel treatment of animals.
+
+257
+00:17:49,950 --> 00:17:52,230
+And the result, I suppose, was a bit in between those two.
+
+258
+00:17:53,549 --> 00:17:56,309
+It wasn't sort of ignored or ridiculed.
+
+259
+00:17:56,910 --> 00:17:59,730
+Some people tried to ridicule it at first, but that kind of passed.
+
+260
+00:18:01,109 --> 00:18:07,410
+But, and some people did change their diets and, you know, start working for animal rights organizations.
+
+261
+00:18:07,410 --> 00:18:12,210
+And it made changes, but not as widespread changes as I would have liked to see.
+
+262
+00:18:12,210 --> 00:18:13,230
+And so, unfortunately,
+
+263
+00:18:13,230 --> 00:18:15,930
+the reality is that those factory farms are still there.
+
+264
+00:18:16,470 --> 00:18:18,690
+They haven't changed really very much.
+
+265
+00:18:18,809 --> 00:18:24,809
+Maybe there's been some little tweaks that reduce some of the worst animal suffering, but they're still extremely bad.
+
+266
+00:18:25,869 --> 00:18:30,329
+And yet most people still buy those animal products and support them.
+
+267
+00:18:31,529 --> 00:18:37,329
+And, you know, at least, as I say, in my more optimistic moments, I hope that that wouldn't happen sort of 50 years later.
+
+268
+00:18:37,950 --> 00:18:39,730
+It's not quite 50 yet, but it's getting close.
+
+269
+00:18:40,829 --> 00:18:43,009
+So to that extent, I'm disappointed.
+
+270
+00:18:43,890 --> 00:18:55,289
+Right at the moment, I'm actually working on revising that book and bringing out a completely new edition that will update it and show what is still happening to animals in factory farms, in laboratories and elsewhere.
+
+271
+00:18:56,049 --> 00:19:11,730
+And, Peter, look, sort of shifting back for a moment, I think of the numbers that you put forward in some of your writings of the excess of the West and the Department of Agriculture in the US talk about 30 to 40 percent of the food produced ends up in the trash.
+
+272
+00:19:12,410 --> 00:19:19,789
+At a cost of about US $161 billion a year were the numbers that I read through your work.
+
+273
+00:19:19,950 --> 00:19:28,170
+And the average American female, for example, has got $600 worth of clothing in their wardrobe that they either haven't ever worn or haven't worn in the last 12 months.
+
+274
+00:19:28,349 --> 00:19:33,509
+So how do we get a handle on we've got extreme excess and we're all guilty of it?
+
+275
+00:19:33,769 --> 00:19:38,470
+Well, maybe not all, but everyone has an element of that in the West and extreme poverty.
+
+276
+00:19:38,950 --> 00:19:40,410
+How do we bridge that gap?
+
+277
+00:19:40,470 --> 00:19:41,670
+Have you got enough?
+
+278
+00:19:41,670 --> 00:19:41,710
+Yeah.
+
+279
+00:19:41,710 --> 00:19:48,690
+You know, the problem here is that we're encouraged to buy more and consume more.
+
+280
+00:19:48,930 --> 00:19:53,930
+That's the advertising that we're surrounded with is always telling us to do that.
+
+281
+00:19:54,150 --> 00:19:57,089
+And social media often tell us to do that as well.
+
+282
+00:19:57,250 --> 00:19:59,089
+They encourage us to do what others are doing.
+
+283
+00:20:00,150 --> 00:20:03,089
+And it's really hard to push back against that.
+
+284
+00:20:03,089 --> 00:20:11,109
+There are people who are trying to push back, obviously, particularly those who are more green and concerned about what consumerism is doing to the planet.
+
+285
+00:20:11,109 --> 00:20:15,569
+But it's, you know, I've tried.
+
+286
+00:20:15,710 --> 00:20:17,589
+I've written about this quite a lot.
+
+287
+00:20:17,690 --> 00:20:23,210
+I've suggested to people of age-old wisdom that happiness doesn't lie in having more material goods.
+
+288
+00:20:23,450 --> 00:20:27,589
+And there's plenty of modern psychological research that shows that as well.
+
+289
+00:20:27,910 --> 00:20:34,170
+That, you know, buying something new gives you a bit of a fill-up for a while, but it's quite brief.
+
+290
+00:20:35,190 --> 00:20:39,569
+Whereas knowing that you're doing good things, that you're contributing to making the world a better place,
+
+291
+00:20:39,869 --> 00:20:41,049
+brings a more...
+
+292
+00:20:41,049 --> 00:20:41,970
+Lasting satisfaction.
+
+293
+00:20:42,710 --> 00:20:45,009
+So I try to make people aware of that.
+
+294
+00:20:45,509 --> 00:20:52,690
+But I know I'm always pushing uphill because of that barrage of advertising that is pushing people in the opposite direction.
+
+295
+00:20:53,130 --> 00:20:58,529
+So there'll be people listening to this who, you know, are successful in their own right or good people
+
+296
+00:20:58,529 --> 00:21:05,049
+who generally want to do something that is, as you say, contributing in a meaningful way.
+
+297
+00:21:05,529 --> 00:21:08,769
+And they're probably doing their own way on a day-to-day basis.
+
+298
+00:21:09,009 --> 00:21:10,690
+But to zoom out a bit further and...
+
+299
+00:21:11,049 --> 00:21:14,430
+Practically, I mean, you've lived your life like this.
+
+300
+00:21:14,490 --> 00:21:18,930
+You've just won a prestigious award for your work in philosophy and the prize is a million dollars.
+
+301
+00:21:18,990 --> 00:21:20,289
+You're heading back to the States tomorrow.
+
+302
+00:21:20,369 --> 00:21:22,210
+You told me to receive that prize.
+
+303
+00:21:22,210 --> 00:21:27,730
+And in keeping with your life's work, that will be extended to the charities, one that you formed,
+
+304
+00:21:27,809 --> 00:21:31,970
+the Life You Can Save and to other effective charities, the most effective charities.
+
+305
+00:21:32,049 --> 00:21:37,589
+So you live and breathe as a vegetarian daily and your family do.
+
+306
+00:21:37,670 --> 00:21:39,609
+So you've lived and breathed what you've preached.
+
+307
+00:21:39,710 --> 00:21:40,210
+For people listening...
+
+308
+00:21:41,049 --> 00:21:46,490
+Practically, what can they do from now to enhance their contribution to the world?
+
+309
+00:21:46,549 --> 00:21:48,410
+And as you said, probably live a happier life on the back of it.
+
+310
+00:21:49,109 --> 00:21:51,930
+Yeah, and I think what you've just mentioned is really important.
+
+311
+00:21:52,390 --> 00:21:55,789
+You put your finger on the idea of living in accordance with your values.
+
+312
+00:21:56,609 --> 00:21:57,930
+And so many people don't.
+
+313
+00:21:58,049 --> 00:22:01,349
+So many people, you know, are a bit uncomfortable with what they're doing.
+
+314
+00:22:01,410 --> 00:22:03,589
+They say, oh, yeah, I know factory farming is awful.
+
+315
+00:22:03,589 --> 00:22:05,210
+I really shouldn't be buying this chicken.
+
+316
+00:22:05,650 --> 00:22:08,549
+But, you know, it's cheap and I like it.
+
+317
+00:22:08,670 --> 00:22:09,589
+So, you know...
+
+318
+00:22:11,049 --> 00:22:12,410
+And that produces discomfort.
+
+319
+00:22:12,549 --> 00:22:16,369
+And then what we were talking about before, about helping people in poverty,
+
+320
+00:22:16,470 --> 00:22:18,289
+a lot of people know that they should be doing that.
+
+321
+00:22:19,730 --> 00:22:22,089
+But they don't do it.
+
+322
+00:22:22,450 --> 00:22:27,829
+I think trying to think about where your values are and then setting some standards.
+
+323
+00:22:29,029 --> 00:22:33,490
+One of my friends, a guy called Charlie Bressler, who helped me in founding the Life You Can Save,
+
+324
+00:22:34,750 --> 00:22:36,369
+has a background in psychology.
+
+325
+00:22:36,369 --> 00:22:40,269
+And he's impressed by this idea of setting your personal best.
+
+326
+00:22:40,529 --> 00:22:41,009
+You know, I don't know.
+
+327
+00:22:41,089 --> 00:22:43,750
+You were playing football.
+
+328
+00:22:43,890 --> 00:22:47,150
+I don't know whether you had, you know, personal best, how many goals you kicked for a game
+
+329
+00:22:47,150 --> 00:22:49,309
+or how many meters gained or something of that sort.
+
+330
+00:22:50,170 --> 00:22:51,769
+I know a lot of people think about that.
+
+331
+00:22:51,930 --> 00:22:57,309
+But you can think about it in terms of how much am I doing to help the world, you know?
+
+332
+00:22:58,049 --> 00:22:59,309
+Start giving at a low level.
+
+333
+00:22:59,430 --> 00:23:00,230
+Can I give more?
+
+334
+00:23:00,230 --> 00:23:08,849
+What am I doing through my lifestyle to not consume wastefully, to not support suffering of animals?
+
+335
+00:23:09,130 --> 00:23:10,230
+All of those sorts of things are things that you...
+
+336
+00:23:11,049 --> 00:23:14,150
+You can set goals and then you can try and do better.
+
+337
+00:23:21,380 --> 00:23:26,339
+Peter, there'll be people listening and, you know, I'll ask this question with, you know,
+
+338
+00:23:26,400 --> 00:23:31,339
+with the degree of, I suppose, circumspect that I'm intending.
+
+339
+00:23:31,519 --> 00:23:33,740
+But, I mean, is life still fun, Peter?
+
+340
+00:23:33,740 --> 00:23:38,819
+I mean, you live such a great contributing life and you do so many brilliant things
+
+341
+00:23:38,819 --> 00:23:42,680
+and moral compass couldn't be any more on track.
+
+342
+00:23:42,960 --> 00:23:43,839
+But what's fun?
+
+343
+00:23:44,000 --> 00:23:45,180
+Is there still time?
+
+344
+00:23:45,319 --> 00:23:46,160
+What do you do for fun?
+
+345
+00:23:47,420 --> 00:23:49,279
+Well, firstly, you know, I like the things that I...
+
+346
+00:23:49,279 --> 00:23:50,720
+I do like the things that I do.
+
+347
+00:23:51,299 --> 00:23:57,420
+You know, I'm enjoying talking to you and other people who have good questions about values and ethics.
+
+348
+00:23:58,299 --> 00:24:00,579
+I enjoy the craft of writing.
+
+349
+00:24:00,700 --> 00:24:04,059
+That's something that, as I said, I'm working on revising animal liberation.
+
+350
+00:24:04,960 --> 00:24:11,339
+I like making people aware of the things that they can do, of the life you can save,
+
+351
+00:24:11,480 --> 00:24:16,099
+which, by the way, I invite your listeners to go to thelifeyoucansave.org.au
+
+352
+00:24:16,099 --> 00:24:17,400
+and look at the website.
+
+353
+00:24:17,420 --> 00:24:18,579
+For the best charities.
+
+354
+00:24:19,440 --> 00:24:22,839
+But, you know, if you really want to be in sort of something that's completely different,
+
+355
+00:24:23,220 --> 00:24:26,720
+I enjoy hiking and bushwalking.
+
+356
+00:24:26,779 --> 00:24:28,640
+My wife and I still do quite a bit of that.
+
+357
+00:24:28,720 --> 00:24:30,059
+And I think we're really lucky in Australia.
+
+358
+00:24:30,059 --> 00:24:36,259
+We have such beautiful natural places and good national parks with tracks that are well laid out.
+
+359
+00:24:36,519 --> 00:24:38,460
+So that's a wonderful thing to do.
+
+360
+00:24:39,200 --> 00:24:43,339
+I'm also still surfing, not as much as I used to do when I was a bit younger.
+
+361
+00:24:43,339 --> 00:24:46,339
+But I go down the coast and...
+
+362
+00:24:47,420 --> 00:24:50,559
+I catch a few waves when they're not too big or an alley.
+
+363
+00:24:50,839 --> 00:24:53,259
+And I feel like I can handle them.
+
+364
+00:24:53,359 --> 00:24:55,759
+And that's great fun being out in the water, too.
+
+365
+00:24:55,980 --> 00:24:57,599
+It's a really kind of natural activity.
+
+366
+00:24:57,819 --> 00:24:59,480
+You know, you don't need an engine or anything.
+
+367
+00:24:59,680 --> 00:25:03,579
+You just paddle yourself around and use the natural energy of the waves.
+
+368
+00:25:04,279 --> 00:25:07,079
+Well, there's some good natural energy that comes across talking to you, Peter,
+
+369
+00:25:07,259 --> 00:25:10,140
+and a sense of fulfillment and happiness.
+
+370
+00:25:10,420 --> 00:25:13,160
+And you can't fake that in any sense.
+
+371
+00:25:13,160 --> 00:25:16,880
+Peter, I've been asking a range of questions to various leaders,
+
+372
+00:25:16,940 --> 00:25:17,400
+and I'm fascinated.
+
+373
+00:25:17,420 --> 00:25:18,680
+I'm fascinated to get your thoughts on this.
+
+374
+00:25:18,920 --> 00:25:23,740
+As I described in the opener, the world's most influential living philosopher.
+
+375
+00:25:24,019 --> 00:25:28,259
+And we're talking about cues of great leadership across different industries.
+
+376
+00:25:28,519 --> 00:25:31,119
+And yours is such a unique space that you've lived.
+
+377
+00:25:31,900 --> 00:25:35,000
+So please expand on this as much or as little as you like.
+
+378
+00:25:35,099 --> 00:25:40,019
+But we see the first dimension of great leadership as being self-leadership.
+
+379
+00:25:40,519 --> 00:25:44,259
+So when I ask that back to you, what does self-leadership mean to you?
+
+380
+00:25:44,960 --> 00:25:47,259
+I think it means what we're talking about.
+
+381
+00:25:47,420 --> 00:25:52,240
+Thinking about your own values, working out what's really important to you,
+
+382
+00:25:52,720 --> 00:25:58,119
+and then acting on those values, not just making it lip service,
+
+383
+00:25:58,759 --> 00:26:02,579
+but really trying to shape your life around those values.
+
+384
+00:26:02,759 --> 00:26:04,619
+I think that's self-leadership.
+
+385
+00:26:04,680 --> 00:26:07,619
+Because if you don't do that, you're not guiding your own life.
+
+386
+00:26:09,000 --> 00:26:12,099
+Socrates said, the unexamined life is not worth living.
+
+387
+00:26:12,640 --> 00:26:15,400
+And that's an idea that I rather like.
+
+388
+00:26:15,400 --> 00:26:17,400
+You know, that you should examine yourself.
+
+389
+00:26:17,799 --> 00:26:18,400
+How am I living?
+
+390
+00:26:18,599 --> 00:26:23,079
+You know, am I living in accordance with the values that I really want to live in accordance with?
+
+391
+00:26:23,519 --> 00:26:25,940
+Yeah, I love that thought of self-reflection, Peter.
+
+392
+00:26:26,059 --> 00:26:32,880
+It's a common trait we see of people who live lives like you and influence others in really positive ways.
+
+393
+00:26:32,980 --> 00:26:36,339
+They are self-reflective constantly, always updating, as you said,
+
+394
+00:26:36,380 --> 00:26:39,619
+and reflecting on their values and their impact as well.
+
+395
+00:26:39,740 --> 00:26:43,720
+And that leads to the second dimension, which is we see leaders now really conscious
+
+396
+00:26:43,720 --> 00:26:46,440
+about how they positively impact others in their environment.
+
+397
+00:26:46,599 --> 00:26:47,220
+I mean, you've done that.
+
+398
+00:26:47,420 --> 00:26:50,619
+On a global scale, you've influenced the wealthiest people on the planet.
+
+399
+00:26:50,619 --> 00:26:56,859
+You've influenced people on how we treat animals and, you know, how we eat and how we consume
+
+400
+00:26:56,859 --> 00:26:57,819
+and how we give back.
+
+401
+00:26:57,940 --> 00:27:00,779
+I mean, is it something you consciously have thought about, Peter,
+
+402
+00:27:00,859 --> 00:27:03,200
+that positively impacting others around you?
+
+403
+00:27:03,819 --> 00:27:06,119
+Yeah, well, I'm certainly concerned to impact others.
+
+404
+00:27:06,279 --> 00:27:10,319
+I mean, I think if you're talking about ethics, that's what I'm trying to do.
+
+405
+00:27:11,140 --> 00:27:15,319
+I want to impact my students, not to indoctrinate them with my own views,
+
+406
+00:27:15,380 --> 00:27:17,400
+but to get them to think critically and to learn.
+
+407
+00:27:17,400 --> 00:27:21,019
+I want them to learn how to discuss issues in a critical and also a civil way.
+
+408
+00:27:21,140 --> 00:27:25,420
+I think it's unfortunate the extent to which people have got polarized in the last few years.
+
+409
+00:27:25,940 --> 00:27:28,299
+And I want my students, I tell them at the beginning of the course,
+
+410
+00:27:28,380 --> 00:27:33,180
+I don't want them to be afraid of controversial, difficult ideas,
+
+411
+00:27:33,299 --> 00:27:35,579
+and I don't want them to abuse people who disagree with them.
+
+412
+00:27:35,880 --> 00:27:41,339
+I want them to think about why they disagree and to put forward reasons and arguments for that.
+
+413
+00:27:42,220 --> 00:27:45,640
+But I do also want to influence people, as we've been talking about,
+
+414
+00:27:45,640 --> 00:27:47,099
+to think about.
+
+415
+00:27:47,400 --> 00:27:51,160
+How to be effective altruists, to think about how to live well.
+
+416
+00:27:51,839 --> 00:27:55,339
+And that's why I co-founded The Life You Can Save
+
+417
+00:27:55,339 --> 00:27:58,960
+and why we recommend particular charities.
+
+418
+00:27:59,220 --> 00:28:01,819
+If people go to that website, they can look for the charities
+
+419
+00:28:01,819 --> 00:28:04,960
+that have been independently assessed as being most effective.
+
+420
+00:28:05,740 --> 00:28:08,859
+So that's all an attempt to try to guide other people
+
+421
+00:28:08,859 --> 00:28:12,819
+in living their own lives in a better way that will be better for the world
+
+422
+00:28:12,819 --> 00:28:13,980
+and better for them too.
+
+423
+00:28:14,299 --> 00:28:17,279
+So, Peter, can I ask you as a follow-up to that, your thoughts,
+
+424
+00:28:17,400 --> 00:28:20,059
+on the new term of cancel culture?
+
+425
+00:28:20,279 --> 00:28:25,680
+You're educating students at Princeton on thinking and debating their points of view
+
+426
+00:28:25,680 --> 00:28:27,519
+and doing it in a meaningful way.
+
+427
+00:28:27,660 --> 00:28:30,299
+It feels as though, particularly coming out of the last two years,
+
+428
+00:28:30,400 --> 00:28:34,859
+we've had as much change in the world as we've had in my lifetime, for sure,
+
+429
+00:28:35,200 --> 00:28:41,839
+and enormous amounts of fairly significant moves from government,
+
+430
+00:28:41,839 --> 00:28:46,119
+which probably you would think should be debated more than any topic
+
+431
+00:28:46,119 --> 00:28:47,220
+that we've had in recent times.
+
+432
+00:28:47,400 --> 00:28:49,220
+But there seems to be this fear to do it.
+
+433
+00:28:49,279 --> 00:28:51,079
+I mean, what's the anecdote to that?
+
+434
+00:28:51,119 --> 00:28:54,299
+And are you concerned that we don't seem to have that free debate anymore?
+
+435
+00:28:55,059 --> 00:28:57,480
+Well, I am concerned that there have been a number of incidents
+
+436
+00:28:57,480 --> 00:29:00,900
+where people who have tried to promote free discussion and debate
+
+437
+00:29:00,900 --> 00:29:07,299
+have been in some way, you know, either abused, threatened,
+
+438
+00:29:07,839 --> 00:29:12,500
+or even dismissed from positions, including university positions,
+
+439
+00:29:12,500 --> 00:29:16,400
+which I think is particularly shocking given that universities
+
+440
+00:29:16,400 --> 00:29:17,339
+ought to be exempted.
+
+441
+00:29:17,400 --> 00:29:20,019
+And that's exactly teaching people how to think for themselves
+
+442
+00:29:20,019 --> 00:29:22,579
+and not thinking that if you're controversial,
+
+443
+00:29:22,920 --> 00:29:25,059
+you don't belong at a university.
+
+444
+00:29:25,740 --> 00:29:28,819
+So I deplore that kind of culture.
+
+445
+00:29:28,900 --> 00:29:31,140
+And in fact, to try to do something about that,
+
+446
+00:29:31,519 --> 00:29:33,240
+together with a couple of colleagues,
+
+447
+00:29:33,680 --> 00:29:36,759
+I've started a journal called the Journal of Controversial Ideas,
+
+448
+00:29:37,279 --> 00:29:40,000
+which is an open access free journal.
+
+449
+00:29:40,000 --> 00:29:42,359
+You can just go to journalofcontroversialideas.org.
+
+450
+00:29:42,880 --> 00:29:46,640
+And actually, at the end of this, well, maybe in two or three days,
+
+451
+00:29:46,640 --> 00:29:47,359
+we're going to publish.
+
+452
+00:29:47,359 --> 00:29:48,140
+We're going to publish the second issue.
+
+453
+00:29:48,279 --> 00:29:49,680
+We had the first issue a while ago.
+
+454
+00:29:51,019 --> 00:29:53,539
+It's, you know, we have peer-reviewed articles.
+
+455
+00:29:53,700 --> 00:29:57,680
+We don't publish anything that's just sort of emotional venting.
+
+456
+00:29:58,380 --> 00:30:02,579
+But we want to provide a forum where people can publish controversial ideas.
+
+457
+00:30:02,859 --> 00:30:04,480
+And if they don't want to put their name to it,
+
+458
+00:30:04,579 --> 00:30:06,640
+they can use a pseudonym because we do know,
+
+459
+00:30:07,019 --> 00:30:10,740
+particularly some junior academics who've really been penalized
+
+460
+00:30:10,740 --> 00:30:14,660
+in their careers by saying something that was worth saying,
+
+461
+00:30:14,819 --> 00:30:16,720
+that, you know, whether you agree with it or not,
+
+462
+00:30:16,720 --> 00:30:19,019
+it was definitely worth putting out there and having it discussed.
+
+463
+00:30:20,220 --> 00:30:24,400
+But got so much vitriol as a result of that,
+
+464
+00:30:24,480 --> 00:30:27,140
+that they found it really hard to take
+
+465
+00:30:27,140 --> 00:30:29,500
+and didn't want to write more on those topics.
+
+466
+00:30:29,859 --> 00:30:31,140
+So, Pete, in recent times,
+
+467
+00:30:31,200 --> 00:30:34,500
+we've seen the world's richest man buy Twitter with cash.
+
+468
+00:30:35,440 --> 00:30:39,259
+And we've seen former presidents banned from that platform,
+
+469
+00:30:39,259 --> 00:30:44,740
+which some people will argue justifiably for mistruths
+
+470
+00:30:44,740 --> 00:30:46,259
+and outrageous comments.
+
+471
+00:30:46,720 --> 00:30:48,960
+And where do you sit on that?
+
+472
+00:30:49,140 --> 00:30:53,099
+Where is the line of free speech in social media platforms?
+
+473
+00:30:53,240 --> 00:30:54,299
+Should people be banned?
+
+474
+00:30:54,460 --> 00:30:55,599
+I mean, where does that sit?
+
+475
+00:30:56,000 --> 00:31:01,640
+So, I'm generally a defender of a wide range of freedom of thought
+
+476
+00:31:01,640 --> 00:31:02,299
+and expression.
+
+477
+00:31:02,839 --> 00:31:05,940
+As I say, as long as it's people are putting arguments
+
+478
+00:31:05,940 --> 00:31:07,720
+or providing evidence for their views.
+
+479
+00:31:08,039 --> 00:31:11,079
+If someone, I'm not a supporter of hate speech.
+
+480
+00:31:11,640 --> 00:31:16,160
+So, if somebody is just pouring out hatred against any particular group,
+
+481
+00:31:16,160 --> 00:31:16,700
+whether it's, you know,
+
+482
+00:31:16,700 --> 00:31:21,519
+whether it's a matter of race or sex or, you know,
+
+483
+00:31:21,579 --> 00:31:23,779
+religion or whatever else it might be,
+
+484
+00:31:24,200 --> 00:31:28,180
+I don't think that belongs in the public forum.
+
+485
+00:31:28,880 --> 00:31:33,160
+And I think it's reasonable for organizations like Twitter or Facebook
+
+486
+00:31:33,160 --> 00:31:35,579
+to say, no, we're taking that down.
+
+487
+00:31:36,000 --> 00:31:38,880
+But if somebody, and that would include the former president
+
+488
+00:31:38,880 --> 00:31:42,019
+of the United States, wants to put reasons up
+
+489
+00:31:42,019 --> 00:31:44,859
+for what they're saying and defend those claims,
+
+490
+00:31:46,700 --> 00:31:49,079
+I think that they ought to be there.
+
+491
+00:31:49,079 --> 00:31:51,420
+I think that, you know, ought to be there for other people
+
+492
+00:31:51,420 --> 00:31:54,200
+to refute and show why they think that that's wrong.
+
+493
+00:31:55,460 --> 00:32:00,359
+But I do think that censoring people is not the way.
+
+494
+00:32:00,359 --> 00:32:05,579
+I think the way is to refute positions, to hear them out,
+
+495
+00:32:05,579 --> 00:32:07,859
+and then to show why they're wrong.
+
+496
+00:32:07,859 --> 00:32:09,940
+I think we have to try to get back to that idea
+
+497
+00:32:10,359 --> 00:32:15,880
+that we can have reasoned discussions that can lead us towards the truth.
+
+498
+00:32:16,700 --> 00:32:17,799
+Yeah, brilliant answer.
+
+499
+00:32:17,920 --> 00:32:22,099
+And I'm not surprised you've got clear thinking on that particular topic
+
+500
+00:32:22,099 --> 00:32:23,859
+and every topic, by the way.
+
+501
+00:32:24,299 --> 00:32:29,240
+We see another dimension of the leaders that we have been talking to, Peter,
+
+502
+00:32:29,619 --> 00:32:32,339
+are really clear on how they create and share their vision.
+
+503
+00:32:32,440 --> 00:32:33,500
+And I look at your life's work.
+
+504
+00:32:34,200 --> 00:32:38,779
+There's certainly an extensive way that you've gone about it
+
+505
+00:32:38,779 --> 00:32:42,099
+through your books, through your writing, through your TED Talks.
+
+506
+00:32:42,720 --> 00:32:45,140
+How have you created and shared that vision?
+
+507
+00:32:45,220 --> 00:32:46,019
+How did you go about it?
+
+508
+00:32:46,700 --> 00:32:48,720
+Well, it was a very long process.
+
+509
+00:32:48,720 --> 00:32:52,079
+I think writing was the first thing that I started doing.
+
+510
+00:32:52,079 --> 00:32:55,819
+I found that I had a bit of a facility for writing.
+
+511
+00:32:55,819 --> 00:32:59,720
+And I always wanted to write not just for the other philosophers,
+
+512
+00:32:59,720 --> 00:33:03,400
+but for a broader audience because I was working in ethics.
+
+513
+00:33:03,400 --> 00:33:05,500
+And I thought, this is not just for philosophers.
+
+514
+00:33:05,500 --> 00:33:06,559
+This is important.
+
+515
+00:33:07,920 --> 00:33:14,900
+So I started to develop that audience through my writing and obviously,
+
+516
+00:33:14,900 --> 00:33:16,299
+to some extent, through my teaching.
+
+517
+00:33:16,700 --> 00:33:21,700
+But, you know, gradually, as my work became better known,
+
+518
+00:33:21,700 --> 00:33:24,579
+I was able to appear more often in the media.
+
+519
+00:33:25,039 --> 00:33:28,460
+I also worked with other people and other organizations.
+
+520
+00:33:28,460 --> 00:33:33,880
+When I came back to Australia, I'd been at Oxford and at New York University.
+
+521
+00:33:33,880 --> 00:33:39,299
+But then in 75, I came back to La Trobe University in Melbourne
+
+522
+00:33:39,299 --> 00:33:40,960
+and subsequently to Monash.
+
+523
+00:33:41,460 --> 00:33:46,700
+And I worked with organizations to set up animal liberation support.
+
+524
+00:33:46,700 --> 00:33:51,599
+And I was a co-founder of what's now Animals Australia,
+
+525
+00:33:51,599 --> 00:33:56,339
+which is, I think, Australia's major animal advocacy organization.
+
+526
+00:33:56,339 --> 00:34:00,259
+And I'm proud of what they've done and are continuing to do for animals.
+
+527
+00:34:01,880 --> 00:34:04,680
+So I've worked through a range of voluntary organizations.
+
+528
+00:34:04,680 --> 00:34:08,179
+And then, of course, as we've talked about, through the life you can save.
+
+529
+00:34:08,179 --> 00:34:12,079
+And I've tried to make my work available as widely as possible.
+
+530
+00:34:12,739 --> 00:34:15,820
+As I said, the Journal of Controversial Ideas is free and open access.
+
+531
+00:34:16,699 --> 00:34:20,400
+So the book, The Life You Can Save, is available free as an e-book
+
+532
+00:34:20,400 --> 00:34:24,460
+or an audio book from thelifeyoucansave.org.au.
+
+533
+00:34:24,639 --> 00:34:29,579
+So if people want to read a little more, all they have to do is go there.
+
+534
+00:34:30,400 --> 00:34:33,880
+And that's really what I'm trying to do, get those ideas out as widely as possible.
+
+535
+00:34:35,019 --> 00:34:37,039
+Sincerely encourage you to do that.
+
+536
+00:34:37,260 --> 00:34:39,460
+I have just done in the last couple of weeks.
+
+537
+00:34:39,699 --> 00:34:42,659
+And as I said, I think in one of the questions before, I found it confronting.
+
+538
+00:34:42,760 --> 00:34:46,320
+I found it challenging in a good way in wanting to do more,
+
+539
+00:34:46,320 --> 00:34:51,719
+wanting to contribute more and really challenging your thought process on Peter's writing,
+
+540
+00:34:51,800 --> 00:34:54,019
+does that in a really interesting way.
+
+541
+00:34:54,619 --> 00:34:58,360
+We see great leaders, curiosity is a common trait.
+
+542
+00:34:58,679 --> 00:35:04,059
+And through curiosity, a lot of modern leaders approach their learning and development through that.
+
+543
+00:35:04,179 --> 00:35:05,840
+Does that ring true to you?
+
+544
+00:35:06,380 --> 00:35:08,579
+Yes, I definitely think curiosity is important.
+
+545
+00:35:08,800 --> 00:35:12,599
+And if people think that they already know everything about something
+
+546
+00:35:12,599 --> 00:35:14,920
+and are not curious to find out more,
+
+547
+00:35:14,920 --> 00:35:15,960
+or perhaps,
+
+548
+00:35:16,320 --> 00:35:19,199
+curious to find out why other people don't think the way they do.
+
+549
+00:35:19,199 --> 00:35:21,159
+That's an important kind of curiosity,
+
+550
+00:35:21,159 --> 00:35:24,519
+because then you understand the reasons why people don't think that.
+
+551
+00:35:24,519 --> 00:35:27,480
+And maybe, maybe you learn that there are some weaknesses in your position,
+
+552
+00:35:27,480 --> 00:35:32,159
+or maybe you learn that there are some misunderstandings that other people have out there about your position.
+
+553
+00:35:32,480 --> 00:35:36,039
+But if you want other people to share your views,
+
+554
+00:35:36,320 --> 00:35:38,519
+you have to see where they're coming from.
+
+555
+00:35:38,840 --> 00:35:41,000
+And that takes a certain amount of curiosity,
+
+556
+00:35:41,000 --> 00:35:46,239
+which I think will always help you to clarify and strengthen your own views.
+
+557
+00:35:47,199 --> 00:35:51,400
+Peter, communicating with clarity is a further dimension we've been talking about.
+
+558
+00:35:51,400 --> 00:35:58,440
+And you've got a really distinct writing style and a very clear way of getting your message across.
+
+559
+00:35:58,440 --> 00:36:04,920
+Is that something that you've curated and you've thought about how you communicate with clarity on the messages that you've got?
+
+560
+00:36:05,280 --> 00:36:08,400
+Yes, it certainly doesn't come automatically.
+
+561
+00:36:08,400 --> 00:36:09,480
+You have to work at it.
+
+562
+00:36:09,480 --> 00:36:12,360
+I think writing is something that you work at.
+
+563
+00:36:13,280 --> 00:36:14,000
+If I go back,
+
+564
+00:36:14,000 --> 00:36:16,199
+the first lengthy piece of work that I wrote was
+
+565
+00:36:16,199 --> 00:36:22,320
+my MA thesis that I did at Melbourne University Master of Arts in philosophy.
+
+566
+00:36:22,519 --> 00:36:24,880
+And if I go back and read that now,
+
+567
+00:36:24,880 --> 00:36:27,000
+it's not very well written.
+
+568
+00:36:27,000 --> 00:36:29,840
+And it is, I guess, written more for the other philosophers.
+
+569
+00:36:30,960 --> 00:36:34,079
+And then I think, you know, if I look at my further writing,
+
+570
+00:36:34,079 --> 00:36:38,039
+I do make gradual improvements and being at Oxford certainly helped.
+
+571
+00:36:38,039 --> 00:36:40,000
+I had a professor there, R.M.
+
+572
+00:36:40,000 --> 00:36:43,079
+Hare, who actually emphasised clarity of thinking.
+
+573
+00:36:43,079 --> 00:36:46,000
+And the method of teaching at Oxford was you would write
+
+574
+00:36:46,199 --> 00:36:51,639
+an essay and drop it into your professor's mailbox.
+
+575
+00:36:51,639 --> 00:36:55,719
+And two or three days later, you would talk to him about it and he would go through it line by line.
+
+576
+00:36:55,719 --> 00:36:57,760
+And if he didn't understand what you were saying,
+
+577
+00:36:57,760 --> 00:36:59,960
+he would tell you, you know, what does this sentence mean?
+
+578
+00:36:59,960 --> 00:37:01,519
+What are you saying here?
+
+579
+00:37:01,519 --> 00:37:06,480
+And that's a really good discipline, I think, to make sure that what you're saying,
+
+580
+00:37:06,480 --> 00:37:08,599
+you know, you may know what you were trying to say in this sentence,
+
+581
+00:37:08,599 --> 00:37:13,119
+but if the sentence doesn't convey that to someone else who's reading it, that's your problem.
+
+582
+00:37:13,119 --> 00:37:15,239
+It's not necessarily their problem.
+
+583
+00:37:15,239 --> 00:37:16,079
+It's your problem.
+
+584
+00:37:16,079 --> 00:37:20,679
+It's your problem for not having expressed yourself sufficiently clearly.
+
+585
+00:37:20,679 --> 00:37:22,079
+Great one-on-one teaching, isn't it?
+
+586
+00:37:22,079 --> 00:37:24,239
+To have that access to, you know.
+
+587
+00:37:24,239 --> 00:37:25,000
+That was fantastic.
+
+588
+00:37:25,000 --> 00:37:26,559
+Yeah, that was a great experience.
+
+589
+00:37:26,559 --> 00:37:27,880
+And that quicker turnaround, isn't it?
+
+590
+00:37:27,880 --> 00:37:32,639
+To drop something in and literally go line by line with an expert in communication.
+
+591
+00:37:32,639 --> 00:37:35,280
+I love what you're able to experience there.
+
+592
+00:37:35,280 --> 00:37:38,800
+Well, you see great leaders really value collaboration more than ever, Peter.
+
+593
+00:37:38,800 --> 00:37:40,880
+How important is collaboration to you?
+
+594
+00:37:40,880 --> 00:37:42,119
+Oh, it's hugely important.
+
+595
+00:37:42,119 --> 00:37:45,119
+You know, you could not have done a lot of the things that I have done
+
+596
+00:37:45,119 --> 00:37:47,320
+on my own.
+
+597
+00:37:47,320 --> 00:37:53,000
+As I mentioned, the life you can save was really set up when, you know, I wrote the book
+
+598
+00:37:53,000 --> 00:37:56,039
+and I established a website or I got a friend to establish a website
+
+599
+00:37:56,039 --> 00:37:59,480
+so that people could, you know, talk to each other a bit.
+
+600
+00:37:59,480 --> 00:38:04,519
+But there wasn't really an organization until this guy, Charlie Bresler,
+
+601
+00:38:04,519 --> 00:38:10,840
+sent me an email saying that he'd been, he'd had a career in the retail industry,
+
+602
+00:38:10,840 --> 00:38:13,719
+in a men's clothing chain.
+
+603
+00:38:13,719 --> 00:38:14,920
+And he got very senior in that.
+
+604
+00:38:14,920 --> 00:38:16,960
+And made quite a bit of money.
+
+605
+00:38:16,960 --> 00:38:19,239
+But it had never really fitted in with his values.
+
+606
+00:38:19,239 --> 00:38:25,079
+It's another question of this dissonance between values and what he was doing.
+
+607
+00:38:25,079 --> 00:38:28,199
+And he thought, you know, it was time for a change.
+
+608
+00:38:28,199 --> 00:38:33,920
+And he sort of asked me, would you like me to set up an organization that promotes these
+
+609
+00:38:33,920 --> 00:38:35,400
+ideas?
+
+610
+00:38:35,400 --> 00:38:38,599
+And so I said, yeah, let's do it together.
+
+611
+00:38:38,599 --> 00:38:42,679
+And with that, and without his hard work and experience in organization, because he'd been
+
+612
+00:38:42,679 --> 00:38:44,199
+running a big organization.
+
+613
+00:38:44,920 --> 00:38:45,920
+That would never have happened.
+
+614
+00:38:46,400 --> 00:38:52,159
+So being able to collaborate and work together with other people who share your goals is really important.
+
+615
+00:38:52,639 --> 00:38:53,619
+Yeah, great answer, Peter.
+
+616
+00:38:53,719 --> 00:38:55,340
+It's a great story that, isn't it?
+
+617
+00:38:55,340 --> 00:38:58,539
+And I'll give all those details very shortly for you to go and look up.
+
+618
+00:38:58,539 --> 00:39:04,400
+We've been asking these final two questions, Peter, to all the leaders that I've spoken to.
+
+619
+00:39:04,820 --> 00:39:07,139
+Who has been the greatest leader in your life?
+
+620
+00:39:07,880 --> 00:39:09,380
+The greatest leader in my life?
+
+621
+00:39:09,559 --> 00:39:12,619
+Oh, I don't really know.
+
+622
+00:39:12,699 --> 00:39:14,760
+But I have to say, you know, this is maybe.
+
+623
+00:39:14,920 --> 00:39:16,280
+I'm not the greatest leader over my life.
+
+624
+00:39:16,340 --> 00:39:19,980
+But at the moment, I'm really admiring President Zelensky of Ukraine.
+
+625
+00:39:21,039 --> 00:39:25,099
+I think he's quite extraordinary, you know, especially if you look at the background.
+
+626
+00:39:25,099 --> 00:39:30,960
+I was following Ukrainian politics earlier on and the corrupt people that they had running
+
+627
+00:39:30,960 --> 00:39:36,639
+that country who, you know, were just ripping off the country, making money for themselves.
+
+628
+00:39:36,820 --> 00:39:40,199
+And then when there was a big protest, they fled the country.
+
+629
+00:39:40,340 --> 00:39:42,139
+The previous ones are still in Russia.
+
+630
+00:39:43,340 --> 00:39:44,800
+And a lot of people expected.
+
+631
+00:39:44,800 --> 00:39:50,460
+When the Russians invaded, that he would leave Kyiv and, you know, either go to Lviv,
+
+632
+00:39:50,659 --> 00:39:54,079
+which is more in the West and away from the Russians or actually leave the country altogether.
+
+633
+00:39:54,360 --> 00:39:59,260
+But instead, he stayed and he took all these videos showing himself walking around the main squares of the town.
+
+634
+00:39:59,719 --> 00:40:01,320
+And he got everybody else to stay.
+
+635
+00:40:02,179 --> 00:40:05,179
+I think he's been a fantastic leader for Ukraine.
+
+636
+00:40:05,280 --> 00:40:09,280
+Obviously, you could say the country has paid a heavy price for it.
+
+637
+00:40:10,219 --> 00:40:14,300
+But there wasn't really an alternative unless they wanted to be under Putin's thumb.
+
+638
+00:40:14,800 --> 00:40:22,000
+And so that's what comes to me at the moment when you ask that question, rather than thinking back over the years.
+
+639
+00:40:23,320 --> 00:40:24,659
+I'm thinking about Zelensky.
+
+640
+00:40:25,320 --> 00:40:26,179
+What a brilliant answer.
+
+641
+00:40:26,539 --> 00:40:32,400
+And what an extraordinary leader of the time, as you said, the courage to not only stay,
+
+642
+00:40:32,500 --> 00:40:38,159
+but as you said, to really in real time declare where he is and show that, you know,
+
+643
+00:40:38,159 --> 00:40:44,380
+he was being portrayed as a former actor and a comedian and, you know, almost trying to picture him.
+
+644
+00:40:44,800 --> 00:40:51,059
+He's sort of a clown president, but he's been anything apart from courageous and admirable, hasn't he?
+
+645
+00:40:51,059 --> 00:40:55,659
+Under that sort of pressure, it's been amazing to watch that in real time, for sure.
+
+646
+00:40:56,119 --> 00:41:02,579
+If you could collaborate with anyone in the world, Peter, on anything, is there anyone that springs to mind?
+
+647
+00:41:02,579 --> 00:41:08,199
+And clearly, you've got these identifiable passions of your life, but it could be in any other area.
+
+648
+00:41:08,300 --> 00:41:10,139
+Is there anyone that you can think of?
+
+649
+00:41:11,000 --> 00:41:14,579
+Well, there's a lot of very smart people doing important things.
+
+650
+00:41:14,800 --> 00:41:20,940
+I think one of the important issues is artificial intelligence and where that's going.
+
+651
+00:41:21,719 --> 00:41:26,800
+So there are some smart people working for organizations like DeepMind.
+
+652
+00:41:27,500 --> 00:41:35,139
+I've had a little bit of contact with some of them because I'm interested in some of the ethical questions about AI and where it's going.
+
+653
+00:41:35,900 --> 00:41:44,659
+So, you know, that would be an interesting opportunity to work with them and trying to make sure that AI is used for good.
+
+654
+00:41:44,800 --> 00:41:49,219
+As it certainly has the potential to be, rather than for evil.
+
+655
+00:41:49,519 --> 00:41:52,139
+I'll have to follow up on that, just off the top.
+
+656
+00:41:52,280 --> 00:41:56,300
+What are the obvious concerns with artificial intelligence?
+
+657
+00:41:56,559 --> 00:42:00,179
+How damaging could it be if it is not used for good?
+
+658
+00:42:00,679 --> 00:42:08,739
+Well, the overarching one that people are worried about is that as it gets better and as it becomes really artificial general intelligence,
+
+659
+00:42:08,739 --> 00:42:13,039
+so it's not just beating us a chess, but it's good in general,
+
+660
+00:42:13,559 --> 00:42:14,780
+that if it's not aligned with AI, it's not going to be used for good.
+
+661
+00:42:14,800 --> 00:42:17,460
+If it's not aligned with our values, we might not be able to stop it.
+
+662
+00:42:18,159 --> 00:42:21,659
+This is something that some of the people in the effective altruism movement have thought about,
+
+663
+00:42:21,760 --> 00:42:28,400
+people like Nick Bostrom and Will McCaskill, that we need to, they call it value alignment.
+
+664
+00:42:28,619 --> 00:42:34,400
+We need to align artificial intelligence with our values and make sure that it stays aligned.
+
+665
+00:42:35,139 --> 00:42:39,400
+But even that's not quite enough because when you say our values, then of course there's the question, which values?
+
+666
+00:42:40,019 --> 00:42:42,460
+And certainly in the area of the treatment of animals,
+
+667
+00:42:42,940 --> 00:42:44,780
+I think the value of AI is not going to be aligned with our values.
+
+668
+00:42:44,800 --> 00:42:46,360
+The values that most people have are not good enough.
+
+669
+00:42:46,440 --> 00:42:49,139
+I don't want AI aligned with the way we treat animals now.
+
+670
+00:42:49,280 --> 00:42:53,699
+I want it aligned with the best values to produce alternatives to the way we're treating animals.
+
+671
+00:42:54,300 --> 00:42:57,320
+So there are, you know, that's just a couple of issues.
+
+672
+00:42:57,460 --> 00:43:01,460
+Clearly there's many other issues as well about discrimination within humans,
+
+673
+00:43:02,039 --> 00:43:08,280
+about the use of AI for surveillance, which can be put to negative uses.
+
+674
+00:43:08,659 --> 00:43:10,800
+So there's a huge range of questions.
+
+675
+00:43:11,059 --> 00:43:14,659
+Peter, reading your works in preparation and meeting you,
+
+676
+00:43:14,800 --> 00:43:19,039
+today, the overwhelming sense is that I want to do better.
+
+677
+00:43:19,199 --> 00:43:20,159
+You want to contribute more.
+
+678
+00:43:20,719 --> 00:43:23,179
+You want to live up to the best possible standard you can.
+
+679
+00:43:23,179 --> 00:43:25,340
+It's a profound influence you have, I think,
+
+680
+00:43:25,380 --> 00:43:28,860
+on anyone who's going to take the time, hopefully, to listen to Peter today.
+
+681
+00:43:29,039 --> 00:43:32,199
+But I encourage you to go to petersinger.info, Peter's website,
+
+682
+00:43:32,719 --> 00:43:35,639
+and that leads you into the projects like The Life You Can Save
+
+683
+00:43:35,639 --> 00:43:37,800
+and recommendations on the most effective charities.
+
+684
+00:43:38,400 --> 00:43:42,699
+You can understand more about the effective altruism movement through Peter's website,
+
+685
+00:43:42,840 --> 00:43:44,179
+petersinger.info.
+
+686
+00:43:44,800 --> 00:43:46,519
+is the website to go to.
+
+687
+00:43:46,599 --> 00:43:47,440
+It's a brilliant resource.
+
+688
+00:43:47,719 --> 00:43:49,840
+I guarantee it will challenge the way you think,
+
+689
+00:43:50,039 --> 00:43:51,860
+and I hope the way that we all act.
+
+690
+00:43:52,159 --> 00:43:54,619
+And, Peter, it's been a great honour and a great privilege
+
+691
+00:43:54,619 --> 00:43:56,039
+to spend some time with you today.
+
+692
+00:43:56,139 --> 00:43:57,500
+Thanks for sharing your wisdom.
+
+693
+00:43:57,980 --> 00:43:59,780
+Thanks for your questions, Luke,
+
+694
+00:43:59,780 --> 00:44:02,920
+and it's great to have the opportunity to connect with the people
+
+695
+00:44:02,920 --> 00:44:03,920
+who are listening to you.
+
+696
+00:44:06,889 --> 00:44:09,110
+Empowering Leaders was presented by me, Luke Darcy,
+
+697
+00:44:09,250 --> 00:44:12,429
+produced by Matt Dwyer, with audio production by Darcy Thompson.
+
+698
+00:44:13,010 --> 00:44:14,210
+To start your leadership journey,
+
+699
+00:44:14,210 --> 00:44:15,750
+I encourage you to go to
+
+700
+00:44:16,590 --> 00:44:19,050
+take our Empowering Leaders Indicator tool
+
+701
+00:44:19,050 --> 00:44:21,849
+and understand the impact you have on your environment.
+
+702
+00:44:22,269 --> 00:44:24,909
+Join us at Alita to learn, lead, and collaborate.
+
+703
+00:44:30,179 --> 00:44:30,820
+Listener.
+

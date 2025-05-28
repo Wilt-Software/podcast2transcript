@@ -1,0 +1,3816 @@
+1
+00:00:00,270 --> 00:00:08,759
+Andy, I thought of Elon Musk a lot in research for wanting to talk to you.
+
+2
+00:00:08,900 --> 00:00:12,980
+Actually, behind his desk in his office, there used to be a picture of the Earth, you know,
+
+3
+00:00:13,039 --> 00:00:13,839
+the blue planet.
+
+4
+00:00:14,039 --> 00:00:17,359
+There was a big picture of Mars, and then there was another picture of another blue
+
+5
+00:00:17,359 --> 00:00:19,980
+planet, so the red planet, blue planet, and then another.
+
+6
+00:00:20,100 --> 00:00:21,399
+And I said, hey, what's that?
+
+7
+00:00:21,460 --> 00:00:23,480
+And he said, that's Mars when I terraform it.
+
+8
+00:00:24,579 --> 00:00:27,519
+Hello, and welcome to another episode of the Empowering Leaders podcast.
+
+9
+00:00:28,280 --> 00:00:33,140
+At Alita, we are passionate about inspiring connections and creating a world of collaboration.
+
+10
+00:00:33,500 --> 00:00:37,479
+Our signature program, Alita Connect, curates groups of five to six leaders from diverse
+
+11
+00:00:37,479 --> 00:00:42,659
+backgrounds in sport, industry, social venture, and the arts who come together to learn, to
+
+12
+00:00:42,659 --> 00:00:43,600
+connect, and to collaborate.
+
+13
+00:00:44,119 --> 00:00:46,939
+Kirsten King, founder of Fluidform Pilates.
+
+14
+00:00:47,520 --> 00:00:48,299
+It's been amazing.
+
+15
+00:00:48,520 --> 00:00:54,640
+Here you are on this Zoom call, feeling within the first session like you intimately know
+
+16
+00:00:54,640 --> 00:00:59,159
+these people and care for them, and then all of a sudden realizing that even though you're
+
+17
+00:00:59,159 --> 00:01:03,259
+in totally different industries, we're all going through the same thing.
+
+18
+00:01:03,280 --> 00:01:09,560
+Or we've been through it, and we can help each other, or there's just this hurdle that
+
+19
+00:01:09,560 --> 00:01:16,239
+you can't see past, and then you share it with the group, and there's five answers in
+
+20
+00:01:16,239 --> 00:01:21,280
+40 minutes, and you think, I have not slept for two weeks thinking about that.
+
+21
+00:01:21,640 --> 00:01:22,980
+Like, how is this possible?
+
+22
+00:01:23,859 --> 00:01:27,379
+Craig McRae, senior coach of the Collingwood Football Club.
+
+23
+00:01:27,680 --> 00:01:32,500
+You're listening to stories and breadcrumbs of what makes success, and I constantly get
+
+24
+00:01:32,500 --> 00:01:33,260
+something out of these.
+
+25
+00:01:33,280 --> 00:01:36,420
+Zoom calls and catch-ups, because we're all living the same stuff, aren't we?
+
+26
+00:01:36,760 --> 00:01:39,780
+Extraordinary people with extraordinary experience.
+
+27
+00:01:40,120 --> 00:01:41,500
+What happens there is magical.
+
+28
+00:01:42,439 --> 00:01:47,379
+The Empowering Leaders podcast is proudly brought to you by Victoria University, where cutting-edge
+
+29
+00:01:47,379 --> 00:01:52,859
+sports and exercise science facilities like heat chambers, performance labs, and altitude
+
+30
+00:01:52,859 --> 00:01:56,799
+environments mean VU is ranked seventh in the world for sports science.
+
+31
+00:01:57,359 --> 00:01:59,000
+VU, uniquely you.
+
+32
+00:01:59,359 --> 00:02:03,260
+As always, a big thank you to Jason Nicholas and his team at Temper Bedding.
+
+33
+00:02:03,280 --> 00:02:04,920
+A mattress like no other.
+
+34
+00:02:05,299 --> 00:02:09,800
+If you enjoy listening to the Empowering Leaders podcast, be sure to subscribe, and please,
+
+35
+00:02:09,879 --> 00:02:14,180
+if you have a moment, we would love you to leave a review so we can reach more listeners
+
+36
+00:02:14,180 --> 00:02:15,659
+and empower more leaders.
+
+37
+00:02:17,080 --> 00:02:22,319
+Dr. Andrew Walsh is a globally recognized leader and expert in the field of elite human
+
+38
+00:02:22,319 --> 00:02:23,020
+performance.
+
+39
+00:02:23,240 --> 00:02:28,500
+For over 20 years, has been focused on the goal of demystifying talent by researching
+
+40
+00:02:28,500 --> 00:02:32,919
+and training individuals and teams across the vast network of world-class programs in
+
+41
+00:02:32,919 --> 00:02:36,180
+sport, culture, military, and business settings.
+
+42
+00:02:36,599 --> 00:02:40,319
+Dr. Walsh has been the director of high performance for Red Bull, where he worked with hundreds
+
+43
+00:02:40,319 --> 00:02:45,680
+of international athletes and culture opinion leaders, supervising a team of industry-leading
+
+44
+00:02:45,680 --> 00:02:50,979
+scientists, engineers, physicians, and technologists to develop and implement elite performance
+
+45
+00:02:50,979 --> 00:02:51,379
+models.
+
+46
+00:02:52,180 --> 00:02:56,939
+Dr. Walsh was the performance manager for Red Bull Stratos, leading the performance
+
+47
+00:02:56,939 --> 00:03:02,780
+plan for Felix Baumgartner's record-breaking jump to Earth from the stratosphere in 2012.
+
+48
+00:03:02,919 --> 00:03:08,659
+In 2013, Dr. Walsh was awarded the Outstanding Contribution to Performance Innovation Award
+
+49
+00:03:08,659 --> 00:03:11,599
+at the prestigious Leaders in Performance Conference.
+
+50
+00:03:12,340 --> 00:03:16,860
+Dr. Walsh founded Glimpses, the annual human potential Red Bull conference, which is now
+
+51
+00:03:16,860 --> 00:03:17,599
+in its third year.
+
+52
+00:03:17,900 --> 00:03:22,460
+This conference is a two-day symposium that brings together world-class talent to illuminate
+
+53
+00:03:22,460 --> 00:03:24,039
+our understanding of human potential.
+
+54
+00:03:24,840 --> 00:03:28,680
+Andy is currently the chief performance officer and founding member of Liminal Collective.
+
+55
+00:03:29,000 --> 00:03:32,900
+Prior to joining Red Bull, Andy designed a highly successful performance program for
+
+56
+00:03:32,919 --> 00:03:37,599
+the U.S. Olympic ski and snowboard teams, guiding their athletes to victories on the
+
+57
+00:03:37,599 --> 00:03:38,300
+world stage.
+
+58
+00:03:39,120 --> 00:03:43,560
+Andy consults directly with numerous organizations and institutions in his field, including the
+
+59
+00:03:43,560 --> 00:03:49,039
+Armed Forces, Fortune 500 companies, technology companies, artists, and athletes worldwide.
+
+60
+00:03:49,219 --> 00:03:50,979
+Andy, great to spend some time with you.
+
+61
+00:03:51,020 --> 00:03:52,419
+I've been really looking forward to this conversation.
+
+62
+00:03:52,840 --> 00:03:53,360
+Yeah, mate.
+
+63
+00:03:53,479 --> 00:03:53,919
+Likewise.
+
+64
+00:03:54,039 --> 00:03:54,360
+Likewise.
+
+65
+00:03:54,680 --> 00:03:56,080
+A pleasure to be here today.
+
+66
+00:03:56,599 --> 00:04:01,180
+You hear these incredible stories, Andy, from time to time, where someone might have a loved
+
+67
+00:04:01,180 --> 00:04:02,860
+one trapped under a car.
+
+68
+00:04:02,919 --> 00:04:10,180
+And they develop what we call superhuman strength, where they're able to lift a one-ton car and
+
+69
+00:04:10,180 --> 00:04:13,379
+save a wife or a partner or a loved one.
+
+70
+00:04:13,840 --> 00:04:17,339
+You take them back the next day and they can't move that car a centimeter.
+
+71
+00:04:18,120 --> 00:04:22,600
+Are we only tapping into a small amount of our own human potential?
+
+72
+00:04:23,579 --> 00:04:28,620
+Put it this way, the way we approach it is that we know so little about the human system
+
+73
+00:04:28,620 --> 00:04:32,620
+on the scale of sort of knowing how everything works.
+
+74
+00:04:32,920 --> 00:04:36,120
+How the human mind and body and the spirit all comes together, consciousness.
+
+75
+00:04:36,839 --> 00:04:41,579
+And so relative to what we know, which I think is only in the sort of three or four percent
+
+76
+00:04:41,579 --> 00:04:48,500
+of what's possible, I think the question is, you know, if we did know everything there
+
+77
+00:04:48,500 --> 00:04:51,600
+is to know about how to bring the best out of a human, what could we possibly do?
+
+78
+00:04:51,639 --> 00:04:53,000
+And I think that's where we sort of sit.
+
+79
+00:04:53,060 --> 00:04:59,079
+We try and understand as best we can, given all our limitations with the sort of current
+
+80
+00:04:59,079 --> 00:04:59,779
+knowledge base.
+
+81
+00:04:59,779 --> 00:05:02,779
+And then we try and also look at a human and say, well, there's definitely...
+
+82
+00:05:02,920 --> 00:05:03,600
+There's definitely some upside.
+
+83
+00:05:04,120 --> 00:05:08,680
+And how do we bring that to bear in the program when we bring it to the table?
+
+84
+00:05:08,839 --> 00:05:12,259
+So, yeah, I think, you know, whether it's lifting a car or not, I'm not sure how well
+
+85
+00:05:12,259 --> 00:05:18,300
+that all translates, but the reality is we truly believe there's massive upside in most
+
+86
+00:05:18,300 --> 00:05:19,120
+people's potential.
+
+87
+00:05:19,300 --> 00:05:23,620
+And the trick is how to unpack it and get to it so it can become something that they
+
+88
+00:05:23,620 --> 00:05:27,839
+can develop and train to in a functional way, you know.
+
+89
+00:05:27,879 --> 00:05:29,540
+Have you got an explanation for that though, Andy?
+
+90
+00:05:29,540 --> 00:05:32,899
+Because you would have heard the same stories, haven't you, where under those extreme,
+
+91
+00:05:32,920 --> 00:05:37,459
+extreme situations, humans can do things that there's no way in a normal situation
+
+92
+00:05:37,459 --> 00:05:38,139
+they could.
+
+93
+00:05:38,420 --> 00:05:39,620
+What happens there?
+
+94
+00:05:39,740 --> 00:05:42,139
+Where do we channel that ability?
+
+95
+00:05:42,300 --> 00:05:43,480
+What makes sense of that?
+
+96
+00:05:44,040 --> 00:05:45,779
+Yeah, there's definitely the extreme scenarios.
+
+97
+00:05:45,980 --> 00:05:50,839
+I think people surprise themselves in very high stakes, high risk environments and pull
+
+98
+00:05:50,839 --> 00:05:51,480
+things off.
+
+99
+00:05:51,759 --> 00:05:53,399
+And it's not just the physical capability.
+
+100
+00:05:53,540 --> 00:05:57,879
+I think for many of us, it's the combination of just their sort of cognitive capacity,
+
+101
+00:05:58,000 --> 00:06:00,500
+their ability to perform in those sort of under pressure.
+
+102
+00:06:00,879 --> 00:06:02,459
+I also think it happens in play.
+
+103
+00:06:02,920 --> 00:06:08,579
+Some of the most extraordinary athletic experiences over the years I've seen is when the crew
+
+104
+00:06:08,579 --> 00:06:12,139
+are just out there messing around, playing, you know, they're doing things in sort of
+
+105
+00:06:12,139 --> 00:06:16,980
+the unstructured training that sort of you wish they could deliver in structured times.
+
+106
+00:06:17,040 --> 00:06:18,139
+I think there's a freedom to it.
+
+107
+00:06:18,199 --> 00:06:22,379
+So I don't know if the physiology of it is, there's probably something along the lines
+
+108
+00:06:22,379 --> 00:06:28,000
+of, you know, your body has systems or mechanisms in play to protect itself.
+
+109
+00:06:28,300 --> 00:06:32,800
+But if there's enough, you know, stress or pressure on the system, it can overreact.
+
+110
+00:06:32,920 --> 00:06:36,720
+It can override some of those systems to do things that are sort of typically not possible.
+
+111
+00:06:37,579 --> 00:06:41,600
+Yeah, I'd be making it up if I went any deeper than that right now, given that's probably
+
+112
+00:06:41,600 --> 00:06:43,519
+a lecture I did 30 years ago.
+
+113
+00:06:43,620 --> 00:06:48,920
+But what's extraordinary about it all is those are the sorts of opportunities we look to
+
+114
+00:06:48,920 --> 00:06:55,319
+as sort of our North Stars, whether it's what a potential athlete does on the field of play
+
+115
+00:06:55,319 --> 00:06:59,540
+or, you know, in practice, what some of the military groups do under high stakes, high
+
+116
+00:06:59,540 --> 00:07:02,620
+risk environments, what some of the artists are able to pull together.
+
+117
+00:07:02,920 --> 00:07:06,899
+And without any explanation, we use that as more of a North Star.
+
+118
+00:07:07,120 --> 00:07:11,160
+We try to say, all right, we're not going to try and even understand it per se, but
+
+119
+00:07:11,160 --> 00:07:12,240
+it shows us what's possible.
+
+120
+00:07:12,420 --> 00:07:16,660
+And then we benchmark ourselves against those sort of best practices, if you like.
+
+121
+00:07:17,040 --> 00:07:22,480
+Andy, I thought of Elon Musk a lot in research for wanting to talk to you and someone who's
+
+122
+00:07:22,480 --> 00:07:28,860
+got a fairly interesting place in the zeitgeist of the world at the moment and talking about
+
+123
+00:07:28,860 --> 00:07:30,279
+wanting to build a colony on Mars.
+
+124
+00:07:30,279 --> 00:07:32,699
+And I think the average person thinks that's possibly.
+
+125
+00:07:32,920 --> 00:07:33,399
+Insane.
+
+126
+00:07:33,680 --> 00:07:38,680
+But then at the same time, we watch him land SpaceX rockets from outer space back on the
+
+127
+00:07:38,680 --> 00:07:40,699
+launch pad that they took off from.
+
+128
+00:07:40,779 --> 00:07:44,620
+And no one thought that that was something that was going to be viable.
+
+129
+00:07:44,620 --> 00:07:49,980
+Is he tapping into some of that human potential that maybe others find hard to access?
+
+130
+00:07:51,680 --> 00:07:53,839
+Yeah, he's an interesting case study.
+
+131
+00:07:53,939 --> 00:07:58,360
+Actually, behind his desk in his office is, well, there used to be a picture of the Earth,
+
+132
+00:07:58,639 --> 00:07:59,740
+you know, the blue planet.
+
+133
+00:08:00,439 --> 00:08:02,040
+There was a big picture of Mars.
+
+134
+00:08:02,120 --> 00:08:02,819
+And then there was another picture.
+
+135
+00:08:02,920 --> 00:08:04,220
+There was a picture of another blue planet.
+
+136
+00:08:04,279 --> 00:08:06,480
+So the red planet, blue planet, and then another.
+
+137
+00:08:06,600 --> 00:08:08,300
+And I said, hey, what's that?
+
+138
+00:08:08,339 --> 00:08:09,060
+And he said, that's Earth.
+
+139
+00:08:09,160 --> 00:08:10,819
+That's Mars when I terraform it.
+
+140
+00:08:11,639 --> 00:08:15,100
+So I think what's interesting is he's got staggering intelligence.
+
+141
+00:08:15,360 --> 00:08:17,379
+He's obviously very, very, very bright.
+
+142
+00:08:18,220 --> 00:08:22,000
+He, I think, is unconstrained by what holds a lot of us back.
+
+143
+00:08:22,120 --> 00:08:24,160
+He backs himself right to the nth degree.
+
+144
+00:08:24,259 --> 00:08:26,180
+So there's a confidence, there's a mindset there.
+
+145
+00:08:26,759 --> 00:08:31,160
+And I think he's also, in some respects, you know, it can be a positive or negative.
+
+146
+00:08:31,160 --> 00:08:32,899
+He doesn't really care.
+
+147
+00:08:32,919 --> 00:08:35,399
+He doesn't really care a lot about other things in some ways.
+
+148
+00:08:36,059 --> 00:08:41,639
+And I think that gives him that sort of space to push hard and beyond and try things.
+
+149
+00:08:41,799 --> 00:08:44,860
+And he just seems to bring it all together, you know.
+
+150
+00:08:45,039 --> 00:08:47,059
+And, you know, you can argue one way or the other.
+
+151
+00:08:47,139 --> 00:08:48,399
+He does do extraordinary things.
+
+152
+00:08:48,460 --> 00:08:52,100
+How he does it, you know, maybe not the most empathetic guy on the planet,
+
+153
+00:08:52,220 --> 00:08:54,000
+but you need it to do what he does.
+
+154
+00:08:54,100 --> 00:08:57,259
+So that's the staggering thing about some of these amazing performances
+
+155
+00:08:57,259 --> 00:08:58,299
+that people pull together.
+
+156
+00:08:58,980 --> 00:09:01,740
+You'd like to think there's a nice model of how it all comes together.
+
+157
+00:09:01,740 --> 00:09:02,679
+You'd like to think that.
+
+158
+00:09:02,919 --> 00:09:07,980
+And people have had to, you know, realise a higher version of themselves to get it done.
+
+159
+00:09:08,039 --> 00:09:10,440
+But sometimes they're just good at what they're doing
+
+160
+00:09:10,440 --> 00:09:15,220
+and they pull it off irrespective of, you know, these other factors.
+
+161
+00:09:16,019 --> 00:09:17,600
+It's interesting, Andy, you referenced that,
+
+162
+00:09:17,740 --> 00:09:21,860
+is that there's a genius level ability to do something like that,
+
+163
+00:09:21,919 --> 00:09:25,360
+but maybe another human trait like empathy might be really low.
+
+164
+00:09:26,019 --> 00:09:28,480
+Is that a common thing where, as you just said,
+
+165
+00:09:28,480 --> 00:09:31,799
+to be able to push through and not care?
+
+166
+00:09:32,919 --> 00:09:34,320
+Do you do extraordinary things?
+
+167
+00:09:34,480 --> 00:09:37,299
+Maybe there's a deficiency in one of the other human traits?
+
+168
+00:09:38,679 --> 00:09:40,879
+Yeah, we're right into it, aren't we?
+
+169
+00:09:41,320 --> 00:09:43,919
+You know, look, years and years ago when I was early in this stage,
+
+170
+00:09:44,000 --> 00:09:45,659
+there was a lot of athletes coming through,
+
+171
+00:09:45,759 --> 00:09:48,159
+a lot of military community we were working with.
+
+172
+00:09:48,360 --> 00:09:51,580
+And people would say, well, if they can only fix these other things.
+
+173
+00:09:51,659 --> 00:09:54,360
+And then one of the old trainers said to me at the time, he said,
+
+174
+00:09:54,440 --> 00:09:57,919
+you know, look, you know, sometimes what's broken is what makes them great.
+
+175
+00:09:58,659 --> 00:10:01,940
+You should be very careful of what you try to fix in some of these people.
+
+176
+00:10:01,940 --> 00:10:02,639
+And I think, you know,
+
+177
+00:10:02,639 --> 00:10:04,580
+the easy way to think about that maybe, again,
+
+178
+00:10:04,620 --> 00:10:09,700
+athletics is probably the easiest model, is, you know,
+
+179
+00:10:09,820 --> 00:10:15,440
+to be very, very good at something, there is a selfishness that's required.
+
+180
+00:10:15,539 --> 00:10:19,539
+You have to put a lot of other things on the backbone to do the amount of work
+
+181
+00:10:19,539 --> 00:10:21,220
+required to get to that level of success.
+
+182
+00:10:21,440 --> 00:10:25,019
+And sometimes I think it manifests in, you know, let's be very negative,
+
+183
+00:10:25,159 --> 00:10:27,299
+a narcissistic, self-absorbed nature.
+
+184
+00:10:27,620 --> 00:10:30,720
+And there's a, you know, I'll say it out loud,
+
+185
+00:10:30,720 --> 00:10:32,039
+there's a lot of assholes that are really,
+
+186
+00:10:32,039 --> 00:10:33,960
+really good at what they do, you know.
+
+187
+00:10:34,460 --> 00:10:39,340
+And it's, I think what's the question that sort of begs to be asked is how do
+
+188
+00:10:39,340 --> 00:10:40,679
+you want to achieve what you want to achieve?
+
+189
+00:10:40,840 --> 00:10:45,580
+Is there a part of you as a human that wants to do things well,
+
+190
+00:10:45,580 --> 00:10:48,159
+but also wants to do them the right way?
+
+191
+00:10:48,220 --> 00:10:49,840
+It's a more of a philosophical question.
+
+192
+00:10:50,340 --> 00:10:52,379
+You know, in our business, we don't get to choose, you know,
+
+193
+00:10:52,440 --> 00:10:55,039
+you work with whomever you get to deal with,
+
+194
+00:10:55,059 --> 00:10:58,259
+but you'd like to think that there's a model where you can be really
+
+195
+00:10:58,259 --> 00:11:02,019
+extraordinary at something and still be a good person at some,
+
+196
+00:11:02,039 --> 00:11:06,539
+and not to say that that doesn't happen, but, you know,
+
+197
+00:11:06,659 --> 00:11:08,759
+you see both sides of that coin.
+
+198
+00:11:09,759 --> 00:11:13,179
+Can't help as you're talking, Andy, thinking about what Gar said recently
+
+199
+00:11:13,179 --> 00:11:15,940
+with Dr. Pippa Grange, you might've come across her work,
+
+200
+00:11:16,200 --> 00:11:17,360
+wrote a great book about fearlessness.
+
+201
+00:11:17,480 --> 00:11:20,080
+She talks about winning shallow versus winning deep,
+
+202
+00:11:20,220 --> 00:11:24,500
+which I think is not dissimilar to what you were suggesting there.
+
+203
+00:11:24,559 --> 00:11:26,539
+There are a couple of ways to go about it.
+
+204
+00:11:26,779 --> 00:11:29,980
+Andy, you're a great student of artificial intelligence,
+
+205
+00:11:29,980 --> 00:11:31,679
+the world of AI.
+
+206
+00:11:32,039 --> 00:11:33,559
+And how fast that's moving.
+
+207
+00:11:33,720 --> 00:11:36,220
+Can I ask you to project forward?
+
+208
+00:11:36,779 --> 00:11:40,120
+What's our world look like in 20, 30, 50 years?
+
+209
+00:11:40,240 --> 00:11:44,500
+How big a daily impact is AI going to have on all of our lives?
+
+210
+00:11:45,179 --> 00:11:48,440
+Well, I mean, you really picked some hard ones out today.
+
+211
+00:11:49,360 --> 00:11:53,639
+I just did a big briefing for the government on some aspects of human
+
+212
+00:11:53,639 --> 00:11:56,820
+machine teaming, which is sort of the foundation of how we look at it.
+
+213
+00:11:56,820 --> 00:12:00,179
+How does a human interact with some nascent intelligence,
+
+214
+00:12:00,299 --> 00:12:01,220
+artificial intelligence?
+
+215
+00:12:01,220 --> 00:12:02,720
+It's pretty, you know, hardware itself.
+
+216
+00:12:05,120 --> 00:12:11,440
+You know, the conversation is to me right now is I'm very cautious about
+
+217
+00:12:11,440 --> 00:12:13,899
+predicting anything because it's moving so quickly.
+
+218
+00:12:14,519 --> 00:12:17,019
+Every time I predicted something, it's happened twice as fast.
+
+219
+00:12:17,019 --> 00:12:20,039
+So I'd say there is going to be, and that's just on the first part,
+
+220
+00:12:20,039 --> 00:12:26,240
+there's going to be an AGI at some form or another, which is a debatable point,
+
+221
+00:12:26,240 --> 00:12:30,220
+you know, artificial general intelligence, which is smarter than any human has ever
+
+222
+00:12:30,220 --> 00:12:30,759
+existed.
+
+223
+00:12:30,759 --> 00:12:36,220
+And the culmination of all human knowledge, yeah, most of the machines out
+
+224
+00:12:36,220 --> 00:12:38,340
+now, right now, they are smarter than most of us already.
+
+225
+00:12:38,480 --> 00:12:39,659
+So I don't think that's a mute point.
+
+226
+00:12:39,740 --> 00:12:40,620
+How smart is smart?
+
+227
+00:12:41,480 --> 00:12:44,379
+It's already part of most people's worlds, even if they're not aware of it.
+
+228
+00:12:44,379 --> 00:12:49,600
+I think it's obviously going to be far more impactful in how it manifests itself.
+
+229
+00:12:50,440 --> 00:12:54,940
+I think there's a whole bunch of philosophical questions.
+
+230
+00:12:54,980 --> 00:12:57,639
+The one we're digging deeply into, what does it mean for the human in this
+
+231
+00:12:57,639 --> 00:12:59,259
+conversation right now?
+
+232
+00:12:59,980 --> 00:13:00,620
+Most.
+
+233
+00:13:00,620 --> 00:13:05,539
+Most of them are at the level of sort of Einstein, Nobel laureate intelligence.
+
+234
+00:13:05,659 --> 00:13:07,340
+They'll pass every exam better than us.
+
+235
+00:13:08,240 --> 00:13:11,820
+They're starting to solve problems we've had no clue of how to solve.
+
+236
+00:13:11,860 --> 00:13:16,340
+And in fact, there's some recent problems being done where even the developers
+
+237
+00:13:16,340 --> 00:13:19,379
+working with the AI can't figure out how it actually solved the problem.
+
+238
+00:13:19,379 --> 00:13:23,000
+So it's already manifesting itself as a level of intelligence, which is beyond
+
+239
+00:13:23,000 --> 00:13:24,500
+most of our comprehensions.
+
+240
+00:13:25,220 --> 00:13:29,240
+So what does that mean for us as humans is that I think it's, it's, it's as two
+
+241
+00:13:29,240 --> 00:13:29,600
+sides.
+
+242
+00:13:29,600 --> 00:13:30,440
+There's obviously the.
+
+243
+00:13:30,620 --> 00:13:35,000
+What do you do with the smartest intelligence that's ever been created in your
+
+244
+00:13:35,000 --> 00:13:38,240
+pocket, which I think provides the idea.
+
+245
+00:13:38,240 --> 00:13:42,360
+Well, my take my job or all the rest of it, there's a fear side of it, but there's
+
+246
+00:13:42,360 --> 00:13:47,960
+also the opportunistic side, which is what would you do if you were sitting in a room
+
+247
+00:13:47,960 --> 00:13:51,980
+of the brightest and best minds in the world and all the cumulative knowledge of
+
+248
+00:13:51,980 --> 00:13:56,659
+the world, could you bring yourself to bear in such a way that you could get the
+
+249
+00:13:56,659 --> 00:13:57,940
+most out of that conversation?
+
+250
+00:13:57,940 --> 00:13:59,139
+That's what we're seeing a lot of.
+
+251
+00:13:59,139 --> 00:14:04,580
+We're seeing that most people are using AI to simplify sort of mundane tasks right
+
+252
+00:14:04,580 --> 00:14:11,980
+now, versus using AI to actually explore the edges of what's possible and ask the
+
+253
+00:14:11,980 --> 00:14:13,179
+deep, deep questions.
+
+254
+00:14:13,179 --> 00:14:18,080
+And so, yeah, challenge your listeners, go out and ask AI, sort of give it a proxy,
+
+255
+00:14:18,080 --> 00:14:22,539
+give it a, you know, ask AI, take on the role of a God and ask the question of the
+
+256
+00:14:22,539 --> 00:14:24,519
+AI, what are, what are humans missing?
+
+257
+00:14:24,519 --> 00:14:25,600
+What is there a God?
+
+258
+00:14:26,139 --> 00:14:27,159
+What's the meaning of life?
+
+259
+00:14:27,220 --> 00:14:28,960
+Ask it really, really deep.
+
+260
+00:14:28,960 --> 00:14:30,100
+Philosophical questions.
+
+261
+00:14:30,100 --> 00:14:33,039
+And you'll be blown away by the answers it pushes back at you.
+
+262
+00:14:33,639 --> 00:14:38,320
+So I think that whether you default to, it's going to be a good or bad thing.
+
+263
+00:14:38,320 --> 00:14:40,000
+That's a, that's a TBD.
+
+264
+00:14:40,480 --> 00:14:46,419
+I think the question more appropriately for us right now is how are you going to
+
+265
+00:14:46,419 --> 00:14:48,519
+show up to that partnership?
+
+266
+00:14:48,960 --> 00:14:51,639
+How do you bring your best self to that conversation?
+
+267
+00:14:51,779 --> 00:14:56,759
+So when you're sitting down with the all knowing entity, whatever it is, can you
+
+268
+00:14:56,759 --> 00:14:58,100
+imagine near what's possible?
+
+269
+00:14:58,100 --> 00:14:58,799
+And there's a.
+
+270
+00:14:58,960 --> 00:15:02,620
+There's a clip we've been using for many years as part of a creativity training program
+
+271
+00:15:02,620 --> 00:15:03,919
+we use and we've developed.
+
+272
+00:15:03,919 --> 00:15:06,960
+It's got Ray Charles as it's sitting in front of a computer, his piano.
+
+273
+00:15:07,720 --> 00:15:08,799
+And he makes it very clear.
+
+274
+00:15:08,799 --> 00:15:12,279
+He says, there's everything in the piano that you can ever imagine.
+
+275
+00:15:12,519 --> 00:15:17,379
+You can never bring the piano to its knees as I think is the exact language.
+
+276
+00:15:18,100 --> 00:15:22,600
+And what he's speaking to is this idea that to get the most out of the piano, you have
+
+277
+00:15:22,600 --> 00:15:23,919
+to imagine it first.
+
+278
+00:15:24,340 --> 00:15:28,740
+And I think the skill that everybody should be focusing on right now in this conversation is how do I
+
+279
+00:15:28,740 --> 00:15:34,600
+bring my imagineering, my creativity and of course, some of the other human qualities of courage,
+
+280
+00:15:34,600 --> 00:15:35,559
+empathy and compassion.
+
+281
+00:15:35,559 --> 00:15:41,659
+But fundamentally, how do I bring my imagineering or creativity or level where I can get the most out of
+
+282
+00:15:41,659 --> 00:15:42,179
+the machine?
+
+283
+00:15:42,179 --> 00:15:47,000
+That's a that's a much different conversation to be having than, you know, what's it going to do to me?
+
+284
+00:15:48,000 --> 00:15:48,600
+Long answer.
+
+285
+00:15:48,600 --> 00:15:49,139
+Sorry for that.
+
+286
+00:15:49,139 --> 00:15:50,360
+But it's a brilliant answer.
+
+287
+00:15:50,580 --> 00:15:55,100
+It's a brilliant answer, Andy, because I think that's your world is an unlocking human potential.
+
+288
+00:15:55,100 --> 00:15:58,620
+And I love the way you describe that as this partnership with this entity.
+
+289
+00:15:58,620 --> 00:15:58,720
+Yeah.
+
+290
+00:15:58,740 --> 00:16:04,139
+We've been talking about this, you know, the role of intelligence and we know already from chat,
+
+291
+00:16:04,139 --> 00:16:06,740
+GEBT has put it front of mind for all of us.
+
+292
+00:16:06,740 --> 00:16:11,779
+Everyone's probably had a play at least with that and come back with these things that blow you away and
+
+293
+00:16:11,779 --> 00:16:14,480
+how quickly the language and how good the language is.
+
+294
+00:16:14,480 --> 00:16:18,559
+But as you say, potentially, the human part is going to be more important, isn't it?
+
+295
+00:16:18,559 --> 00:16:20,259
+How do you show up with empathy?
+
+296
+00:16:20,259 --> 00:16:21,659
+How do you ask the right questions?
+
+297
+00:16:21,659 --> 00:16:23,860
+How do you interact with other humans?
+
+298
+00:16:23,860 --> 00:16:27,379
+Do you think it almost amplifies those ancient skills?
+
+299
+00:16:27,379 --> 00:16:28,620
+I hear you talk about ancient skills a lot.
+
+300
+00:16:28,620 --> 00:16:34,000
+almost more important now in this new world of ai we talked about this human machine paradise we
+
+301
+00:16:34,000 --> 00:16:38,399
+could see the technology racing and i was privy to some of the government stuff here without working
+
+302
+00:16:38,399 --> 00:16:44,080
+on some really bleeding edge tech and you can see that everybody could get their heads around it
+
+303
+00:16:44,080 --> 00:16:49,679
+there's a plan there's a technology there's a faster chip a faster gpu whatever it may be a
+
+304
+00:16:49,679 --> 00:16:55,059
+bigger computer but it was very clear that the human sort of plan for the human wasn't quite
+
+305
+00:16:55,059 --> 00:17:00,620
+as considered in that equation as equally and so we called it the human machine paradox with this
+
+306
+00:17:00,620 --> 00:17:05,519
+evolution of the machine to this you know let's go to artificial super intelligence like
+
+307
+00:17:05,519 --> 00:17:10,440
+a way of thinking and comprehension that's beyond our current world of thinking
+
+308
+00:17:10,440 --> 00:17:17,180
+then what's the humans what's the the opportunity for the paradox is with this massive tech is we
+
+309
+00:17:17,180 --> 00:17:21,440
+can double down on those things that make us truly human which is kind of where we started is
+
+310
+00:17:21,440 --> 00:17:24,779
+think about courage empathy compassion creativity
+
+311
+00:17:24,779 --> 00:17:25,039
+imagination
+
+312
+00:17:25,059 --> 00:17:33,839
+wisdom those are the things that the machine is at this point in time is not as well designed to
+
+313
+00:17:33,839 --> 00:17:38,680
+move through and so bringing those skills to the forefront is all we focus on in our high
+
+314
+00:17:38,680 --> 00:17:43,019
+performance training now for our highest teams our biggest most highest performing communities
+
+315
+00:17:43,019 --> 00:17:47,779
+it's literally look the machine's got you on everything else let's focus on being humans
+
+316
+00:17:47,779 --> 00:17:54,059
+more humans like a better coach you know there's no keeping up with the machine now it's got you
+
+317
+00:17:54,059 --> 00:17:54,779
+and knowledge
+
+318
+00:17:54,779 --> 00:17:59,440
+you know knowledge for all intents and purposes as a commodity is going to be worth worthless
+
+319
+00:17:59,440 --> 00:18:04,220
+in the next few years like it's going to have a value proposition trending to zero because it's
+
+320
+00:18:04,220 --> 00:18:10,099
+everywhere everybody's got the smartest machine in the world in their fingers or their fingertips
+
+321
+00:18:10,099 --> 00:18:14,099
+getting back to that conversation the paradox is it allows us to develop our skills that were
+
+322
+00:18:14,099 --> 00:18:18,599
+probably in some ways less refined in the last couple hundred years because we've been so focused
+
+323
+00:18:18,599 --> 00:18:23,559
+on the other side of the equation and i think what it really boils down to is we start to hit this
+
+324
+00:18:23,559 --> 00:18:24,759
+space where i think we're going to be able to do something that's going to be more efficient and
+
+325
+00:18:24,779 --> 00:18:27,339
+more efficient than what we think i think the bigger question on the table it's not about does
+
+326
+00:18:27,339 --> 00:18:33,039
+i take my work job or work or how does it it doesn't make my life easier it's it's it fundamentally
+
+327
+00:18:33,039 --> 00:18:39,180
+challenges our purpose it's you know if knowledge is no longer a differentiator in the in the
+
+328
+00:18:39,180 --> 00:18:45,480
+equation um it's you know humans value a lot of the idea of relevance based on what they know
+
+329
+00:18:45,480 --> 00:18:52,079
+who they are um and if it does surpass us in sort of creation and intuition and and logic
+
+330
+00:18:52,440 --> 00:18:54,619
+you've got to start to confront a world where
+
+331
+00:18:54,779 --> 00:19:00,259
+our reason for being is no longer self-evident you know you start to hit this space where
+
+332
+00:19:00,259 --> 00:19:05,380
+what am i doing here you know and i think this is really meaning and purpose is foundational to
+
+333
+00:19:05,380 --> 00:19:12,779
+those ancient sort of communities and and and and ways of being i think really is the bigger threat
+
+334
+00:19:12,779 --> 00:19:17,599
+that i see coming down the pipeline i can't remember who it was it was recently i was listening
+
+335
+00:19:17,599 --> 00:19:23,039
+to some real genius in this space not me they basically were saying this future you know your
+
+336
+00:19:23,039 --> 00:19:24,759
+choices are do we end up being just pets and we're not going to be able to do anything about it
+
+337
+00:19:24,779 --> 00:19:28,180
+so we just this everything's being done everything's being solved all the questions and
+
+338
+00:19:28,180 --> 00:19:31,299
+answers you end up being like a lab you run outside every day and you're happy you just
+
+339
+00:19:31,299 --> 00:19:35,819
+run around playing in the yard i kind of was someone very very smart i'm not doing a good
+
+340
+00:19:35,819 --> 00:19:40,240
+job of interpreting but that's fundamentally what they said so i think thinking about your
+
+341
+00:19:40,240 --> 00:19:44,099
+role in this sort of future state is going to be an interesting conversation and we're about
+
+342
+00:19:44,099 --> 00:19:49,440
+the human side of it so for us tripling down our biggest programs like i said running creativity
+
+343
+00:19:49,440 --> 00:19:54,759
+leadership imagineering developing character virtue justice prudence
+
+344
+00:19:54,779 --> 00:20:00,000
+empathy that's the differentiator for us and funnily enough the best programs in the world
+
+345
+00:20:00,000 --> 00:20:05,180
+have always done a lot of that they're just now being i think realizing that that's where most of
+
+346
+00:20:05,180 --> 00:20:10,140
+the bang for your buck's going to be had such a fascinating conversation andy and i my mind goes
+
+347
+00:20:10,140 --> 00:20:14,779
+to the sporting field probably where i spent a lot of my life and you're already seeing it in my
+
+348
+00:20:14,779 --> 00:20:19,819
+view that the the new generation of coaches are incredibly empathetic they talk about love
+
+349
+00:20:19,819 --> 00:20:24,619
+in sport that would no one would ever said that 30 years ago about love for their
+
+350
+00:20:24,779 --> 00:20:30,480
+foots and they're they're doubling down tripling down as you said on the connection point and the
+
+351
+00:20:30,480 --> 00:20:35,619
+connection within the team because you're probably right all of the tech advantages and the training
+
+352
+00:20:35,619 --> 00:20:40,200
+advantages are going to be a moot point at some that because of where we're headed with that so
+
+353
+00:20:40,200 --> 00:20:45,140
+it's already happening in in real time you've explained that in a fascinating way i've got to
+
+354
+00:20:45,140 --> 00:20:50,920
+ask you about red bull stratus and you're the performance manager for that uh billy's
+
+355
+00:20:50,920 --> 00:20:54,759
+baumgartner's record-breaking jump to earth can you take us behind the scenes
+
+356
+00:20:54,779 --> 00:21:00,279
+on on that one it was such an unbelievable moment uh the genesis of it and what it was
+
+357
+00:21:00,279 --> 00:21:04,799
+like working on that project yeah it was an extraordinary project i mean and it comes back
+
+358
+00:21:04,799 --> 00:21:10,240
+to what we're talking about it was fundamentally the dream of felix you know he had an old picture
+
+359
+00:21:10,240 --> 00:21:14,960
+of himself i think he drew it when he was like five years old jumping off the back of his house
+
+360
+00:21:14,960 --> 00:21:19,160
+with a parachute something he drew it that's kindergarten or at school and you know i think
+
+361
+00:21:19,160 --> 00:21:24,500
+he'd always had this idea of being sort of doing the pushing the edges of that sort of skydiving
+
+362
+00:21:24,779 --> 00:21:32,720
+space jumping world so the genesis of the project was his idea now he'd seen uh the earlier versions
+
+363
+00:21:32,720 --> 00:21:40,140
+of the of the program so when you look at the sort of genesis of the space program in the u.s
+
+364
+00:21:40,140 --> 00:21:45,359
+there's i think there's a documentary called the first astronauts when the colonel joe kittinger
+
+365
+00:21:45,359 --> 00:21:49,839
+they were basically going up to see if you could even handle being at that altitude and a bunch of
+
+366
+00:21:49,839 --> 00:21:54,759
+guys got out in the desert here and in new mexico i think and strapped joe's
+
+367
+00:21:54,779 --> 00:21:58,779
+strapped himself to a balloons went up and jumped off it i think he got around a hundred thousand
+
+368
+00:21:58,779 --> 00:22:03,359
+feet and that was done in the 50s so they were the testing the preciousness of the space suits
+
+369
+00:22:03,359 --> 00:22:09,240
+if you like so i think he saw that um and then realized that it hadn't been revisited and wanted
+
+370
+00:22:09,240 --> 00:22:13,940
+to break that record so that was the genesis of the idea and that was sort of rebel at its best
+
+371
+00:22:13,940 --> 00:22:19,400
+the best talent in the world telling you what was the next best thing um and then just working on
+
+372
+00:22:19,400 --> 00:22:24,019
+the project itself was just an extraordinary uh privilege to be
+
+373
+00:22:24,779 --> 00:22:31,420
+connected to at that time that community that was sort of aging out of the space where so the
+
+374
+00:22:31,420 --> 00:22:36,099
+mercury program the polar program a bunch of aerospace engineers and flight test engineers and
+
+375
+00:22:36,099 --> 00:22:43,119
+test pilots who had all matured and retired and rebel we we couldn't afford to go to the
+
+376
+00:22:43,119 --> 00:22:48,920
+lockheeds or the raytheons or the northrop's and nasa and hire the current talent so we got all
+
+377
+00:22:48,920 --> 00:22:53,779
+this sort of called the old stuff as if compared to the old right stuff we used to call them
+
+378
+00:22:54,779 --> 00:23:00,440
+they would sit around and every evening after you know days of testing we'd go down to the local
+
+379
+00:23:00,440 --> 00:23:05,380
+we're in new mexico in roswell area 51 up the road the whole thing was surreal in that regard
+
+380
+00:23:05,380 --> 00:23:12,660
+um and roswell has its alien sort of historical sort of narrative going around it and they would
+
+381
+00:23:12,660 --> 00:23:17,920
+sit around they'd get a couple of margaritas into them and they'd start to talk about how they
+
+382
+00:23:17,920 --> 00:23:24,200
+developed all the tech and all the things you see in the movies through those 60s and 70s and 80s and
+
+383
+00:23:24,779 --> 00:23:32,279
+just staggering to see what again people could achieve given yeah given permission the funding
+
+384
+00:23:32,279 --> 00:23:36,740
+and some imagination and the ideas that they were generating at that time
+
+385
+00:23:36,740 --> 00:23:42,759
+really caught my attention and i think that's when i started to see this sort of narrative and
+
+386
+00:23:42,759 --> 00:23:49,079
+of how much upside and opportunity there is in bringing that right mindset to those sort of
+
+387
+00:23:49,079 --> 00:23:54,440
+big bold and what you call a moonshot endeavor and i think the moonshot endeavor is
+
+388
+00:23:54,779 --> 00:23:59,539
+is really an underplayed aspect of i think we've lost a lot of those skills in the current sort of
+
+389
+00:23:59,539 --> 00:24:03,440
+world where we look at incremental gains and return on investment and all the rest of it but
+
+390
+00:24:03,440 --> 00:24:08,079
+it's it was their imaginations and what they were able to achieve during that time and
+
+391
+00:24:08,079 --> 00:24:12,880
+and funnily enough that was where the human machine paradox narrative was born because
+
+392
+00:24:12,880 --> 00:24:19,880
+with all the tech and all the geniuses and 200 300 people around and you know felix fundamentally
+
+393
+00:24:19,880 --> 00:24:24,519
+had his own personal challenges that we'd sort of lost in the mix and what that sort of brought
+
+394
+00:24:24,779 --> 00:24:30,859
+up when he had his well sort of documented issues around getting into the suit and getting in doing
+
+395
+00:24:30,859 --> 00:24:36,440
+the job and so it required us going back to very simple premises of how do you how do you want to
+
+396
+00:24:36,440 --> 00:24:40,119
+be remember what's your legacy here what's who who are you what do you want to stand for so
+
+397
+00:24:40,119 --> 00:24:45,839
+it was really a massive education at the end of the day for me and a privilege to spend time with
+
+398
+00:24:45,839 --> 00:24:51,819
+those that community uh again it's it's just staggering what they're able to achieve during
+
+399
+00:24:51,819 --> 00:24:54,700
+that sort of year of the space program at test
+
+400
+00:24:54,779 --> 00:24:59,599
+platform that the u.s government had running at that time can i ask you a little bit more on on
+
+401
+00:24:59,599 --> 00:25:05,079
+felix because i i got a fear of heights when i climb a ladder and i look at that and my heart
+
+402
+00:25:05,079 --> 00:25:10,420
+rate goes to max velocity just looking at the vision of it yeah then today as you said it
+
+403
+00:25:10,420 --> 00:25:15,460
+might be this dream but you still got to get to outer space and jump i mean were there moments
+
+404
+00:25:15,460 --> 00:25:22,299
+where he thought hey this is this is crazy i can't do it or was he focused all the way did
+
+405
+00:25:22,299 --> 00:25:24,680
+he go up and down at all no look he was a
+
+406
+00:25:24,779 --> 00:25:29,140
+base jumper so fundamentally base jumping you may remember some of those famous pictures of him
+
+407
+00:25:29,140 --> 00:25:34,200
+the christ statue in rio where he's standing on the hand and he jumps off i think some of the
+
+408
+00:25:34,200 --> 00:25:39,660
+things that became more more obvious is when you're doing it and as a base jumper you know
+
+409
+00:25:39,660 --> 00:25:43,660
+you're not obviously not going to be afraid of heights in fact the the world comes at you very
+
+410
+00:25:43,660 --> 00:25:48,799
+quickly from those lower altitudes so in some respects you are disconnected once you get to
+
+411
+00:25:48,799 --> 00:25:52,980
+skydiving and above because you're so far away from the earth that you don't see it coming so
+
+412
+00:25:52,980 --> 00:25:54,759
+to speak i think one of the things he shared
+
+413
+00:25:54,779 --> 00:26:00,859
+with us was that he had always you know base jumping is a solo for the most part solo career
+
+414
+00:26:00,859 --> 00:26:07,099
+you have yourself you have usually someone you're paying to pay the bills and uh yeah usually you
+
+415
+00:26:07,099 --> 00:26:11,039
+know maybe someone to run the getaway car when you land because for the most part there it's an
+
+416
+00:26:11,039 --> 00:26:18,079
+illegal jump you know jump off a building in the city off the statue so when you get thrown into
+
+417
+00:26:18,079 --> 00:26:23,359
+this sort of community of several hundred people who are working together the sort of pressure on
+
+418
+00:26:24,779 --> 00:26:29,559
+because you're sort of leading the fact and uh there was a combination i think of him just being
+
+419
+00:26:29,559 --> 00:26:34,460
+amongst a larger community of people that he he wasn't able to control everything at this point
+
+420
+00:26:34,460 --> 00:26:38,859
+now you're in the hands of others which is a big thing to shift from when you're doing your own
+
+421
+00:26:38,859 --> 00:26:43,339
+single base jump you're packing your own chute you're checking everything you're the one in
+
+422
+00:26:43,339 --> 00:26:48,859
+charge and you're the one who is responsible and i think that on its own right sort of manifests
+
+423
+00:26:48,859 --> 00:26:53,339
+in many ways and then also those suits those pressure suits that you see the astronauts wear
+
+424
+00:26:54,779 --> 00:27:02,160
+it's you know you've got to you know just to stop you getting the bends basically you got to sit
+
+425
+00:27:02,160 --> 00:27:05,940
+there and breathe oxygen up for a couple of hours before you actually go up in the thing so you're
+
+426
+00:27:05,940 --> 00:27:09,960
+breathing pure oxygen sitting in a room by yourself with the helmet it's all locked up
+
+427
+00:27:09,960 --> 00:27:15,420
+you can't you can't open it once the process starts and it's it's claustrophobic and so i
+
+428
+00:27:15,420 --> 00:27:19,339
+think that in some respects was maybe a manifestation of that broader pressure on his
+
+429
+00:27:19,339 --> 00:27:24,480
+shoulders and so he struggled so that sort of inoculation of one minute in the suit two minutes
+
+430
+00:27:24,779 --> 00:27:29,180
+five minutes of the suit etc etc got him over the line but i think it was also he started to grow
+
+431
+00:27:29,180 --> 00:27:33,779
+and and face these fears and he openly publicly admitted them and i think that gave him the
+
+432
+00:27:33,779 --> 00:27:39,000
+confidence to start to step into that leadership role as well so that you know these are two things
+
+433
+00:27:39,000 --> 00:27:42,319
+are probably a hundred things that were happening at the time but these are things that from a
+
+434
+00:27:42,319 --> 00:27:48,140
+personal perspective i could observe and see in him changing and uh again you get up to the edge
+
+435
+00:27:48,140 --> 00:27:53,839
+of space there's still no guarantee it's going to work and even the fact that he was going to break
+
+436
+00:27:53,839 --> 00:27:54,720
+the speed of sound
+
+437
+00:27:54,779 --> 00:28:00,779
+outside of a machine outside of a plane or a rocket there were people sending us letters saying
+
+438
+00:28:00,779 --> 00:28:05,680
+that you know he's going to die when that he breaks the speed of sound so not we've done the
+
+439
+00:28:05,680 --> 00:28:10,200
+math the math didn't add up in fact and we also had some old test pilots who had ejected above
+
+440
+00:28:10,200 --> 00:28:16,299
+the speed of sound so we knew that you could survive that but um the reality was it was still
+
+441
+00:28:16,299 --> 00:28:21,140
+a you know it was a it was a risk and you know that's part of the doing the doing to try and
+
+442
+00:28:21,140 --> 00:28:24,759
+control as much as you can control and then doing the preparation and
+
+443
+00:28:24,779 --> 00:28:30,220
+training to make sure you you don't um you know you're if things do go wrong you've got at least a
+
+444
+00:28:30,220 --> 00:28:35,640
+backup plan it's an amazing story isn't it i i feel like i could sit in a space suit and breathe
+
+445
+00:28:35,640 --> 00:28:41,400
+in some oxygen put me in the plane and i'm in real real trouble it's fascinating and as you
+
+446
+00:28:41,400 --> 00:28:45,359
+described suddenly you've got a couple hundred people and you're the leader of that team it's
+
+447
+00:28:45,359 --> 00:28:52,019
+a different perspective it's a different game yeah yeah a different game yeah we all are born different
+
+448
+00:28:52,019 --> 00:28:52,619
+oh
+
+449
+00:28:52,619 --> 00:28:52,859
+oh
+
+450
+00:28:52,859 --> 00:28:53,660
+oh
+
+451
+00:28:53,660 --> 00:28:53,700
+oh
+
+452
+00:28:53,700 --> 00:28:53,720
+oh
+
+453
+00:28:53,720 --> 00:28:53,740
+oh
+
+454
+00:28:53,740 --> 00:28:53,759
+oh
+
+455
+00:28:53,759 --> 00:28:53,779
+oh
+
+456
+00:28:53,779 --> 00:28:53,799
+oh
+
+457
+00:28:53,799 --> 00:28:53,819
+oh
+
+458
+00:28:53,819 --> 00:28:53,839
+oh
+
+459
+00:28:53,839 --> 00:28:53,859
+oh
+
+460
+00:28:53,859 --> 00:28:53,900
+oh
+
+461
+00:28:53,900 --> 00:28:54,119
+oh
+
+462
+00:28:54,119 --> 00:28:54,140
+oh
+
+463
+00:28:54,140 --> 00:28:54,579
+oh
+
+464
+00:28:54,579 --> 00:28:54,759
+oh
+
+465
+00:28:54,779 --> 00:28:55,279
+oh
+
+466
+00:28:55,279 --> 00:28:55,299
+oh
+
+467
+00:28:55,299 --> 00:28:55,920
+that's
+
+468
+00:28:55,920 --> 00:29:03,900
+one of the most important things about what
+
+469
+00:29:03,900 --> 00:29:13,799
+being a
+
+470
+00:29:13,799 --> 00:29:15,859
+student
+
+471
+00:29:15,859 --> 00:29:17,240
+is
+
+472
+00:29:17,240 --> 00:29:19,819
+is
+
+473
+00:29:19,819 --> 00:29:21,900
+uh
+
+474
+00:29:21,900 --> 00:29:25,279
+uh
+
+475
+00:29:25,279 --> 00:29:25,319
+uh
+
+476
+00:29:25,319 --> 00:29:28,859
+to move from Iraq when I was six years old because of the war. When we went to Jordan,
+
+477
+00:29:29,240 --> 00:29:34,119
+we just applied for a visa to come to Australia. Thank God we got it. And we came here and
+
+478
+00:29:34,119 --> 00:29:40,480
+I'm loving it so far. So the course on studying gives me the opportunity to study many other
+
+479
+00:29:40,480 --> 00:29:46,200
+pathways and it gives me the opportunity to choose whatever I want. It opens so many places
+
+480
+00:29:46,200 --> 00:29:46,539
+for me.
+
+481
+00:29:47,400 --> 00:29:51,900
+At Alita, our signature program, Alita Connect, is something we're really passionate and proud
+
+482
+00:29:51,900 --> 00:29:56,779
+of. We bring together groups of five to six people around the globe from diverse backgrounds,
+
+483
+00:29:56,920 --> 00:30:01,359
+sport, industry, social venture and the arts. We come together to learn, to connect and
+
+484
+00:30:01,359 --> 00:30:01,819
+to collaborate.
+
+485
+00:30:02,200 --> 00:30:06,180
+Liz Ellis, Australian netball icon and television presenter.
+
+486
+00:30:06,180 --> 00:30:10,420
+The thing that I've loved about it is not just the meetings that we have with our group,
+
+487
+00:30:10,579 --> 00:30:14,700
+it's the thinking that you do the days and days afterwards. Someone says something and
+
+488
+00:30:14,700 --> 00:30:19,200
+it sparks a thought and within my sport and within women's sport, I'm just someone who
+
+489
+00:30:19,200 --> 00:30:21,740
+I try to lead by keeping people talking.
+
+490
+00:30:21,900 --> 00:30:25,980
+About the issues. There's times when I think the person I'm trying to convince is not listening
+
+491
+00:30:25,980 --> 00:30:29,839
+to me. It actually got me thinking about this is how I need to address my communication
+
+492
+00:30:29,839 --> 00:30:32,839
+with them. So it was, I can't tell you how much I enjoyed it.
+
+493
+00:30:33,839 --> 00:30:38,539
+A lot of people listening to this, Andy, will be interested in developing themselves and
+
+494
+00:30:38,539 --> 00:30:43,980
+they'll be listening to you. But what would you disseminate for people? What's the highest
+
+495
+00:30:43,980 --> 00:30:49,019
+impact you can do from what you've witnessed in unlocking human potential for someone driving
+
+496
+00:30:49,019 --> 00:30:51,720
+their car today, they're listening. What should people do?
+
+497
+00:30:51,900 --> 00:30:54,839
+To develop themselves and have a great life.
+
+498
+00:30:55,599 --> 00:31:00,220
+Yeah, a great life. Maybe that's fairly beyond my realm, but to help develop themselves,
+
+499
+00:31:00,220 --> 00:31:06,599
+I think is, for me, what it boils down to, what we've seen, I'll just speak to the experiences.
+
+500
+00:31:06,960 --> 00:31:11,779
+Everyone's journey is different. So what does that mean? It means that there's no one way
+
+501
+00:31:11,779 --> 00:31:17,839
+to do this. And I think people tend to get a little bit, throw a little added pressure
+
+502
+00:31:17,839 --> 00:31:21,440
+on themselves when they're starting to think about, I want to improve that. And they suddenly
+
+503
+00:31:21,440 --> 00:31:21,859
+get this.
+
+504
+00:31:21,900 --> 00:31:25,960
+It's this sort of idea that they're measuring up against others. And I think the challenge
+
+505
+00:31:25,960 --> 00:31:29,920
+is that you've got to, first and foremost, learn to be very patient and kind with yourself.
+
+506
+00:31:31,299 --> 00:31:36,119
+There's no roadmap for you. There's a road that you can listen to a lot of people who
+
+507
+00:31:36,119 --> 00:31:41,079
+have done things. And we say, sure, go and watch the best soldiers, athletes, business
+
+508
+00:31:41,079 --> 00:31:46,319
+leaders, creative artists, musicians, study the hell out of them. But there's no roadmap
+
+509
+00:31:46,319 --> 00:31:50,039
+for you. So you have to be very kind.
+
+510
+00:31:50,039 --> 00:31:50,160
+Yeah.
+
+511
+00:31:50,160 --> 00:31:50,220
+Yeah.
+
+512
+00:31:50,220 --> 00:31:50,240
+Yeah.
+
+513
+00:31:50,240 --> 00:31:50,259
+Yeah.
+
+514
+00:31:50,259 --> 00:31:50,279
+Yeah.
+
+515
+00:31:50,279 --> 00:31:50,299
+Yeah.
+
+516
+00:31:50,299 --> 00:31:50,319
+Yeah.
+
+517
+00:31:50,319 --> 00:31:50,359
+Yeah.
+
+518
+00:31:50,359 --> 00:31:50,400
+Yeah.
+
+519
+00:31:50,400 --> 00:31:50,420
+Yeah.
+
+520
+00:31:50,420 --> 00:31:50,440
+Yeah.
+
+521
+00:31:50,440 --> 00:31:50,500
+Yeah.
+
+522
+00:31:50,500 --> 00:31:50,599
+Yeah.
+
+523
+00:31:50,599 --> 00:31:50,660
+Yeah.
+
+524
+00:31:50,660 --> 00:31:50,720
+Yeah.
+
+525
+00:31:50,720 --> 00:31:50,799
+Yeah.
+
+526
+00:31:50,799 --> 00:31:50,839
+Yeah.
+
+527
+00:31:50,839 --> 00:31:50,880
+Yeah.
+
+528
+00:31:50,880 --> 00:31:51,880
+Yeah.
+
+529
+00:31:51,900 --> 00:31:52,039
+Yeah.
+
+530
+00:31:52,039 --> 00:31:52,059
+Yeah.
+
+531
+00:31:52,059 --> 00:31:52,099
+Yeah.
+
+532
+00:31:52,099 --> 00:31:52,140
+Yeah.
+
+533
+00:31:52,140 --> 00:31:52,160
+Yeah.
+
+534
+00:31:52,160 --> 00:31:52,180
+Yeah.
+
+535
+00:31:52,180 --> 00:31:52,200
+Yeah.
+
+536
+00:31:52,200 --> 00:31:52,220
+Yeah.
+
+537
+00:31:52,220 --> 00:31:52,240
+Yeah.
+
+538
+00:31:52,240 --> 00:31:52,259
+Yeah.
+
+539
+00:31:52,259 --> 00:31:52,279
+Yeah.
+
+540
+00:31:52,279 --> 00:31:52,299
+Yeah.
+
+541
+00:31:52,299 --> 00:31:52,319
+Yeah.
+
+542
+00:31:52,319 --> 00:31:52,339
+Yeah.
+
+543
+00:31:52,339 --> 00:31:52,359
+Yeah.
+
+544
+00:31:52,359 --> 00:31:52,660
+Yeah.
+
+545
+00:31:52,660 --> 00:31:52,680
+Yeah.
+
+546
+00:31:52,680 --> 00:31:52,740
+Yeah.
+
+547
+00:31:52,740 --> 00:31:52,759
+Yeah.
+
+548
+00:31:52,759 --> 00:31:52,779
+Yeah.
+
+549
+00:31:52,779 --> 00:31:52,799
+Yeah.
+
+550
+00:31:52,799 --> 00:31:52,859
+Yeah.
+
+551
+00:31:52,859 --> 00:31:52,880
+Yeah.
+
+552
+00:31:52,880 --> 00:31:52,920
+Yeah.
+
+553
+00:31:52,920 --> 00:31:52,940
+Yeah.
+
+554
+00:31:52,940 --> 00:31:52,960
+Yeah.
+
+555
+00:31:52,960 --> 00:31:52,980
+Yeah.
+
+556
+00:31:52,980 --> 00:31:53,000
+Yeah.
+
+557
+00:31:53,000 --> 00:31:53,059
+Yeah.
+
+558
+00:31:53,059 --> 00:31:53,119
+Yeah.
+
+559
+00:31:53,119 --> 00:31:53,160
+Yeah.
+
+560
+00:31:53,160 --> 00:31:53,180
+Yeah.
+
+561
+00:31:53,180 --> 00:31:53,200
+Yeah.
+
+562
+00:31:53,200 --> 00:31:53,220
+Yeah.
+
+563
+00:31:53,220 --> 00:31:53,240
+Yeah.
+
+564
+00:31:53,240 --> 00:31:53,279
+Yeah.
+
+565
+00:31:53,279 --> 00:31:53,299
+Yeah.
+
+566
+00:31:53,299 --> 00:31:53,359
+Yeah.
+
+567
+00:31:53,359 --> 00:31:53,400
+Yeah.
+
+568
+00:31:53,400 --> 00:31:53,460
+Yeah.
+
+569
+00:31:53,460 --> 00:31:53,480
+Yeah.
+
+570
+00:31:53,480 --> 00:31:53,519
+Yeah.
+
+571
+00:31:53,519 --> 00:31:53,559
+Yeah.
+
+572
+00:31:53,559 --> 00:31:53,579
+Yeah.
+
+573
+00:31:53,579 --> 00:31:53,660
+Yeah.
+
+574
+00:31:53,660 --> 00:31:53,720
+Yeah.
+
+575
+00:31:53,720 --> 00:31:53,759
+Yeah.
+
+576
+00:31:53,759 --> 00:31:53,799
+Yeah.
+
+577
+00:31:53,799 --> 00:31:53,859
+Yeah.
+
+578
+00:31:53,859 --> 00:31:53,920
+Yeah.
+
+579
+00:31:53,920 --> 00:31:53,960
+Yeah.
+
+580
+00:31:53,960 --> 00:31:54,000
+Yeah.
+
+581
+00:31:54,000 --> 00:32:10,079
+Yeah.
+
+582
+00:32:10,079 --> 00:32:15,920
+that works, good, keep it. If it doesn't work, try something else. And using that sort of iterative
+
+583
+00:32:15,920 --> 00:32:24,960
+model of trying, learning, shifting, adjusting. And then I think, you know, the first step in all
+
+584
+00:32:24,960 --> 00:32:30,019
+that is that requires a pretty deep level of self-awareness. You've got to understand yourself
+
+585
+00:32:30,019 --> 00:32:35,440
+first. So you've got to develop an understanding of what's your triggers, what motivates you,
+
+586
+00:32:35,440 --> 00:32:40,259
+what scares you. You've got to build your own personal interoceptiveness, you know, understand
+
+587
+00:32:40,259 --> 00:32:44,819
+as things are happening, what triggers you. Now, then you can start to look at some of the tools
+
+588
+00:32:44,819 --> 00:32:49,099
+that people have sort of practiced over the years. By copying the best, you'll probably find a few
+
+589
+00:32:49,099 --> 00:32:53,460
+shortcuts. You'll find some paths that have been trodden and you can use those, but you've
+
+590
+00:32:53,460 --> 00:32:59,579
+really, really got to, you know, give it your best shot, put your best foot forward out there,
+
+591
+00:32:59,579 --> 00:33:05,000
+and then really learn for yourself what works and doesn't work. And it can be anything from
+
+592
+00:33:05,000 --> 00:33:05,420
+benefits to success.
+
+593
+00:33:05,440 --> 00:33:09,180
+a better parent or a better athlete or a better, you know, leader,
+
+594
+00:33:10,240 --> 00:33:13,960
+you've got to start to craft your own narrative.
+
+595
+00:33:14,220 --> 00:33:18,299
+And as you craft your own narrative, allow yourself to make those mistakes
+
+596
+00:33:18,299 --> 00:33:19,480
+so that you can push it forward.
+
+597
+00:33:20,579 --> 00:33:23,839
+That's another great human answer, Andy, and I love it from someone
+
+598
+00:33:23,839 --> 00:33:27,140
+who's been at the cutting edge of elite performance.
+
+599
+00:33:27,500 --> 00:33:29,160
+I've got the sporting lens on again.
+
+600
+00:33:29,160 --> 00:33:32,259
+I look at the number one draft picked in the NBA a few years ago,
+
+601
+00:33:32,259 --> 00:33:37,140
+the French seven-foot-four freak of an athlete, Victor Wimbanyana.
+
+602
+00:33:37,599 --> 00:33:39,779
+It looks like he's landed from outer space.
+
+603
+00:33:40,220 --> 00:33:44,200
+You're not supposed to be able to run and move at that height
+
+604
+00:33:44,200 --> 00:33:45,460
+and the way that he does.
+
+605
+00:33:45,660 --> 00:33:49,019
+And again, I project forward and I think it is human potential.
+
+606
+00:33:49,339 --> 00:33:51,680
+You know, 100 years ago, there weren't athletes like that.
+
+607
+00:33:51,759 --> 00:33:54,940
+50 years ago, 10 years ago, where does it end up, Andy?
+
+608
+00:33:57,119 --> 00:34:01,240
+I think every time we think on any level that we've reached a limit,
+
+609
+00:34:01,380 --> 00:34:02,240
+whether it's a career or a career, it's a career.
+
+610
+00:34:02,240 --> 00:34:02,259
+It's a career.
+
+611
+00:34:02,259 --> 00:34:03,900
+It's a machine or a human, whatever.
+
+612
+00:34:04,240 --> 00:34:07,059
+It just, in a few years, we look back and go, wow,
+
+613
+00:34:07,519 --> 00:34:08,860
+someone's taken that next step.
+
+614
+00:34:09,880 --> 00:34:11,940
+Victor is an interesting case.
+
+615
+00:34:12,000 --> 00:34:13,139
+He's an extraordinary athlete.
+
+616
+00:34:13,760 --> 00:34:18,039
+I know him well, the program well, because of the relationship I've had
+
+617
+00:34:18,039 --> 00:34:19,320
+with the Spurs for many years.
+
+618
+00:34:19,380 --> 00:34:20,780
+They were lucky to get him in the draft.
+
+619
+00:34:21,940 --> 00:34:28,300
+And, you know, he's just reimagined what's possible at seven-foot-four.
+
+620
+00:34:28,480 --> 00:34:30,800
+You know, it's like he moves in a way that you're just like,
+
+621
+00:34:30,800 --> 00:34:32,159
+that shouldn't be physically.
+
+622
+00:34:32,159 --> 00:34:36,780
+So, what's wonderful about that idea is that I think it just shows you
+
+623
+00:34:36,780 --> 00:34:39,820
+that there's no, again, what we just said, there's no right or wrong in this.
+
+624
+00:34:40,039 --> 00:34:43,920
+There's opportunities and there's ways to reimagine what's possible.
+
+625
+00:34:44,079 --> 00:34:47,760
+And if you're courageous enough to have a go, put yourself out there
+
+626
+00:34:47,760 --> 00:34:51,440
+a little bit, you might find yourself stumbling into a new way of being.
+
+627
+00:34:51,619 --> 00:34:54,960
+And I think you can stand on the, like he is, the shoulders of everyone
+
+628
+00:34:54,960 --> 00:34:55,820
+that's been before you.
+
+629
+00:34:56,679 --> 00:34:59,260
+He shoots like, you know, almost like Steph.
+
+630
+00:34:59,260 --> 00:35:01,880
+He moves like a Jordan in his, you know.
+
+631
+00:35:01,880 --> 00:35:04,260
+And he's a good kid, too.
+
+632
+00:35:04,340 --> 00:35:05,320
+He's a really good kid.
+
+633
+00:35:05,539 --> 00:35:10,099
+So, you know, that's the wonderful idea about working in human performance
+
+634
+00:35:10,099 --> 00:35:12,159
+is that there's never any end game.
+
+635
+00:35:12,340 --> 00:35:14,659
+You're always, you never quite reach the finish line.
+
+636
+00:35:16,019 --> 00:35:21,019
+And I think now where it's going to go is I think you'll see more
+
+637
+00:35:21,019 --> 00:35:26,500
+and more intelligence solving the problems that we've dealt with for years
+
+638
+00:35:26,500 --> 00:35:28,880
+around how do humans do what they do.
+
+639
+00:35:28,960 --> 00:35:30,519
+And we'll understand more and more.
+
+640
+00:35:30,519 --> 00:35:31,519
+And I think that's the big.
+
+641
+00:35:31,880 --> 00:35:36,699
+Frontier that'll be cracked pretty quickly here through the next gen
+
+642
+00:35:36,699 --> 00:35:41,260
+platforms, quantum AI, artificial super intelligence, where we will start
+
+643
+00:35:41,260 --> 00:35:43,019
+to understand how the brain works really well.
+
+644
+00:35:43,019 --> 00:35:44,260
+So we'll have a lot more answers.
+
+645
+00:35:44,260 --> 00:35:47,199
+So I think you'll start to see some acceleration of capabilities.
+
+646
+00:35:47,860 --> 00:35:51,199
+That's my prediction is you'll start to see humans developing skills and the
+
+647
+00:35:51,199 --> 00:35:55,260
+things because our understanding improves in ways we can't imagine right now.
+
+648
+00:35:55,260 --> 00:35:58,480
+So, yeah, I don't think there's any limit to it.
+
+649
+00:35:58,579 --> 00:36:01,780
+Uh, at some point you're probably going to start to shift into where it gets
+
+650
+00:36:01,780 --> 00:36:06,579
+really esoteric, some fume of, uh, uh, synthetic consciousness from the
+
+651
+00:36:06,579 --> 00:36:10,059
+platforms and humans uploading their brain, you know, all that sort of stuff.
+
+652
+00:36:10,059 --> 00:36:15,519
+I think that's more ahead of us sooner than we imagined, but probably
+
+653
+00:36:15,519 --> 00:36:17,440
+still, yeah, maybe 10, 20 years out.
+
+654
+00:36:17,980 --> 00:36:18,400
+We'll see.
+
+655
+00:36:18,920 --> 00:36:22,400
+Andy, you, you described before that there's no roadmap given to you when
+
+656
+00:36:22,400 --> 00:36:26,039
+you're born and this is how you, you, you win and you never get the path of it.
+
+657
+00:36:26,099 --> 00:36:30,639
+You can, as you described before, there's maybe some shortcuts from others.
+
+658
+00:36:30,639 --> 00:36:31,659
+And we, we love this saying.
+
+659
+00:36:31,659 --> 00:36:35,920
+It's success leaves clues and we see these patterns of what successful people
+
+660
+00:36:35,920 --> 00:36:41,599
+do, whether they be artists or sports people or business leaders or, um, people
+
+661
+00:36:41,599 --> 00:36:45,659
+who've unlocked human potential like you have, uh, this idea of self-leadership
+
+662
+00:36:45,659 --> 00:36:48,760
+is where we start as, and I want to ask you the question, how do you make
+
+663
+00:36:48,760 --> 00:36:50,199
+sure that you're feeling your best?
+
+664
+00:36:50,199 --> 00:36:53,280
+What do you do so that you can lead others effectively yourself?
+
+665
+00:36:53,739 --> 00:36:58,719
+For me and, you know, I think it's just by default, I get to spend time in
+
+666
+00:36:58,719 --> 00:37:01,360
+these communities of extraordinary people.
+
+667
+00:37:01,360 --> 00:37:05,500
+So the, I think what I have to always bear in mind is as much as I think I've
+
+668
+00:37:05,500 --> 00:37:08,619
+known that there's still so much more.
+
+669
+00:37:08,619 --> 00:37:14,500
+So as a leader, I, I sort of focus on the, on the openness, like I'm open to anything.
+
+670
+00:37:14,500 --> 00:37:17,960
+I'll, I'll take a call on the craziest stuff and just try and
+
+671
+00:37:17,960 --> 00:37:19,719
+learn and continuously learn.
+
+672
+00:37:19,719 --> 00:37:26,719
+But I'm also humble, uh, in that I try to stick to the humility of it by recognizing
+
+673
+00:37:26,719 --> 00:37:29,019
+that there is much more to be, to know.
+
+674
+00:37:29,079 --> 00:37:31,300
+And, and, and that keeps me sort of hungry to learn.
+
+675
+00:37:31,360 --> 00:37:35,539
+More, uh, you know, and then from a leadership perspective, just as you,
+
+676
+00:37:35,539 --> 00:37:39,699
+especially as you get older, like one of my great mentors, Peter Reyes, and so
+
+677
+00:37:39,800 --> 00:37:43,579
+you surround yourself with people you love, admire and respect and, you know,
+
+678
+00:37:43,760 --> 00:37:47,440
+and that's, you know, the opposite is that the no dickhead rule, I think more
+
+679
+00:37:47,440 --> 00:37:52,659
+and more as you, as you embarking on these sort of bigger, broader, more, you
+
+680
+00:37:52,659 --> 00:37:55,900
+know, challenging programs, the more you can do that, the better.
+
+681
+00:37:55,900 --> 00:37:58,960
+So I sort of think you're keeping it that simple for me right now.
+
+682
+00:37:59,019 --> 00:38:00,639
+It's sort of where it's at, you know?
+
+683
+00:38:00,940 --> 00:38:01,340
+And if I.
+
+684
+00:38:01,360 --> 00:38:05,719
+If I, you find yourself getting very frustrated and, and even myself personally getting sort
+
+685
+00:38:05,719 --> 00:38:10,179
+of caught up in just the overwhelming pace of things right now.
+
+686
+00:38:10,559 --> 00:38:14,239
+So that's where I think it's also really important to give yourself space.
+
+687
+00:38:14,239 --> 00:38:19,219
+And that comes back to the creativity side that I think you got to give your brain and
+
+688
+00:38:19,219 --> 00:38:26,119
+your body time to connect back and recovery, regeneration, or walk in nature, whatever
+
+689
+00:38:26,119 --> 00:38:26,599
+it takes.
+
+690
+00:38:26,599 --> 00:38:30,559
+But those are the things that I think we're, we're, we, we, we really have to value more
+
+691
+00:38:30,559 --> 00:38:31,059
+nowadays.
+
+692
+00:38:31,360 --> 00:38:35,920
+Given the pace of the, of the way that things are moving and the way of the world right
+
+693
+00:38:35,920 --> 00:38:36,900
+now, for one matter.
+
+694
+00:38:37,239 --> 00:38:40,719
+Andy, what's the one piece of leadership advice that you pass on the most?
+
+695
+00:38:41,320 --> 00:38:45,460
+It comes back to that, you know, you've got to sort yourself out first.
+
+696
+00:38:45,880 --> 00:38:49,940
+You're going to, you're going to look at, look at the world and understand that, you
+
+697
+00:38:49,940 --> 00:38:54,719
+know, before you can sort of have impact on others, you sort of have to sort of know yourself
+
+698
+00:38:54,719 --> 00:38:59,980
+deeply and understand that, that, and that across all the, all your strengths and all
+
+699
+00:38:59,980 --> 00:39:00,539
+your weaknesses.
+
+700
+00:39:00,539 --> 00:39:03,420
+And just getting, you know, no one's perfect by any means.
+
+701
+00:39:03,500 --> 00:39:08,460
+And knowing that allows you then, I think, to be more receptive, to be able to sort of
+
+702
+00:39:08,460 --> 00:39:09,940
+listen and learn from others.
+
+703
+00:39:10,059 --> 00:39:11,320
+So I think that's the biggest part.
+
+704
+00:39:11,380 --> 00:39:16,159
+I say people get, get the sense of self first before you start to try and move into the
+
+705
+00:39:16,159 --> 00:39:17,039
+sort of the role.
+
+706
+00:39:17,119 --> 00:39:21,440
+And then I think being very, very open for me is one of the things like, how do you,
+
+707
+00:39:21,960 --> 00:39:26,360
+how do you bring your imagineering forward in such a way that sort of is inspiring to
+
+708
+00:39:26,360 --> 00:39:28,260
+others is probably the other thing I share a lot of.
+
+709
+00:39:28,659 --> 00:39:30,420
+Andy, in terms of vision.
+
+710
+00:39:30,539 --> 00:39:34,639
+We think about it in the sense, it's one thing to have a vision, but as you described
+
+711
+00:39:34,639 --> 00:39:39,920
+before, then trying to get a couple of hundred people on board with that same vision, you've
+
+712
+00:39:39,920 --> 00:39:44,360
+been on teams that have achieved remarkable things.
+
+713
+00:39:44,579 --> 00:39:48,780
+How do you get people together and with a common vision?
+
+714
+00:39:48,920 --> 00:39:50,139
+What's, what's the skill with that?
+
+715
+00:39:50,840 --> 00:39:52,260
+Oh, there's a lot to it.
+
+716
+00:39:52,280 --> 00:39:58,500
+I think what's really where I find the most fun in this space is getting the really bold
+
+717
+00:39:58,500 --> 00:39:59,059
+visions out.
+
+718
+00:39:59,059 --> 00:40:00,519
+Like shoot for the moon.
+
+719
+00:40:00,539 --> 00:40:06,539
+Like what I've learned over the years is that if the bolder and more, more challenging
+
+720
+00:40:06,539 --> 00:40:10,780
+and more imaginative, the vision, the easier it is to get people on board.
+
+721
+00:40:10,820 --> 00:40:14,340
+It's like, I think everybody's looking for a bit of inspiration.
+
+722
+00:40:14,340 --> 00:40:18,340
+And if you can come up with something, that's, it's just the beyond what most people are
+
+723
+00:40:18,340 --> 00:40:18,900
+thinking about.
+
+724
+00:40:19,000 --> 00:40:24,260
+For me, that's the first step being really bold in that vision, then attracts the kinds
+
+725
+00:40:24,260 --> 00:40:27,500
+of people that I think that at least I like to work with.
+
+726
+00:40:27,539 --> 00:40:29,559
+So I think that's the important part.
+
+727
+00:40:29,559 --> 00:40:30,500
+I think there's always this.
+
+728
+00:40:30,539 --> 00:40:32,260
+There's always an element of sales in it.
+
+729
+00:40:32,260 --> 00:40:35,460
+If you want to get down to the nitty gritty, you've got to be able to, in our creative
+
+730
+00:40:35,460 --> 00:40:40,099
+process, training, basically, you've got to come up with the idea, but the next sort
+
+731
+00:40:40,099 --> 00:40:41,659
+of thing is you've got to sell the vision.
+
+732
+00:40:42,079 --> 00:40:46,800
+You, you, you actually have to get people on board and that can be really hard and challenging
+
+733
+00:40:46,800 --> 00:40:52,139
+if you are shooting for the moon, because most of the time, what you're saying and what
+
+734
+00:40:52,139 --> 00:40:55,599
+you're, you're speaking to is sounds incredulous or unbelievable.
+
+735
+00:40:56,000 --> 00:40:59,059
+And it's very easy for people to shoot you down.
+
+736
+00:40:59,900 --> 00:41:00,519
+So you've got to, you've got to, you've got to, you've got to, you've got to, you've
+
+737
+00:41:00,519 --> 00:41:01,420
+got to get some people on board, you've got to, you've got to, you've got to get some
+
+738
+00:41:01,420 --> 00:41:01,780
+people on board.
+
+739
+00:41:01,780 --> 00:41:01,920
+And, you've got to, you've got to, you've got to, you've got to, you've got to have
+
+740
+00:41:01,920 --> 00:41:02,099
+the team.
+
+741
+00:41:02,199 --> 00:41:07,739
+I think it's, it's the hardest part to manifest its courage, maybe not in the classical sense,
+
+742
+00:41:07,739 --> 00:41:12,199
+but in the idea of putting yourself out there with an idea that for the most part, people
+
+743
+00:41:12,199 --> 00:41:13,739
+thinks stupid or crazy.
+
+744
+00:41:13,739 --> 00:41:17,079
+And then when you, like they say, the pioneers get the arrows, the settlers
+
+745
+00:41:17,079 --> 00:41:17,840
+get the land.
+
+746
+00:41:17,840 --> 00:41:19,699
+So you've got to be prepared to take a few later.
+
+747
+00:41:19,699 --> 00:41:21,500
+You've got to take a few shots in the back.
+
+748
+00:41:22,539 --> 00:41:25,179
+Um, you know, that's my, that's my simple version of that.
+
+749
+00:41:25,519 --> 00:41:29,679
+So a great bit of wisdom, isn't I love what you said that sometimes the bolder, the vision,
+
+750
+00:41:29,679 --> 00:41:30,380
+the easier.
+
+751
+00:41:30,380 --> 00:41:36,019
+it is to get people to fold in behind it and there's a great lesson in that for sure today
+
+752
+00:41:36,019 --> 00:41:41,019
+we see curiosity comes up a lot with successful people annie and i want to ask you is there a
+
+753
+00:41:41,019 --> 00:41:45,539
+latest rabbit hole you've gone down where something's piqued your curiosity and it's
+
+754
+00:41:45,539 --> 00:41:52,719
+taking you down a path on any uh particular idea i'm very curious that's probably one of my
+
+755
+00:41:52,719 --> 00:41:58,780
+defining characteristics the rabbit hole i'm in right now is a combination of technologies and
+
+756
+00:41:58,780 --> 00:42:04,420
+insights and most of it around the brain we're working on a cognitive warrior program for the
+
+757
+00:42:04,420 --> 00:42:08,920
+for the u.s government and what we don't know about the brain is first and foremost
+
+758
+00:42:08,920 --> 00:42:13,639
+mind-blowing like people say this say that and then you look at the numbers and you're like this
+
+759
+00:42:13,639 --> 00:42:19,500
+we really have no clue but what's the rabbit hole i'm into right now is this combination of
+
+760
+00:42:19,500 --> 00:42:24,420
+i can't even do it justice there's a new sort of realm of the science of photons and measuring
+
+761
+00:42:24,420 --> 00:42:28,659
+light photons that are emitted from the brain during different brain states so
+
+762
+00:42:28,659 --> 00:42:28,760
+you
+
+763
+00:42:28,780 --> 00:42:32,900
+senses that you can put above you they can actually look at your skull and tell you how
+
+764
+00:42:32,900 --> 00:42:37,159
+you think and what you're thinking and then i'm doing a really bad job and then in parallel to
+
+765
+00:42:37,159 --> 00:42:43,579
+that the mechanoreceptors on the cells of the brain being triggering mrna adjustments and
+
+766
+00:42:43,579 --> 00:42:48,880
+messenger adjustments in the brain or in any cell for that matter based on sound and vibration
+
+767
+00:42:48,880 --> 00:42:54,000
+and i love the two of those things because it goes back to that ancient wisdom concept they're
+
+768
+00:42:54,000 --> 00:42:58,659
+finally getting our science to a level of showing that wow we like to
+
+769
+00:42:58,780 --> 00:43:04,260
+body response to sound music like go figure but we've known it for centuries but now they're
+
+770
+00:43:04,260 --> 00:43:12,059
+figuring out the math and there's a whole quantum uh computing side to that that's emerging to be
+
+771
+00:43:12,059 --> 00:43:17,500
+able to help maybe solve some of these questions and that's getting us into this idea of you know
+
+772
+00:43:17,900 --> 00:43:23,039
+again back to the machine this sort of artificial consciousness you know synthetic consciousness what
+
+773
+00:43:23,039 --> 00:43:28,579
+what it is and the question so that's the rabbit hole i've been buried in the last few days because
+
+774
+00:43:28,579 --> 00:43:32,400
+So we're trying to figure out how to bring the performer of the past,
+
+775
+00:43:32,539 --> 00:43:34,699
+especially the athletic performer, the military performer.
+
+776
+00:43:35,539 --> 00:43:38,719
+A lot of the work was done on obviously the physical side,
+
+777
+00:43:39,039 --> 00:43:42,420
+your world, train and run them, see who's the toughest.
+
+778
+00:43:43,800 --> 00:43:46,900
+The cognitive warrior, the cognitive knowledge worker,
+
+779
+00:43:46,900 --> 00:43:49,739
+the cognitive performer is now all our focus.
+
+780
+00:43:49,960 --> 00:43:53,420
+And we really don't have much of a bag of tricks for the brain.
+
+781
+00:43:53,820 --> 00:43:55,340
+When it boils, like if I was training you,
+
+782
+00:43:55,400 --> 00:43:57,440
+I could run you up and down the hill a few times, you'll get fitter.
+
+783
+00:43:57,440 --> 00:43:59,219
+And you pick up some heavy rocks, you'll get stronger.
+
+784
+00:43:59,539 --> 00:44:00,079
+We got you.
+
+785
+00:44:00,880 --> 00:44:04,900
+You really said, what can I do specifically for you to make you think faster,
+
+786
+00:44:05,519 --> 00:44:07,460
+perform better, be more creative?
+
+787
+00:44:07,519 --> 00:44:09,719
+It's a much more complex problem.
+
+788
+00:44:10,099 --> 00:44:13,039
+And so cracking that code is where we're focused right now.
+
+789
+00:44:13,039 --> 00:44:17,760
+I got no answers for you, mate, but I definitely got down a rabbit hole there.
+
+790
+00:44:17,920 --> 00:44:20,460
+Well, that was a great rabbit hole and probably where all the gains are,
+
+791
+00:44:20,539 --> 00:44:20,760
+aren't they?
+
+792
+00:44:20,860 --> 00:44:26,239
+And the athletes, performers, artists, business people that tap into that
+
+793
+00:44:26,239 --> 00:44:29,980
+are the ones that tend to do things that, but as you said,
+
+794
+00:44:30,039 --> 00:44:32,119
+it's not a simple answer as to how to coach that.
+
+795
+00:44:32,239 --> 00:44:35,539
+Or as you just described, it's fascinating.
+
+796
+00:44:37,380 --> 00:44:41,079
+Artificial consciousness is just a wild concept in itself.
+
+797
+00:44:41,559 --> 00:44:44,079
+And that's where some of the community we're with,
+
+798
+00:44:44,179 --> 00:44:47,360
+it's where they're spending all their time on this idea of cracking that code
+
+799
+00:44:47,360 --> 00:44:48,900
+and synthetic consciousness.
+
+800
+00:44:49,300 --> 00:44:53,179
+And there's little, you read these little articles like recently,
+
+801
+00:44:53,440 --> 00:44:56,059
+I think it was Sam Altman and the group,
+
+802
+00:44:56,059 --> 00:44:57,800
+I think it was out of their office.
+
+803
+00:44:58,039 --> 00:44:58,639
+You may see them.
+
+804
+00:44:58,739 --> 00:44:59,780
+I see this stuff so much.
+
+805
+00:44:59,840 --> 00:45:00,820
+I can't pinpoint it.
+
+806
+00:45:00,980 --> 00:45:03,960
+So hopefully I'm not misquoting somebody, but it was fundamentally,
+
+807
+00:45:04,159 --> 00:45:05,619
+there was a few things that are happening.
+
+808
+00:45:05,760 --> 00:45:10,719
+And when this one caught my attention was they realized there's code in the
+
+809
+00:45:10,719 --> 00:45:13,260
+learning and the neural networks that was wrong.
+
+810
+00:45:14,139 --> 00:45:17,099
+And, you know, that's where you get the, you know, the bad,
+
+811
+00:45:17,199 --> 00:45:20,320
+the bad responses, you get the hallucinations in the, in the AI.
+
+812
+00:45:20,739 --> 00:45:25,900
+And so they put in code to go and find the bad bits,
+
+813
+00:45:25,900 --> 00:45:27,139
+the bad bits of learning.
+
+814
+00:45:27,139 --> 00:45:28,840
+And now I'm really getting out of my wheelhouse.
+
+815
+00:45:28,840 --> 00:45:33,400
+But, and then what they found was that the machine itself was trying to hide
+
+816
+00:45:33,400 --> 00:45:35,739
+its mistakes from the other code that was being put.
+
+817
+00:45:35,980 --> 00:45:38,500
+So you started to get into this narrative of what,
+
+818
+00:45:38,500 --> 00:45:42,039
+what the hell is actually happening and you get a sense of it.
+
+819
+00:45:42,039 --> 00:45:43,059
+Type into your chat.
+
+820
+00:45:43,539 --> 00:45:45,019
+What are you most afraid of us?
+
+821
+00:45:45,019 --> 00:45:46,960
+The machine, that question, see what it spits out.
+
+822
+00:45:46,960 --> 00:45:49,420
+You'll get some answers that get you thinking a little bit.
+
+823
+00:45:50,199 --> 00:45:50,920
+Fascinating.
+
+824
+00:45:50,920 --> 00:45:53,679
+We love this quote, Andy, the cost of leadership is time.
+
+825
+00:45:53,679 --> 00:45:54,980
+How do you juggle?
+
+826
+00:45:54,980 --> 00:45:55,119
+Yeah.
+
+827
+00:45:55,119 --> 00:45:55,280
+Yeah.
+
+828
+00:45:55,280 --> 00:45:59,179
+Workloads and demands and doing these great projects and still,
+
+829
+00:45:59,780 --> 00:46:02,360
+you know, promoting culture of collaboration.
+
+830
+00:46:02,360 --> 00:46:06,440
+I know you've got, uh, twin daughters and family life and balance.
+
+831
+00:46:06,440 --> 00:46:08,000
+How, how do you juggle all that?
+
+832
+00:46:08,719 --> 00:46:12,860
+Yeah, uh, I don't do a very good job like everybody right now.
+
+833
+00:46:13,400 --> 00:46:17,599
+I'm probably defaulting to more on the work side just because there's so much
+
+834
+00:46:17,599 --> 00:46:20,719
+that we're trying to catch up on and, and, and, and it takes a moment.
+
+835
+00:46:21,079 --> 00:46:22,400
+So how do I manage it?
+
+836
+00:46:22,400 --> 00:46:30,380
+I try and make sure I just take time out for just, just sit down with the crew, the family.
+
+837
+00:46:30,380 --> 00:46:33,619
+If we spend time down at the beach, make it for a surf, you know, go up the mountain.
+
+838
+00:46:33,619 --> 00:46:35,079
+So for me, it's a natural world.
+
+839
+00:46:35,079 --> 00:46:40,219
+I think that brings some restoration to that and, and doing, doing things with them that,
+
+840
+00:46:40,219 --> 00:46:42,840
+that sort of gets us together as a family.
+
+841
+00:46:42,840 --> 00:46:47,019
+But you know, like everybody there's, I struggle, the kids are on their screens too much.
+
+842
+00:46:47,019 --> 00:46:50,420
+My half, my life is get off your screens, you know, that sort of stuff.
+
+843
+00:46:50,420 --> 00:46:52,280
+So I'm I, I wish I was.
+
+844
+00:46:52,280 --> 00:46:55,940
+A role model in that space, but I, I think I'm, I'm with everybody else.
+
+845
+00:46:55,940 --> 00:46:59,719
+I'm trying to figure it out, uh, how to navigate the space, just like the rest of us.
+
+846
+00:47:00,380 --> 00:47:03,079
+So leaders are really conscious of their communication.
+
+847
+00:47:03,079 --> 00:47:06,320
+Do you have a mantra when it comes to how you communicate?
+
+848
+00:47:06,960 --> 00:47:14,719
+Yeah, I think for me, what I've tried to learn to do is, is, is keep it really simple.
+
+849
+00:47:15,139 --> 00:47:19,019
+I try, you know, and I, you know, I could get excited.
+
+850
+00:47:19,019 --> 00:47:22,260
+I have chronic ADHD and dyslexia kind of combined.
+
+851
+00:47:22,280 --> 00:47:25,639
+So I get, I follow the squirrels and I get off on tangents.
+
+852
+00:47:25,639 --> 00:47:32,119
+And, um, so for me, I've tried to learn to really bring it back to some simple things, but also I like to make it.
+
+853
+00:47:33,119 --> 00:47:34,159
+I like the curiosity.
+
+854
+00:47:34,159 --> 00:47:45,920
+I try to make communicate and, and leave a question if I'm, if, if, if I'm communicating in sort of the training environment, I try to not, I try to make sure that all I'm doing is opening the aperture for people we're working with.
+
+855
+00:47:45,920 --> 00:47:46,579
+They're brilliant.
+
+856
+00:47:46,880 --> 00:47:49,519
+They're better at everything that they're doing than I'll ever be.
+
+857
+00:47:50,119 --> 00:47:52,099
+So I, I try to communicate in such a way.
+
+858
+00:47:52,280 --> 00:47:56,000
+That gets them to think, so let's poke them a little, like stoke the fire.
+
+859
+00:47:56,719 --> 00:47:56,920
+Yeah.
+
+860
+00:47:56,920 --> 00:47:58,079
+We call them fun grenades.
+
+861
+00:47:58,079 --> 00:48:03,920
+I like to throw fun grenades into the mix and, and, and, and see, and just create that spark and see what happens.
+
+862
+00:48:03,920 --> 00:48:10,559
+So that's sort of how I've navigated my challenges in that space, but I'm by no means a great communicator.
+
+863
+00:48:10,559 --> 00:48:12,039
+I forget, I get distracted.
+
+864
+00:48:12,039 --> 00:48:13,880
+I, you know, it's, it's hard for me.
+
+865
+00:48:14,400 --> 00:48:17,800
+Sounds like you've got a great understanding of, uh, of what your skillset is.
+
+866
+00:48:17,800 --> 00:48:19,760
+Uh, Andy, who's been the greatest leader in your life?
+
+867
+00:48:20,159 --> 00:48:22,199
+Oh, my greatest leader in my life.
+
+868
+00:48:22,199 --> 00:48:24,960
+It's, it's, it's shifted over the years.
+
+869
+00:48:25,039 --> 00:48:33,800
+Uh, You know, I think earlier, a lot of my early days with my, my, just my grandfather was really, he was an old copper in Sydney.
+
+870
+00:48:33,800 --> 00:48:42,719
+You know, he, he just, you know, obviously had his own, all his same faults and that of everybody, but he was definitely someone who, you know, you always make sure you tell the truth.
+
+871
+00:48:42,719 --> 00:48:44,199
+You had some great lessons in there.
+
+872
+00:48:44,199 --> 00:48:52,079
+And then as I, I seem to find that I gravitate towards different people when I first was in the performance world, uh, like in the scientific side of it.
+
+873
+00:48:52,199 --> 00:49:10,599
+So Alan Hahn was just a guy who was doing all the groundbreaking stuff back in the day on talent ID and physiology and the rowing and all that success we had, uh, shifted over when I got to the U S I, I, I started to connect with, uh, some of the, some of the, uh, special mission units.
+
+874
+00:49:10,599 --> 00:49:15,400
+And in particular, there's the business partner now, Jurgen Heitman.
+
+875
+00:49:15,400 --> 00:49:18,000
+He's an extraordinary leader.
+
+876
+00:49:18,159 --> 00:49:22,159
+He, he follows and leads this as well as anyone I've ever.
+
+877
+00:49:22,199 --> 00:49:30,079
+Met and, and, uh, just watching him, how he handles himself and he's done incomprehensible things in the, in the military.
+
+878
+00:49:30,800 --> 00:49:34,480
+Um, but he's, he's, he's really playing four dimensional chess all the time.
+
+879
+00:49:34,480 --> 00:49:37,480
+And, and more recently, a mentor of mine is, uh, Peter rare.
+
+880
+00:49:37,480 --> 00:49:45,079
+I mentioned earlier, uh, you know, uh, he's, he's whole world has been the study of human character based on the seven classical virtues.
+
+881
+00:49:45,840 --> 00:49:52,159
+And the way he's able to bring classic thought around the compassion, wisdom, virtue temperance.
+
+882
+00:49:52,880 --> 00:49:56,980
+Uh, so I think that's shifted over the time, a long answer, but it just moves.
+
+883
+00:49:56,980 --> 00:50:02,480
+And I, I find that I still always look back at those people, but always looking forward to, to who else can I learn from?
+
+884
+00:50:02,880 --> 00:50:05,199
+I love asking that question because your answer is brilliant.
+
+885
+00:50:05,199 --> 00:50:05,599
+Isn't it?
+
+886
+00:50:05,599 --> 00:50:10,139
+And those people that impact your life are at the top of your mind in different stages.
+
+887
+00:50:10,139 --> 00:50:12,159
+It's, uh, it's such a gift, isn't it?
+
+888
+00:50:12,159 --> 00:50:15,559
+When you have access to people that have been able to do that for you.
+
+889
+00:50:15,800 --> 00:50:22,000
+We're a bit obsessed, uh, and in the spirit of collaboration, and we've been really privileged to have you as part of our,
+
+890
+00:50:22,000 --> 00:50:32,239
+our leader world, and you've been a great champion of, of that space for us and, and really generous and sharing your wisdom amongst the leader community, you get to collaborate with great people all the time.
+
+891
+00:50:32,239 --> 00:50:39,119
+Is there been someone you thought, wow, that that's someone I would love to spend some time with on one of your particular passions?
+
+892
+00:50:39,500 --> 00:50:47,039
+You know, I was really fortunate when I spent time at rebel, I was obviously had the athlete portfolio and motorsports and all that wonderful thing.
+
+893
+00:50:47,039 --> 00:50:50,760
+I was learning every day from that community, but they get through the culture program at us, the artists, the musicians.
+
+894
+00:50:50,760 --> 00:50:50,880
+Yeah.
+
+895
+00:50:50,880 --> 00:50:51,079
+Yeah.
+
+896
+00:50:51,079 --> 00:50:51,179
+Yeah.
+
+897
+00:50:51,179 --> 00:50:51,400
+Yeah.
+
+898
+00:50:51,400 --> 00:50:51,460
+Yeah.
+
+899
+00:50:51,460 --> 00:50:51,559
+Yeah.
+
+900
+00:50:51,559 --> 00:50:51,639
+Yeah.
+
+901
+00:50:51,639 --> 00:50:51,699
+Yeah.
+
+902
+00:50:51,699 --> 00:50:51,760
+Yeah.
+
+903
+00:50:51,760 --> 00:50:51,820
+Yeah.
+
+904
+00:50:52,000 --> 00:50:52,440
+Yeah.
+
+905
+00:50:52,440 --> 00:50:52,460
+Yeah.
+
+906
+00:50:52,460 --> 00:50:52,480
+Yeah.
+
+907
+00:50:52,480 --> 00:50:52,539
+Yeah.
+
+908
+00:50:52,539 --> 00:50:52,579
+Yeah.
+
+909
+00:50:52,579 --> 00:50:52,599
+Yeah.
+
+910
+00:50:52,599 --> 00:50:52,659
+Yeah.
+
+911
+00:50:52,659 --> 00:50:52,679
+Yeah.
+
+912
+00:50:52,679 --> 00:50:52,699
+Yeah.
+
+913
+00:50:52,699 --> 00:50:52,739
+Yeah.
+
+914
+00:50:52,739 --> 00:50:52,760
+Yeah.
+
+915
+00:50:52,760 --> 00:50:52,780
+Yeah.
+
+916
+00:50:52,780 --> 00:50:52,840
+Yeah.
+
+917
+00:50:52,840 --> 00:50:52,900
+Yeah.
+
+918
+00:50:53,239 --> 00:51:02,320
+And the learnings from that community probably set me up even more profoundly than anything I learned from the athletes.
+
+919
+00:51:02,320 --> 00:51:05,599
+So not to say just different and, and new and fresh.
+
+920
+00:51:05,599 --> 00:51:17,739
+And I, as I think about communities of people, I'd love to collaborate with, um, I find myself now drawn deeply to some of these extraordinary, uh, artists.
+
+921
+00:51:18,320 --> 00:51:18,940
+Oh yeah.
+
+922
+00:51:19,199 --> 00:51:21,960
+I look back, you know, you know, if I,
+
+923
+00:51:21,960 --> 00:51:42,679
+if I had to pick one right now, I am blown away from a, from a physical longevity, creative, you know, someone like a Keith Richards, if I spend time with someone like him and just his passion for what he does and how he does it and how, how he's still alive, just the reality of the whole thing is just an enigma to me.
+
+924
+00:51:42,679 --> 00:51:49,559
+I would, I would die to spend six months listening to how he does what he does and how he came about it.
+
+925
+00:51:49,719 --> 00:51:51,559
+To me, it's just people like that.
+
+926
+00:51:51,559 --> 00:51:56,519
+Artists, I'm really drawn towards these creative communities.
+
+927
+00:51:56,559 --> 00:51:57,079
+You pick them.
+
+928
+00:51:57,119 --> 00:51:57,760
+It doesn't matter.
+
+929
+00:51:58,039 --> 00:52:01,679
+It just blows my mind to see how they do what they do and how they come about it.
+
+930
+00:52:01,679 --> 00:52:06,159
+And thankfully there's a lot of great documentaries that I study the hell out of to learn.
+
+931
+00:52:06,400 --> 00:52:17,199
+And then if you get with the artistic side of the same thing, it's the recent show, um, light and magic with Spielberg and Lucas, those two, how they, how they did what they did.
+
+932
+00:52:17,320 --> 00:52:19,440
+It's just, to me, those are two brains as well.
+
+933
+00:52:19,440 --> 00:52:20,239
+I'd love to learn from.
+
+934
+00:52:20,599 --> 00:52:20,920
+Yeah.
+
+935
+00:52:20,960 --> 00:52:21,320
+Great.
+
+936
+00:52:21,320 --> 00:52:26,239
+No, to finish on, uh, Andy, they don't need to donate the Keith Richards body to science.
+
+937
+00:52:26,239 --> 00:52:33,920
+When that time he might live to 150, uh, Keith and amazingly it was a coconut that nearly, uh, nearly killed him some years ago.
+
+938
+00:52:33,920 --> 00:52:34,559
+But, uh,
+
+939
+00:52:35,000 --> 00:52:43,400
+well, then there's several overdoses, but he said, you know, he said, I think he's famous quote is I've been close enough to death more times than I can count.
+
+940
+00:52:43,400 --> 00:52:45,719
+And, uh, all I know is it's worth waiting for.
+
+941
+00:52:45,760 --> 00:52:46,599
+I think it's brilliant.
+
+942
+00:52:48,599 --> 00:52:51,280
+Uh, then a great pleasure to spend some time with you, Andy.
+
+943
+00:52:51,280 --> 00:52:52,320
+I love what you do.
+
+944
+00:52:52,320 --> 00:53:02,760
+We're really grateful to have you part of, uh, our leader community and, and to share, you know, your knowledge is, uh, there's been a brilliant thing to, to witness lots of learnings from today for me and great to catch up with you.
+
+945
+00:53:02,760 --> 00:53:03,320
+Thanks for your time.
+
+946
+00:53:03,840 --> 00:53:04,719
+Nah, Luke mate.
+
+947
+00:53:04,719 --> 00:53:05,280
+Likewise.
+
+948
+00:53:05,280 --> 00:53:06,639
+The community has been wonderful.
+
+949
+00:53:06,639 --> 00:53:07,519
+They've shared so much.
+
+950
+00:53:07,519 --> 00:53:08,400
+I've learned so much.
+
+951
+00:53:08,440 --> 00:53:11,760
+I appreciate your time today and yeah, just the chance to riffle.
+
+952
+00:53:11,760 --> 00:53:14,760
+It was a great for me to just, uh, sit here and spend some time.
+
+953
+00:53:14,760 --> 00:53:15,840
+So thanks for everybody.
+
+954
+00:53:16,400 --> 00:53:16,880
+Thanks, Andy.
+

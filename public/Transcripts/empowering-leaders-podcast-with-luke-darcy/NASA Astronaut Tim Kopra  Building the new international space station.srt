@@ -1,0 +1,2444 @@
+1
+00:00:04,589 --> 00:00:09,150
+Well, what a great privilege it was this week to meet NASA astronaut Tim Kopra.
+
+2
+00:00:09,509 --> 00:00:14,089
+I'm sure you're going to be fascinated by Tim as much as I was in spending some time with him.
+
+3
+00:00:14,349 --> 00:00:16,850
+You're going to hear Tim talk about his respect for Elon Musk
+
+4
+00:00:16,850 --> 00:00:21,629
+and the fact that Elon's innovation is pushing the space industry to new levels and frontiers.
+
+5
+00:00:22,570 --> 00:00:26,329
+You're going to hear him talk about the impossible selection process at NASA
+
+6
+00:00:26,329 --> 00:00:30,629
+where thousands of the world's best and brightest are competing for literally one or two opportunities
+
+7
+00:00:30,629 --> 00:00:35,590
+and that remarkably, he explains that in the end, the deciding factor is
+
+8
+00:00:35,590 --> 00:00:39,009
+basically who is the person you'd most like to go camping with.
+
+9
+00:00:39,369 --> 00:00:43,409
+Tim also explains how space is still the great story of international diplomacy,
+
+10
+00:00:43,950 --> 00:00:46,750
+how Russia, America and Europe all collaborate together
+
+11
+00:00:46,750 --> 00:00:49,729
+and why we need to learn more about that here on Earth.
+
+12
+00:00:50,270 --> 00:00:53,810
+It's people like NASA astronaut Tim Kopra who inspire the work we do at Alita.
+
+13
+00:00:54,070 --> 00:00:57,630
+We are passionate about inspiring connections and creating a world of collaboration.
+
+14
+00:00:57,829 --> 00:01:00,130
+Check out our signature Alita Connect program.
+
+15
+00:01:00,530 --> 00:01:00,609
+Head to alita.com.au for more information.
+
+16
+00:01:00,630 --> 00:01:05,650
+Head to www.alitacollective.com where we bring together groups of five or six people
+
+17
+00:01:05,650 --> 00:01:08,409
+in non-competing fields to learn, to share and collaborate.
+
+18
+00:01:08,629 --> 00:01:11,150
+We would love to connect and collaborate with you.
+
+19
+00:01:11,569 --> 00:01:12,730
+Book a discovery call today.
+
+20
+00:01:13,230 --> 00:01:17,090
+Huge thanks to Jason Nicholas and his team at Tempa Australia and New Zealand.
+
+21
+00:01:17,629 --> 00:01:19,790
+NASA approved bedding is what Tempa is
+
+22
+00:01:19,790 --> 00:01:23,769
+and astronauts like Tim Kopra understand seriously the importance of great sleep.
+
+23
+00:01:24,250 --> 00:01:25,790
+Tempa is a mattress like no other.
+
+24
+00:01:26,209 --> 00:01:27,510
+Encourage you to check one out today.
+
+25
+00:01:33,500 --> 00:01:35,459
+Tim Kopra is a distinguished friend
+
+26
+00:01:35,459 --> 00:01:38,060
+of the British former US Army Colonel, NASA astronaut
+
+27
+00:01:38,060 --> 00:01:40,260
+and is currently the CEO of Starlab,
+
+28
+00:01:40,359 --> 00:01:42,879
+a joint venture between Voyager Space and Airbus
+
+29
+00:01:42,879 --> 00:01:45,739
+who are designing, building and will eventually operate
+
+30
+00:01:45,739 --> 00:01:49,400
+the Starlab commercial space station in collaboration with NASA.
+
+31
+00:01:50,040 --> 00:01:53,519
+Tim has a Bachelor of Science from the United States Military Academy, West Point,
+
+32
+00:01:54,019 --> 00:01:56,219
+a Masters of Science in Aerospace Engineering,
+
+33
+00:01:56,719 --> 00:01:58,920
+a Masters of Strategic Studies and an MBA.
+
+34
+00:01:59,439 --> 00:02:02,219
+Tim served his country, the United States, with great distinction,
+
+35
+00:02:02,780 --> 00:02:04,079
+awarded the Legion of Merit,
+
+36
+00:02:04,079 --> 00:02:05,459
+the Bronze Star Medal,
+
+37
+00:02:05,980 --> 00:02:07,480
+two Meritorious Service Medals,
+
+38
+00:02:07,659 --> 00:02:09,379
+Air Medal, Army Commendation Medal,
+
+39
+00:02:09,580 --> 00:02:10,460
+Army Achievement Medal,
+
+40
+00:02:10,659 --> 00:02:12,219
+NASA Space Flight Medal,
+
+41
+00:02:12,379 --> 00:02:13,680
+NASA Distinguished Service Medal
+
+42
+00:02:13,680 --> 00:02:17,240
+before officially becoming an astronaut with NASA in the year 2000.
+
+43
+00:02:17,960 --> 00:02:20,360
+Tim's recording this interview with me live today in Melbourne, Australia
+
+44
+00:02:20,360 --> 00:02:23,280
+in his new role as the CEO of a space technology company
+
+45
+00:02:23,280 --> 00:02:25,199
+powering the next frontier of space travel.
+
+46
+00:02:25,780 --> 00:02:27,139
+Tim, it's a great pleasure to meet you.
+
+47
+00:02:27,199 --> 00:02:28,620
+Thanks for joining me here today.
+
+48
+00:02:28,979 --> 00:02:29,659
+Yeah, thanks, Luke.
+
+49
+00:02:29,699 --> 00:02:30,740
+I'm really excited to be here.
+
+50
+00:02:31,000 --> 00:02:33,080
+When you hear me read all that back to you,
+
+51
+00:02:33,080 --> 00:02:35,259
+there must be a sense of having lived,
+
+52
+00:02:35,460 --> 00:02:36,259
+all life, surely.
+
+53
+00:02:37,000 --> 00:02:37,400
+For sure.
+
+54
+00:02:37,580 --> 00:02:38,919
+In fact, when you read that back,
+
+55
+00:02:39,020 --> 00:02:41,360
+I start to feel tired because it sounds like a lot,
+
+56
+00:02:41,479 --> 00:02:43,099
+but it's been a really fun ride.
+
+57
+00:02:43,300 --> 00:02:46,139
+And I've had, I think, a really fulfilling career
+
+58
+00:02:46,139 --> 00:02:48,300
+and really looking forward to this next chapter.
+
+59
+00:02:48,680 --> 00:02:51,580
+Tim, you were six years old when Neil Armstrong said those famous words,
+
+60
+00:02:51,639 --> 00:02:53,879
+a small step for man, a giant leap for mankind.
+
+61
+00:02:54,300 --> 00:02:57,139
+Do you have a memory of that day and did it inspire you?
+
+62
+00:02:57,419 --> 00:03:00,780
+Actually, not that day, but the second flight, actually,
+
+63
+00:03:00,780 --> 00:03:02,780
+because my brother, who's six years older,
+
+64
+00:03:02,860 --> 00:03:04,340
+was really fascinated with space.
+
+65
+00:03:04,340 --> 00:03:08,000
+And so I remember staying up late with my big brother
+
+66
+00:03:08,000 --> 00:03:10,120
+waiting for this moon landing.
+
+67
+00:03:10,639 --> 00:03:13,639
+And I thought, what an amazing thing, right, as a six-year-old.
+
+68
+00:03:13,740 --> 00:03:16,539
+And I think that, especially for young people,
+
+69
+00:03:16,580 --> 00:03:18,939
+when they're inspired at that early age,
+
+70
+00:03:18,979 --> 00:03:19,900
+it really sticks with you.
+
+71
+00:03:20,039 --> 00:03:21,680
+And it's always in the back of my mind.
+
+72
+00:03:21,960 --> 00:03:24,199
+Becoming an astronaut seemed like an unrealistic goal.
+
+73
+00:03:24,379 --> 00:03:28,479
+But one time when I was at West Point, I was a plebe.
+
+74
+00:03:28,599 --> 00:03:31,099
+And the plebe is really the lowest end of the totem pole.
+
+75
+00:03:31,219 --> 00:03:33,180
+And I'm sitting at the dinner table.
+
+76
+00:03:33,180 --> 00:03:34,180
+And we had three people.
+
+77
+00:03:34,180 --> 00:03:35,740
+I had three former Apollo astronauts come
+
+78
+00:03:35,740 --> 00:03:37,060
+and speak to the Corps of Cadets.
+
+79
+00:03:37,620 --> 00:03:39,439
+And it was a seminal moment for me
+
+80
+00:03:39,439 --> 00:03:41,800
+because I realized those three guys
+
+81
+00:03:41,800 --> 00:03:44,199
+had been sitting in my chair just a few decades before.
+
+82
+00:03:44,419 --> 00:03:46,500
+And I thought, if I really focus on this,
+
+83
+00:03:46,520 --> 00:03:49,000
+I study hard and do the same kinds of things they did,
+
+84
+00:03:49,039 --> 00:03:50,500
+maybe I would have a chance in the future
+
+85
+00:03:50,500 --> 00:03:53,520
+and super fortunate to become an astronaut back in 2000.
+
+86
+00:03:54,039 --> 00:03:56,539
+And Tim, that flame really flickered at that moment,
+
+87
+00:03:56,680 --> 00:03:58,599
+sitting in front of a group of astronauts
+
+88
+00:03:58,599 --> 00:04:00,560
+and thinking, I could possibly get there.
+
+89
+00:04:00,740 --> 00:04:01,180
+It did.
+
+90
+00:04:01,280 --> 00:04:02,659
+I mean, it really did inspire me.
+
+91
+00:04:02,659 --> 00:04:03,620
+And even then,
+
+92
+00:04:03,620 --> 00:04:05,580
+I thought it was a completely unrealistic goal.
+
+93
+00:04:06,080 --> 00:04:09,360
+But there was a path carved by former Army astronauts
+
+94
+00:04:09,360 --> 00:04:12,159
+on this way to at least get a shot at it.
+
+95
+00:04:12,639 --> 00:04:14,259
+And so I went to NASA in 1998.
+
+96
+00:04:14,259 --> 00:04:16,920
+I was invited to work at NASA as an engineer
+
+97
+00:04:16,920 --> 00:04:19,360
+for a couple of years before I got selected.
+
+98
+00:04:19,660 --> 00:04:22,120
+So, I mean, it definitely inspired me from that day.
+
+99
+00:04:22,360 --> 00:04:25,180
+When you think about being a colonel in the Army
+
+100
+00:04:25,180 --> 00:04:26,300
+and an astronaut,
+
+101
+00:04:26,600 --> 00:04:29,180
+you go into the tiniest percentage of high achievers
+
+102
+00:04:29,180 --> 00:04:30,360
+in the world.
+
+103
+00:04:30,399 --> 00:04:31,160
+And you said to yourself,
+
+104
+00:04:31,220 --> 00:04:32,699
+it felt like an unrealistic goal.
+
+105
+00:04:32,899 --> 00:04:33,600
+I'm curious.
+
+106
+00:04:33,600 --> 00:04:35,240
+I'm curious about what are the things
+
+107
+00:04:35,240 --> 00:04:37,040
+that have allowed you to get there?
+
+108
+00:04:37,120 --> 00:04:37,819
+What sort of habits,
+
+109
+00:04:37,959 --> 00:04:39,360
+what sort of routines have you got
+
+110
+00:04:39,360 --> 00:04:41,779
+that you think enabled you to achieve what you have?
+
+111
+00:04:42,220 --> 00:04:44,459
+I think that education is super important.
+
+112
+00:04:44,980 --> 00:04:47,120
+Education, and I've talked to lots of school kids
+
+113
+00:04:47,120 --> 00:04:48,579
+as a requirement at NASA.
+
+114
+00:04:48,720 --> 00:04:49,939
+We do a lot of outreach,
+
+115
+00:04:50,060 --> 00:04:51,620
+public outreach with students.
+
+116
+00:04:52,060 --> 00:04:55,079
+And for me, education is like tools in your kit bag.
+
+117
+00:04:55,839 --> 00:04:58,300
+And it's things that you draw on in the future.
+
+118
+00:04:58,800 --> 00:05:01,019
+And even things that the subject that you study
+
+119
+00:05:01,019 --> 00:05:02,639
+that you may not use explicitly,
+
+120
+00:05:03,600 --> 00:05:04,639
+form the way that you think.
+
+121
+00:05:04,779 --> 00:05:05,839
+Like math, for example,
+
+122
+00:05:06,319 --> 00:05:07,800
+you may never do calculus again,
+
+123
+00:05:07,879 --> 00:05:09,120
+but it teaches you how to think.
+
+124
+00:05:09,839 --> 00:05:12,420
+When you look at history and you learn about history,
+
+125
+00:05:12,600 --> 00:05:15,439
+it gives you an idea of how humans think
+
+126
+00:05:15,439 --> 00:05:17,220
+and how they lead and how they operate.
+
+127
+00:05:17,600 --> 00:05:18,459
+So all these subjects,
+
+128
+00:05:18,600 --> 00:05:20,339
+even though you may not use them directly,
+
+129
+00:05:20,480 --> 00:05:23,500
+they give you an idea about how you can perform in the future.
+
+130
+00:05:24,120 --> 00:05:26,060
+And another lesson I think that's super important
+
+131
+00:05:26,060 --> 00:05:28,160
+that I got from really growing up
+
+132
+00:05:28,160 --> 00:05:29,160
+and also at West Point
+
+133
+00:05:29,160 --> 00:05:31,060
+is the need to get along with people.
+
+134
+00:05:31,060 --> 00:05:32,639
+At the end of the day,
+
+135
+00:05:32,759 --> 00:05:33,560
+especially as astronauts,
+
+136
+00:05:33,759 --> 00:05:36,040
+being able to get along and work well with others
+
+137
+00:05:36,040 --> 00:05:37,000
+is super important.
+
+138
+00:05:37,519 --> 00:05:39,519
+And I'm assuming there's a high level of discipline
+
+139
+00:05:39,519 --> 00:05:40,879
+associated with your life.
+
+140
+00:05:40,980 --> 00:05:42,740
+You don't let things get off track
+
+141
+00:05:42,740 --> 00:05:45,060
+to want to get into that tiny bracket.
+
+142
+00:05:45,379 --> 00:05:47,639
+What about a daily version of you?
+
+143
+00:05:47,740 --> 00:05:49,060
+Are there things that you do every day
+
+144
+00:05:49,060 --> 00:05:50,300
+that you think stand you in good stead?
+
+145
+00:05:51,000 --> 00:05:51,680
+Yeah, for sure.
+
+146
+00:05:51,879 --> 00:05:55,939
+I mean, discipline is certainly a part of a successful career.
+
+147
+00:05:56,459 --> 00:05:58,500
+You know, for me, working out is important.
+
+148
+00:05:58,699 --> 00:06:00,399
+You need to moderate yourself.
+
+149
+00:06:00,519 --> 00:06:02,180
+You need to maintain good relationships,
+
+150
+00:06:02,980 --> 00:06:03,579
+keep your,
+
+151
+00:06:03,740 --> 00:06:04,420
+your ego in check,
+
+152
+00:06:04,899 --> 00:06:06,759
+bounce back from disappointment.
+
+153
+00:06:07,339 --> 00:06:08,839
+In terms of daily routine,
+
+154
+00:06:09,040 --> 00:06:10,459
+I'm not sure at this point
+
+155
+00:06:10,459 --> 00:06:11,800
+because things are so dynamic
+
+156
+00:06:11,800 --> 00:06:13,839
+that my routine is as stable as it should be.
+
+157
+00:06:13,939 --> 00:06:17,000
+But I certainly need to maintain good relationships
+
+158
+00:06:17,000 --> 00:06:18,759
+with my wife and our kids,
+
+159
+00:06:19,360 --> 00:06:20,819
+make sure that I stay healthy.
+
+160
+00:06:20,980 --> 00:06:22,800
+Those are things I think that are super important.
+
+161
+00:06:23,060 --> 00:06:25,420
+And, you know, even the relationships,
+
+162
+00:06:25,699 --> 00:06:27,019
+you know, with my coworkers,
+
+163
+00:06:27,220 --> 00:06:27,959
+it's super important
+
+164
+00:06:27,959 --> 00:06:29,639
+because you build trust with people.
+
+165
+00:06:29,839 --> 00:06:31,579
+Those are things that happen every day.
+
+166
+00:06:31,579 --> 00:06:32,779
+Well, fascinating to hear you,
+
+167
+00:06:33,079 --> 00:06:33,220
+you know,
+
+168
+00:06:33,600 --> 00:06:34,720
+Tom's already, you've talked about
+
+169
+00:06:34,720 --> 00:06:36,819
+maintaining good relationships with your coworkers,
+
+170
+00:06:37,220 --> 00:06:38,360
+with your wife.
+
+171
+00:06:38,560 --> 00:06:40,759
+And there's a story that I read a book,
+
+172
+00:06:41,019 --> 00:06:41,899
+Chris Hadfield's book,
+
+173
+00:06:41,980 --> 00:06:44,500
+An Astronaut's Guide to Life on Earth.
+
+174
+00:06:44,560 --> 00:06:44,980
+You're smiling.
+
+175
+00:06:45,139 --> 00:06:46,800
+I assume you know it well.
+
+176
+00:06:46,860 --> 00:06:49,319
+And he speaks about the rigors of the selection process
+
+177
+00:06:49,319 --> 00:06:50,319
+to become an astronaut.
+
+178
+00:06:50,459 --> 00:06:52,459
+And one of the stories that he tells
+
+179
+00:06:52,459 --> 00:06:55,060
+is of a cocktail party right at the end
+
+180
+00:06:55,060 --> 00:06:57,019
+where you assume you're already in
+
+181
+00:06:57,019 --> 00:07:00,040
+and you're in this elite group of super talented people,
+
+182
+00:07:00,040 --> 00:07:02,800
+but the selection panel are actually observing,
+
+183
+00:07:02,800 --> 00:07:04,560
+in a really specific way.
+
+184
+00:07:04,560 --> 00:07:07,480
+And what they're looking for is who in that setting,
+
+185
+00:07:07,480 --> 00:07:09,680
+in a relaxed setting actually is a team player.
+
+186
+00:07:09,680 --> 00:07:12,019
+Who's got those relationship building skills.
+
+187
+00:07:12,019 --> 00:07:14,120
+And they're looking not for the peacock
+
+188
+00:07:14,120 --> 00:07:16,279
+or the person who thinks they may be a bit of a superhero.
+
+189
+00:07:16,279 --> 00:07:17,899
+Does that ring true to you?
+
+190
+00:07:17,899 --> 00:07:18,740
+Oh, for sure.
+
+191
+00:07:18,740 --> 00:07:22,980
+In fact, I was on two selection committees in 2013 and 2017.
+
+192
+00:07:22,980 --> 00:07:27,860
+In 2013, we had 18,300 applicants and we selected eight.
+
+193
+00:07:27,860 --> 00:07:30,300
+And during that last interview period
+
+194
+00:07:30,300 --> 00:07:32,639
+where we had 50 folks that we went through,
+
+195
+00:07:32,639 --> 00:07:34,439
+I think everybody who sat around the table
+
+196
+00:07:34,439 --> 00:07:37,139
+that was part of that interview crew was thinking,
+
+197
+00:07:37,139 --> 00:07:39,360
+like, who do you want to go camping with?
+
+198
+00:07:39,360 --> 00:07:42,100
+At that point, people have good educational background,
+
+199
+00:07:42,100 --> 00:07:43,319
+they have good experience,
+
+200
+00:07:43,319 --> 00:07:45,199
+they have some leadership qualities,
+
+201
+00:07:45,199 --> 00:07:47,360
+but these are people you're going to spend six months
+
+202
+00:07:47,360 --> 00:07:48,779
+inside a space station with.
+
+203
+00:07:48,779 --> 00:07:52,160
+And so the camping skills are actually really pertinent.
+
+204
+00:07:52,160 --> 00:07:53,540
+And what is camping like?
+
+205
+00:07:53,540 --> 00:07:56,279
+Camping, like I went on a trip with our son, Matthew,
+
+206
+00:07:56,279 --> 00:07:59,379
+to Philmont, which is a Boy Scout camp in New Mexico.
+
+207
+00:07:59,379 --> 00:08:01,839
+And camping skills are like you're on time
+
+208
+00:08:01,839 --> 00:08:02,500
+and you roll up your own sleeves,
+
+209
+00:08:02,500 --> 00:08:04,800
+roll up your own sleeping bag, you clean up your own area,
+
+210
+00:08:04,800 --> 00:08:06,379
+people don't have to wait on you.
+
+211
+00:08:06,379 --> 00:08:07,680
+You're a good follower.
+
+212
+00:08:07,680 --> 00:08:09,459
+A good follower is someone who intrinsically knows
+
+213
+00:08:09,459 --> 00:08:11,100
+how to fit into the team.
+
+214
+00:08:11,100 --> 00:08:13,680
+And then a good leader is someone who knows the skills
+
+215
+00:08:13,680 --> 00:08:16,800
+of those people on the team and finds sort of a way
+
+216
+00:08:16,800 --> 00:08:18,560
+to create synergy between those people.
+
+217
+00:08:18,560 --> 00:08:21,480
+So like those camping skills are really vital.
+
+218
+00:08:21,480 --> 00:08:23,319
+It's also like, you know, kindergarten skills,
+
+219
+00:08:23,319 --> 00:08:25,319
+you know, playing well with others,
+
+220
+00:08:25,319 --> 00:08:26,939
+don't steal somebody else's toys.
+
+221
+00:08:26,939 --> 00:08:28,240
+I find that fascinating.
+
+222
+00:08:28,240 --> 00:08:29,740
+You've got 18,000 applicants,
+
+223
+00:08:29,740 --> 00:08:31,980
+you've got some of the smartest people on the planet,
+
+224
+00:08:31,980 --> 00:08:34,440
+the most high achievers, and at the end,
+
+225
+00:08:34,440 --> 00:08:36,320
+you just want to work out who you want to be around
+
+226
+00:08:36,320 --> 00:08:39,320
+is almost as important as any other stage.
+
+227
+00:08:39,320 --> 00:08:40,539
+Is that how you see it?
+
+228
+00:08:40,539 --> 00:08:41,899
+Yeah, it's equal points, right?
+
+229
+00:08:41,899 --> 00:08:45,039
+So, I mean, certainly by that point in the interview process,
+
+230
+00:08:45,039 --> 00:08:48,080
+people have the skills and there's lots of skills required
+
+231
+00:08:48,080 --> 00:08:48,919
+as an astronaut.
+
+232
+00:08:48,919 --> 00:08:50,799
+You have to be physically fit.
+
+233
+00:08:50,799 --> 00:08:52,539
+You have to be able to think quickly.
+
+234
+00:08:52,539 --> 00:08:54,799
+You need to be able to be decisive,
+
+235
+00:08:54,799 --> 00:08:58,220
+but be able to work well with others is absolutely vital.
+
+236
+00:08:58,220 --> 00:09:00,000
+And do you use that same criteria
+
+237
+00:09:00,000 --> 00:09:01,480
+now you're running a big business?
+
+238
+00:09:01,480 --> 00:09:02,600
+I'll get to that in a moment.
+
+239
+00:09:02,600 --> 00:09:05,759
+Do you think about that when you're building the team now?
+
+240
+00:09:05,759 --> 00:09:06,600
+For sure.
+
+241
+00:09:06,600 --> 00:09:08,419
+Culture fit is super important.
+
+242
+00:09:08,419 --> 00:09:09,879
+Can't say we've always done it perfectly,
+
+243
+00:09:09,879 --> 00:09:12,419
+but you know, like for interviews with us,
+
+244
+00:09:12,419 --> 00:09:14,820
+one thing that I think is really important
+
+245
+00:09:14,820 --> 00:09:17,539
+are we make sure that we understand the talent profiles,
+
+246
+00:09:17,539 --> 00:09:19,519
+which is similar to what NASA does.
+
+247
+00:09:19,519 --> 00:09:22,460
+And then we have questions around those talent profiles.
+
+248
+00:09:22,460 --> 00:09:24,000
+We have a team interview
+
+249
+00:09:24,000 --> 00:09:26,200
+because that way you can check with the other people
+
+250
+00:09:26,200 --> 00:09:28,600
+to make sure that you have some sort of alignment
+
+251
+00:09:28,600 --> 00:09:29,679
+between what you saw.
+
+252
+00:09:29,679 --> 00:09:31,440
+Having something in person,
+
+253
+00:09:31,480 --> 00:09:33,759
+so just like that astronaut social,
+
+254
+00:09:33,759 --> 00:09:35,259
+which was so important,
+
+255
+00:09:35,259 --> 00:09:36,519
+we do the same kind of thing
+
+256
+00:09:36,519 --> 00:09:38,519
+so we can spend time with people.
+
+257
+00:09:38,519 --> 00:09:41,559
+And then any sort of personal references.
+
+258
+00:09:41,559 --> 00:09:45,000
+I think that there's the transitive property of trust.
+
+259
+00:09:45,000 --> 00:09:47,360
+You know, if I'm friends with someone
+
+260
+00:09:47,360 --> 00:09:48,860
+and they trust a person,
+
+261
+00:09:48,860 --> 00:09:51,539
+then more than likely I'm going to trust that person they do.
+
+262
+00:09:51,539 --> 00:09:53,259
+So that's a really important part.
+
+263
+00:09:53,259 --> 00:09:54,100
+That's a great term,
+
+264
+00:09:54,100 --> 00:09:56,080
+the transcendent process of trust, isn't it?
+
+265
+00:09:56,080 --> 00:09:57,500
+A referral from someone you trust
+
+266
+00:09:57,500 --> 00:10:00,159
+is a pretty powerful thing in any space, isn't it?
+
+267
+00:10:00,159 --> 00:10:01,000
+Absolutely.
+
+268
+00:10:01,000 --> 00:10:04,299
+I mean, it's really hard to know somebody from interviews.
+
+269
+00:10:04,299 --> 00:10:07,500
+Like in our business, we're building it very quickly
+
+270
+00:10:07,500 --> 00:10:09,580
+and you want to bring people on the team.
+
+271
+00:10:09,580 --> 00:10:11,340
+And so that means you need,
+
+272
+00:10:11,340 --> 00:10:13,279
+especially in like human space flight,
+
+273
+00:10:13,279 --> 00:10:14,720
+I think every business will say this,
+
+274
+00:10:14,720 --> 00:10:17,340
+that it's really relationship-based.
+
+275
+00:10:17,340 --> 00:10:19,840
+I think ours is especially relationship-based
+
+276
+00:10:19,840 --> 00:10:22,759
+because you can really find out a lot about people
+
+277
+00:10:22,759 --> 00:10:24,840
+by just a couple of phone calls.
+
+278
+00:10:24,840 --> 00:10:27,620
+So I want to ask you about walking in space.
+
+279
+00:10:27,620 --> 00:10:29,960
+Only a couple of hundred humans in history have done it.
+
+280
+00:10:29,960 --> 00:10:31,980
+You've clocked up over 13 hours.
+
+281
+00:10:31,980 --> 00:10:33,379
+You spent eight months living
+
+282
+00:10:33,379 --> 00:10:36,320
+on the International Space Station in two separate stints.
+
+283
+00:10:36,320 --> 00:10:38,500
+Can you describe what that's like?
+
+284
+00:10:38,500 --> 00:10:40,000
+It's a pretty amazing thing
+
+285
+00:10:40,000 --> 00:10:43,620
+going outside of a spaceship in a space suit.
+
+286
+00:10:43,620 --> 00:10:46,000
+So we train for this inside this big pool
+
+287
+00:10:46,000 --> 00:10:48,679
+at Johnson Space Center called the Neutral Buoyancy Lab.
+
+288
+00:10:48,679 --> 00:10:49,840
+And it's the size of a lake.
+
+289
+00:10:49,840 --> 00:10:53,179
+It's 200 feet across, 100 feet wide, and 40 feet deep,
+
+290
+00:10:53,179 --> 00:10:56,019
+and has a mock-up of the International Space Station in it.
+
+291
+00:10:56,019 --> 00:10:59,419
+And so all those technical skills of using the tools
+
+292
+00:10:59,419 --> 00:11:01,399
+and translating and executing procedures
+
+293
+00:11:01,399 --> 00:11:03,980
+are what you learn in that big pool.
+
+294
+00:11:03,980 --> 00:11:06,379
+And it mostly prepares you for doing a spacewalk,
+
+295
+00:11:06,379 --> 00:11:07,500
+but not completely.
+
+296
+00:11:07,500 --> 00:11:12,259
+So on my first spacewalk, we launched on flight day one.
+
+297
+00:11:12,259 --> 00:11:14,320
+We orbited the planet on flight day two
+
+298
+00:11:14,320 --> 00:11:16,580
+and got in the same orbit as space station.
+
+299
+00:11:16,580 --> 00:11:18,419
+We docked on flight day three.
+
+300
+00:11:18,419 --> 00:11:21,259
+And then the morning of flight day four, I did a spacewalk.
+
+301
+00:11:21,259 --> 00:11:24,059
+So barely over space sickness and going out.
+
+302
+00:11:24,059 --> 00:11:26,159
+And I was the guy who opened the hatch.
+
+303
+00:11:26,159 --> 00:11:27,360
+So you open the hatch, and you're
+
+304
+00:11:27,360 --> 00:11:29,019
+looking down at the planet going past you
+
+305
+00:11:29,019 --> 00:11:30,740
+at five miles a second.
+
+306
+00:11:30,740 --> 00:11:33,159
+And it kind of takes your breath away for a minute.
+
+307
+00:11:33,159 --> 00:11:34,620
+But then you go back to your training
+
+308
+00:11:34,620 --> 00:11:36,340
+and say, OK, what's the next step?
+
+309
+00:11:36,340 --> 00:11:38,840
+And just get out the door and start doing your job.
+
+310
+00:11:38,840 --> 00:11:41,440
+But it's a really amazing experience.
+
+311
+00:11:41,440 --> 00:11:44,259
+It's hard to describe, because on Earth,
+
+312
+00:11:44,259 --> 00:11:46,600
+we take it for granted that there's a down.
+
+313
+00:11:46,600 --> 00:11:49,539
+And when you're crawling over the space station,
+
+314
+00:11:49,539 --> 00:11:53,500
+all you have is this structure that you're hanging onto.
+
+315
+00:11:53,500 --> 00:11:54,740
+And it's definitely a team sport,
+
+316
+00:11:54,740 --> 00:11:57,580
+because you're trained by the people on the ground.
+
+317
+00:11:57,580 --> 00:11:58,100
+You're talking with people.
+
+318
+00:11:58,100 --> 00:11:58,559
+You're talking with people on the ground.
+
+319
+00:11:58,559 --> 00:11:58,700
+You're talking with people on the ground.
+
+320
+00:11:58,700 --> 00:11:58,799
+You're talking with people on the ground.
+
+321
+00:11:58,799 --> 00:11:58,899
+You're talking with people on the ground.
+
+322
+00:11:58,899 --> 00:11:59,000
+You're talking with people on the ground.
+
+323
+00:11:59,019 --> 00:11:59,139
+You're talking with people on the ground.
+
+324
+00:11:59,139 --> 00:12:01,659
+The ground crew that's walking you through the procedure.
+
+325
+00:12:01,659 --> 00:12:03,759
+And all of that has to work together.
+
+326
+00:12:03,759 --> 00:12:05,820
+I love how you described a bit of your breath being
+
+327
+00:12:05,820 --> 00:12:06,299
+taken away.
+
+328
+00:12:06,299 --> 00:12:08,379
+I'm glad that it's a natural human experience.
+
+329
+00:12:08,379 --> 00:12:10,919
+And I think of being attached to a robotic arm
+
+330
+00:12:10,919 --> 00:12:13,419
+on a piece of metal that's doing a lap of the Earth
+
+331
+00:12:13,419 --> 00:12:14,679
+every 90 minutes, effectively.
+
+332
+00:12:14,679 --> 00:12:16,259
+That's how quick you're moving.
+
+333
+00:12:16,259 --> 00:12:16,759
+Yeah.
+
+334
+00:12:16,759 --> 00:12:20,399
+Is there a moment where you have to breathe and get past.
+
+335
+00:12:20,399 --> 00:12:22,039
+There's got to be an element of fear.
+
+336
+00:12:22,039 --> 00:12:24,960
+I'm not sure fear is the right emotional word.
+
+337
+00:12:24,960 --> 00:12:27,279
+I think it's anxiety.
+
+338
+00:12:27,279 --> 00:12:28,899
+Because fear is like.
+
+339
+00:12:28,899 --> 00:12:35,039
+when a loved one has a medical condition and you're worried about their life. That's fear
+
+340
+00:12:35,039 --> 00:12:40,240
+because it's like unknown. This is really a known environment. I mean, it's very unusual
+
+341
+00:12:40,240 --> 00:12:45,799
+and you're anxious, probably more anxious about messing up and making a mistake than you are about
+
+342
+00:12:45,799 --> 00:12:50,620
+the fact that you're in space. But I mean, it's definitely something that you do have to kind of
+
+343
+00:12:50,620 --> 00:12:56,440
+catch your breath. And does it take your breath away looking back at the curvature of the earth?
+
+344
+00:12:56,440 --> 00:13:01,120
+Oh, for sure. It's a beautiful planet. I mean, it's really incredible. You know,
+
+345
+00:13:01,159 --> 00:13:05,840
+living on board space station, we have this big window called the cupola. It's six windows in a
+
+346
+00:13:05,840 --> 00:13:10,860
+circle and a big window in the center. And it's like a glass bottom boat. And you're going around
+
+347
+00:13:10,860 --> 00:13:15,259
+the planet every 90 minutes, as you mentioned, but the planet's also rotating. So you're always
+
+348
+00:13:15,259 --> 00:13:20,620
+seeing a new spot on this beautiful globe, but being out there in space, like not through the
+
+349
+00:13:20,620 --> 00:13:26,059
+window and looking through your plexiglass visor. I mean, it's, it's almost eye-watering on my,
+
+350
+00:13:26,120 --> 00:13:26,360
+uh,
+
+351
+00:13:26,440 --> 00:13:30,980
+my third spacewalk, we got out to the very end of space station to replace this big box.
+
+352
+00:13:31,120 --> 00:13:35,460
+And we got there early because we had to change out this box when it was dark and it was still
+
+353
+00:13:35,460 --> 00:13:39,799
+daylight. And so, uh, Tim Peake and I did this spacewalk and we're just hanging out on the very,
+
+354
+00:13:39,879 --> 00:13:44,980
+very tip of space station, just like watching this amazing planet going around us. It was,
+
+355
+00:13:44,980 --> 00:13:50,159
+I mean, just what an incredible site. The global space economy, Tim, is estimated
+
+356
+00:13:50,159 --> 00:13:56,120
+worth of about 550 billion a year in 2020 was an estimate of in the next five years, 41%
+
+357
+00:13:56,120 --> 00:14:00,799
+growth. It's a, it's a huge business and a group of Australians through a listed fund,
+
+358
+00:14:00,799 --> 00:14:05,659
+Octus, have, have backed you in this new mission. Can you tell us about the business of space that
+
+359
+00:14:05,659 --> 00:14:09,960
+you're in now and, and why are you here in Australia? Yeah, for sure. So we're very
+
+360
+00:14:09,960 --> 00:14:13,840
+excited to be partnered with Octus. Uh, they really give access to the Australian community
+
+361
+00:14:13,840 --> 00:14:19,340
+and private investment for space. They become experts, frankly, in Australia when it comes to
+
+362
+00:14:19,340 --> 00:14:26,000
+space investing. And one of the companies they've invested in is Voyager. And in my new role as
+
+363
+00:14:26,000 --> 00:14:31,519
+CEO of Starlab. It's a joint venture between Voyager and Airbus, and we're expanding that
+
+364
+00:14:31,519 --> 00:14:37,259
+actually to Japan and potentially Canada. So really recreating the International Space Station
+
+365
+00:14:37,259 --> 00:14:43,440
+partnership, but with the best in class companies instead of countries. So really exciting. And so
+
+366
+00:14:43,440 --> 00:14:49,580
+we're here in Australia to get the word out about this opportunity set of how important space is,
+
+367
+00:14:49,659 --> 00:14:53,960
+but also to your point about its growth. And Tim, when I think about the International Space
+
+368
+00:14:53,960 --> 00:14:58,500
+Station and what a collaboration that is, you've got Russia and America and many countries in
+
+369
+00:14:58,500 --> 00:15:04,500
+Europe. You trained in Russia and learnt the language as part of your mission to be on the
+
+370
+00:15:04,500 --> 00:15:09,740
+International Space Station. It's a great piece of international diplomacy that we get right in
+
+371
+00:15:09,740 --> 00:15:14,139
+space. Have you got a theory on why we struggle to get that collaboration here on Earth?
+
+372
+00:15:14,620 --> 00:15:19,820
+It's a great question. You know, space is one of these things where there's a common interest.
+
+373
+00:15:19,820 --> 00:15:23,860
+You know, for example, certainly there are massive tensions right now with
+
+374
+00:15:23,860 --> 00:15:28,940
+Russia. But that relationship actually started back in the 70s, and it started with two people.
+
+375
+00:15:29,360 --> 00:15:34,639
+It started with Jim Stafford, who was on an Apollo Soyuz mission, and then Alexei Leonov,
+
+376
+00:15:34,679 --> 00:15:41,139
+who's the first spacewalker in history, a very accomplished Russian cosmonaut. They became fast
+
+377
+00:15:41,139 --> 00:15:45,980
+friends. They're actually godfathers of each other's kids. And so from that, that graduated
+
+378
+00:15:45,980 --> 00:15:51,200
+into the Shuttle-Mir program when we docked the space shuttle to the Mir Space Station,
+
+379
+00:15:51,620 --> 00:15:53,600
+and then the International Space Station.
+
+380
+00:15:53,860 --> 00:15:59,120
+I mean, certainly that relationship is very tenuous now, but it comes down to people and
+
+381
+00:15:59,120 --> 00:16:03,519
+relationships. And I think the thing that's special about space is that it's very mission
+
+382
+00:16:03,519 --> 00:16:09,200
+oriented. To the extent possible, it's not really a military thing. It's really about this common
+
+383
+00:16:09,200 --> 00:16:15,419
+goal of exploration. You know, my time in Russia was super positive. I have great Russian friends
+
+384
+00:16:15,419 --> 00:16:20,019
+and memories, and they have great expertise that we've learned from, and vice versa. I just wish
+
+385
+00:16:20,019 --> 00:16:23,740
+that we could, you know, get back on that track. It's incredible, isn't it, when you're
+
+386
+00:16:23,740 --> 00:16:23,840
+thinking about that? Yeah.
+
+387
+00:16:23,860 --> 00:16:28,820
+I think it's two people that things start in a positive way and opening those lines. It seems
+
+388
+00:16:28,820 --> 00:16:33,980
+like a tenuous place, the world a bit at the moment, but effectively, a couple of people can
+
+389
+00:16:33,980 --> 00:16:37,460
+change the world as that astronaut and cosmonaut did, as you described.
+
+390
+00:16:37,759 --> 00:16:41,799
+Absolutely. It's about leadership, you know, and you had two great leaders who came together
+
+391
+00:16:41,799 --> 00:16:44,620
+and really affected policy. I hope we can do it again.
+
+392
+00:16:44,860 --> 00:16:49,620
+Elon Musk through SpaceX and his Starlink satellites bringing broadband to every corner
+
+393
+00:16:49,620 --> 00:16:53,139
+of the globe is a fascinating story to me. It seems as though he's disrupted
+
+394
+00:16:53,139 --> 00:16:53,740
+the space.
+
+395
+00:16:53,740 --> 00:16:58,179
+Space industry in a bit of the same way as he has done with the car industry. How do you view his
+
+396
+00:16:58,179 --> 00:16:59,000
+contribution?
+
+397
+00:16:59,659 --> 00:17:04,119
+Well, I think it's been fundamental. He's reduced the cost of access to space. That's really changed
+
+398
+00:17:04,119 --> 00:17:10,160
+the game. He's created rockets that are reusable in a way that had never been done before. I think
+
+399
+00:17:10,160 --> 00:17:15,500
+people were very maybe pessimistic about his ability to do that. But, you know, if you go
+
+400
+00:17:15,500 --> 00:17:21,220
+back to the history of SpaceX, there's definitely a role of NASA in that relationship. In fact,
+
+401
+00:17:21,220 --> 00:17:23,460
+there were two space companies in early days.
+
+402
+00:17:23,460 --> 00:17:29,799
+that NASA helped to fund, and the back history on that is that NASA decided to retire the space
+
+403
+00:17:29,799 --> 00:17:36,140
+shuttle back in 2006, and the last mission was in 2011. And so NASA needed a way in which they
+
+404
+00:17:36,140 --> 00:17:41,559
+could resupply the International Space Station and get crew. So they established this program
+
+405
+00:17:41,559 --> 00:17:46,480
+called the Space Act Agreement, which gave a funding mechanism for these new companies.
+
+406
+00:17:46,480 --> 00:17:52,599
+And at the time, it was SpaceX and Orbital Sciences, and they were funded $1.6 and $1.9
+
+407
+00:17:52,599 --> 00:17:58,519
+billion. And they were early companies then. At that point, SpaceX hadn't even flown to space yet.
+
+408
+00:17:58,880 --> 00:18:03,119
+Orbital Sciences hadn't launched a rocket that could get to a space station. And it was that
+
+409
+00:18:03,119 --> 00:18:09,400
+early funding that was really seed funding that helped develop that whole ecosystem that Elon
+
+410
+00:18:09,400 --> 00:18:15,119
+Musk has really excelled in. I love that you're replacing this incredible thing, the International
+
+411
+00:18:15,119 --> 00:18:20,859
+Space Station. That's an amazing success story. And it's not as though you've got a template to
+
+412
+00:18:20,859 --> 00:18:22,359
+start from. I mean, it's...
+
+413
+00:18:22,359 --> 00:18:22,440
+Yeah.
+
+414
+00:18:22,539 --> 00:18:22,579
+I love it.
+
+415
+00:18:22,579 --> 00:18:22,599
+I love it.
+
+416
+00:18:22,599 --> 00:18:26,599
+I love that you're doing it with Airbus. And I see Hilton Hotels are coming on board as part of
+
+417
+00:18:26,599 --> 00:18:30,339
+the design. Tell us about where do you start on something like that?
+
+418
+00:18:30,660 --> 00:18:34,980
+Well, you know, one of the things we started with when we first partnered with Airbus was
+
+419
+00:18:34,980 --> 00:18:39,420
+leveraging a design they had for a science habitation module that they had spent a lot of
+
+420
+00:18:39,420 --> 00:18:44,960
+resources to develop. So a very large structure and taking advantage of the fact that there's
+
+421
+00:18:44,960 --> 00:18:49,640
+going to be a Starship, which is SpaceX's vehicle, one of the largest rockets ever made,
+
+422
+00:18:49,640 --> 00:18:52,460
+if not the largest. And what that allowed us to do was,
+
+423
+00:18:52,460 --> 00:18:57,619
+fundamentally, change about how you design a space station. In the past, they had to be relatively
+
+424
+00:18:57,619 --> 00:19:03,599
+small tin cans that got put together like Legos. And that design was really based upon fitting
+
+425
+00:19:03,599 --> 00:19:08,460
+inside the payload bay of the space shuttle. What this does is allow us to graduate beyond that and
+
+426
+00:19:08,460 --> 00:19:13,599
+have a massive space station that can go up on a single launch, which means we don't have to spend
+
+427
+00:19:13,599 --> 00:19:18,319
+more money on additional launches. We can do all the integration on the ground. And then once it's
+
+428
+00:19:18,319 --> 00:19:22,400
+launched, we can start to generate revenue, which is important because this is a transition.
+
+429
+00:19:22,400 --> 00:19:28,940
+It's both a partnership from, you know, government to commercial industry, but it's also like a public
+
+430
+00:19:28,940 --> 00:19:34,859
+private partnership with NASA so that we can both leverage the commercial world, but also take care
+
+431
+00:19:34,859 --> 00:19:40,779
+of professional astronauts like NASA, European Space Agency, the ones from Japan at JAXA.
+
+432
+00:19:40,779 --> 00:19:44,539
+Tim, I've used the term before, you've lived a full life. It feels like you're not slowing down
+
+433
+00:19:44,539 --> 00:19:49,500
+anytime soon. But I love asking this question because we've all got a family. You've spent a
+
+434
+00:19:49,500 --> 00:19:52,380
+lot of time away from your family in pursuit of this mission. And I think it's really important to
+
+435
+00:19:52,380 --> 00:19:52,880
+keep that in mind. And I think it's really important to keep that in mind. And I think it's
+
+436
+00:19:52,880 --> 00:19:53,380
+really important to keep that in mind. And I think it's really important to keep that in mind.
+
+437
+00:19:53,380 --> 00:19:54,380
+How do you get that balance right?
+
+438
+00:19:54,380 --> 00:19:58,980
+Oh, I'm not sure you ever get that balance right. I've strived to do that. You know, when I was
+
+439
+00:19:58,980 --> 00:20:02,799
+training for my second mission, I was the co-pilot in the Russian Soyuz. And so I had to be trained
+
+440
+00:20:02,799 --> 00:20:08,500
+up at the same level as the Russian cosmonaut Soyuz commander. So I spent every other month in
+
+441
+00:20:08,500 --> 00:20:13,480
+Russia for two and a half years, spent a lot of time away. But, you know, thankfully, there's
+
+442
+00:20:13,480 --> 00:20:18,279
+telephone and, you know, video conferences and things like that. So to the extent possible,
+
+443
+00:20:18,279 --> 00:20:22,119
+you try to maintain those connections. And then even living on board Space Station,
+
+444
+00:20:22,380 --> 00:20:27,539
+one of the things that NASA has done particularly well is focusing on the psychological support
+
+445
+00:20:27,539 --> 00:20:32,299
+on board Space Station. So I talked to my wife every day that I was on board Space Station on
+
+446
+00:20:32,299 --> 00:20:37,140
+an internet protocol telephone and had a video conference once a week with her and other family.
+
+447
+00:20:37,559 --> 00:20:41,680
+So to me, that's brilliant that you're actually thinking about that detail. So you can literally
+
+448
+00:20:41,680 --> 00:20:45,440
+call home on a daily basis from the International Space Station.
+
+449
+00:20:45,880 --> 00:20:50,960
+For sure. In fact, it's a very special call when you get one from Space Station. I've had some of
+
+450
+00:20:50,960 --> 00:20:55,220
+my friends call me from Space Station and I spent eight months there. It should be routine, but
+
+451
+00:20:55,220 --> 00:21:00,160
+I get jazzed when I get a call from Space Station. And I have some friends that I called when I was
+
+452
+00:21:00,160 --> 00:21:05,839
+on board. I kept a long list and tried to call my closest friends and family. And some of those
+
+453
+00:21:05,839 --> 00:21:12,079
+folks weren't around. And so it was a message on their voice message. And they're so excited,
+
+454
+00:21:12,160 --> 00:21:16,359
+they kept it and they play it for their friends. It's just an exciting thing, like connecting space
+
+455
+00:21:16,359 --> 00:21:20,440
+with humanity on planet Earth. And Tim, we say a lot in this podcast,
+
+456
+00:21:20,960 --> 00:21:27,599
+leaves clues. And I'm always curious about NASA astronaut and the patterns that are left behind
+
+457
+00:21:27,599 --> 00:21:30,619
+for what great leadership looks like. I want to ask you a series of questions that I've asked
+
+458
+00:21:30,619 --> 00:21:36,079
+everyone that's come on this podcast. And we think one of the dimensions of leadership is this idea
+
+459
+00:21:36,079 --> 00:21:41,200
+of self-leadership. It's very hard to lead anyone else without a sense of self-leadership. What does
+
+460
+00:21:41,200 --> 00:21:48,339
+that mean to you? Self-leadership. I think that you need to have humility because no one cornered
+
+461
+00:21:48,339 --> 00:21:50,940
+the market on good. You need to build trust.
+
+462
+00:21:50,960 --> 00:21:57,000
+And trust is always two ways. So I think trust is actually fundamental. As a leader,
+
+463
+00:21:57,500 --> 00:22:02,400
+you need to keep in touch with yourself, try to be grounded. None of us are perfect. I'm certainly
+
+464
+00:22:02,400 --> 00:22:07,900
+not. But making sure that you keep yourself in check. And if you have close friends and you have
+
+465
+00:22:07,900 --> 00:22:13,839
+close relationships, then you get a feedback loop on that, which is important to understand where
+
+466
+00:22:13,839 --> 00:22:17,380
+you are. I think those are some elements. I love what you said. No one's cornered
+
+467
+00:22:17,380 --> 00:22:20,940
+the market on good and staying humble. Have you got trusted friends?
+
+468
+00:22:20,960 --> 00:22:26,799
+Friends that give you that feedback loop? I do. Some are very close, like personal
+
+469
+00:22:26,799 --> 00:22:31,180
+friends. But even within work relationships, it's important to get that feedback.
+
+470
+00:22:31,980 --> 00:22:36,940
+And Tim, we see leaders are really conscious these days around, on a daily basis, how they
+
+471
+00:22:36,940 --> 00:22:40,880
+go about having a positive impact on everyone they encounter and their work environments and
+
+472
+00:22:40,880 --> 00:22:44,940
+their home environments. How have you thought about having a positive impact on others?
+
+473
+00:22:45,380 --> 00:22:50,480
+I think that having a positive impact in the workplace means that people are excited about
+
+474
+00:22:50,480 --> 00:22:50,940
+what they do.
+
+475
+00:22:50,960 --> 00:22:55,539
+That they feel good about coming into work every day. That they feel like they have purpose.
+
+476
+00:22:56,279 --> 00:23:02,460
+I think purpose, we talked about Elon Musk. For all the things that may be unique about his
+
+477
+00:23:02,460 --> 00:23:07,900
+leadership style, one thing that he is, I think, really excelled at is giving people a sense of
+
+478
+00:23:07,900 --> 00:23:13,799
+his vision and purpose. And so he hires the best and the brightest. They live and work in Hawthorne
+
+479
+00:23:13,799 --> 00:23:18,859
+outside of LA. Maybe not the nicest place. Maybe they don't get the best pay. But they're super
+
+480
+00:23:18,859 --> 00:23:20,940
+excited about what they do every single day. And I think that's a really good thing.
+
+481
+00:23:20,960 --> 00:23:24,079
+And that's one thing I do admire about him and we try to emulate.
+
+482
+00:23:24,740 --> 00:23:28,359
+Which leads into the next dimension I was going to ask you about. It's a huge vision that
+
+483
+00:23:28,359 --> 00:23:32,259
+your team are undertaking. I mean, how do you go about sharing
+
+484
+00:23:32,259 --> 00:23:35,200
+that vision that you want to try and execute with the team?
+
+485
+00:23:35,579 --> 00:23:42,079
+It has to be real. And I think sometimes when people think about space, it feels very esoteric
+
+486
+00:23:42,079 --> 00:23:47,920
+and hard. For me, building a space station is a lot like a terrestrial infrastructure project.
+
+487
+00:23:47,920 --> 00:23:50,880
+I mean, it's certainly going to space. So there's that level of complexity,
+
+488
+00:23:50,960 --> 00:23:56,799
+the hardest part is really the launch. In fact, maybe a side story. When I was on board space
+
+489
+00:23:56,799 --> 00:24:01,640
+station, there's three times that you know your life's in peril. When you launch, when you do a
+
+490
+00:24:01,640 --> 00:24:06,059
+spacewalk, and when you come back home. But when you live and work on board a space station,
+
+491
+00:24:06,359 --> 00:24:10,339
+it's a shirt sleeve environment. You have to remind yourself that on the other side of that
+
+492
+00:24:10,339 --> 00:24:15,599
+piece of metal is a vacuum and that anything could happen. But we understand space stations.
+
+493
+00:24:15,599 --> 00:24:20,539
+We understand the technology and we're building it. But what I've seen both at
+
+494
+00:24:20,539 --> 00:24:25,720
+Nanoracks, the company where I've worked and led, and with Starlab, people are excited about
+
+495
+00:24:25,720 --> 00:24:31,359
+this tangible connection with building something in space. People are excited about this because
+
+496
+00:24:31,359 --> 00:24:38,000
+they recognize that it's one step towards our expansion of humanity and really exploration.
+
+497
+00:24:38,500 --> 00:24:42,579
+I think there's something about the human condition that's in all of us that want to
+
+498
+00:24:42,579 --> 00:24:47,559
+be explorers. And when people can touch that and be a part of it, whether it's small or great,
+
+499
+00:24:47,559 --> 00:24:48,700
+they get super excited.
+
+500
+00:24:49,440 --> 00:24:50,180
+Hard not to get it.
+
+501
+00:24:50,539 --> 00:24:56,140
+Excited about. And space has provided a lot for humanity that perhaps we don't think about. Can
+
+502
+00:24:56,140 --> 00:25:01,319
+you give us some of the examples? I think the CT scan came out of space technology. I think
+
+503
+00:25:01,319 --> 00:25:06,900
+might even be the insulin pump for diabetics. It's been a fertile ground, hasn't it,
+
+504
+00:25:06,900 --> 00:25:07,960
+for improving our lives?
+
+505
+00:25:08,359 --> 00:25:13,079
+It has. I would say that a lot of the technology base that we have in Silicon Valley and really
+
+506
+00:25:13,079 --> 00:25:18,420
+around the globe, at least has across the board, places where it touches back to the space
+
+507
+00:25:18,420 --> 00:25:20,319
+industry. The miniaturization,
+
+508
+00:25:20,539 --> 00:25:27,420
+even more recently, like the life support systems we have on board, how we can take carbon dioxide
+
+509
+00:25:27,420 --> 00:25:33,299
+and clean it up and turn it into oxygen on board a space station. There's lots of little things.
+
+510
+00:25:33,519 --> 00:25:38,099
+And one of the challenges I think NASA has in terms of translating what they do on their national
+
+511
+00:25:38,099 --> 00:25:43,839
+space station to daily life is that it's a lot of fundamental research. And those are really small
+
+512
+00:25:43,839 --> 00:25:48,480
+building blocks that lead into applied research and then to products. And so it's a long path to
+
+513
+00:25:48,480 --> 00:25:50,519
+get there. But even with that, there's a lot of research that we need to do. And I think that's
+
+514
+00:25:50,539 --> 00:25:50,599
+one of the things that we need to do. And I think that's one of the things that we need to do. And I think
+
+515
+00:25:50,599 --> 00:25:54,420
+there's been some really interesting developments, even recently, that have happened on the
+
+516
+00:25:54,420 --> 00:26:00,180
+International Space Station. So for example, Merck worked with a drug called Keytruda, which is a
+
+517
+00:26:00,180 --> 00:26:06,339
+cancer drug. And because when you remove gravity from the equation, you can really learn lots of
+
+518
+00:26:06,339 --> 00:26:11,460
+new things. So for example, they created millions of these perfect crystals that fundamentally
+
+519
+00:26:11,460 --> 00:26:17,079
+change in which the drug can be delivered. And in fact, some of my former colleagues on board the
+
+520
+00:26:17,079 --> 00:26:19,920
+International Space Station grew a meniscus.
+
+521
+00:26:20,539 --> 00:26:26,779
+So it sounds like science fiction, but we're on the edge of really fundamentally changing what you
+
+522
+00:26:26,779 --> 00:26:32,200
+do on planet Earth based upon what we do in space. Fascinating. We see curiosity come up a lot in
+
+523
+00:26:32,200 --> 00:26:36,880
+these conversations and that leaders like you are constantly curious about life. And through that,
+
+524
+00:26:36,940 --> 00:26:40,880
+that's how they approach getting better and learning. Is that something that you think about?
+
+525
+00:26:41,259 --> 00:26:48,039
+For sure. Curiosity, it's a good term. I am curious in that I really want to be able to
+
+526
+00:26:48,039 --> 00:26:50,460
+push myself. But also, I talked about
+
+527
+00:26:50,460 --> 00:26:55,299
+purpose before. I need to have purpose for me to try to translate that purpose to others.
+
+528
+00:26:55,839 --> 00:27:00,099
+So I think that really connects back to curiosity. For me, in this opportunity,
+
+529
+00:27:00,440 --> 00:27:05,059
+when it's a connection between a lot of things I've done in my entire career and having this
+
+530
+00:27:05,059 --> 00:27:11,039
+evolution of the next space station, to me, that's the exciting part. And the curiosity piece
+
+531
+00:27:11,039 --> 00:27:17,759
+comes into how do we design and optimize a space station? I have eight months on board and lots of
+
+532
+00:27:17,759 --> 00:27:20,259
+opinions. Some are probably good, some maybe not.
+
+533
+00:27:20,460 --> 00:27:25,039
+But in terms of how do we optimize the way that you live and work on board a space station?
+
+534
+00:27:25,759 --> 00:27:29,920
+And even though the International Space Station is an amazing vehicle and I have tremendous respect
+
+535
+00:27:29,920 --> 00:27:34,759
+for it, we can really take this next level where the experience of crew is much better.
+
+536
+00:27:35,259 --> 00:27:40,079
+The development that we are able to develop, the development that we can make on this station will
+
+537
+00:27:40,079 --> 00:27:45,980
+be next level. So to me, that's super exciting. And I think the excitement connects back to the
+
+538
+00:27:45,980 --> 00:27:50,099
+curiosity and that sense of purpose. Communicating with clarity is another
+
+539
+00:27:50,099 --> 00:27:50,440
+dimension.
+
+540
+00:27:50,460 --> 00:27:55,039
+A leadership I'm always keen to talk about. As a colonel in the army and someone who's
+
+541
+00:27:55,039 --> 00:27:58,519
+lived on the space station, I'm assuming you've got some thoughts on how to communicate.
+
+542
+00:27:59,200 --> 00:28:04,380
+Yeah. One lesson that I heard a while ago, which I think about a lot, is that sometimes people don't
+
+543
+00:28:04,380 --> 00:28:09,380
+hear the message until they've heard it seven times. So I think repetition is an important part.
+
+544
+00:28:09,839 --> 00:28:14,859
+What that also means is that I personally have to have clarity because the message has to be
+
+545
+00:28:14,859 --> 00:28:20,220
+consistent. So be able to drive home that message. And when the message changes,
+
+546
+00:28:20,460 --> 00:28:25,960
+then be able to explain why it's changed and what that new course is. But communication is
+
+547
+00:28:25,960 --> 00:28:31,220
+absolutely key. And I think all of us need to work on that every single day. Because as humans,
+
+548
+00:28:31,420 --> 00:28:36,359
+sometimes we don't hear the same things that we think we're communicating. And closing that loop,
+
+549
+00:28:36,420 --> 00:28:42,099
+I think, is around repetition. But it's also around building the trust so that you can have
+
+550
+00:28:42,099 --> 00:28:47,200
+these really open conversations with people. Tim, we are really passionate about collaboration.
+
+551
+00:28:47,200 --> 00:28:50,400
+And it seems like that's been a fair piece of your life's work and what
+
+552
+00:28:50,460 --> 00:28:54,059
+you're doing now is bringing together great pieces of collaboration. How important is that
+
+553
+00:28:54,059 --> 00:28:58,779
+been for you? Collaboration is a really interesting word. Because I think sometimes people think about
+
+554
+00:28:58,779 --> 00:29:04,279
+collaboration as consensus. It's not. The collaboration is getting people to work
+
+555
+00:29:04,279 --> 00:29:09,839
+together and get to a place where you have to make a decision. So really being pedantic,
+
+556
+00:29:10,079 --> 00:29:16,279
+three types of leadership, command leadership, consultative, and consensus-based. More often
+
+557
+00:29:16,279 --> 00:29:20,279
+than not, in my mind, the right combination is setting up a collaborative environment,
+
+558
+00:29:20,460 --> 00:29:26,200
+but then using the consultative method of leadership to, at the end of the day,
+
+559
+00:29:26,279 --> 00:29:30,400
+make a decision. And you want to reach consensus to the extent possible. If there's
+
+560
+00:29:30,400 --> 00:29:34,880
+massive disagreement, then something's not working right. But at the end of the day,
+
+561
+00:29:34,980 --> 00:29:38,839
+you have to make decisions because there's limited resources when you build a business.
+
+562
+00:29:39,319 --> 00:29:44,240
+There's money and time and there's performance. And in a big program like ours, we have to move
+
+563
+00:29:44,240 --> 00:29:49,160
+at the right pace and we have to make the right decisions. And frankly, like any business,
+
+564
+00:29:49,160 --> 00:29:50,440
+if we make a mistake, we have to make a decision. And I think that's a really important part of
+
+565
+00:29:50,460 --> 00:29:54,839
+we just need to identify it and get back on track. But collaboration is absolutely key.
+
+566
+00:29:55,140 --> 00:29:58,480
+Even in an army setting, you think of the army as the ultimate command leadership,
+
+567
+00:29:58,700 --> 00:30:02,579
+but I understand there is a lot more collaboration than we understand. Is that correct?
+
+568
+00:30:02,779 --> 00:30:07,680
+I think that sometimes the military, because we watch movies, we think that it's that general
+
+569
+00:30:07,680 --> 00:30:13,359
+who's telling young people to charge the hill. I think by and large, the military is really good
+
+570
+00:30:13,359 --> 00:30:19,539
+at the consultative level of leadership and the collaboration piece. Because just like at NASA,
+
+571
+00:30:19,539 --> 00:30:20,440
+when it comes to the military, it's really good at the consultative level of leadership.
+
+572
+00:30:20,460 --> 00:30:25,980
+That sense of purpose and mission. The military is that way as well. That mission piece is really
+
+573
+00:30:25,980 --> 00:30:33,720
+clear. When I was at MDA, it's the largest space company in Canada. And I first took over the
+
+574
+00:30:33,720 --> 00:30:39,160
+robotics and space operations there. And one of my first all hands, I mentioned about sense of
+
+575
+00:30:39,160 --> 00:30:43,779
+mission. And some of the young engineers are like, well, what does that mean? And I was kind of taken
+
+576
+00:30:43,779 --> 00:30:49,920
+aback that what was clear to me in terms of having the sense of purpose and mission wasn't clear. And
+
+577
+00:30:50,460 --> 00:30:53,940
+I think that's important for the leader to be able to really clearly articulate that.
+
+578
+00:30:54,180 --> 00:30:56,240
+Tim, who's been the greatest leader in your life?
+
+579
+00:30:58,880 --> 00:31:04,720
+That's a great question. I think back to a couple of people that had huge impacts on me.
+
+580
+00:31:05,480 --> 00:31:11,299
+One of my teachers in high school kind of turned my course from being a bit of a ne'er-do-well as
+
+581
+00:31:11,299 --> 00:31:17,240
+a freshman in high school to one where I understood that there was this pathway of
+
+582
+00:31:17,240 --> 00:31:20,039
+getting to West Point. I got really intrigued as a junior in high school.
+
+583
+00:31:20,460 --> 00:31:26,839
+Going off to West Point and was super encouraging and really helped for me along that path. And then
+
+584
+00:31:26,839 --> 00:31:34,039
+I'd have to say my first military commander, a guy named Hawk Ruth, who was the colonel in charge of
+
+585
+00:31:34,039 --> 00:31:38,859
+the air cavalry unit that I was part of. And I hope he listens to this because I always thought
+
+586
+00:31:38,859 --> 00:31:44,059
+of him as kind of like that Robert Duvall character in Apocalypse Now, a really bombastic
+
+587
+00:31:44,059 --> 00:31:49,339
+leader. But he really cared for his people and he was able to translate that sense of mission to the
+
+588
+00:31:49,339 --> 00:31:49,900
+people. In fact, I've heard a lot of people say, well, I don't know. I don't know. I don't know. I
+
+589
+00:31:49,900 --> 00:31:49,980
+don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't know. I don't
+
+590
+00:31:49,980 --> 00:32:01,500
+In fact, I just he called me the other day and we were chatting and he was talking about that time period when he commanded the aircraft squadron and that that sense of purpose and mission and how people still get back to him.
+
+591
+00:32:01,500 --> 00:32:14,039
+So people like that have really inspired me. And, you know, it's interesting about the military experience in the army. Oftentimes, I think that first that first assignment, those first three years is super impactful.
+
+592
+00:32:14,039 --> 00:32:37,180
+I went to my first school after that assignment. It was one of these professional development schools. And you could almost identify if people had been from a good unit or a not great unit. Really formative. Those early years, especially for males, like our brains aren't really formed when you're 22 years old. You know, it takes a little bit of time. And so those first few years are really influential in terms of how you grow up as a leader.
+
+593
+00:32:37,180 --> 00:32:43,859
+I love the opportunity to say that to Hawk Ruth, who, you know, I'm sure must be incredibly proud of you.
+
+594
+00:32:43,980 --> 00:32:44,019
+Yeah.
+
+595
+00:32:44,019 --> 00:32:55,460
+And a high school teacher who I'd love you to name as well on the chance that maybe it does get back to them, because it just shows you how they can be life changing, can't they? Someone just taking interest in you at the right period of time.
+
+596
+00:32:55,640 --> 00:32:57,740
+Oh, for sure. It's Bill Brent. He was my band director.
+
+597
+00:32:58,119 --> 00:32:58,440
+Yeah.
+
+598
+00:32:58,579 --> 00:33:11,160
+Yeah. I was a trombone player in high school, you know, and so he just took an active interest in everybody. And I was a leader in that organization. And he had very high standards. And I think that really stuck.
+
+599
+00:33:11,339 --> 00:33:13,960
+Yeah, life changing out of that influence in your life.
+
+600
+00:33:13,960 --> 00:33:33,799
+In the spirit of collaboration, my final question to you, Tim, and you've got this huge project underway and so many passions, it's clear in your life. Has there been someone you thought, I'd love to collaborate with that person on this particular project you're on or any other area of your life? Is there a name that springs to mind in terms of someone that stood out to you that you'd love to connect with?
+
+601
+00:33:33,799 --> 00:33:42,400
+You know, it would be really interesting to establish a relationship with Elon Musk to tap his brain because he sees things in a very unique way.
+
+602
+00:33:43,059 --> 00:33:43,799
+And he clearly has success.
+
+603
+00:33:43,960 --> 00:33:57,980
+He has success in so many different ways when it comes to space. He's really been the primary person, I think, that's transformed our access to space, which has opened up this market and is going to lead to that growth that you just talked about. That would be cool.
+
+604
+00:33:58,319 --> 00:34:07,180
+When you heard, Tim, that they were planning to re-land a rocket back on the launch pad, did you think this is crazy or we can do this?
+
+605
+00:34:07,259 --> 00:34:13,860
+No, I didn't think it was crazy. I just didn't think it would happen so quickly. He has a very motivated team and people are super excited.
+
+606
+00:34:13,960 --> 00:34:41,340
+NASA tried to do this back in the day with a program called the Delta Clipper. And NASA became risk-averse at certain points in its history. And that was one of those where they canceled that program. But, you know, someone who has lots of resources like he does and great motivation to accomplish great things are able to do things like reusable rockets. And like the pace at which they build and launch rockets is truly amazing. So we're excited to partner with them for Starship.
+
+607
+00:34:41,679 --> 00:34:43,940
+Tim, it's been a great honor and a great pleasure to meet you.
+
+608
+00:34:43,960 --> 00:35:03,480
+And understand your history and share so openly your remarkable story and to understand more about just how important it is, the project you're on. It's great you're here in Australia. I'm sure it's going to motivate. We've already had one Australian astronaut spend some time in space. It's a small community, but I suspect more people listening to this are going to be inspired by what you've done. So thanks for taking the time.
+
+609
+00:35:03,739 --> 00:35:05,480
+Yeah, thank you, Luke. This is pretty great. Thank you.
+
+610
+00:35:05,480 --> 00:35:13,940
+Thank you for listening to the Empowering Leaders podcast, powered by temper, a mattress like no other. And to make sure you don't miss an episode, click subscribe.
+
+611
+00:35:13,960 --> 00:35:15,639
+Wherever you get your podcast.
+

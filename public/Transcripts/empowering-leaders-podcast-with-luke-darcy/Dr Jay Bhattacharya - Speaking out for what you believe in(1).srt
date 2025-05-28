@@ -1,0 +1,4440 @@
+1
+00:00:02,480 --> 00:00:11,740
+This week's guest on the Empowering Leaders podcast is Dr. Jay Bhattacharya, a Stanford
+
+2
+00:00:11,740 --> 00:00:16,699
+medical professor who stood up to the narrative of fear that was sweeping the globe at the
+
+3
+00:00:16,699 --> 00:00:18,079
+very start of the pandemic.
+
+4
+00:00:18,719 --> 00:00:23,539
+His advocacy for focused protection in opposition to the crippling lockdowns that were imposed
+
+5
+00:00:23,539 --> 00:00:28,519
+by public health officials was a courageous stance that cost him lifelong friends and
+
+6
+00:00:28,519 --> 00:00:30,420
+criticism from the US medical establishment.
+
+7
+00:00:30,420 --> 00:00:33,899
+I found this conversation to be incredibly insightful.
+
+8
+00:00:34,560 --> 00:00:36,460
+What does trusting the science actually mean?
+
+9
+00:00:37,020 --> 00:00:41,759
+His powerful collaboration with medical professionals around the world to rebuild trust in science
+
+10
+00:00:41,759 --> 00:00:45,299
+to allow open debate and dialogue is inspiring.
+
+11
+00:00:45,820 --> 00:00:48,740
+His courage and leadership is a story you really want to hear.
+
+12
+00:00:49,179 --> 00:00:53,240
+A conversation I loved and it ties in very closely with the passion that I have for the
+
+13
+00:00:53,240 --> 00:00:54,359
+work that we're doing at Alita.
+
+14
+00:00:54,799 --> 00:00:58,859
+If you're motivated to improve or start your leadership journey, we'd love you to check
+
+15
+00:00:58,859 --> 00:01:00,399
+out our Alita Connect signature.
+
+16
+00:01:00,420 --> 00:01:04,299
+Alita Connect is a program which brings leaders together from sport, industry, social
+
+17
+00:01:04,299 --> 00:01:09,579
+venture, education and the arts into bespoke facilitated forums where leaders are coming
+
+18
+00:01:09,579 --> 00:01:13,819
+together to connect, to learn and to share in what we think is a pretty life-changing
+
+19
+00:01:13,819 --> 00:01:14,180
+way.
+
+20
+00:01:15,840 --> 00:01:32,239
+Dr. Jay Bhattacharya is a professor of Stanford University Medical School, a physician, epidemiologist,
+
+21
+00:01:32,459 --> 00:01:37,439
+health economist and public health policy expert focusing on infectious diseases and
+
+22
+00:01:37,439 --> 00:01:38,420
+vulnerable populations.
+
+23
+00:01:38,579 --> 00:01:39,420
+In October 2020...
+
+24
+00:01:40,379 --> 00:01:45,180
+At the height of communities being locked down around the world, Dr. Jay Bhattacharya
+
+25
+00:01:45,180 --> 00:01:49,299
+and his colleagues, Dr. Martin Kuldoff, who's the professor of medicine at Harvard University
+
+26
+00:01:49,299 --> 00:01:55,620
+with expertise in detecting and monitoring infectious disease outbreaks, and Dr. Sunetra
+
+27
+00:01:55,620 --> 00:02:00,879
+Gupta, professor at Oxford University, also an epidemiologist with expertise in immunology
+
+28
+00:02:00,879 --> 00:02:06,560
+and mathematical modelling of infectious disease, together co-authored the Great Barrington
+
+29
+00:02:06,560 --> 00:02:07,180
+Declaration.
+
+30
+00:02:07,180 --> 00:02:10,139
+The declaration received 60,000 signatures.
+
+31
+00:02:10,379 --> 00:02:15,379
+Support from other doctors, nurses and health professionals, and close to a million signatures
+
+32
+00:02:15,379 --> 00:02:16,319
+from the wider community.
+
+33
+00:02:16,860 --> 00:02:21,379
+The Great Barrington Declaration called for focused protection for those most at risk,
+
+34
+00:02:21,780 --> 00:02:26,060
+identified as the elderly with underlying health issues, while those in the not vulnerable
+
+35
+00:02:26,060 --> 00:02:32,080
+category should resume life as normal, returning to school, to work, playing sport, etc., with
+
+36
+00:02:32,080 --> 00:02:36,919
+simple hygiene measures encouraged, like staying at home while sick and washing hands.
+
+37
+00:02:37,259 --> 00:02:39,800
+Jay, it's an incredible leadership story to stand up.
+
+38
+00:02:39,800 --> 00:02:44,379
+In what was one of the most unique times in human history in the last 100 years, I really
+
+39
+00:02:44,379 --> 00:02:45,379
+appreciate you joining me today.
+
+40
+00:02:46,080 --> 00:02:46,780
+Oh, my pleasure.
+
+41
+00:02:47,080 --> 00:02:47,860
+Thank you for having me.
+
+42
+00:02:48,159 --> 00:02:53,979
+Jay, around 2020, in January, most of us around the world started to hear about this virus,
+
+43
+00:02:54,219 --> 00:02:57,000
+the coronavirus, COVID-19, that was emanating from China.
+
+44
+00:02:57,560 --> 00:03:01,900
+As one of the world's leading experts in the space, early on, you conducted a couple of
+
+45
+00:03:01,900 --> 00:03:04,960
+really specific studies to determine how dangerous COVID-19.
+
+46
+00:03:05,419 --> 00:03:09,199
+Can you tell us what you did way back then and what you found so early on?
+
+47
+00:03:09,800 --> 00:03:17,199
+Sure. So the key idea was that, well, let me just, let me step back to the 2009 H1N1 pandemic,
+
+48
+00:03:17,740 --> 00:03:22,080
+because that's where some of the ideas I had early on came from.
+
+49
+00:03:22,139 --> 00:03:25,759
+So is that the swine flu, Jay? Is that the H1N1 is a swine flu? Yeah.
+
+50
+00:03:26,500 --> 00:03:30,740
+Exactly. Swine flu. So there, there were very, early on, there were very, very high death rates
+
+51
+00:03:30,740 --> 00:03:37,139
+reported. The key catch there was that they would, identifying patients who were very sick with the
+
+52
+00:03:37,139 --> 00:03:39,780
+swine flu, and then they would like calculate what fraction of them,
+
+53
+00:03:39,800 --> 00:03:45,860
+recovered. And, you know, it was, the death rate was high. The problem was that, in fact,
+
+54
+00:03:45,900 --> 00:03:50,039
+there were a lot of people who had gotten the swine flu that never got really sick and never
+
+55
+00:03:50,039 --> 00:03:55,319
+came to the medical attention. And those were not captured. There were a whole bunch of studies that
+
+56
+00:03:55,319 --> 00:04:03,099
+were done of antibodies to the swine flu later in the pandemic, in that pandemic, which found that
+
+57
+00:04:03,099 --> 00:04:09,219
+a hundred times more people had been infected than actually become severe cases. And so the death
+
+58
+00:04:09,219 --> 00:04:09,780
+rate went from zero to a hundred times more people had been infected than actually become severe cases.
+
+59
+00:04:09,780 --> 00:04:17,439
+From three, four, five, six percent to something like 0.01 percent, 99.99% survival. So I had very
+
+60
+00:04:17,439 --> 00:04:21,920
+early on the same thought here. I was like, okay, well, maybe what if this is a highly infectious
+
+61
+00:04:21,920 --> 00:04:27,540
+respiratory virus? What if it's spread really rapidly, even outside of our knowledge, it's
+
+62
+00:04:27,540 --> 00:04:31,279
+producing some really, really sick patients, but maybe it's also produced some mild disease that
+
+63
+00:04:31,279 --> 00:04:36,420
+hasn't come to medical attention. And so early on in the pandemic, I ran two studies of antibodies
+
+64
+00:04:36,420 --> 00:04:39,560
+looking for evidence that people have been infected. And, and,
+
+65
+00:04:39,779 --> 00:04:44,399
+and, but never came to medical attention in Santa Clara County, California, where I live,
+
+66
+00:04:44,459 --> 00:04:50,060
+and in Los Angeles County, just south of where I live. And what we found was that, and that was
+
+67
+00:04:50,060 --> 00:04:54,720
+true. It was, it was in fact, 50 times more infections than cases. Now it turns out it's
+
+68
+00:04:54,720 --> 00:05:00,560
+much more deadly than swine flu. So this disease had a death rate in the population at large of
+
+69
+00:05:00,560 --> 00:05:09,639
+about 0.2%, 99.8%, 20 times more deadly than swine flu. But it also had a very steep age
+
+70
+00:05:09,639 --> 00:05:15,160
+gradient. Older people had a very high risk of death from this, four, five, 6%, if you're above
+
+71
+00:05:15,160 --> 00:05:20,079
+80, 80, 80 years old, whereas children have a vanishingly small risk of death from this,
+
+72
+00:05:21,019 --> 00:05:29,480
+you know, pretty close to zero, you know, on the order of the flu or less. And so that meant that
+
+73
+00:05:29,480 --> 00:05:34,160
+there was very different risk categories, old people, high risk, young people, much less so.
+
+74
+00:05:34,920 --> 00:05:39,560
+So that, that was the main study I did early on that. So the death rate was one thing that
+
+75
+00:05:39,560 --> 00:05:39,620
+came out of it. And so I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I,
+
+76
+00:05:39,639 --> 00:05:47,560
+there's two other lessons really important. If I can be really brief. One is that 3% of the
+
+77
+00:05:47,560 --> 00:05:54,019
+population in April, 2020 in Santa Clara County in California had the disease, had antibodies to
+
+78
+00:05:54,019 --> 00:05:58,160
+the disease. 3%, doesn't sound like a big number, but it's already too late to go to zero. That
+
+79
+00:05:58,160 --> 00:06:01,660
+means it's already, the horse is out of the barn. You're not going to be able to stop the disease
+
+80
+00:06:01,660 --> 00:06:07,319
+from spreading. It's a highly infectious disease. So a policy that aimed at zero was going to fail
+
+81
+00:06:07,560 --> 00:06:09,480
+just based on that study alone. You knew that.
+
+82
+00:06:09,480 --> 00:06:15,879
+And the second thing is 3% is not a lot of the populations. There's still like a very large
+
+83
+00:06:15,879 --> 00:06:19,459
+fraction of the population to go. It was going to be a long epidemic. And we knew that just from
+
+84
+00:06:19,459 --> 00:06:24,360
+that study. And Jay, there, you know, pretty crucial bits of information you would have
+
+85
+00:06:24,360 --> 00:06:30,040
+thought in terms of setting public policy on the back of that to say, Hey, this isn't a mortality
+
+86
+00:06:30,040 --> 00:06:34,360
+rate, you know, 3% because that would be alarming and the modeling would be off the charts. And we
+
+87
+00:06:34,360 --> 00:06:39,399
+were shown a lot of that modeling early days that predicted extraordinary, you know,
+
+88
+00:06:39,399 --> 00:06:44,300
+death rates. And then as you said, to really establish pretty quickly that the idea of
+
+89
+00:06:44,300 --> 00:06:49,540
+actually trying to chase COVID zero was just an impossibility and not something that was ever
+
+90
+00:06:49,540 --> 00:06:54,639
+going to be achieved. I suppose what happened, Jay, from there was that the public health message
+
+91
+00:06:54,639 --> 00:06:59,399
+and the fear went into overdrive. And, you know, I'm talking to you from the city of Melbourne. I
+
+92
+00:06:59,399 --> 00:07:03,560
+know you've been here before and given lectures. You're on your way back to Melbourne, Australia
+
+93
+00:07:03,560 --> 00:07:08,300
+to give some more lectures on this, but we can't forget some of the language that was
+
+94
+00:07:08,300 --> 00:07:09,379
+sent our way.
+
+95
+00:07:09,399 --> 00:07:14,060
+In the cities that we live in, I can remember a public health official talking about this virus
+
+96
+00:07:14,060 --> 00:07:18,879
+will creep in through your window. It will get you at night when you're asleep. Insidious,
+
+97
+00:07:19,060 --> 00:07:24,480
+virulent, deadly. We had grim-faced public health officials every day telling us of daily
+
+98
+00:07:24,480 --> 00:07:30,399
+case numbers and really just that the language became incredibly fear-driven.
+
+99
+00:07:30,759 --> 00:07:35,000
+As you said, if you flip that potentially and use the evidence, and there were hundreds of
+
+100
+00:07:35,000 --> 00:07:39,300
+studies done like you did to confirm that your Santa Clara study was accurate. And
+
+101
+00:07:39,399 --> 00:07:44,180
+you know, in fact, that was very quickly established as being what was going on. You could
+
+102
+00:07:44,180 --> 00:07:50,019
+have said and stood in front of people as a public health and said 99.98% of you are going to survive
+
+103
+00:07:50,019 --> 00:07:54,379
+this virus. There was another message to be had. Why did fear win the day in your mind, Jay?
+
+104
+00:07:55,379 --> 00:08:00,540
+Well, so yes, like they could have, I wouldn't have said 99.8. I would have said if you're old,
+
+105
+00:08:00,540 --> 00:08:04,019
+there's this high risk. It's a deadly disease. Be careful. If you're young,
+
+106
+00:08:04,819 --> 00:08:09,339
+live your life. The virus is the least of your problems or not, you know, not the top of your top,
+
+107
+00:08:09,339 --> 00:08:13,899
+but shouldn't top the list of your problems. But I'll say this, I think the fear-based messaging
+
+108
+00:08:13,899 --> 00:08:19,540
+in around the world was terrible. It was an unethical breach of public health norms. Normally,
+
+109
+00:08:20,019 --> 00:08:24,939
+you provide, the goal of public health is to provide people with tools to cope with that fear,
+
+110
+00:08:25,019 --> 00:08:31,639
+not to stoke it. And I saw in Australia, that was, it was, I mean, it was pretty bad in the U.S.,
+
+111
+00:08:31,639 --> 00:08:37,679
+I have to say, but it was even worse in Australia. I saw some advertisements of, you know,
+
+112
+00:08:37,679 --> 00:08:39,179
+young person, like a young,
+
+113
+00:08:39,340 --> 00:08:44,299
+active woman in an ICU bed who couldn't breathe, you know, the TV ad that was aired all through
+
+114
+00:08:44,299 --> 00:08:50,460
+Australia from public health. A lot of that, I think, stemmed from this idea that people
+
+115
+00:08:50,460 --> 00:08:54,960
+weren't going to take the disease seriously enough unless they were scared. That became
+
+116
+00:08:54,960 --> 00:09:04,919
+an official sort of policy of public health. And it, in part, you really did need something
+
+117
+00:09:04,919 --> 00:09:09,259
+like that if you were going to impose lockdowns on a population. Essentially,
+
+118
+00:09:09,340 --> 00:09:13,620
+what public health was asking people to do was to put aside all of the other priorities in their
+
+119
+00:09:13,620 --> 00:09:18,480
+life, their kids' schooling, if they had cancer, don't go get cancer, don't go get treatment,
+
+120
+00:09:18,919 --> 00:09:23,659
+if you have, don't get screened for cancer, put aside your medical priorities, put aside,
+
+121
+00:09:23,879 --> 00:09:29,620
+close your businesses, don't go to church or your synagogue, don't, essentially, to put aside all
+
+122
+00:09:29,620 --> 00:09:33,279
+the other priorities in your life in order to avoid this single infectious disease.
+
+123
+00:09:34,240 --> 00:09:38,379
+The only way you can really get compliance with that is if people are really scared
+
+124
+00:09:39,340 --> 00:09:43,720
+especially for an extended period of time. And it's a powerful weapon, fear, isn't it?
+
+125
+00:09:43,720 --> 00:09:47,860
+Because it's very hard to reverse once people have established that in their brain. It becomes,
+
+126
+00:09:47,860 --> 00:09:53,639
+even then, when you hear educated and world-renowned experts like you speak in a balanced
+
+127
+00:09:53,639 --> 00:09:58,700
+way about this with proper evidence and produce it, people then don't really want to hear that
+
+128
+00:09:58,700 --> 00:10:05,980
+message. And I suppose going back to your leadership, you know, to stand up and the
+
+129
+00:10:05,980 --> 00:10:09,320
+Great Barrington Declaration, can you tell, I suppose, was that your response?
+
+130
+00:10:09,340 --> 00:10:14,059
+To the public fear? Can you tell us about how it emanated and what it was about?
+
+131
+00:10:15,200 --> 00:10:21,860
+Sure. So if you, just to take you back, in Australia, the lockdowns you all did actually,
+
+132
+00:10:22,039 --> 00:10:28,139
+it actually worked in one sense, like in early, the early lockdowns actually did reduce cases to
+
+133
+00:10:28,139 --> 00:10:34,639
+zero on the island. In the United States, they hadn't worked, but the cases have come down.
+
+134
+00:10:34,860 --> 00:10:38,799
+And in the summer of 2020, there wasn't the, the fear had started to subside.
+
+135
+00:10:39,340 --> 00:10:42,659
+There was a sense of maybe we weren't going to need to, to lock down again.
+
+136
+00:10:43,840 --> 00:10:47,860
+In fact, I remember talking to some colleagues in Australia who were like, look, we've conquered
+
+137
+00:10:47,860 --> 00:10:51,100
+the disease. Our life is normal. There's no restrictions at all. Although there were still
+
+138
+00:10:51,100 --> 00:10:56,759
+restrictions over here. In Australia, that was partly because you were in the Southern
+
+139
+00:10:56,759 --> 00:11:03,539
+Hemisphere. The disease arrived in your summer. It's a seasonal disease, very clearly. It arrived
+
+140
+00:11:03,539 --> 00:11:08,639
+in the Northern Hemisphere in the winter. It's more easily, more easily spread in the winter.
+
+141
+00:11:09,700 --> 00:11:15,200
+So it put the Australia and much of the rest of the world on different paths.
+
+142
+00:11:16,740 --> 00:11:24,620
+In the United States, in September, October, there was a lot of concern about kids spreading
+
+143
+00:11:24,620 --> 00:11:31,679
+the disease in schools. It was really becoming clear to me that the summer sense that the disease
+
+144
+00:11:31,679 --> 00:11:36,779
+was under control had gone away and that people wanted to have lockdowns again. My kids, for
+
+145
+00:11:36,779 --> 00:11:38,820
+instance, in California, weren't, were, were, were, were, were, were, were, were, were, were,
+
+146
+00:11:38,820 --> 00:11:39,320
+were, were, were, were, were, were, were, were, were, were, were, were, were, were, were, were,
+
+147
+00:11:39,340 --> 00:11:46,019
+not in person in school for a year and a half. And the idea of the lockdown as a way to control
+
+148
+00:11:46,019 --> 00:11:52,879
+disease, it sort of entrenched itself in public health. But I knew from talking to some of my
+
+149
+00:11:52,879 --> 00:11:58,960
+colleagues and some of my friends that there was a lot of concern, both about the harms of the
+
+150
+00:11:58,960 --> 00:12:04,220
+lockdown on young people and also the ability of the lockdowns to actually control the spread of
+
+151
+00:12:04,220 --> 00:12:11,100
+the disease. It wasn't universal. Unlike what some government officials have tried to create
+
+152
+00:12:11,100 --> 00:12:16,539
+this impression that every credible person thought the lockdown's the only way, I knew for a fact
+
+153
+00:12:16,539 --> 00:12:23,960
+that wasn't true. In October of 2020, I was invited to this small conference in Great Barrington,
+
+154
+00:12:24,059 --> 00:12:29,919
+Massachusetts, where, that's why I've got the Great Barrington name, Martin Kulldorff, who's a
+
+155
+00:12:29,919 --> 00:12:33,899
+Harvard, as you mentioned, a Harvard epidemiologist and biostatistician,
+
+156
+00:12:34,220 --> 00:12:39,679
+and Sunetra Gupta were both, there was the three of us, and it was a bunch of other scholars who
+
+157
+00:12:39,679 --> 00:12:47,820
+were there to talk about what the right policy ought to be. And what Martin, Sunetra, and I came
+
+158
+00:12:47,820 --> 00:12:52,620
+up with was it turns out we arrived basically at the same place. You have this age gradient and
+
+159
+00:12:52,620 --> 00:12:57,019
+risk. Older people are really high risk, younger people much less so. The lockdowns are tremendously
+
+160
+00:12:57,019 --> 00:13:01,940
+harmful to young people, especially. So the right policy is focus protection of the old.
+
+161
+00:13:02,899 --> 00:13:03,659
+That meant,
+
+162
+00:13:04,220 --> 00:13:09,639
+a whole series of policies that are local in nature, because older people have different
+
+163
+00:13:09,639 --> 00:13:14,940
+living arrangements to impress the world, but with an aim toward reducing the risk of exposure
+
+164
+00:13:14,940 --> 00:13:20,200
+when there's high community spread for older people. And then for young people, lift the
+
+165
+00:13:20,200 --> 00:13:24,600
+restrictions. Because the ability to actually stop the disease from spreading had clearly,
+
+166
+00:13:24,960 --> 00:13:30,460
+there wasn't none. The lockdowns had not worked to stop the disease anywhere outside of,
+
+167
+00:13:30,460 --> 00:13:33,620
+say, Australia and New Zealand.
+
+168
+00:13:34,220 --> 00:13:39,460
+Certainly not in the Northern Hemisphere. And so at the same time, we really damaged the lives of
+
+169
+00:13:39,460 --> 00:13:45,840
+children, of other people with other diseases. So the Great Parental Declaration, we wrote a piece
+
+170
+00:13:45,840 --> 00:13:54,600
+in October 4th, 2020, released it and put it on a webpage. Tens of thousands of doctors signed on,
+
+171
+00:13:55,100 --> 00:14:00,460
+tens of thousands of scientists and epidemiologists signed on. It showed the world that there was not
+
+172
+00:14:00,460 --> 00:14:04,120
+a consensus in favor of lockdown. In fact, there was a deep,
+
+173
+00:14:04,220 --> 00:14:08,600
+unhappiness with lockdown in the scientific community. And then almost a million people
+
+174
+00:14:08,600 --> 00:14:13,559
+so far, regular people have signed on. And it's an amazing leadership position
+
+175
+00:14:13,559 --> 00:14:19,480
+to take and swimming against the tide, as it were. And the public health machine came after you,
+
+176
+00:14:19,820 --> 00:14:25,440
+Dr. J, in a big way. Anthony Fauci, who's the most high-profile public health official in the
+
+177
+00:14:25,440 --> 00:14:29,679
+world, would be a reasonable term, I think, to assign to him. The Chief Medical Officer
+
+178
+00:14:29,679 --> 00:14:33,919
+Advisor to the President of the United States. He's been in his role for five decades.
+
+179
+00:14:34,220 --> 00:14:39,340
+I have to read this quote back to you, because this is what he said when asked about the Great
+
+180
+00:14:39,340 --> 00:14:44,759
+Barrington Declaration. I know you will know it, but he said this. I'll tell you exactly how I feel
+
+181
+00:14:44,759 --> 00:14:49,559
+about that. If you let infections rip, as it were, and say, let everybody get infected that's going
+
+182
+00:14:49,559 --> 00:14:53,740
+to be able to get infected, and then we'll have herd immunity, quite frankly, that is nonsense.
+
+183
+00:14:53,960 --> 00:14:58,740
+And anybody who knows anything about epidemiology will tell you that is nonsense, and it's very
+
+184
+00:14:58,740 --> 00:15:03,919
+dangerous. Now, if you read the one page of the Great Barrington Declaration, you never talked
+
+185
+00:15:04,220 --> 00:15:09,840
+letting it rip. You spoke about focus protection. I mean, why was that? I think you've referred to
+
+186
+00:15:09,840 --> 00:15:15,620
+that as propaganda, right? Why was someone in that role so vehemently trying to bring down
+
+187
+00:15:15,620 --> 00:15:22,480
+a logical explanation that you put forward? Well, the strategy of lockdown is an absolutely
+
+188
+00:15:22,480 --> 00:15:28,100
+extraordinary strategy. It requires extraordinary evidence. And one of the things I think it
+
+189
+00:15:28,100 --> 00:15:34,039
+requires is this sense that no reasonable scientist opposes it. That, in fact, there's this
+
+190
+00:15:34,220 --> 00:15:40,279
+overwhelming consensus in favor of it. The problem that the Great Barrington Declaration
+
+191
+00:15:40,279 --> 00:15:47,840
+posed to Tony Fauci is that the authors of the Great Barrington Declaration come from
+
+192
+00:15:47,840 --> 00:15:51,860
+reputable universities, Stanford, Harvard, Oxford. I've never in my life cared that I'm
+
+193
+00:15:51,860 --> 00:15:57,980
+a reputable university. I'd rather you judge me on my ideas. But here you had three people
+
+194
+00:15:57,980 --> 00:16:01,779
+from reputable universities saying that lockdown was a bad idea.
+
+195
+00:16:04,220 --> 00:16:08,940
+Tens of thousands of doctors signed, including Nobel Prize winners, from top universities around
+
+196
+00:16:08,940 --> 00:16:14,399
+the world. It absolutely shattered the idea that there was a consensus in favor of lockdown.
+
+197
+00:16:15,080 --> 00:16:21,220
+And for Tony Fauci, that posed a real problem. He had to have this idea that there was a consensus
+
+198
+00:16:21,220 --> 00:16:30,200
+in order to create a demand for lockdown. Otherwise, then he's just one voice among many.
+
+199
+00:16:31,460 --> 00:16:34,120
+And so he used his power as,
+
+200
+00:16:34,220 --> 00:16:41,580
+the world's most prominent public health figure, to essentially mount a propaganda campaign.
+
+201
+00:16:41,580 --> 00:16:48,700
+Instead of engaging with the argument we were making in good faith, he put a straw man in place.
+
+202
+00:16:48,779 --> 00:16:53,360
+He said, oh, they just want to force everyone to get infected. When, in fact, what we were
+
+203
+00:16:53,360 --> 00:16:58,399
+calling for was policies that would actually protect the old and the vulnerable. During the
+
+204
+00:16:58,399 --> 00:17:03,279
+first wave in the United States, 80% of the deaths, more than 80% of the deaths, were people over the
+
+205
+00:17:03,279 --> 00:17:04,000
+age of 65.
+
+206
+00:17:04,220 --> 00:17:08,740
+The lockdowns had not worked to protect the vulnerable. We were calling for better policies
+
+207
+00:17:08,740 --> 00:17:15,099
+to protect the older populations, not letting the virus rip. In fact, the goal was to protect the
+
+208
+00:17:15,099 --> 00:17:19,980
+people who would die at a highest rate from the virus. That's the idea of focused protection.
+
+209
+00:17:20,500 --> 00:17:25,200
+So he was creating the straw man, because those words are powerful in the minds of the regular
+
+210
+00:17:25,200 --> 00:17:30,559
+population, of regular people. Let it rip? Oh, you want the policy is just to expose me to the virus?
+
+211
+00:17:30,960 --> 00:17:33,700
+Oh, you want to kill me? I mean, that is essentially,
+
+212
+00:17:34,220 --> 00:17:38,660
+the specter that he was raising in the minds of regular people in order to dismiss the idea
+
+213
+00:17:38,660 --> 00:17:43,680
+that we were putting forward, in order to not actually engage with it. He was trying to shut
+
+214
+00:17:43,680 --> 00:17:50,599
+down debate. And Jay, for context, to understand the power of Tony Fauci, people may not quite get
+
+215
+00:17:50,599 --> 00:17:55,680
+a grasp on that. And I'm sure I don't as well. But in his role, billions and billions and dollars
+
+216
+00:17:55,680 --> 00:18:01,539
+of grants go the way of scientists. And he has complete say over funding. And if you're a
+
+217
+00:18:01,539 --> 00:18:03,839
+scientist, and you don't get funded by...
+
+218
+00:18:04,220 --> 00:18:07,460
+The regulatory authorities that he's been in control of for five decades,
+
+219
+00:18:07,859 --> 00:18:12,359
+that can be career ending for a scientist, I'm assuming. So it takes courage and leadership
+
+220
+00:18:12,359 --> 00:18:17,240
+for you and your colleagues to stand up and say, hey, we're going to put that at risk. But a lot
+
+221
+00:18:17,240 --> 00:18:21,539
+of your other colleagues behind the scenes were supportive, but really felt as though their hands
+
+222
+00:18:21,539 --> 00:18:27,799
+were tied. Is that an accurate reflection of how it plays out? I mean, it's definitely risky. So he
+
+223
+00:18:27,799 --> 00:18:33,880
+sits on top of, as you say, billions of dollars of federal funding. Careers are made based,
+
+224
+00:18:33,980 --> 00:18:34,200
+not just on the money, but on the risk. And I think that's a really important thing. And I think that's
+
+225
+00:18:34,220 --> 00:18:34,259
+a really important thing. And I think that's a really important thing. And I think that's
+
+226
+00:18:34,259 --> 00:18:34,319
+a really important thing. And I think that's a really important thing. And I think that's
+
+227
+00:18:34,319 --> 00:18:38,420
+on the money from getting Tony Fauci, but the fact that the National Institute of Health
+
+228
+00:18:38,420 --> 00:18:45,180
+has awarded you a grant, many top medical institutions will get grant tenure on the
+
+229
+00:18:45,180 --> 00:18:49,059
+basis of winning those kinds of awards. That's true at Stanford University, where I teach.
+
+230
+00:18:50,119 --> 00:18:55,259
+And so it's really hard to speak up against him, because you're essentially putting your
+
+231
+00:18:55,259 --> 00:18:59,819
+career at risk. You're saying, okay, well, I'm going to oppose someone who may make or break
+
+232
+00:18:59,819 --> 00:19:04,200
+my career. And there are other sources of funding. So it's really hard to speak up against him.
+
+233
+00:19:04,220 --> 00:19:08,819
+It's not like he's... But in the areas of infectious disease epidemiology, infectious
+
+234
+00:19:08,819 --> 00:19:16,160
+disease immunology, he is essentially the crown prince, the king, right? You're essentially going
+
+235
+00:19:16,160 --> 00:19:26,720
+against the king. And so, yeah, I mean, it definitely takes some level of... I have to tell
+
+236
+00:19:26,720 --> 00:19:31,359
+you, I made a decision that I didn't care what happened in my career. I just felt like I had to
+
+237
+00:19:31,359 --> 00:19:34,200
+speak up, because the policy was harming so many people. And I think that's a really important
+
+238
+00:19:34,200 --> 00:19:42,240
+that I basically had devoted my career to studying and making their lives better,
+
+239
+00:19:42,579 --> 00:19:49,180
+vulnerable people, poor people, children. And I couldn't stay silent. And so I had to make a
+
+240
+00:19:49,180 --> 00:19:54,059
+decision when I signed it that I wasn't... Even if I had to pay for it with my career, I was going
+
+241
+00:19:54,059 --> 00:19:59,019
+to still do it. And that is a great story of courage and leadership, Jane. I'm fascinated
+
+242
+00:19:59,019 --> 00:20:03,980
+by it. And we need people in the world, and we need to celebrate people. We heard a lot of
+
+243
+00:20:04,200 --> 00:20:09,380
+there was very little debate, but a lot of it was, trust the science, trust the science. And
+
+244
+00:20:09,380 --> 00:20:17,160
+what you actually were offering up was that science is an evolving discussion, and it requires
+
+245
+00:20:17,160 --> 00:20:22,480
+debate. And then eventually, if it becomes collaborative enough and you get consensus,
+
+246
+00:20:22,660 --> 00:20:25,640
+then there are times when people do generally agree, don't they, on certain things? I think
+
+247
+00:20:25,640 --> 00:20:31,160
+people look at smoking now, and we're pretty universal on what happens if you decide to go
+
+248
+00:20:31,160 --> 00:20:34,180
+down the path of smoking cigarettes. But in this case, we're not going to do that. We're not going
+
+249
+00:20:34,200 --> 00:20:34,259
+to do that. We're not going to do that. We're not going to do that. We're not going to do that.
+
+250
+00:20:34,259 --> 00:20:40,519
+Because something as new as that, to have debates shut down, it seems the opposite of science. Is
+
+251
+00:20:40,519 --> 00:20:45,640
+that, again, a fair reflection? It's exactly right. It's exactly right. I mean, science
+
+252
+00:20:45,640 --> 00:20:51,880
+is not an automatic consensus. You have a new situation. It just takes time, right? It takes
+
+253
+00:20:51,880 --> 00:20:56,779
+a lot of minds. The world is a complicated place. This disease is a complicated thing.
+
+254
+00:20:57,240 --> 00:21:02,319
+Society is complicated. It's going to take a lot of trial and error with lots of people
+
+255
+00:21:02,319 --> 00:21:04,180
+talking to each other in good faith. And I think that's going to be a big part of the
+
+256
+00:21:04,200 --> 00:21:08,299
+trying to generate data in order to learn what the right way to deal with this is.
+
+257
+00:21:08,759 --> 00:21:14,400
+And the idea that somehow, minutes after you have this virus in the world at large,
+
+258
+00:21:14,759 --> 00:21:19,859
+that everyone knows exactly what to do, it happens to coincide with exactly what Tony Fauci and other
+
+259
+00:21:19,859 --> 00:21:26,880
+public health authorities wanted to do, that was not true. It was a lot of debate going on,
+
+260
+00:21:26,880 --> 00:21:33,059
+sub rosa, underneath the public's aegis. They're not privy to it because it's scientists just
+
+261
+00:21:33,059 --> 00:21:33,839
+talking to each other.
+
+262
+00:21:34,200 --> 00:21:40,000
+And a lot of uncertainty. And yet the public was painted this picture of consensus. It was
+
+263
+00:21:40,000 --> 00:21:44,440
+false. It was a propaganda campaign. I don't know how else to describe it. It was a propaganda
+
+264
+00:21:44,440 --> 00:21:50,940
+campaign. And within the context of science, it's deadly. Science needs an open space where people
+
+265
+00:21:50,940 --> 00:21:58,740
+can make hypotheses that turn out wrong and not be canceled for them. They need to have lots of
+
+266
+00:21:58,740 --> 00:22:01,660
+people who disagree with each other. That's actually part of the fun of science, frankly.
+
+267
+00:22:01,660 --> 00:22:04,079
+It's one of the reasons I have always enjoyed being a scientist,
+
+268
+00:22:04,200 --> 00:22:09,440
+because I learn from that process of discussing with my colleagues. And I'm often wrong. That's
+
+269
+00:22:09,440 --> 00:22:15,180
+part of how science works. And it's the opportunity to change my mind, which makes science fun.
+
+270
+00:22:15,579 --> 00:22:20,000
+I want to talk to you about great leadership and collaboration. I'm going to come back a bit to the
+
+271
+00:22:20,000 --> 00:22:25,160
+city of Melbourne, where I live, and just tell a bit of that story again. I know you're acutely
+
+272
+00:22:25,160 --> 00:22:29,920
+aware of it, Jay. But it was, as I said, with pride, we used to call ourselves, and we were
+
+273
+00:22:29,920 --> 00:22:33,900
+voted regularly the most livable city in the world here in Melbourne. And it's where my four kids are
+
+274
+00:22:34,200 --> 00:22:38,700
+now. And we're passionate about it. But what happened in the last two years, I mean, I think
+
+275
+00:22:38,700 --> 00:22:42,799
+people have to look back with crazy. We had pregnant women being handcuffed and arrested
+
+276
+00:22:42,799 --> 00:22:48,000
+in their homes in Ballarat, a regional town, because they posted on Facebook the idea that
+
+277
+00:22:48,000 --> 00:22:54,039
+maybe we should peacefully protest around the merit of lockdowns. We had two years of schooling
+
+278
+00:22:54,039 --> 00:22:59,420
+where kids were homeschooled, effectively out of school for that period of time. We had police
+
+279
+00:22:59,420 --> 00:23:03,640
+tape around our playground. So when kids were allowed out for their hour, they could look at
+
+280
+00:23:04,200 --> 00:23:08,940
+and then literally have the torment of having that. We had boulders put on skate parks. The
+
+281
+00:23:08,940 --> 00:23:13,180
+amount of effort and resource that was done to stop kids in their one hour, they were allowed
+
+282
+00:23:13,180 --> 00:23:18,240
+out from home. 5K exclusion zones around your neighborhood. You weren't allowed to go out of
+
+283
+00:23:18,240 --> 00:23:22,019
+that barrier for fear of being arrested. We had elderly people who were sitting on park benches,
+
+284
+00:23:22,140 --> 00:23:27,900
+moved on from police. I think sometimes we need to actually remind ourselves of what we went through,
+
+285
+00:23:28,359 --> 00:23:33,759
+curfews in your house. You weren't allowed out of your house after 8 p.m. at night or 9 p.m. at
+
+286
+00:23:34,200 --> 00:23:39,000
+night. Now, what was never debated here in this city was the damage of lockdown. Now, you're one
+
+287
+00:23:39,000 --> 00:23:44,259
+of the most published researchers in scientific journals all around the world. You were acutely
+
+288
+00:23:44,259 --> 00:23:49,039
+aware of the damage lockdowns were going to do. Can you give us some of the evidence that now
+
+289
+00:23:49,039 --> 00:23:52,900
+has been produced? Because it's still in my mind, not something people talk about,
+
+290
+00:23:52,940 --> 00:23:57,400
+the pain of lockdown and what it's continued to do. Can you share with us some of your findings?
+
+291
+00:23:58,359 --> 00:24:02,119
+It's devastating. I mean, it's not just my findings. This is like the work of many,
+
+292
+00:24:02,119 --> 00:24:03,279
+many people, many scientists.
+
+293
+00:24:04,200 --> 00:24:08,740
+It was predictable, right? So just for instance, just take kids, right? So I think Melbourne has
+
+294
+00:24:08,740 --> 00:24:12,740
+had probably the most number of days of lockdown over the past two and a half years of any city
+
+295
+00:24:12,740 --> 00:24:18,359
+in the world, actually. And a lot of kids, as you say, the kids' lives were interrupted.
+
+296
+00:24:18,720 --> 00:24:24,740
+If you replace regular school with online school, you're not actually giving them schooling. It's
+
+297
+00:24:24,740 --> 00:24:29,720
+something else. A lot of the benefit of schooling comes from the ability to interact with other
+
+298
+00:24:29,720 --> 00:24:33,000
+kids. So there's social development that's lost. And also,
+
+299
+00:24:34,200 --> 00:24:40,599
+there's just learning that's lost. That's going to be true for Melbourne kids, just as it is for
+
+300
+00:24:40,599 --> 00:24:46,079
+American kids who have been kept out of school. Before the pandemic, there was a literature on
+
+301
+00:24:46,079 --> 00:24:51,299
+this that looked at short interruptions in schooling and what consequences it has on the
+
+302
+00:24:51,299 --> 00:24:57,099
+lives of children the rest of their lives. And so they would do these natural experiments where
+
+303
+00:24:57,099 --> 00:25:02,480
+they compare some location that has mandated schooling until you're age 17 versus age 16,
+
+304
+00:25:02,880 --> 00:25:04,180
+and then track the kids for the rest of their lives. And so they would do these natural experiments
+
+305
+00:25:04,180 --> 00:25:08,920
+rest of their life. And it turns out that the children that were required to stay in school
+
+306
+00:25:08,920 --> 00:25:17,720
+for just a short one year longer, that led to longer lives, more healthy lives, and with less
+
+307
+00:25:17,720 --> 00:25:26,180
+unemployment, just more prosperity. In other words, by locking down, we have consigned our
+
+308
+00:25:26,180 --> 00:25:31,799
+children to shorter lives, less healthy lives. One estimate early in the pandemic from just the
+
+309
+00:25:31,799 --> 00:25:36,559
+spring lockdowns in the United States alone estimated that we had shortened our children's
+
+310
+00:25:36,559 --> 00:25:41,539
+lives just in the United States by five and a half million life years from just the spring lockdown.
+
+311
+00:25:43,220 --> 00:25:48,720
+And this is true all over the world. There are places in poor countries like Bangladesh,
+
+312
+00:25:49,039 --> 00:25:54,740
+Uganda, where kids have never come back. Millions of children missed two years of school and then
+
+313
+00:25:54,740 --> 00:26:00,759
+never came back to school, lost forever. It's a catastrophic generational theft of the birthright
+
+314
+00:26:00,759 --> 00:26:01,299
+of our kids.
+
+315
+00:26:01,799 --> 00:26:07,640
+What we did with lockdowns, and that's just on kids. That's on the educational outcomes,
+
+316
+00:26:08,039 --> 00:26:11,859
+never mind the psychological harm we've done to our children and young people.
+
+317
+00:26:12,700 --> 00:26:20,339
+So in the United States, there was a study done by the US CDC in June of 2020 that found that one
+
+318
+00:26:20,339 --> 00:26:26,740
+in four young adults seriously considered suicide the previous month. Can you imagine the depths of
+
+319
+00:26:26,740 --> 00:26:31,680
+psychological despair people were in, especially young people? Young people need interactions with
+
+320
+00:26:31,680 --> 00:26:31,779
+others.
+
+321
+00:26:31,799 --> 00:26:40,019
+I mean, I'm an old guy. I can be a hermit. It's fine. But even old people like me need human
+
+322
+00:26:40,019 --> 00:26:48,160
+connections, right? So there was a big increase in despair and deaths among older people with
+
+323
+00:26:48,160 --> 00:26:54,319
+dementia from loneliness. People with dementia died of loneliness, 20, 30% increase in that.
+
+324
+00:26:54,619 --> 00:27:01,240
+Everyone needs connection. And so the levels of anxiety, the levels of depression shot through
+
+325
+00:27:01,240 --> 00:27:01,680
+the roof.
+
+326
+00:27:01,799 --> 00:27:08,319
+And the consequences of that now are a big increase in drug overdoses, big increase in
+
+327
+00:27:08,319 --> 00:27:14,980
+deaths from the kinds of things that happen when you have deep psychological distress at a mass
+
+328
+00:27:14,980 --> 00:27:23,740
+level. There's also problems with other physical health. People stop getting cancer screening.
+
+329
+00:27:24,000 --> 00:27:29,259
+People actually skip cancer treatment because they're so afraid of COVID, or they were told
+
+330
+00:27:29,259 --> 00:27:31,779
+that they shouldn't come in because they want to preserve the health.
+
+331
+00:27:31,799 --> 00:27:36,160
+Preserve the health care system. Preserve the health care system for what? If you're not using it
+
+332
+00:27:36,160 --> 00:27:44,200
+to treat cancer patients, what's it for? People stay at home with heart attacks. It's mind-boggling
+
+333
+00:27:44,200 --> 00:27:51,440
+because we've made the avoidance of COVID so far above many, many other deadly diseases in poor
+
+334
+00:27:51,440 --> 00:27:56,180
+countries. I worry about poor countries for lots of reasons. But one of the things that I think is
+
+335
+00:27:56,180 --> 00:28:01,779
+important to understand, when rich countries like Australia, like the United States, lock down,
+
+336
+00:28:01,799 --> 00:28:09,759
+and cut trade ties, essentially reduce the connections with the outside world, a lot of poor
+
+337
+00:28:09,759 --> 00:28:15,359
+countries, they've reorganized their economy to fit into the global economy. And when these kinds
+
+338
+00:28:15,359 --> 00:28:22,319
+of economic connections break, when rich countries undertake these kinds of policies, it has knock-on
+
+339
+00:28:22,319 --> 00:28:28,960
+consequences in poor countries. And a lot of poor countries, there's a lot of people who live on $2
+
+340
+00:28:28,960 --> 00:28:31,240
+a day of income or less, very, very poor.
+
+341
+00:28:31,240 --> 00:28:37,319
+Even small perturbations in the economy can have enormous deleterious consequences on them.
+
+342
+00:28:37,940 --> 00:28:43,259
+And that's exactly what happened. The UN estimated that somewhere on the order of 80 million people
+
+343
+00:28:43,259 --> 00:28:48,640
+were put on the brink of starvation, dire food insecurity. Hundreds of thousands of children
+
+344
+00:28:48,640 --> 00:28:53,859
+in March of 2021, a UN report said, died in South Asia alone from starvation.
+
+345
+00:28:55,579 --> 00:29:00,339
+We have a moral obligation, I think, when we've made promises to the rest of the world about
+
+346
+00:29:00,339 --> 00:29:01,220
+trade and order, and we've made promises to the rest of the world about trade and order,
+
+347
+00:29:01,220 --> 00:29:07,079
+about economic ties, to not break them. Because the consequences are not just that
+
+348
+00:29:07,079 --> 00:29:13,279
+some rich people don't get so rich. It's that the poor face the consequences of that even more
+
+349
+00:29:13,279 --> 00:29:16,980
+acutely than anyone else, I think. And the poorest of the poor are the worst of all.
+
+350
+00:29:17,859 --> 00:29:23,059
+It's an incredible summation that you just gave. And the social divide that you talk about is
+
+351
+00:29:23,059 --> 00:29:29,059
+horrific. And the consequences are horrific going forward. And coming back a bit micro here in
+
+352
+00:29:29,059 --> 00:29:31,200
+Melbourne in the, as you said, the most locked-down country in the world, it's the most locked-down
+
+353
+00:29:31,220 --> 00:29:37,079
+city in the world or close enough to it. In the final weeks of the final lockdown, a journalist
+
+354
+00:29:37,079 --> 00:29:41,640
+wrote a story. It was very hard to get information out on this, that there were 800 teenage girls
+
+355
+00:29:41,640 --> 00:29:47,680
+a week being diagnosed with eating disorders in this city alone. That was the perfect storm on
+
+356
+00:29:47,680 --> 00:29:54,420
+that one small. And really to get a consultation with a medical health professional, a mental
+
+357
+00:29:54,420 --> 00:29:58,240
+health professional in Melbourne, there's an 18-month waiting. There's just no possibility,
+
+358
+00:29:58,240 --> 00:30:01,140
+the inundation of the demand.
+
+359
+00:30:01,220 --> 00:30:06,920
+On that service, as you said, we spent the whole narrative around protecting from a virus where
+
+360
+00:30:06,920 --> 00:30:12,099
+the evidence was there that young people were close statistically enough to no risk at all. And
+
+361
+00:30:12,099 --> 00:30:18,160
+yet we've created this incredible lifetime of problems on the other side. It was the fascinating
+
+362
+00:30:18,160 --> 00:30:22,240
+part, Jane, this is why these conversations for me are so important. And your leadership is so
+
+363
+00:30:22,240 --> 00:30:27,799
+important that through that time, I was co-hosting a breakfast radio show here in Melbourne. We had
+
+364
+00:30:27,799 --> 00:30:31,200
+the premier on regularly to even ask a respectful question. And I think that's a really important
+
+365
+00:30:31,220 --> 00:30:35,900
+thing to do, to even ask you know, a respectful question about the merit of lockdown created a
+
+366
+00:30:35,900 --> 00:30:41,299
+fire storm of response. You know, in some corners you were considered treacherous for even what I
+
+367
+00:30:41,299 --> 00:30:47,220
+thought was respectfully asking a question. And so, my problem is how do we learn from this going
+
+368
+00:30:47,220 --> 00:30:51,940
+forward where it seems as though we just want to move on now. We don't want to talk about what's
+
+369
+00:30:51,940 --> 00:30:55,700
+happened to our young people. We don't want to hear what you just said because it's too painful
+
+370
+00:30:55,700 --> 00:31:00,500
+to acknowledge. But if you don't acknowledge it, how can we go forward and do anything about it?
+
+371
+00:31:00,500 --> 00:31:00,900
+And how do we start with that? So, this is really key. I think it's important that we start with
+
+372
+00:31:00,900 --> 00:31:00,940
+this. This is the time that we've come into this. We've got that moment and this is really key here.
+
+373
+00:31:00,940 --> 00:31:01,200
+It's the time to get out of this. It's the time to get out of this. And the point is that people are seeing
+
+374
+00:31:01,220 --> 00:31:08,079
+stop it again is my question to you. Yeah. I mean, I think it's not just that you need to have
+
+375
+00:31:08,079 --> 00:31:13,660
+some political reforms because you're absolutely right. You have to have this conversation. You
+
+376
+00:31:13,660 --> 00:31:19,380
+have to look squarely at ourselves in the eye and say, okay, what did we do wrong? In medicine,
+
+377
+00:31:19,380 --> 00:31:27,380
+we do this. There's a tradition of after a patient has died and a lot of doctors are involved to have
+
+378
+00:31:27,380 --> 00:31:31,039
+a conference called a morbidity and mortality conference where you, without pointing fingers,
+
+379
+00:31:31,640 --> 00:31:36,640
+discuss what went wrong, what went right, how to, and so with the aim of essentially
+
+380
+00:31:36,640 --> 00:31:41,819
+instructing everybody and learning from each other so that we don't make the same mistake again.
+
+381
+00:31:42,240 --> 00:31:46,200
+We need to have a society-wide morbidity and mortality conference around COVID because the
+
+382
+00:31:46,200 --> 00:31:52,319
+response was, I think in many ways, everyone would agree a failure. You know, the COVID spread,
+
+383
+00:31:52,319 --> 00:31:58,799
+we had all these lockdown harms. At the same time, I think it has to be more than just a
+
+384
+00:31:58,799 --> 00:32:01,200
+formal evaluation.
+
+385
+00:32:01,220 --> 00:32:09,000
+I think there has to be a cultural movement that repudiates lockdown so that lockdown becomes a
+
+386
+00:32:09,000 --> 00:32:16,140
+dirty word. The same way we talk about nuclear war or chemical weapons, I think lockdown belongs in
+
+387
+00:32:16,140 --> 00:32:26,599
+the same category because it is a violation on a mass scale of basic civil rights, basic promises
+
+388
+00:32:26,599 --> 00:32:30,779
+that we make as a society to the poorest members and most vulnerable members of society.
+
+389
+00:32:31,220 --> 00:32:39,640
+It's a rupture in civilization. And we undertook it on the basis of fear and panic. That's what
+
+390
+00:32:39,640 --> 00:32:44,059
+makes it so hard to talk about. It's why you couldn't ask your premier about it. It's why
+
+391
+00:32:44,059 --> 00:32:50,220
+this censorship regime came up. It's also the reason why, how Tony Fauci was able to get away
+
+392
+00:32:50,220 --> 00:32:56,119
+with this propaganda campaign because of the fear. And we have to come to terms with the fact
+
+393
+00:32:56,119 --> 00:33:00,480
+that there may be scary things that go on, but how do we as a society,
+
+394
+00:33:01,220 --> 00:33:06,819
+you're asking about leadership, it starts with that. It starts with a commitment by leadership
+
+395
+00:33:06,819 --> 00:33:14,819
+to never use those tactics again, to never create fear, to think about in the future when there is
+
+396
+00:33:14,819 --> 00:33:21,779
+fear, how should we respond courageously, intelligently, compassionately, so that we don't
+
+397
+00:33:22,299 --> 00:33:28,619
+jump to the nearest thing that we think will work, but forget about the poor, the vulnerable,
+
+398
+00:33:28,619 --> 00:33:31,200
+the working class, and all the harms that are caused.
+
+399
+00:33:31,220 --> 00:33:37,920
+By that resort to a strategy that seems fine when you're in a moral panic, but really isn't.
+
+400
+00:33:38,000 --> 00:33:42,160
+The other part to your world, Jay, you're an MD and a PhD in economics, both
+
+401
+00:33:42,160 --> 00:33:49,539
+gained at Stanford and clearly expertise in that. Well, I can't work out where the economists were
+
+402
+00:33:49,539 --> 00:33:55,059
+in all of this as someone that isn't my sphere either, but to literally print trillions of
+
+403
+00:33:55,059 --> 00:34:00,920
+dollars here in Australia, we closed down everyone's business and then had to print
+
+404
+00:34:01,220 --> 00:34:06,039
+unprecedented amount of debt to go into when the opportunity was there, as you said,
+
+405
+00:34:06,099 --> 00:34:11,159
+for focus projection, which would have fraction of the amount of money to look after the real
+
+406
+00:34:11,159 --> 00:34:15,480
+people who were vulnerable, the elderly, and we could have put so many resources into that
+
+407
+00:34:15,480 --> 00:34:21,500
+narrative and then let business continue and let people go back to school and all of those things.
+
+408
+00:34:21,659 --> 00:34:25,980
+I mean, was there any economists that you looked to and thought there's someone sounding the alarm
+
+409
+00:34:25,980 --> 00:34:31,119
+on how bad that was? There's a select few. I mean,
+
+410
+00:34:31,219 --> 00:34:34,860
+there's an excellent one in Australia, this woman named Gigi Foster, who was very brave,
+
+411
+00:34:34,940 --> 00:34:41,519
+actually spoke up to her great credit, although she got, I think, a lot of flack for it in
+
+412
+00:34:41,519 --> 00:34:47,519
+Australia. There were very few economists that spoke up about these harms early in the pandemic
+
+413
+00:34:47,519 --> 00:34:52,800
+and throughout, in fact, frankly, throughout the pandemic. Public health economics is not
+
+414
+00:34:52,800 --> 00:34:59,420
+only about the short term. In fact, policy that's aimed at the short term, if it has long-term costs
+
+415
+00:34:59,420 --> 00:35:01,199
+is bad policy.
+
+416
+00:35:01,219 --> 00:35:06,599
+The inflation that we're facing, some of the economic problems, the supply chain disruptions
+
+417
+00:35:06,599 --> 00:35:11,480
+and so on they're facing, those are lockdown harms, long-term lockdown harms. Economists
+
+418
+00:35:11,480 --> 00:35:16,300
+should have been sounding the alarm almost from the beginning, but it was really difficult.
+
+419
+00:35:16,719 --> 00:35:23,199
+I'll tell you, I just kept my medical doctor hat on and my epidemiologist hat on. I didn't have my
+
+420
+00:35:23,199 --> 00:35:29,500
+economist hat on in large part because it was really hard if you're an economist to speak up.
+
+421
+00:35:29,980 --> 00:35:31,199
+It took moral courage to do that.
+
+422
+00:35:31,219 --> 00:35:36,619
+It took moral courage to do so, I think, because you were going to be accused of valuing money over
+
+423
+00:35:36,619 --> 00:35:43,619
+lives. Even though what economists really care, I mean, like good economists, what we care about
+
+424
+00:35:43,619 --> 00:35:48,360
+is actually lives. We care about people not starving, people getting good medical care.
+
+425
+00:35:48,460 --> 00:35:55,079
+All of that requires a functioning economy. It's not dollars that were at stake. It wasn't dollars
+
+426
+00:35:55,079 --> 00:36:00,460
+versus lives. That was always not the right, that was a false dichotomy. It was always lives versus
+
+427
+00:36:00,460 --> 00:36:00,960
+lives.
+
+428
+00:36:01,219 --> 00:36:06,860
+Right? So if we lock down, a certain set of people benefit from it. It's the laptop class,
+
+429
+00:36:06,920 --> 00:36:11,559
+the people who don't actually get harmed by locking down. But that's only in rich countries,
+
+430
+00:36:11,659 --> 00:36:18,360
+maybe 20, 30% of economies, maybe 20% of the economy. The rest of the people, they have to
+
+431
+00:36:18,360 --> 00:36:23,659
+work. They get exposed to the virus. You can see this enormous rich-poor divide in who got infected.
+
+432
+00:36:25,380 --> 00:36:28,639
+So you're not protecting all lives. You're only protecting a certain class of life,
+
+433
+00:36:28,639 --> 00:36:30,780
+laptop class is what I call them.
+
+434
+00:36:31,219 --> 00:36:39,159
+At the same time, you have these long-term consequences where if you have economic growth hit,
+
+435
+00:36:39,400 --> 00:36:48,539
+if you have inflation, people are going to die from that. Economic displacement, especially people
+
+436
+00:36:48,539 --> 00:36:52,780
+on the margin, is the difference between life and death. We already talked about the 80 million
+
+437
+00:36:52,780 --> 00:36:59,500
+people who starved or had dire food insecurities as a consequence of these lockdowns. Hundreds of
+
+438
+00:36:59,500 --> 00:37:01,179
+millions of people were thrown into lockdowns. They were thrown into lockdowns. They were thrown into
+
+439
+00:37:01,179 --> 00:37:01,199
+lockdowns. Hundreds of millions of people were thrown into lockdowns. They were thrown into
+
+440
+00:37:01,219 --> 00:37:07,219
+poverty worldwide. Even in rich countries, inflation means poor people are going to have
+
+441
+00:37:07,219 --> 00:37:13,260
+trouble feeding their family, clothing their family. It's not true that we're all so rich
+
+442
+00:37:13,260 --> 00:37:20,119
+that we don't have to worry about these things. So it was always lives versus lives. It was always
+
+443
+00:37:20,119 --> 00:37:25,960
+lives versus lives. We as economists should have been brave enough to speak up, even when we were
+
+444
+00:37:25,960 --> 00:37:30,960
+being accused of being callous. When in fact, we're speaking for the poor,
+
+445
+00:37:30,960 --> 00:37:34,340
+the vulnerable, the working class, when we speak up and say, look, there are costs to this.
+
+446
+00:37:41,510 --> 00:37:46,590
+Yeah, the term excess deaths was one that was floated around the time, but you couldn't get
+
+447
+00:37:46,590 --> 00:37:51,909
+real information. As you said, it's lives versus lives. If you pull that lever and lock people down,
+
+448
+00:37:52,090 --> 00:37:56,710
+what is the consequence of lives on the other side? There wasn't a conversation. And I appreciate
+
+449
+00:37:56,710 --> 00:38:02,510
+having you. I want to move on in a moment to some questions around leadership. We're fascinated by
+
+450
+00:38:02,510 --> 00:38:06,150
+people like you who take great, courageous leadership stands and have done all your life.
+
+451
+00:38:06,150 --> 00:38:07,250
+Before I move on, I just want to say thank you so much for being here. I'm so happy to be here.
+
+452
+00:38:07,250 --> 00:38:13,769
+I just want to ask you, this may be a radical question in some ways, but have we demonized
+
+453
+00:38:13,769 --> 00:38:19,809
+viruses too much? I saw a TED talk the other day. Bill Gates is talking about his hope and
+
+454
+00:38:19,809 --> 00:38:25,309
+possibility to eradicate the flu and to live in a community, in a world where we don't have the flu.
+
+455
+00:38:25,469 --> 00:38:31,010
+I mean, again, no medical background, no scientific background, but to me, is that even a goal worth
+
+456
+00:38:31,010 --> 00:38:36,210
+chasing? I'm assuming we're carrying hundreds of viruses at a time, and that's part of how we
+
+457
+00:38:36,210 --> 00:38:37,230
+evolve and grow. I'm assuming that's part of how we evolve and grow. I'm assuming that's part of how
+
+458
+00:38:37,250 --> 00:38:40,889
+we grow. Do we need to recalibrate that conversation? And does that even make
+
+459
+00:38:40,889 --> 00:38:45,889
+sense, the pursuit of not wanting to have a flu season? Well, I mean, I don't think it's not
+
+460
+00:38:45,889 --> 00:38:52,269
+possible. I don't know any way technically to do it because flu is carried by humans and also other
+
+461
+00:38:52,269 --> 00:38:58,949
+animals. There's a very few set of viruses and pathogens. We have the technology or even the
+
+462
+00:38:58,949 --> 00:39:03,989
+possibility of eradicating. Smallpox is one of them that we actually touched the huge success,
+
+463
+00:39:03,989 --> 00:39:06,989
+and that was worth doing because it was a deadly disease.
+
+464
+00:39:07,250 --> 00:39:15,809
+If you got it, it was spread very easily. It probably, in 1492, when it spread to the new
+
+465
+00:39:15,809 --> 00:39:24,090
+world, it killed off 95% of the indigenous population living there. So it has this long
+
+466
+00:39:24,090 --> 00:39:29,050
+history, but it only spread from humans to humans. And we had a fantastic vaccine, and still it took
+
+467
+00:39:29,050 --> 00:39:35,789
+almost a century to eradicate it, a concerted effort and work. Here we have viruses that are
+
+468
+00:39:35,789 --> 00:39:37,230
+spread very easily. We have a lot of viruses that are spread very easily. We have a lot of viruses
+
+469
+00:39:37,250 --> 00:39:43,909
+that have a consequence that's deadly for some group of people, but not for others. It spreads
+
+470
+00:39:43,909 --> 00:39:50,090
+into animal vectors. You have to consider the harms and the benefits, not just simply say,
+
+471
+00:39:50,190 --> 00:39:56,230
+okay, it would be nice to do this. I think a project like Let's Eradicate the Flu or Eradicate
+
+472
+00:39:56,230 --> 00:40:03,230
+COVID would decimate civilization if we actually undertook it the way we did. Because smallpox,
+
+473
+00:40:03,630 --> 00:40:07,050
+it's a very different thing. You have a vaccine that actually stops transmission,
+
+474
+00:40:07,250 --> 00:40:14,309
+we don't have something like that for the flu or for COVID. It spreads to animals. Are you willing
+
+475
+00:40:14,309 --> 00:40:21,369
+to let your pets kill your pets if one of your pets gets COVID? I mean, that's a decision China
+
+476
+00:40:21,369 --> 00:40:27,829
+has made. Are we willing to do that? I mean, are you willing to separate newborns from moms?
+
+477
+00:40:28,530 --> 00:40:34,389
+You're going to have to do that if one of them has COVID. Are you willing to see vast numbers
+
+478
+00:40:34,389 --> 00:40:37,230
+of poor people starve because of the virus? I think it's a very different thing. I think it's a
+
+479
+00:40:37,230 --> 00:40:37,289
+very different thing. I think it's a very different thing. I think it's a very different thing.
+
+480
+00:40:37,289 --> 00:40:41,909
+The kinds of lockdowns you're doing, who's going to keep society going? I mean, those are the kind
+
+481
+00:40:41,909 --> 00:40:45,889
+of questions you end up, when I think about, when I hear, let's try to eradicate the flu.
+
+482
+00:40:46,389 --> 00:40:49,590
+And Bill Gates, maybe what he thinks about is, oh, well, we have this new technology,
+
+483
+00:40:49,710 --> 00:40:59,610
+let's use it. But it's not so simple. Society is very complicated. And I think even as a goal,
+
+484
+00:40:59,969 --> 00:41:06,750
+it's a funny goal. We have a global society. We share germs with each other. That's just part of
+
+485
+00:41:07,230 --> 00:41:12,429
+it. In some ways, it's bad, because you get exposed to germs that could kill you. But in
+
+486
+00:41:12,429 --> 00:41:19,550
+other ways, that creates a less immune, naive population around the world. I can come to
+
+487
+00:41:19,550 --> 00:41:26,190
+Australia, you can come to the United States, and there's no real immunological danger, not truly
+
+488
+00:41:26,190 --> 00:41:31,489
+inherently. We can exchange ideas with each other in person, and we all benefit from it.
+
+489
+00:41:32,650 --> 00:41:36,670
+There's this, like, Sunetra Gupta has this idea that, like, because we have globalization,
+
+490
+00:41:37,230 --> 00:41:43,070
+we become more healthy, even by, even as we expose each other to germs, we teach each other
+
+491
+00:41:43,070 --> 00:41:48,690
+about our immune systems, about the germs that we saw, so that when we don't, when we see it when
+
+492
+00:41:48,690 --> 00:41:55,050
+we're younger, and we don't overreact to it when we're older, we don't have the kind of
+
+493
+00:41:55,050 --> 00:42:00,530
+immunological, naive population that is vulnerable to Christopher Columbus coming over and decimating
+
+494
+00:42:00,530 --> 00:42:06,650
+95% of the population of a vast continent, because of globalization. Do we really want to go backward
+
+495
+00:42:06,650 --> 00:42:07,090
+on that?
+
+496
+00:42:08,070 --> 00:42:11,989
+It's a complicated question. I mean, there are definitely diseases I would rather that humans
+
+497
+00:42:11,989 --> 00:42:17,329
+never, never, never experienced, for sure. Polio, for instance, being one of them. We actually do
+
+498
+00:42:17,329 --> 00:42:21,550
+have the technology potentially to eradicate it. But I don't think that that's true for the flu,
+
+499
+00:42:21,590 --> 00:42:25,510
+and I don't think that's true for COVID. It's a great answer, because, as I said,
+
+500
+00:42:25,769 --> 00:42:31,710
+it plays into that fear narrative, doesn't it? That, you know, a society of germophobes and,
+
+501
+00:42:31,710 --> 00:42:36,630
+you know, not wanting to interact with each other seems a big consequence for the annual flu season,
+
+502
+00:42:36,630 --> 00:42:37,210
+which we know,
+
+503
+00:42:37,230 --> 00:42:40,909
+people lose their lives. And you can't be flippant about that, because you always get
+
+504
+00:42:40,909 --> 00:42:45,809
+then accused of being cold-hearted. But there is a logic to your conversation, if you take that
+
+505
+00:42:45,809 --> 00:42:51,889
+further. We're seeing great leaders, Jay, of a series of dimensions of leadership we think are
+
+506
+00:42:51,889 --> 00:42:57,070
+common. I'd love to ask you about them. So please expand. We think all people who make great leaders
+
+507
+00:42:57,070 --> 00:43:01,829
+in the 21st century, like you, have a sense of self-leadership, first and foremost, before
+
+508
+00:43:01,829 --> 00:43:04,789
+they lead others. What does self-leadership mean to you?
+
+509
+00:43:05,070 --> 00:43:07,820
+Well, I mean,
+
+510
+00:43:08,539 --> 00:43:15,099
+when I chose this profession, I invested my time and my energy into it for a reason. It wasn't
+
+511
+00:43:15,099 --> 00:43:20,219
+for self-agreement. I mean, it's fun to have a Stanford professorship, but that's really not
+
+512
+00:43:20,219 --> 00:43:26,300
+the purpose of it. Even if I was not very successful in publishing or whatever, I would
+
+513
+00:43:26,300 --> 00:43:31,659
+still be honored to be able to be in this profession. It means something to me. I chose it
+
+514
+00:43:31,659 --> 00:43:37,340
+for a reason. And if I'm not able to do it,
+
+515
+00:43:37,340 --> 00:43:44,380
+to the best of my ability, then what's my purpose? During the pandemic, it would have been very easy
+
+516
+00:43:44,380 --> 00:43:53,440
+to get grants just to forecast the cases. A lot of people did that. I could have just stayed silent
+
+517
+00:43:53,440 --> 00:43:58,039
+about the more controversial things, but it would have felt to me like a violation of my own
+
+518
+00:43:58,039 --> 00:44:05,860
+integrity. I didn't get in this business in order just to advance my career. I got in this business
+
+519
+00:44:05,860 --> 00:44:07,219
+because... I'll tell you, on my...
+
+520
+00:44:07,340 --> 00:44:14,019
+On my medical school application, I wrote about diarrhea in children. Turns out it's one of the
+
+521
+00:44:14,019 --> 00:44:20,579
+most common causes of childhood death. And you can prevent it or treat it with a very simple salt
+
+522
+00:44:20,579 --> 00:44:26,420
+solution. It costs pennies, oral rehydration. And when I first learned about this when I was
+
+523
+00:44:26,420 --> 00:44:32,579
+an undergrad, I was shocked that there were so many kids dying from want of a 3-cent salt solution.
+
+524
+00:44:34,579 --> 00:44:37,219
+I mean, so... I mean, to me,
+
+525
+00:44:37,340 --> 00:44:43,659
+that's the purpose of any career. How do I make the lives of other people better? And
+
+526
+00:44:43,659 --> 00:44:49,380
+I don't... I just couldn't... I couldn't... I mean, I'd lost a lot of friends over this. I wish I
+
+527
+00:44:49,380 --> 00:44:55,179
+hadn't, but it... over my stance. And I wish I could get them back, or at least reconcile in
+
+528
+00:44:55,179 --> 00:44:59,800
+some way, but I couldn't stay silent. Jay, so I can hear your values and your
+
+529
+00:44:59,800 --> 00:45:05,059
+purpose just emanating in all your words. If I pick up on that for a moment, it was friendship
+
+530
+00:45:05,059 --> 00:45:06,900
+changing for some of your colleagues. They couldn't...
+
+531
+00:45:07,340 --> 00:45:11,739
+align, or didn't want to have the conversation. Was that... was that a cost of your stance?
+
+532
+00:45:12,380 --> 00:45:19,119
+It was. So I have... I teach at Stanford University. 100 of my colleagues circulated
+
+533
+00:45:19,119 --> 00:45:27,980
+a secret petition in... about a year ago this time, where they asked the president of the
+
+534
+00:45:27,980 --> 00:45:35,719
+university to censor me. Because I had been in a public roundtable with the governor of Florida,
+
+535
+00:45:35,719 --> 00:45:37,139
+Governor DeSantis of Florida.
+
+536
+00:45:37,340 --> 00:45:53,340
+And he had asked me whether it was a wise idea for children to be masked, children as young as two years old to be masked. And I know the literature on this. There's no randomized evidence that that serves any purpose in reducing the spread of the disease.
+
+537
+00:45:53,340 --> 00:46:14,300
+And the governor of Florida is asking me this. I'm a scientific advisor of his. It's televised. And just so everyone in Florida can see the advice the governor is getting. And so I told him what I had to say, which is that even though all the public health authorities are saying mask, mask, mask, even children as young as two, I knew that that was not normal.
+
+538
+00:46:15,460 --> 00:46:23,300
+First, there's no scientific evidence for it in terms of like high quality randomized studies, none. And that the World Health Organization has said, no.
+
+539
+00:46:23,340 --> 00:46:36,179
+Don't mask children under the age of six. So that's what I told the governor. Some of my colleagues heard this and thought that I was violating some public health norm by telling the public the fact, the scientific fact.
+
+540
+00:46:36,460 --> 00:46:43,440
+And they circulated a petition. And I looked at the list of signees of that petition. This petition asked the president of the university to censor me.
+
+541
+00:46:44,179 --> 00:46:52,860
+And I looked on the list, included some friends of mine, really hurt to see. Friends that haven't talked to me in two years.
+
+542
+00:46:53,099 --> 00:46:53,280
+I just.
+
+543
+00:46:53,340 --> 00:46:59,260
+It's just been, it's been heartbreaking. But on the other hand, I have to say, I shouldn't, people shouldn't feel too bad for me.
+
+544
+00:46:59,260 --> 00:47:06,320
+I now have made a tremendous number of really, really amazing, I've met a lot of amazing people, made some deep friendships.
+
+545
+00:47:06,420 --> 00:47:12,820
+And I feel like I've been through a war. And, you know, when you're in a war, the people you're in the trenches with become friends for life.
+
+546
+00:47:12,940 --> 00:47:15,360
+And I've made some friends like that through the pandemic.
+
+547
+00:47:16,119 --> 00:47:22,139
+Thanks for sharing that. It's, you know, you can't imagine, you know, what that's like when you've contributed like you have.
+
+548
+00:47:22,139 --> 00:47:23,179
+But as you said, the.
+
+549
+00:47:23,340 --> 00:47:29,599
+The glass on half full on the other side, I'm sure there's lots of, as you said, connections that have happened as a result of it.
+
+550
+00:47:30,000 --> 00:47:34,840
+We see leaders are really conscious of how they positively impact others in their environment on a daily basis.
+
+551
+00:47:34,980 --> 00:47:38,699
+I mean, the Great Barrington Declaration was doing that on a global scale.
+
+552
+00:47:39,059 --> 00:47:42,880
+You can hear in your language that that's something you're conscious about, your sense of purpose.
+
+553
+00:47:43,219 --> 00:47:50,000
+Have you got any examples, you know, just day to day, Jay, around what you try and do to impact others on a positive, in a positive way?
+
+554
+00:47:51,099 --> 00:47:53,320
+I, well, this has been hard during the pandemic.
+
+555
+00:47:53,340 --> 00:47:54,420
+Because it's been so isolating.
+
+556
+00:47:54,639 --> 00:47:55,739
+But I love students.
+
+557
+00:47:56,519 --> 00:47:58,079
+I love talking to students.
+
+558
+00:47:58,320 --> 00:48:04,079
+I love, you know, actually, frankly, what I really like is asking them, why are they making the decisions they're making?
+
+559
+00:48:04,900 --> 00:48:08,619
+I like to push them to, like, think in that way.
+
+560
+00:48:08,659 --> 00:48:12,800
+Just because what it does for them is then they're making choices that are better informed.
+
+561
+00:48:14,539 --> 00:48:18,219
+And to me, I'll tell you, during the pandemic, I missed that.
+
+562
+00:48:18,500 --> 00:48:21,019
+Because a lot of, there was a lot of disconnection around that.
+
+563
+00:48:21,019 --> 00:48:22,780
+But it was replaced by.
+
+564
+00:48:23,340 --> 00:48:31,920
+I mean, I can't count the number of people who have sent me kind emails of the Great Barrington Declaration when they see me on a podcast like this or a TV show, whatever.
+
+565
+00:48:32,860 --> 00:48:34,019
+People I've never met.
+
+566
+00:48:34,440 --> 00:48:36,199
+It's a really unique experience for me.
+
+567
+00:48:36,219 --> 00:48:40,820
+Because before the pandemic, I'd never written an op-ed, never been on TV, never really done a podcast.
+
+568
+00:48:42,199 --> 00:48:48,739
+And mostly I would interact with my students, who I loved, and other academics by writing academic papers.
+
+569
+00:48:49,159 --> 00:48:53,199
+To have the opportunity to touch people and reach people on such.
+
+570
+00:48:53,340 --> 00:48:58,500
+Global scale is really an opera, is a, it's an absolute honor.
+
+571
+00:48:58,960 --> 00:49:07,800
+And I've been mindful to try to use that as best I can to tell people what the evidence is from what I see.
+
+572
+00:49:07,800 --> 00:49:12,179
+And also to convey to people when I don't know what the evidence is, when we don't know.
+
+573
+00:49:12,659 --> 00:49:16,559
+I think a lot of times in a position like this, you get tempted to overstate.
+
+574
+00:49:16,980 --> 00:49:20,900
+And I've tried very hard not to do that, to tell people, yeah, here's what we know.
+
+575
+00:49:20,900 --> 00:49:21,719
+Here's what we don't know.
+
+576
+00:49:22,519 --> 00:49:22,920
+Brilliant.
+
+577
+00:49:23,340 --> 00:49:29,039
+It's a here that, uh, we talk about the leaders really conscious of how they create and share their vision.
+
+578
+00:49:29,099 --> 00:49:37,260
+And again, you know what you've done in recent times to get a million people around the world and 60,000, uh, fellow medical professionals.
+
+579
+00:49:37,260 --> 00:49:44,099
+I know that there were a lot that were scared off as well because of, uh, of what happened and the threats that were made.
+
+580
+00:49:44,099 --> 00:49:50,519
+I mean, can you tell us sort of the, what you went through and trying to get that vision out there and how you've gone about creating and sharing it?
+
+581
+00:49:51,960 --> 00:49:53,280
+Well, I've had to learn some new.
+
+582
+00:49:53,280 --> 00:49:53,820
+Skill set.
+
+583
+00:49:53,820 --> 00:49:58,079
+So like I was, I was love teaching, um, but I've never been on TV before.
+
+584
+00:49:58,079 --> 00:50:05,780
+I'd never written an op-ed before I tended to write before the pandemic, I would write, you know, 5,000 to 10,000 word densely argued with lots of figures.
+
+585
+00:50:05,780 --> 00:50:12,280
+And then, and then, and then I'd sit there arguing with referees who would like talk about the details and I had great fun doing it.
+
+586
+00:50:12,460 --> 00:50:13,579
+It was really enjoyable.
+
+587
+00:50:14,099 --> 00:50:23,039
+Um, I've learned, I've learned that you have to, uh, how to take arguments like that, get to the essence of it and convey it in a way that everybody can understand it.
+
+588
+00:50:23,280 --> 00:50:31,139
+Um, I've had to do it in context of both, both writing, uh, in, for, for very, very large audiences and newspapers and other places.
+
+589
+00:50:31,579 --> 00:50:39,599
+Um, but also in the context of TV, like I've never had a three, try to get a professor to do a three minute TV hit.
+
+590
+00:50:40,320 --> 00:50:43,619
+It's, it's, uh, it's, I, I had to learn by fire.
+
+591
+00:50:43,619 --> 00:50:50,920
+Like the first time I did a three minute hit, I barely cleared my throat and the, you know, all your time's up.
+
+592
+00:50:50,940 --> 00:50:52,559
+I'm like, what, wait, wait, we just started.
+
+593
+00:50:53,280 --> 00:50:54,719
+So I've gotten better at that.
+
+594
+00:50:54,940 --> 00:50:57,679
+I think, uh, still not great at that, I think, but it's been, it's been interesting.
+
+595
+00:50:57,940 --> 00:51:07,960
+Um, but, but I found is that reaches people, it reaches people that you wouldn't otherwise reach and important people to reach, uh, regular people that, so you can help them make decisions in their own life.
+
+596
+00:51:08,340 --> 00:51:11,139
+Um, it's a powerful thing to be able to be able to do.
+
+597
+00:51:11,280 --> 00:51:14,699
+Uh, uh, I mean, you already know it from your, your experience firsthand.
+
+598
+00:51:14,699 --> 00:51:17,659
+I, I had to learn it, uh, sort of the hard way during the pandemic.
+
+599
+00:51:17,659 --> 00:51:21,380
+And I, it's just, it's been, uh, an honor to be able to be able to do that or learn how to do that.
+
+600
+00:51:21,579 --> 00:51:23,179
+Soundbite world of mainstream.
+
+601
+00:51:23,280 --> 00:51:24,739
+I'll come back to that.
+
+602
+00:51:24,820 --> 00:51:29,340
+Uh, curiosity is a word that we see leaders, uh, attribute to them a lot.
+
+603
+00:51:29,400 --> 00:51:31,900
+They're curious in their day to day world.
+
+604
+00:51:32,159 --> 00:51:34,639
+I mean, I'm sure that resonates with you.
+
+605
+00:51:34,639 --> 00:51:36,559
+How does curiosity show up for you?
+
+606
+00:51:36,559 --> 00:51:40,139
+And, and then people approach that through learning and development through their curiosity.
+
+607
+00:51:40,139 --> 00:51:41,619
+How does that word resonate with you?
+
+608
+00:51:42,320 --> 00:51:47,440
+Oh, I mean, I think for me, uh, well, I mean, I, I, I always thought of it as like a, as a, as a negative in my career.
+
+609
+00:51:47,440 --> 00:51:49,360
+I can't seem to stay on one topic.
+
+610
+00:51:49,940 --> 00:51:53,119
+Um, and in my career, I was like, I was got, I got normally.
+
+611
+00:51:53,280 --> 00:52:03,900
+Like for scientists, if you pick one topic and become an expert or you put all your worth into that one topic, that's, that tends to lead to the biggest rewards because you publish in that topic.
+
+612
+00:52:03,900 --> 00:52:05,400
+Every, you grow your network in that topic.
+
+613
+00:52:05,400 --> 00:52:09,019
+And then, and then you're like, uh, you're, you know, the world expert for my career.
+
+614
+00:52:09,139 --> 00:52:14,780
+All I, I would, I would very easily get distracted with other, like a lot of an MD in economic.
+
+615
+00:52:14,780 --> 00:52:16,480
+I have an MD and a PhD in economics.
+
+616
+00:52:16,659 --> 00:52:18,840
+It doesn't seem like a really, it seems like strange.
+
+617
+00:52:18,980 --> 00:52:20,480
+I'm just curious about both of them.
+
+618
+00:52:20,780 --> 00:52:23,239
+Uh, why am I writing my infectious disease?
+
+619
+00:52:23,280 --> 00:52:25,019
+I've written about infectious disease for 20 years.
+
+620
+00:52:25,639 --> 00:52:27,400
+I just happened to be interested in it.
+
+621
+00:52:27,579 --> 00:52:36,219
+Uh, I, you know, I just, uh, there are like topics through my career and my life where I just, I just, I just got, I'm like, okay, this is, this sounds like a fascinating topic.
+
+622
+00:52:36,219 --> 00:52:37,599
+I had some insight into it.
+
+623
+00:52:37,619 --> 00:52:39,559
+I'd write about it and I'd go to the next topic.
+
+624
+00:52:39,559 --> 00:52:45,659
+And I would always wonder, like, why is it that I can't stay on one thing during the pandemic?
+
+625
+00:52:45,659 --> 00:52:50,900
+What I found was that I could tap into all of those things that seemed like one offs to me.
+
+626
+00:52:50,960 --> 00:52:52,559
+Like we're just, you know, little birdwalk.
+
+627
+00:52:53,280 --> 00:53:02,719
+And I was like, okay, well, I've learned about, I wrote about HIV in Africa, uh, wrote a couple of papers in that, um, turned out it was really useful.
+
+628
+00:53:02,719 --> 00:53:07,119
+So I, cause I, cause I learned a lot about what life in Africa was like when I was writing about that.
+
+629
+00:53:07,460 --> 00:53:18,840
+Um, I, you know, I just, they're, they're like parts of my career that where I, I never understood why I worked on them other than curiosity that turned out during the pandemic to be really, really important to my thinking.
+
+630
+00:53:18,840 --> 00:53:20,360
+Um, I don't know.
+
+631
+00:53:20,360 --> 00:53:23,139
+I think that's the main thing about curiosity is it allows you.
+
+632
+00:53:23,280 --> 00:53:27,500
+Even when you don't know exactly why it, it enriches you.
+
+633
+00:53:27,539 --> 00:53:31,420
+It makes you, makes you prepared for things you don't even realize you're preparing for.
+
+634
+00:53:31,780 --> 00:53:35,219
+Uh, it's an amazing, uh, bit of evidence of how it showed up for you, isn't it?
+
+635
+00:53:35,219 --> 00:53:42,400
+To have the understanding, so many diverse areas and to have, uh, studied at the level that you had to bring that together.
+
+636
+00:53:42,400 --> 00:53:47,300
+It's, it's a great example of, of how curiosity works and then serves the greater community.
+
+637
+00:53:47,300 --> 00:53:49,880
+Uh, communicating with clarity is a dimension of leadership.
+
+638
+00:53:49,880 --> 00:53:51,019
+We talk about a lot.
+
+639
+00:53:51,079 --> 00:53:53,260
+And you mentioned having to, you know, from 10,000.
+
+640
+00:53:53,280 --> 00:54:00,940
+Word pieces and defending them with, uh, with other professors to, to try to get, you know, three minutes and make an impact on that.
+
+641
+00:54:00,940 --> 00:54:04,460
+I mean, how, how have you gone about sort of your communication strategy?
+
+642
+00:54:05,980 --> 00:54:08,860
+Uh, it's, it's been a, it's been trial by fire actually.
+
+643
+00:54:08,860 --> 00:54:14,739
+Cause I I've, I've been on TV quite a bit, uh, which has been, um, I mean, like I said, an amazing, amazing privilege.
+
+644
+00:54:15,039 --> 00:54:23,280
+Uh, I think the, the key thing is I have to, I, I realized before it was so easy to get lost in the details that you probably.
+
+645
+00:54:23,280 --> 00:54:25,559
+You've heard it even in the earlier answers to this question.
+
+646
+00:54:25,559 --> 00:54:46,739
+Um, uh, but when you're doing this kind of large, wide scale communication, you have to find the essential argument and make it in a way so that everyone can understand it while still, I think, holding on to the core bit of it, not being dishonest in any way, not, not being at all trying to show people up.
+
+647
+00:54:46,739 --> 00:54:50,659
+Like I'm, I know, well, it's something I don't know, being absolutely honest.
+
+648
+00:54:50,659 --> 00:54:53,239
+Um, so finding the core.
+
+649
+00:54:53,280 --> 00:54:59,159
+A bit, being honest in the delivery of it, and then being clear around both of those, both of the, like what, you know, and don't know.
+
+650
+00:54:59,159 --> 00:55:02,780
+I think that's, that's what I've learned, uh, has been really important during this.
+
+651
+00:55:02,780 --> 00:55:12,000
+I, I don't, I don't really, I frankly, I've kept, I kept thinking people are gonna stop inviting me for, for a podcast and TV and all that, that that'll, that'll, that'll be proof.
+
+652
+00:55:12,000 --> 00:55:16,800
+The pandemic's over and that can go back to being, uh, being like a quiet professor again.
+
+653
+00:55:17,159 --> 00:55:20,400
+Um, I don't, I don't, I'm not in this to, to gain fame.
+
+654
+00:55:20,400 --> 00:55:23,219
+I don't, I, I think that's part of why I've, I've been able to.
+
+655
+00:55:23,280 --> 00:55:25,659
+To maintain my balance around this.
+
+656
+00:55:25,659 --> 00:55:30,599
+I, I, I'm happy when someone invites me to, to do a podcast or to, to be on TV or whatever.
+
+657
+00:55:30,599 --> 00:55:32,219
+It's an opportunity to reach an audience.
+
+658
+00:55:32,219 --> 00:55:41,980
+I think is really important for me to reach, but it's not about my, you know, making money or I just, I take, I've taken no money at all for any of my TV appearances or podcasts or whatever.
+
+659
+00:55:41,980 --> 00:55:52,420
+I just, this is, this is about my working out my vocation, which for whatever reason happens to coincide with this, like some expertise about this global pandemic.
+
+660
+00:55:52,760 --> 00:55:52,980
+And
+
+661
+00:55:52,980 --> 00:55:53,239
+Jed,
+
+662
+00:55:53,239 --> 00:56:12,679
+it occurred to me that for all of the people that attacked, uh, you and, and, uh, focus protection, that the idea to debate that, you know, if you really were so sound in, in your wisdom and, and, and that's the thing that's, you know, someone like Tony Fauci, five decades in the job making really big statements.
+
+663
+00:56:12,679 --> 00:56:17,099
+I mean, I'm sure you'd love to debate him around a panel.
+
+664
+00:56:17,199 --> 00:56:21,900
+I'm sure you've got colleagues and other experts that, you know, that to me struck me, someone in mainstream media.
+
+665
+00:56:22,639 --> 00:56:23,179
+Why don't,
+
+666
+00:56:23,239 --> 00:56:25,539
+you put these people together and hear the debate?
+
+667
+00:56:25,639 --> 00:56:27,179
+Let's, let's, let's get that out there.
+
+668
+00:56:27,219 --> 00:56:29,380
+I mean, it was that offer ever made.
+
+669
+00:56:29,460 --> 00:56:31,500
+Did you, would you do that if it was there?
+
+670
+00:56:31,920 --> 00:56:33,340
+I would jump at the chance.
+
+671
+00:56:33,400 --> 00:56:35,699
+Uh, I've had the opportunity to debate a couple of folks.
+
+672
+00:56:35,699 --> 00:56:41,500
+Uh, uh, like there was a gentleman from Harvard, uh, Mark Lipsitch and some others, but never Tony Fauci.
+
+673
+00:56:41,820 --> 00:56:47,480
+Um, it's been hard actually within my own university to get people on the other side to debate me or discuss, discuss it with me.
+
+674
+00:56:47,559 --> 00:56:50,480
+I think the problem was this propaganda we discussed earlier.
+
+675
+00:56:50,900 --> 00:56:53,119
+Uh, the idea was that, uh,
+
+676
+00:56:53,239 --> 00:56:58,619
+that I think Tony Fauci had was that there needed to be like this illusion of consensus.
+
+677
+00:56:58,619 --> 00:57:09,079
+If you allow there to be a debate between reasonable people where there's a disagreement between reasonable people, you can't maintain this illusion of consensus.
+
+678
+00:57:09,679 --> 00:57:13,619
+So the strategy has been to de-platform anyone who disagreed.
+
+679
+00:57:14,500 --> 00:57:16,420
+That was the purpose of the propaganda campaign.
+
+680
+00:57:17,099 --> 00:57:22,699
+Um, and I think that that's why you haven't seen those kinds of reasonable disagreements, uh, reasonable debates.
+
+681
+00:57:22,699 --> 00:57:22,940
+Even,
+
+682
+00:57:22,940 --> 00:57:23,599
+even as you,
+
+683
+00:57:23,599 --> 00:57:24,500
+as you said earlier,
+
+684
+00:57:24,500 --> 00:57:24,820
+when you,
+
+685
+00:57:24,820 --> 00:57:25,320
+you couldn't,
+
+686
+00:57:25,320 --> 00:57:27,079
+you couldn't even ask your,
+
+687
+00:57:27,079 --> 00:57:27,440
+your,
+
+688
+00:57:27,440 --> 00:57:31,400
+you have a very prominent role in trying to be where you have access to a prime minister.
+
+689
+00:57:31,820 --> 00:57:32,539
+You even,
+
+690
+00:57:32,539 --> 00:57:34,179
+you got trouble asking that question,
+
+691
+00:57:34,179 --> 00:57:34,460
+right?
+
+692
+00:57:34,460 --> 00:57:39,800
+Because they couldn't be this illusion that there was a legitimate question because if that,
+
+693
+00:57:39,800 --> 00:57:40,880
+if the legitimate question,
+
+694
+00:57:40,880 --> 00:57:41,780
+well then now you have to,
+
+695
+00:57:41,840 --> 00:57:44,300
+now you have to justify why you're doing these lockdowns.
+
+696
+00:57:44,599 --> 00:57:46,099
+You have to talk about the harms.
+
+697
+00:57:46,400 --> 00:57:48,699
+What if people don't agree with them all of a sudden?
+
+698
+00:57:48,699 --> 00:57:49,719
+They don't then comply.
+
+699
+00:57:50,000 --> 00:57:52,000
+What if those protests actually happen anyways?
+
+700
+00:57:52,000 --> 00:57:52,840
+Um,
+
+701
+00:57:52,840 --> 00:57:53,659
+I think,
+
+702
+00:57:53,659 --> 00:57:54,159
+uh,
+
+703
+00:57:54,159 --> 00:58:00,099
+it was a very illiberal kind of approach to communication by governments during the pandemic,
+
+704
+00:58:00,400 --> 00:58:04,360
+especially scientific bureaucracies during the pandemic and public health bureaucrats during the pandemic.
+
+705
+00:58:04,360 --> 00:58:07,360
+The idea was to eliminate the possibility of disagreement,
+
+706
+00:58:07,760 --> 00:58:08,059
+uh,
+
+707
+00:58:08,059 --> 00:58:12,139
+because they were so right that they couldn't possibly be anyone that disagreed with them reasonable.
+
+708
+00:58:12,500 --> 00:58:12,800
+That was,
+
+709
+00:58:12,800 --> 00:58:13,059
+that,
+
+710
+00:58:13,059 --> 00:58:14,000
+that was a problem.
+
+711
+00:58:14,059 --> 00:58:15,559
+We can't never let that happen again.
+
+712
+00:58:15,840 --> 00:58:16,099
+And Jay,
+
+713
+00:58:16,099 --> 00:58:17,039
+it's a great lead into that.
+
+714
+00:58:17,039 --> 00:58:18,840
+The final dimension I wanted to ask you about,
+
+715
+00:58:18,840 --> 00:58:21,639
+which we see leaders are really passionate more than ever about,
+
+716
+00:58:21,639 --> 00:58:21,760
+um,
+
+717
+00:58:21,760 --> 00:58:22,760
+collaboration.
+
+718
+00:58:22,760 --> 00:58:27,300
+And what happened was the reverse of that key decision makers shrunk cabinet.
+
+719
+00:58:27,300 --> 00:58:35,820
+They shrunk their advisors down to the barest minimum to avoid collaboration or didn't seek out experts like you to,
+
+720
+00:58:35,820 --> 00:58:38,360
+to collaborate with other public health officials.
+
+721
+00:58:38,360 --> 00:58:38,619
+They,
+
+722
+00:58:39,059 --> 00:58:40,059
+they went the other way.
+
+723
+00:58:40,059 --> 00:58:40,260
+I mean,
+
+724
+00:58:40,260 --> 00:58:42,719
+how important is collaboration been for you and your work?
+
+725
+00:58:42,719 --> 00:58:44,619
+And can you give me some examples of how you collaborate?
+
+726
+00:58:45,559 --> 00:58:45,760
+Uh,
+
+727
+00:58:45,760 --> 00:58:46,019
+so,
+
+728
+00:58:46,019 --> 00:58:46,300
+I mean,
+
+729
+00:58:46,300 --> 00:58:47,860
+with it in science,
+
+730
+00:58:48,059 --> 00:58:48,400
+uh,
+
+731
+00:58:48,400 --> 00:58:50,599
+it's the era of like someone,
+
+732
+00:58:50,599 --> 00:58:51,599
+some lone genius,
+
+733
+00:58:51,599 --> 00:58:56,599
+working alone producing a revolution is likely over.
+
+734
+00:58:57,059 --> 00:58:58,260
+It's too complicated.
+
+735
+00:58:58,260 --> 00:59:02,199
+There's too many fields where the technical expertise and demands are too high.
+
+736
+00:59:02,659 --> 00:59:06,760
+Every single project of note that I've ever worked on every single project,
+
+737
+00:59:06,760 --> 00:59:11,059
+every single scientific events that I've seen in my scientific career has involved,
+
+738
+00:59:11,460 --> 00:59:11,960
+uh,
+
+739
+00:59:11,960 --> 00:59:12,559
+uh,
+
+740
+00:59:12,559 --> 00:59:16,239
+deep collaboration with people who had skills that I didn't have.
+
+741
+00:59:16,739 --> 00:59:18,539
+And I sought them out because they were smarter than me.
+
+742
+00:59:18,539 --> 00:59:21,400
+And I will always want to work with those people who have something to teach.
+
+743
+00:59:21,400 --> 00:59:21,900
+Me.
+
+744
+00:59:21,900 --> 00:59:22,400
+Um,
+
+745
+00:59:22,400 --> 00:59:24,159
+and that's how science works.
+
+746
+00:59:24,159 --> 00:59:25,460
+That's also how public health works.
+
+747
+00:59:25,460 --> 00:59:27,460
+The society is too complicated.
+
+748
+00:59:27,460 --> 00:59:29,400
+These diseases are too complicated.
+
+749
+00:59:29,400 --> 00:59:37,860
+You have to have people who know things that you don't know and be open to the fact that you don't know them in order to learn from them in order to make good decisions.
+
+750
+00:59:37,860 --> 00:59:38,960
+You're absolutely right.
+
+751
+00:59:38,960 --> 00:59:40,659
+What happened here was a small,
+
+752
+00:59:40,659 --> 00:59:42,460
+relatively small cabal of people,
+
+753
+00:59:42,460 --> 00:59:47,559
+not more than a thousand people decided that they had the wisdom,
+
+754
+00:59:47,559 --> 00:59:50,000
+the collective wisdom to reorder all of society.
+
+755
+00:59:50,000 --> 00:59:50,539
+Um,
+
+756
+00:59:50,539 --> 00:59:55,139
+in the world health organization and some public health bureaucracies around the world.
+
+757
+00:59:55,139 --> 00:59:58,239
+And they worked very hard to make,
+
+758
+00:59:58,239 --> 01:00:01,300
+to make people think that they had that collective wisdom when they never did.
+
+759
+01:00:01,300 --> 01:00:01,900
+Uh,
+
+760
+01:00:01,900 --> 01:00:08,000
+it would have been much more productive if they had allowed a discussion with other people who disagreed with them to happen.
+
+761
+01:00:08,000 --> 01:00:09,380
+That's how science works best.
+
+762
+01:00:09,380 --> 01:00:10,579
+How public health works best.
+
+763
+01:00:10,579 --> 01:00:11,440
+Um,
+
+764
+01:00:11,440 --> 01:00:12,840
+and that we might have had,
+
+765
+01:00:12,840 --> 01:00:15,539
+we likely would have had a very different public health response.
+
+766
+01:00:15,539 --> 01:00:17,199
+And I think we would have had much,
+
+767
+01:00:17,199 --> 01:00:17,400
+uh,
+
+768
+01:00:17,400 --> 01:00:19,000
+much more effective public health response,
+
+769
+01:00:19,000 --> 01:00:20,199
+a more compassionate one,
+
+770
+01:00:20,199 --> 01:00:20,659
+uh,
+
+771
+01:00:20,659 --> 01:00:22,800
+that would have ended up with fewer lives lost.
+
+772
+01:00:24,159 --> 01:00:24,400
+Joe,
+
+773
+01:00:24,400 --> 01:00:24,639
+we,
+
+774
+01:00:24,639 --> 01:00:25,199
+uh,
+
+775
+01:00:25,199 --> 01:00:26,760
+just veering off on that for a moment,
+
+776
+01:00:26,760 --> 01:00:27,440
+uh,
+
+777
+01:00:27,440 --> 01:00:30,599
+Sweden became a bit of an outlier in the global community because,
+
+778
+01:00:31,139 --> 01:00:31,360
+you know,
+
+779
+01:00:31,360 --> 01:00:32,760
+you will know better than me,
+
+780
+01:00:32,760 --> 01:00:36,599
+but they seem to go closer to focus protection than anyone else.
+
+781
+01:00:36,599 --> 01:00:37,699
+And then they got attacked,
+
+782
+01:00:37,699 --> 01:00:38,400
+uh,
+
+783
+01:00:38,400 --> 01:00:39,340
+globally for,
+
+784
+01:00:39,340 --> 01:00:40,099
+for this day.
+
+785
+01:00:40,099 --> 01:00:40,760
+I mean,
+
+786
+01:00:40,760 --> 01:00:42,440
+if you look back at Sweden's approach,
+
+787
+01:00:42,440 --> 01:00:42,599
+Joe,
+
+788
+01:00:42,599 --> 01:00:44,300
+was it close to what you were,
+
+789
+01:00:44,300 --> 01:00:45,900
+you were aiming for?
+
+790
+01:00:45,900 --> 01:00:46,199
+I mean,
+
+791
+01:00:46,199 --> 01:00:46,760
+the early days,
+
+792
+01:00:46,760 --> 01:00:46,900
+they,
+
+793
+01:00:46,900 --> 01:00:47,139
+they,
+
+794
+01:00:47,139 --> 01:00:49,099
+they did the opposite of folks protection.
+
+795
+01:00:49,099 --> 01:00:49,599
+Actually,
+
+796
+01:00:49,599 --> 01:00:49,840
+they,
+
+797
+01:00:49,840 --> 01:00:50,239
+they,
+
+798
+01:00:50,239 --> 01:00:50,280
+uh,
+
+799
+01:00:50,280 --> 01:00:50,440
+they,
+
+800
+01:00:50,440 --> 01:00:54,500
+there was a big outbreak of cases in Swedish nursing homes because they sent,
+
+801
+01:00:54,780 --> 01:00:54,940
+uh,
+
+802
+01:00:54,940 --> 01:00:57,099
+COVID infected patients to Swedish nursing homes,
+
+803
+01:00:57,500 --> 01:00:58,500
+a huge amount of reason,
+
+804
+01:00:58,539 --> 01:00:59,739
+or here's the reason why,
+
+805
+01:01:00,039 --> 01:01:00,340
+um,
+
+806
+01:01:00,340 --> 01:01:01,940
+Sweden was seen early on as,
+
+807
+01:01:01,940 --> 01:01:03,380
+as a failure was because of that.
+
+808
+01:01:03,380 --> 01:01:05,239
+A lot of older people died in those nursing homes.
+
+809
+01:01:05,639 --> 01:01:05,780
+But,
+
+810
+01:01:05,780 --> 01:01:06,179
+you know,
+
+811
+01:01:06,179 --> 01:01:06,380
+uh,
+
+812
+01:01:06,380 --> 01:01:06,739
+the,
+
+813
+01:01:06,739 --> 01:01:07,039
+the,
+
+814
+01:01:07,039 --> 01:01:11,440
+the amazing thing about the Swedish response to me was their flexibility.
+
+815
+01:01:11,840 --> 01:01:12,579
+Yeah.
+
+816
+01:01:12,579 --> 01:01:15,539
+Cause what they did after that is they realized they had to protect older
+
+817
+01:01:15,539 --> 01:01:19,239
+people and they adopted policies to gain the trust of the
+
+818
+01:01:19,239 --> 01:01:19,840
+population.
+
+819
+01:01:20,440 --> 01:01:22,239
+Told the population,
+
+820
+01:01:22,380 --> 01:01:22,639
+look,
+
+821
+01:01:22,639 --> 01:01:23,699
+here's who's at risk.
+
+822
+01:01:24,139 --> 01:01:25,280
+They kept schools open,
+
+823
+01:01:26,199 --> 01:01:26,800
+primary schools,
+
+824
+01:01:26,800 --> 01:01:28,280
+open the entire pandemic.
+
+825
+01:01:28,300 --> 01:01:30,199
+Their kids have no learning loss.
+
+826
+01:01:30,800 --> 01:01:32,800
+And that early loss in life in,
+
+827
+01:01:32,800 --> 01:01:33,099
+in,
+
+828
+01:01:33,099 --> 01:01:37,480
+in older populations was offset over time as they had a more,
+
+829
+01:01:37,739 --> 01:01:37,940
+I mean,
+
+830
+01:01:37,940 --> 01:01:38,179
+it's not,
+
+831
+01:01:38,179 --> 01:01:40,739
+they had no restrictions that when the disease was spreading,
+
+832
+01:01:40,739 --> 01:01:41,039
+they had,
+
+833
+01:01:41,039 --> 01:01:41,980
+they actually had,
+
+834
+01:01:42,340 --> 01:01:42,780
+uh,
+
+835
+01:01:42,780 --> 01:01:45,139
+suggested restrictions in mass gatherings.
+
+836
+01:01:45,139 --> 01:01:45,699
+For instance,
+
+837
+01:01:45,699 --> 01:01:48,139
+they told people to stay home when they're sick and provided sick leave when
+
+838
+01:01:48,139 --> 01:01:48,880
+that was the case.
+
+839
+01:01:49,239 --> 01:01:49,539
+Um,
+
+840
+01:01:49,840 --> 01:01:50,380
+they were,
+
+841
+01:01:50,380 --> 01:01:50,739
+uh,
+
+842
+01:01:50,739 --> 01:01:50,940
+uh,
+
+843
+01:01:50,940 --> 01:01:52,139
+in very short periods of time,
+
+844
+01:01:52,139 --> 01:01:52,599
+they kept,
+
+845
+01:01:52,599 --> 01:01:52,880
+uh,
+
+846
+01:01:52,880 --> 01:01:54,039
+older people home from,
+
+847
+01:01:54,039 --> 01:01:54,639
+they think that,
+
+848
+01:01:54,639 --> 01:01:54,840
+uh,
+
+849
+01:01:54,840 --> 01:01:55,480
+older,
+
+850
+01:01:55,480 --> 01:01:55,940
+older,
+
+851
+01:01:55,940 --> 01:01:56,139
+like,
+
+852
+01:01:56,139 --> 01:01:56,440
+uh,
+
+853
+01:01:56,440 --> 01:01:57,480
+like high school kids,
+
+854
+01:01:57,780 --> 01:01:58,639
+I think miss some,
+
+855
+01:01:58,639 --> 01:01:59,340
+some schooling.
+
+856
+01:01:59,679 --> 01:01:59,980
+Um,
+
+857
+01:02:00,039 --> 01:02:01,239
+so it's not that they had no,
+
+858
+01:02:01,239 --> 01:02:02,139
+no mistakes,
+
+859
+01:02:02,440 --> 01:02:02,579
+uh,
+
+860
+01:02:02,579 --> 01:02:05,280
+but they were adapting and they were admitted their mistakes in the
+
+861
+01:02:05,280 --> 01:02:05,940
+population.
+
+862
+01:02:05,940 --> 01:02:07,500
+They didn't try to create this sense of that.
+
+863
+01:02:07,500 --> 01:02:09,079
+There was no debate.
+
+864
+01:02:09,480 --> 01:02:09,840
+Um,
+
+865
+01:02:10,199 --> 01:02:10,539
+and,
+
+866
+01:02:10,599 --> 01:02:10,800
+uh,
+
+867
+01:02:10,800 --> 01:02:12,000
+the population trusted them.
+
+868
+01:02:12,179 --> 01:02:13,539
+And when the vaccines came,
+
+869
+01:02:13,900 --> 01:02:14,179
+um,
+
+870
+01:02:14,179 --> 01:02:14,699
+they,
+
+871
+01:02:14,940 --> 01:02:15,139
+you know,
+
+872
+01:02:15,139 --> 01:02:18,179
+what the Europe actually was somewhat slow in getting the vaccines out
+
+873
+01:02:18,179 --> 01:02:19,239
+relative to the United States,
+
+874
+01:02:19,239 --> 01:02:20,679
+although much faster than Australia.
+
+875
+01:02:21,039 --> 01:02:21,340
+Um,
+
+876
+01:02:21,639 --> 01:02:25,940
+and they systematically use the vaccines to protect their old population
+
+877
+01:02:25,940 --> 01:02:26,739
+first.
+
+878
+01:02:27,039 --> 01:02:29,300
+So there was a big spring wave in 2021,
+
+879
+01:02:29,300 --> 01:02:30,880
+but they'd already vaccinated their old.
+
+880
+01:02:31,280 --> 01:02:34,500
+And so there are a lot of cases in Sweden in 20 or in
+
+881
+01:02:34,500 --> 01:02:34,800
+April,
+
+882
+01:02:34,800 --> 01:02:35,579
+2021,
+
+883
+01:02:35,800 --> 01:02:37,599
+but very few deaths per capita.
+
+884
+01:02:38,000 --> 01:02:39,699
+They D because of the vaccine.
+
+885
+01:02:40,199 --> 01:02:40,539
+Um,
+
+886
+01:02:40,840 --> 01:02:43,039
+and so they use these focus protection ideas to get a much
+
+887
+01:02:43,039 --> 01:02:43,579
+better result.
+
+888
+01:02:43,579 --> 01:02:44,679
+And through the whole pandemic,
+
+889
+01:02:44,679 --> 01:02:48,079
+they actually have negative excess mortality,
+
+890
+01:02:48,400 --> 01:02:49,000
+negative,
+
+891
+01:02:49,039 --> 01:02:49,199
+excess mortality,
+
+892
+01:02:49,199 --> 01:02:49,239
+excess mortality,
+
+893
+01:02:49,239 --> 01:02:50,679
+excess mortality through the pandemic.
+
+894
+01:02:51,380 --> 01:02:51,739
+Just think,
+
+895
+01:02:51,840 --> 01:02:52,320
+imagine that.
+
+896
+01:02:52,420 --> 01:02:52,579
+I mean,
+
+897
+01:02:52,659 --> 01:02:53,380
+Australia,
+
+898
+01:02:53,619 --> 01:02:54,000
+actually,
+
+899
+01:02:54,500 --> 01:02:55,559
+I was looking at the statistics,
+
+900
+01:02:56,199 --> 01:02:56,380
+uh,
+
+901
+01:02:56,480 --> 01:02:57,139
+up until,
+
+902
+01:02:57,500 --> 01:02:58,099
+until maybe,
+
+903
+01:02:58,400 --> 01:02:59,099
+uh,
+
+904
+01:02:59,099 --> 01:02:59,780
+let's say,
+
+905
+01:02:59,940 --> 01:03:00,340
+uh,
+
+906
+01:03:00,719 --> 01:03:01,300
+uh,
+
+907
+01:03:01,380 --> 01:03:02,559
+April of 2022,
+
+908
+01:03:02,559 --> 01:03:04,260
+you had negative excess mortality,
+
+909
+01:03:04,340 --> 01:03:05,420
+but over the last,
+
+910
+01:03:05,780 --> 01:03:06,619
+essentially the,
+
+911
+01:03:06,699 --> 01:03:07,659
+over the last few months,
+
+912
+01:03:07,659 --> 01:03:11,340
+you've had an enormous weight of cases and huge neck of
+
+913
+01:03:11,340 --> 01:03:12,440
+excess mortality.
+
+914
+01:03:13,039 --> 01:03:14,239
+In 2021,
+
+915
+01:03:14,840 --> 01:03:16,880
+Australia had positive excess mortality,
+
+916
+01:03:17,059 --> 01:03:18,320
+even though there was no COVID.
+
+917
+01:03:18,320 --> 01:03:27,860
+I think if the world had followed Sweden's leadership in this,
+
+918
+01:03:28,039 --> 01:03:30,539
+we would have all come out much better off both in terms of
+
+919
+01:03:30,539 --> 01:03:32,940
+COVID and in terms of the harm that we've done to,
+
+920
+01:03:33,000 --> 01:03:33,280
+uh,
+
+921
+01:03:33,280 --> 01:03:35,679
+to societies as a consequence of the lockdown policies we've
+
+922
+01:03:35,679 --> 01:03:36,039
+followed.
+
+923
+01:03:36,440 --> 01:03:37,900
+So Joe to understand just quickly,
+
+924
+01:03:37,900 --> 01:03:39,820
+the Australian excess mortality,
+
+925
+01:03:39,920 --> 01:03:43,599
+what's now coming into play is all the people that didn't seek
+
+926
+01:03:43,599 --> 01:03:44,480
+medical treatment,
+
+927
+01:03:44,480 --> 01:03:44,920
+all of,
+
+928
+01:03:45,139 --> 01:03:46,579
+so that's all cause mortality,
+
+929
+01:03:46,579 --> 01:03:46,840
+isn't it?
+
+930
+01:03:46,840 --> 01:03:47,539
+People that are losing their lives.
+
+931
+01:03:47,539 --> 01:03:47,559
+Yeah.
+
+932
+01:03:47,559 --> 01:03:47,619
+Yeah.
+
+933
+01:03:47,619 --> 01:03:47,659
+Yeah.
+
+934
+01:03:47,659 --> 01:03:47,699
+Yeah.
+
+935
+01:03:47,699 --> 01:03:47,719
+Yeah.
+
+936
+01:03:47,719 --> 01:03:47,780
+Yeah.
+
+937
+01:03:47,780 --> 01:03:47,860
+Yeah.
+
+938
+01:03:47,860 --> 01:03:47,960
+Yeah.
+
+939
+01:03:47,960 --> 01:03:48,019
+Yeah.
+
+940
+01:03:48,019 --> 01:03:48,039
+Yeah.
+
+941
+01:03:48,039 --> 01:03:48,059
+Yeah.
+
+942
+01:03:48,059 --> 01:03:48,099
+Yeah.
+
+943
+01:03:48,099 --> 01:03:48,119
+Yeah.
+
+944
+01:03:48,119 --> 01:03:48,179
+Yeah.
+
+945
+01:03:48,320 --> 01:03:48,719
+Yeah.
+
+946
+01:03:48,719 --> 01:03:48,920
+Yeah.
+
+947
+01:03:48,920 --> 01:03:48,980
+Yeah.
+
+948
+01:03:48,980 --> 01:03:49,039
+Yeah.
+
+949
+01:03:49,039 --> 01:03:49,199
+Yeah.
+
+950
+01:03:53,199 --> 01:03:53,679
+Yeah.
+
+951
+01:03:53,679 --> 01:03:53,719
+Yeah.
+
+952
+01:03:55,079 --> 01:03:55,139
+Yeah.
+
+953
+01:03:55,139 --> 01:03:55,219
+Yeah.
+
+954
+01:03:55,219 --> 01:03:55,260
+Yeah.
+
+955
+01:03:55,260 --> 01:03:55,300
+Yeah.
+
+956
+01:03:55,300 --> 01:03:55,400
+Yeah.
+
+957
+01:03:55,400 --> 01:03:56,840
+It's,
+
+958
+01:03:56,840 --> 01:04:00,039
+it's still hard to disentangle.
+
+959
+01:04:00,219 --> 01:04:00,280
+Uh,
+
+960
+01:04:00,280 --> 01:04:01,699
+the data are still being developed.
+
+961
+01:04:01,800 --> 01:04:04,980
+I have not seen a clean study that nails that issue as yet.
+
+962
+01:04:05,139 --> 01:04:07,239
+So I don't know with any certainty with that,
+
+963
+01:04:07,320 --> 01:04:09,900
+but if it's like anywhere else in the world,
+
+964
+01:04:10,199 --> 01:04:13,579
+those kinds of considerations will have consequences in lives
+
+965
+01:04:13,579 --> 01:04:14,400
+lost in Australia.
+
+966
+01:04:14,639 --> 01:04:15,440
+But at the same time,
+
+967
+01:04:15,500 --> 01:04:17,960
+like Australia vaccinated a lot of large part of its
+
+968
+01:04:17,960 --> 01:04:18,000
+population.
+
+969
+01:04:18,000 --> 01:04:25,260
+population, a lot of the vaccination happened nine, 10, 11, not nine, you know, quite a long
+
+970
+01:04:25,260 --> 01:04:32,019
+time ago. And so when the virus swept through the population in Australia, you know, Australia has
+
+971
+01:04:32,019 --> 01:04:38,099
+more cases per capita through the whole pandemic than the United States has. So there was a lot of
+
+972
+01:04:38,099 --> 01:04:44,619
+a lot of people who were exposed to the virus and their vaccines, you know, so the protection
+
+973
+01:04:44,619 --> 01:04:49,420
+of the vaccine provides against disease spread had already expired. That's why you've had such
+
+974
+01:04:49,420 --> 01:04:55,659
+a widespread number of cases. Even the protection against severe disease, it started to wane in some
+
+975
+01:04:55,659 --> 01:05:03,400
+of the older people. So it's both COVID deaths and also deaths from the lockdowns combining
+
+976
+01:05:03,400 --> 01:05:09,420
+in Australia to produce very high total excess deaths. There's two final questions to ask you,
+
+977
+01:05:09,420 --> 01:05:14,539
+but I've got to ask you one before I do that. And that is, you clearly, you know,
+
+978
+01:05:14,539 --> 01:05:14,599
+the COVID-19 pandemic has been a big part of the pandemic. And I think it's a big part of
+
+979
+01:05:14,599 --> 01:05:14,619
+the pandemic. I think it's a big part of the pandemic. I think it's a big part of the pandemic.
+
+980
+01:05:14,619 --> 01:05:20,599
+The vaccines are something you're passionate about on a world scale. But the idea of mandating
+
+981
+01:05:20,599 --> 01:05:26,400
+vaccines, where did you sit on that? I think it was an enormous error. When a public health
+
+982
+01:05:26,400 --> 01:05:31,239
+authority mandates a vaccine, that is an admission of failure. It's an admission of failure because
+
+983
+01:05:31,239 --> 01:05:36,440
+public health, when it works best, it has the trust of the population. And so when it has the
+
+984
+01:05:36,440 --> 01:05:40,260
+population, the public health authorities can say, you know, this is a really good idea. Here's what
+
+985
+01:05:40,260 --> 01:05:44,599
+we know. Here's what we don't know. If you're older, here's what the risks are. But
+
+986
+01:05:44,599 --> 01:05:49,800
+here's the benefits. They're really good. You should get vaccinated. And then people listen
+
+987
+01:05:49,800 --> 01:05:55,380
+because they trust the public health authorities. When you're doing a mandate, not only is a signal
+
+988
+01:05:55,380 --> 01:05:59,019
+of distrust, like I don't trust the public, therefore I have to force you to do this.
+
+989
+01:05:59,380 --> 01:06:06,539
+It also creates distrust reciprocally. It creates this resistance movement by people who are like
+
+990
+01:06:06,539 --> 01:06:09,940
+saying, well, you know, I'm not sure it's good for me. Why are you being forcing me to do this
+
+991
+01:06:09,940 --> 01:06:13,880
+if you think it's good for me? Why don't you just explain to me what's going on? It's created this.
+
+992
+01:06:13,880 --> 01:06:14,480
+And so,
+
+993
+01:06:14,599 --> 01:06:17,500
+I think that's what's happened. I've seen in the United States and elsewhere,
+
+994
+01:06:18,039 --> 01:06:24,599
+an expansion in the set of people who distrust public health. And now we're distrusting good
+
+995
+01:06:24,599 --> 01:06:31,059
+advice from public health, a reduction in vaccination of children against really deadly
+
+996
+01:06:31,059 --> 01:06:36,539
+diseases like polio, like measles. And we're seeing a resurgence of cases, for instance,
+
+997
+01:06:36,599 --> 01:06:43,360
+in polio that actually would make quite a bit of progress toward eradicating. It's a real problem.
+
+998
+01:06:43,360 --> 01:06:49,360
+And I think the mandates, they were premised on the idea that it was necessary to vaccinate
+
+999
+01:06:49,360 --> 01:06:52,840
+80, 90% of the population and then the disease would go away.
+
+1000
+01:06:53,760 --> 01:06:58,860
+We never had the evidence to say that that was going to be true. The vaccine does not stop
+
+1001
+01:06:58,860 --> 01:07:03,460
+disease spread. It's very clear. I mean, why else would Australia, for instance, which is so heavily
+
+1002
+01:07:03,460 --> 01:07:08,579
+vaccinated, have such a large number of cases? I mean, I got the vaccine in April of 2021 and I
+
+1003
+01:07:08,579 --> 01:07:12,940
+got COVID in August of 2021. Which was the opposite of the public health message, Jay,
+
+1004
+01:07:13,360 --> 01:07:19,079
+you take this to save the lives of those around you. So again, the evidence that you're telling
+
+1005
+01:07:19,079 --> 01:07:26,099
+is completely the opposite to the actuality. And again, that just leads to further distrust,
+
+1006
+01:07:26,199 --> 01:07:29,900
+doesn't it? And the message was there that if you caught coronavirus naturally,
+
+1007
+01:07:30,480 --> 01:07:34,000
+recovered from it naturally, that your antibodies weren't effective as well. That was another
+
+1008
+01:07:34,000 --> 01:07:40,860
+message that for the first time in history, your own nervous system and immune system wasn't
+
+1009
+01:07:40,860 --> 01:07:43,340
+working. So it's, you know, again, it's a very, very, very, very, very, very, very, very, very,
+
+1010
+01:07:43,360 --> 01:07:47,000
+again, as you said, that creates distrust, doesn't it? It doesn't allow for it in.
+
+1011
+01:07:48,000 --> 01:07:50,880
+They could have used the vaccine for focus protection, just like Sweden did.
+
+1012
+01:07:51,460 --> 01:07:54,360
+Vaccinate older people who are really at high risk of dying. And then
+
+1013
+01:07:54,360 --> 01:08:01,119
+to be honest with the public that this is the best we can do, really. Don't try to force people who
+
+1014
+01:08:01,119 --> 01:08:05,940
+have very low benefit from the vaccine to get vaccinated on the false premise that my vaccine
+
+1015
+01:08:05,940 --> 01:08:09,539
+protects you when it doesn't. And the evidence from the world around the world is clear that
+
+1016
+01:08:09,539 --> 01:08:13,179
+it doesn't. It was manipulative and wrong. It's created distrust that it's going to be
+
+1017
+01:08:13,360 --> 01:08:20,000
+to repair. I see your story as one of the great leadership stories in recent times and, you know,
+
+1018
+01:08:20,000 --> 01:08:25,600
+to stand up and say, I am prepared to give up my working life. I'm prepared for the consequences
+
+1019
+01:08:25,600 --> 01:08:31,699
+because my principles and my values suggest that this is greater than the consequences. It takes
+
+1020
+01:08:31,699 --> 01:08:35,579
+incredible courage and leadership. And in that context, I want to ask you, who's been the
+
+1021
+01:08:35,579 --> 01:08:43,130
+greatest leader in your life? Oh, there's so many. I mean, I've had mentors that
+
+1022
+01:08:43,130 --> 01:08:43,670
+have been great leaders. I've had mentors that have been great leaders. I've had mentors that
+
+1023
+01:08:43,670 --> 01:08:45,010
+have been great leaders. I've had mentors that have been great leaders. I've had mentors that have been
+
+1024
+01:08:45,010 --> 01:08:50,529
+great in academics. One of them is like now the head of, he's the provost at Harvard now,
+
+1025
+01:08:51,069 --> 01:08:59,229
+who was a big example to me through my career. But I have to say, in the context of, and of course,
+
+1026
+01:08:59,289 --> 01:09:08,010
+my parents, I mean, it's impossible to not think of them. But I think during the context of this
+
+1027
+01:09:08,010 --> 01:09:14,090
+pandemic, the two other authors of the Great Barongton Declaration, Sunetra Gupta and Martin
+
+1028
+01:09:14,090 --> 01:09:14,989
+Kuhldorf have paid an important price to be the leaders of theOC. And I think that's a very
+
+1029
+01:09:15,010 --> 01:09:21,170
+enormous price for their leadership, even more than me, I think, in many ways. Martin was let
+
+1030
+01:09:21,170 --> 01:09:28,489
+go from his job at Harvard, actually. He's now on leave, I think. And he was willing to sacrifice
+
+1031
+01:09:28,489 --> 01:09:37,489
+that. Sinatra also faced tremendous threats to her career, to her personal life, and didn't need to
+
+1032
+01:09:37,489 --> 01:09:43,270
+speak up, but both did. And I've been absolutely inspired by them. Another colleague of mine at
+
+1033
+01:09:43,270 --> 01:09:48,710
+Stanford is a man named Johnny Yanidis, who is probably the world's most famous scientist,
+
+1034
+01:09:48,810 --> 01:09:55,770
+well, certainly the world's most cited scientist, who, again, spoke up early and has continued to
+
+1035
+01:09:55,770 --> 01:10:00,369
+do amazing work. I think he's published like 70 papers during the pandemic, much more quiet in
+
+1036
+01:10:00,369 --> 01:10:07,970
+terms of public presence, but has done tremendous work to do the science that has informed a lot of
+
+1037
+01:10:07,970 --> 01:10:12,550
+the thinking on lockdowns, on a whole range of issues.
+
+1038
+01:10:13,270 --> 01:10:19,289
+And I looked at those folks as tremendous leaders, all in their own different ways,
+
+1039
+01:10:19,829 --> 01:10:27,930
+in intellectual leadership, in moral leadership. And I'm Christian, too, so I think those
+
+1040
+01:10:27,930 --> 01:10:34,710
+commitments have provided, to me, a real example of what it means to sacrifice and why that kind
+
+1041
+01:10:34,710 --> 01:10:38,670
+of sacrifice is. I've learned it firsthand. I've been more theoretical before the pandemic,
+
+1042
+01:10:38,670 --> 01:10:43,250
+why that kind of sacrifice is important. Yeah, thanks for sharing that again. And we saw lots
+
+1043
+01:10:43,270 --> 01:10:48,550
+of medical professionals here in Australia that were silenced and threatened to be disbarred for
+
+1044
+01:10:48,550 --> 01:10:53,710
+wanting to enter the public debate like you did. And so, again, it's a massive sacrifice of
+
+1045
+01:10:53,710 --> 01:10:58,890
+leadership to do that. Final question, Joe, for me, in the sense of collaboration,
+
+1046
+01:10:59,189 --> 01:11:03,149
+we're passionate about it and the leadership work that we do. If you could collaborate with
+
+1047
+01:11:03,149 --> 01:11:07,229
+anyone in the world, and you've done that with your great colleagues in other extraordinary
+
+1048
+01:11:07,229 --> 01:11:12,229
+academic institutions, is there someone you think, God, if I could collaborate with them on any area,
+
+1049
+01:11:12,229 --> 01:11:12,989
+there's lots of diverse...
+
+1050
+01:11:13,270 --> 01:11:15,529
+Passions that you've got. Is there anyone that springs to mind?
+
+1051
+01:11:16,850 --> 01:11:21,350
+I mean, at this point, I've been now exposed to some incredible scholars.
+
+1052
+01:11:22,170 --> 01:11:30,529
+My passion now is, in addition to the postmortem about the lockdowns and a good discussion about
+
+1053
+01:11:30,529 --> 01:11:37,109
+that so that we don't do this again, I want to talk about how to reform science. And science
+
+1054
+01:11:37,109 --> 01:11:42,829
+is broken. What's happened during the pandemic is the normal processes where we can talk to each
+
+1055
+01:11:42,829 --> 01:11:42,989
+other.
+
+1056
+01:11:43,270 --> 01:11:48,310
+We can talk to scientists and we learn from each other. That's really broken. The trust that's
+
+1057
+01:11:48,310 --> 01:11:52,229
+needed for scientists to have good faith conversations in many ways has been broken.
+
+1058
+01:11:52,289 --> 01:11:58,810
+I want to help restore that. The other thing is a conversation I'd like to have with many leaders
+
+1059
+01:11:58,810 --> 01:12:08,989
+I've met about what role should science play in society, right? So, do I really have the wisdom
+
+1060
+01:12:08,989 --> 01:12:13,149
+to order society? I think my view is that scientists should be...
+
+1061
+01:12:13,270 --> 01:12:20,189
+We should be on top, not on top. We should be advising. And so, I want to work with political
+
+1062
+01:12:20,189 --> 01:12:27,130
+leaders. Ron DeSantis, I think, is an amazing man, actually, the governor of Florida. I've been so
+
+1063
+01:12:27,130 --> 01:12:32,750
+impressed by him in his leadership. I would love to work together with political leaders, with
+
+1064
+01:12:32,750 --> 01:12:37,130
+faith leaders, so that we can have a conversation about what place should science have, and with
+
+1065
+01:12:37,130 --> 01:12:43,250
+scientists, what place should science have in society? Are we willing to replace our liberal
+
+1066
+01:12:43,270 --> 01:12:49,149
+democracies with a technocracy? I mean, that's essentially what we've had. We've had a few
+
+1067
+01:12:49,149 --> 01:12:54,069
+scientific leaders order society the last two and a half years. Was that a good idea or a bad idea?
+
+1068
+01:12:54,409 --> 01:12:59,369
+I think that's a conversation I'd love to collaborate with many people I've met in the
+
+1069
+01:12:59,369 --> 01:13:03,069
+pandemic, and not just scientists, because that's an all-society conversation.
+
+1070
+01:13:03,649 --> 01:13:08,229
+What a fascinating final answer. And as you said, science is broken, and to be able to have these
+
+1071
+01:13:08,229 --> 01:13:13,250
+discussions and highlight them, and for you to want to bring that back to the table,
+
+1072
+01:13:13,270 --> 01:13:17,789
+I can't help it. It's always a supplementary question to me. There is an old saying,
+
+1073
+01:13:17,930 --> 01:13:22,229
+when you look at something and you sound a bit like a conspiracy, follow the money. Is science
+
+1074
+01:13:22,229 --> 01:13:30,210
+broken because of the money, and that people are so incentivized to not want to debate? Is that
+
+1075
+01:13:30,210 --> 01:13:34,210
+something that needs to be overcome, that the institutions that make billions and billions
+
+1076
+01:13:34,210 --> 01:13:40,270
+out of these decisions have got such a stranglehold on science? Or am I being naive? Is that being a
+
+1077
+01:13:40,270 --> 01:13:42,970
+small part of it? No, it's not that I'm an economist. Of course,
+
+1078
+01:13:43,270 --> 01:13:47,949
+money is an important driver of human behavior. So I'm not disagreeing with that, but I don't
+
+1079
+01:13:47,949 --> 01:13:53,210
+think that's the central problem. I think the central problem is one of power. During the
+
+1080
+01:13:53,210 --> 01:13:59,890
+pandemic, it became clear that if you were an epidemiologist, immunologist, or virologist,
+
+1081
+01:13:59,949 --> 01:14:06,250
+you have tremendous power over the minds of billions and the fates of billions. And that
+
+1082
+01:14:06,250 --> 01:14:12,590
+created a lot of dysfunction within science itself. It created incentives for climbing
+
+1083
+01:14:12,590 --> 01:14:13,250
+a social ladder. It created incentives for climbing a social ladder. And I think that's
+
+1084
+01:14:13,270 --> 01:14:16,409
+the central problem. And I think that's the central problem within science. I think it's
+
+1085
+01:14:16,409 --> 01:14:20,510
+like it's the, what is it Lord Atkins said, like power corrupts absolutely, power corrupts
+
+1086
+01:14:20,510 --> 01:14:26,250
+absolutely, right? I think that that is the central problem within science. It's become
+
+1087
+01:14:26,250 --> 01:14:35,090
+such a powerful tool to reorder society that it has undermined the kinds of mechanisms that
+
+1088
+01:14:35,090 --> 01:14:39,130
+would normally allow it to gain that power to begin with. They gain that power because it
+
+1089
+01:14:39,130 --> 01:14:43,250
+produces wisdom. It produces knowledge. And that knowledge and wisdom comes from,
+
+1090
+01:14:43,270 --> 01:14:49,930
+from a liberal willingness and a good faith discussion with other people. But by being so
+
+1091
+01:14:49,930 --> 01:14:54,470
+successful, it created this power that then under has undermined the capacity to have that good faith
+
+1092
+01:14:54,470 --> 01:15:02,670
+discussion. So there's this like, there's this sort of, sort of, it's, it, the success that it
+
+1093
+01:15:02,670 --> 01:15:11,210
+had in producing vaccines and producing knowledge has itself created the conditions that have
+
+1094
+01:15:11,210 --> 01:15:13,250
+undermined it. So I think it's, it's a, it's a, it's a, it's a, it's a, it's a, it's a, it's a,
+
+1095
+01:15:13,250 --> 01:15:18,850
+it's worse than just money. It's something deep within science itself that we as scientists need
+
+1096
+01:15:18,850 --> 01:15:24,810
+to come to terms with and, and develop guardrails around. So we don't, don't have this, this, this,
+
+1097
+01:15:24,850 --> 01:15:30,409
+this sort of over overarching hubris that is, that you've seen from scientists, I think during the
+
+1098
+01:15:30,409 --> 01:15:36,369
+pandemic. Science on tap, not on top is a, is a brilliant message. And your, your, your art of
+
+1099
+01:15:36,369 --> 01:15:42,170
+condensing your theories is, is clearly becoming a great skill as well. Dr. Jay Bhattacharya, it's
+
+1100
+01:15:42,170 --> 01:15:43,229
+been a, a fascinating talk. Thank you so much. Thank you.
+
+1101
+01:15:43,250 --> 01:15:47,109
+Fascinating. I've got a hundred more questions, but in the interest of time,
+
+1102
+01:15:47,229 --> 01:15:51,289
+I appreciate you sharing with us some of your wisdom. And thanks again so much for
+
+1103
+01:15:51,289 --> 01:15:54,170
+an incredible leadership stance and incredible leadership story.
+
+1104
+01:15:54,909 --> 01:15:56,729
+Thank you. It was a real pleasure to talk with you.
+
+1105
+01:15:59,970 --> 01:16:04,010
+Empowering Leaders was presented by me, Luke Darcy, produced by Matt Dwyer with audio
+
+1106
+01:16:04,010 --> 01:16:08,770
+production by Darcy Thompson. To start your leadership journey, I encourage you to go to
+
+1107
+01:16:08,770 --> 01:16:13,770
+elitercollective.com, take our Empowering Leaders Indicator tool and understand the impact you have
+
+1108
+01:16:13,770 --> 01:16:14,850
+on your environment.
+
+1109
+01:16:15,189 --> 01:16:17,930
+Join us at Elita to learn, lead, and collaborate.
+
+1110
+01:16:23,380 --> 01:16:23,859
+Listener.
+

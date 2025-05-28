@@ -1,0 +1,3108 @@
+1
+00:00:02,419 --> 00:00:13,529
+How do you handle yourself under great adversity
+
+2
+00:00:13,529 --> 00:00:16,149
+and how important is it to take radical responsibility?
+
+3
+00:00:19,620 --> 00:00:20,780
+G'day, it's Luke Darcy.
+
+4
+00:00:21,420 --> 00:00:23,239
+The idea of self-improvement and leadership
+
+5
+00:00:23,239 --> 00:00:26,399
+both on and off the field has been a lifelong passion of mine.
+
+6
+00:00:27,100 --> 00:00:29,320
+With one of my oldest friends, we created a leader collective
+
+7
+00:00:29,320 --> 00:00:32,060
+and have had the privilege of working with thousands of leaders
+
+8
+00:00:32,060 --> 00:00:35,240
+in education, sport, industry and the arts
+
+9
+00:00:35,240 --> 00:00:37,140
+that have helped shift to what we see
+
+10
+00:00:37,140 --> 00:00:39,200
+as the 21st century style of leadership
+
+11
+00:00:39,200 --> 00:00:40,659
+where everyone has a voice.
+
+12
+00:00:41,679 --> 00:00:45,240
+In this podcast, we hear stories from these iconic leaders.
+
+13
+00:01:00,979 --> 00:01:04,040
+I sat down with the ex-CEO of the Westpac Bank, Brian Hartzer,
+
+14
+00:01:04,379 --> 00:01:06,200
+to chat about how he managed himself
+
+15
+00:01:06,200 --> 00:01:07,439
+as well as those around him
+
+16
+00:01:07,439 --> 00:01:09,340
+during one of the most difficult times of his life
+
+17
+00:01:09,340 --> 00:01:11,239
+and how he built a new path for himself
+
+18
+00:01:11,239 --> 00:01:13,900
+using self-reflection and a clear sense of purpose.
+
+19
+00:01:18,239 --> 00:01:20,019
+Well, this is a great pleasure and a great honour
+
+20
+00:01:20,019 --> 00:01:21,680
+to speak to Brian Hartzer.
+
+21
+00:01:21,760 --> 00:01:25,439
+I need to give a summary, which I may be not due justice to,
+
+22
+00:01:25,439 --> 00:01:27,359
+but certainly the list of achievements is
+
+23
+00:01:27,359 --> 00:01:28,760
+is lengthy and many.
+
+24
+00:01:28,900 --> 00:01:30,000
+Born in Manhattan, New York.
+
+25
+00:01:30,219 --> 00:01:32,159
+Graduated with a degree in European history
+
+26
+00:01:32,159 --> 00:01:35,040
+from Princeton University, which is in itself fascinating.
+
+27
+00:01:35,140 --> 00:01:36,200
+I'm keen to talk about that.
+
+28
+00:01:36,739 --> 00:01:38,840
+Spent 10 years at the first Manhattan Consulting Group
+
+29
+00:01:38,840 --> 00:01:41,359
+in New York, San Fran and Melbourne.
+
+30
+00:01:41,480 --> 00:01:44,519
+Potentially, that's where the Australian link comes in for Brian.
+
+31
+00:01:44,799 --> 00:01:46,739
+Divisional CEO roles at the Royal Bank of Scotland,
+
+32
+00:01:46,900 --> 00:01:48,900
+ANZ Banking Group over a 15-year period.
+
+33
+00:01:49,439 --> 00:01:51,060
+Chairman of the Australian Banking Association,
+
+34
+00:01:51,219 --> 00:01:53,879
+Retail Banking Committee of the British Bankers Association.
+
+35
+00:01:53,879 --> 00:01:57,180
+CEO of the Westpac Banking Group, 2015 to 2019.
+
+36
+00:01:57,359 --> 00:02:00,680
+Chair of the Save the Children Australia Fund.
+
+37
+00:02:00,680 --> 00:02:03,359
+The Director of the Financial Market Foundation for Children.
+
+38
+00:02:03,359 --> 00:02:05,260
+Chair of the Business Advisory Committee
+
+39
+00:02:05,260 --> 00:02:07,159
+for the Australian National University, the ANU.
+
+40
+00:02:07,159 --> 00:02:08,639
+And in recent times,
+
+41
+00:02:08,639 --> 00:02:10,419
+Chair of the Australian Museum Foundation.
+
+42
+00:02:10,419 --> 00:02:13,879
+Brian, on any measure, that is an extraordinary life's work.
+
+43
+00:02:14,039 --> 00:02:15,120
+Thanks for joining us today.
+
+44
+00:02:15,120 --> 00:02:17,120
+That's kind of, maybe as you read it,
+
+45
+00:02:17,120 --> 00:02:18,840
+it just makes me think, gosh, I'm getting old.
+
+46
+00:02:19,759 --> 00:02:23,419
+Well, perhaps Brian may have overlooked your greatest achievement,
+
+47
+00:02:23,419 --> 00:02:25,520
+and that's being a father of six.
+
+48
+00:02:25,520 --> 00:02:27,020
+Can I ask, how do you manage that?
+
+49
+00:02:27,020 --> 00:02:27,780
+How do you manage that?
+
+50
+00:02:27,780 --> 00:02:30,219
+A career of that length and that breadth,
+
+51
+00:02:30,219 --> 00:02:32,939
+and a father of six at the same time?
+
+52
+00:02:32,939 --> 00:02:35,979
+Well, in fairness, I have four children of my own
+
+53
+00:02:35,979 --> 00:02:36,840
+and two stepchildren,
+
+54
+00:02:36,840 --> 00:02:39,699
+so it's not quite as overwhelming as it sounds.
+
+55
+00:02:39,699 --> 00:02:42,500
+But yeah, it's certainly the thing that makes
+
+56
+00:02:42,500 --> 00:02:45,500
+the biggest difference long-term is doing that well.
+
+57
+00:02:45,500 --> 00:02:49,780
+And I'm continuing to work at that like lots of parents do.
+
+58
+00:02:49,780 --> 00:02:52,979
+Lots of teenagers, lots of challenges.
+
+59
+00:02:52,979 --> 00:02:56,020
+Father of four myself with a few teenagers in my house, Brian.
+
+60
+00:02:56,020 --> 00:02:56,919
+So, yeah.
+
+61
+00:02:57,020 --> 00:02:59,020
+So, I think that's one of the things that I've been able to do
+
+62
+00:02:59,020 --> 00:03:00,020
+to relate to the evolving nature of that.
+
+63
+00:03:00,020 --> 00:03:01,020
+And I should have also introduced you
+
+64
+00:03:01,020 --> 00:03:02,020
+as the author of The Leadership Star,
+
+65
+00:03:02,020 --> 00:03:04,020
+A Practical Guide to Building Engagement,
+
+66
+00:03:04,020 --> 00:03:07,020
+a fantastic book that I encourage anyone listening to check out.
+
+67
+00:03:07,020 --> 00:03:10,020
+And Brian, the overwhelming sense I got reading it was
+
+68
+00:03:10,020 --> 00:03:14,020
+that there was this incredible, I suppose, discovery in you
+
+69
+00:03:14,020 --> 00:03:17,020
+that you perhaps prefer other people's success
+
+70
+00:03:17,020 --> 00:03:19,020
+and supporting other people's success
+
+71
+00:03:19,020 --> 00:03:22,020
+and got more satisfaction out of that than your own success.
+
+72
+00:03:22,020 --> 00:03:23,020
+Is that fair to say?
+
+73
+00:03:23,020 --> 00:03:24,020
+Yeah.
+
+74
+00:03:24,020 --> 00:03:26,020
+And I think the way you describe that as a discovery is right.
+
+75
+00:03:26,020 --> 00:03:27,020
+Yeah.
+
+76
+00:03:27,020 --> 00:03:29,020
+I didn't think that was going to be the case.
+
+77
+00:03:29,020 --> 00:03:32,020
+You talked about my educational background.
+
+78
+00:03:32,020 --> 00:03:34,020
+I was one of those kids who worked really hard in school
+
+79
+00:03:34,020 --> 00:03:39,020
+and wanted to achieve and achieved in a corporate world
+
+80
+00:03:39,020 --> 00:03:42,020
+and found myself put into a position of managing other people
+
+81
+00:03:42,020 --> 00:03:45,020
+and found genuinely a bit to my surprise
+
+82
+00:03:45,020 --> 00:03:49,020
+that the satisfaction I got out of helping other people do well
+
+83
+00:03:49,020 --> 00:03:51,020
+was deeper and longer lasting
+
+84
+00:03:51,020 --> 00:03:53,020
+than when you were the smart guy in the corner
+
+85
+00:03:53,020 --> 00:03:55,020
+and achieved something and got rewarded at the end of the year.
+
+86
+00:03:55,020 --> 00:03:56,020
+That felt great the first year.
+
+87
+00:03:56,020 --> 00:03:58,020
+A little less great the second year.
+
+88
+00:03:58,020 --> 00:04:01,020
+And by the third and fourth year, it was kind of over in minutes
+
+89
+00:04:01,020 --> 00:04:05,020
+and yet the satisfaction from seeing other people thrive
+
+90
+00:04:05,020 --> 00:04:07,020
+stays with you for a really long time
+
+91
+00:04:07,020 --> 00:04:09,020
+and that just became something I really enjoyed
+
+92
+00:04:09,020 --> 00:04:10,020
+and wanted to have more of.
+
+93
+00:04:10,020 --> 00:04:13,020
+I think you referenced one of your first management roles in the 90s
+
+94
+00:04:13,020 --> 00:04:15,020
+and you felt like you were cast in this role.
+
+95
+00:04:15,020 --> 00:04:18,019
+I think you describe it as being part-time psychologist,
+
+96
+00:04:18,019 --> 00:04:21,019
+cheerleader, consultant all in one.
+
+97
+00:04:21,019 --> 00:04:23,019
+Was that a specific moment where you thought,
+
+98
+00:04:23,019 --> 00:04:25,019
+hey, I've got some skills here
+
+99
+00:04:25,019 --> 00:04:27,019
+or I really want to pursue this?
+
+100
+00:04:27,019 --> 00:04:31,019
+Well, I think it was more that I enjoyed the feeling of doing it
+
+101
+00:04:31,019 --> 00:04:34,019
+and realized I didn't really know what I was doing.
+
+102
+00:04:34,019 --> 00:04:36,019
+I hadn't had any formal training in it
+
+103
+00:04:36,019 --> 00:04:39,019
+and my first 10 years in management consulting,
+
+104
+00:04:39,019 --> 00:04:43,019
+I like to say that you don't really manage management consultants.
+
+105
+00:04:43,019 --> 00:04:47,019
+You point them because they're all insecure overachievers like me
+
+106
+00:04:47,019 --> 00:04:50,019
+and so you just tell them what you want and off they go.
+
+107
+00:04:50,019 --> 00:04:53,019
+And suddenly I found myself having to manage a group of people
+
+108
+00:04:53,019 --> 00:04:54,019
+who weren't like me.
+
+109
+00:04:54,019 --> 00:04:58,019
+And realizing that I didn't really have any training to do that,
+
+110
+00:04:58,019 --> 00:05:00,019
+but it was something I wanted to do well.
+
+111
+00:05:00,019 --> 00:05:04,019
+I love the clear language that you've come up with in your book
+
+112
+00:05:04,019 --> 00:05:06,019
+and the five C's.
+
+113
+00:05:06,019 --> 00:05:10,019
+It's really well written and easy to stay with you.
+
+114
+00:05:10,019 --> 00:05:12,019
+And maybe delve into a bit of it if that's okay, Brian.
+
+115
+00:05:12,019 --> 00:05:16,019
+You talk about care, context, clarity, clear the way, celebrate.
+
+116
+00:05:16,019 --> 00:05:18,019
+In the middle of the star is about you and your self-reflection
+
+117
+00:05:18,019 --> 00:05:21,019
+and you flirted with communication as a sixth C,
+
+118
+00:05:21,019 --> 00:05:23,019
+but we might talk about that separately.
+
+119
+00:05:23,019 --> 00:05:25,019
+And you had some great anecdotes, I suppose.
+
+120
+00:05:25,019 --> 00:05:28,019
+They're words that we all know, but to put them into practice.
+
+121
+00:05:28,019 --> 00:05:31,019
+I love your story around care and the great story of empathy
+
+122
+00:05:31,019 --> 00:05:34,019
+you had from a work colleague called Miriam.
+
+123
+00:05:34,019 --> 00:05:36,019
+I'm assuming that's her real name.
+
+124
+00:05:36,019 --> 00:05:37,019
+Can you pick up that story?
+
+125
+00:05:37,019 --> 00:05:38,019
+Yeah.
+
+126
+00:05:38,019 --> 00:05:42,019
+So that was the thing that really started me off on this intellectual journey,
+
+127
+00:05:42,019 --> 00:05:47,019
+I suppose, was I was working at ANZ and we had received
+
+128
+00:05:47,019 --> 00:05:49,019
+our staff satisfaction surveys.
+
+129
+00:05:49,019 --> 00:05:53,019
+And as a senior leader, we were measured on how we were doing,
+
+130
+00:05:53,019 --> 00:05:55,019
+how satisfied our staff were.
+
+131
+00:05:55,019 --> 00:05:57,019
+That was one of the things each year.
+
+132
+00:05:57,019 --> 00:06:01,019
+And we had a business in Hong Kong that we had decided to shut down.
+
+133
+00:06:01,019 --> 00:06:07,019
+And I had sent this woman, Miriam, up to Hong Kong to do the shutdown.
+
+134
+00:06:07,019 --> 00:06:11,019
+And so I thought, well, we're going to get a terrible staff satisfaction
+
+135
+00:06:11,019 --> 00:06:12,019
+result out of there.
+
+136
+00:06:12,019 --> 00:06:16,019
+And to my surprise, when it arrived, she had 100% staff satisfaction.
+
+137
+00:06:16,019 --> 00:06:21,019
+And I rang her up and said, Miriam, you have 100% staff satisfaction.
+
+138
+00:06:21,019 --> 00:06:22,019
+She said, yes.
+
+139
+00:06:22,019 --> 00:06:25,019
+I said, you have told them that we're closing the business.
+
+140
+00:06:25,019 --> 00:06:26,019
+She said, yes.
+
+141
+00:06:26,019 --> 00:06:30,019
+And I said, you have told them that they're all going to lose their job.
+
+142
+00:06:30,019 --> 00:06:31,019
+And she said, yes.
+
+143
+00:06:31,019 --> 00:06:34,019
+And I remember saying, OK, I give up.
+
+144
+00:06:34,019 --> 00:06:35,019
+What are you feeding them?
+
+145
+00:06:35,019 --> 00:06:37,019
+And she laughed.
+
+146
+00:06:37,019 --> 00:06:42,019
+And then she said, I speak to every staff member every day.
+
+147
+00:06:42,019 --> 00:06:43,019
+And she paused.
+
+148
+00:06:43,019 --> 00:06:44,019
+And I said, OK, tell me about that.
+
+149
+00:06:44,019 --> 00:06:46,019
+She said, well, we're not that busy.
+
+150
+00:06:46,019 --> 00:06:50,019
+So each day I go around and I go up to one of the people and sit down with them
+
+151
+00:06:50,019 --> 00:06:52,019
+and just say, how are you?
+
+152
+00:06:52,019 --> 00:06:53,019
+How's your family?
+
+153
+00:06:53,019 --> 00:06:55,019
+How's your job hunt going?
+
+154
+00:06:55,019 --> 00:06:57,019
+Are you getting all the support you need?
+
+155
+00:06:57,019 --> 00:06:58,019
+Do you know what you need to get done?
+
+156
+00:06:58,019 --> 00:07:00,019
+Is there anything we can do for you?
+
+157
+00:07:00,019 --> 00:07:02,019
+And I just have a conversation with them.
+
+158
+00:07:02,019 --> 00:07:06,019
+And then at the end of that conversation, I go to the next person and I say, how are
+
+159
+00:07:06,019 --> 00:07:07,019
+you?
+
+160
+00:07:07,019 --> 00:07:10,019
+And she said, I have that conversation 35 times a day.
+
+161
+00:07:10,019 --> 00:07:13,019
+And then the next day I start all over.
+
+162
+00:07:13,019 --> 00:07:18,019
+And the consequence of that was 100% satisfaction out of a bunch of people who were all losing
+
+163
+00:07:18,019 --> 00:07:19,019
+their jobs.
+
+164
+00:07:19,019 --> 00:07:20,019
+And that just blew me away.
+
+165
+00:07:20,019 --> 00:07:24,019
+Because we're so used to, in corporate life, thinking that when there's a restructure going
+
+166
+00:07:24,019 --> 00:07:29,019
+on or there's something bad happening in the business, you can't possibly expect leaders
+
+167
+00:07:29,019 --> 00:07:32,019
+to do a good job of keeping their people engaged and feeling good.
+
+168
+00:07:32,019 --> 00:07:38,019
+And that just proved to me that that wasn't right and that actually leaders have a tremendous
+
+169
+00:07:38,019 --> 00:07:42,019
+ability if they're willing to care about people as individual human beings.
+
+170
+00:07:42,019 --> 00:07:47,019
+And that's the key to it is it's not a generic, I care about my people.
+
+171
+00:07:47,019 --> 00:07:49,019
+It's actually care as an action verb.
+
+172
+00:07:49,019 --> 00:07:52,019
+And what are you doing to demonstrate that care?
+
+173
+00:07:52,019 --> 00:07:57,019
+And that was what Miriam taught me and really started focusing me on thinking about what
+
+174
+00:07:57,019 --> 00:07:58,019
+leadership is all about.
+
+175
+00:07:58,019 --> 00:08:02,019
+And she sounds like a remarkable, empathetic person.
+
+176
+00:08:02,019 --> 00:08:05,019
+Is that something, Brian, that was just in her DNA?
+
+177
+00:08:05,019 --> 00:08:10,019
+And is it something that can be a learned skill for people who don't necessarily gravitate
+
+178
+00:08:10,019 --> 00:08:12,019
+to natural empathy and care?
+
+179
+00:08:12,019 --> 00:08:13,019
+Can you learn it?
+
+180
+00:08:13,019 --> 00:08:15,019
+So it is natural for her.
+
+181
+00:08:15,019 --> 00:08:17,019
+She is an extraordinary person.
+
+182
+00:08:17,019 --> 00:08:18,019
+She's had a really difficult life.
+
+183
+00:08:18,019 --> 00:08:23,019
+She's a practicing Muslim woman working in an Australian environment.
+
+184
+00:08:23,019 --> 00:08:28,019
+Not an easy thing, but everybody who comes in contact with her just falls in love with
+
+185
+00:08:28,019 --> 00:08:32,019
+her and she's unbelievable at what she can deliver in a business.
+
+186
+00:08:32,019 --> 00:08:34,019
+In terms of can you learn it?
+
+187
+00:08:34,019 --> 00:08:35,019
+Absolutely.
+
+188
+00:08:35,019 --> 00:08:38,019
+I mean, my sense is most people have good intentions.
+
+189
+00:08:38,019 --> 00:08:41,019
+If you ask leaders, do you care about their people, they'll say, well, of course.
+
+190
+00:08:41,019 --> 00:08:45,019
+But it's a matter of learning that, well, you have to demonstrate that care through
+
+191
+00:08:45,019 --> 00:08:47,019
+the interest that you take in people and the actions you take.
+
+192
+00:08:47,019 --> 00:08:49,019
+The actions you take to follow up.
+
+193
+00:08:49,019 --> 00:08:51,019
+And I use the word discipline a lot.
+
+194
+00:08:51,019 --> 00:08:56,019
+A lot of leadership is about the discipline of applying these things and practically thinking
+
+195
+00:08:56,019 --> 00:08:57,019
+about how you do it.
+
+196
+00:08:57,019 --> 00:09:02,019
+A lot of the ideas, the five Cs, as you say, it's not rocket science, this stuff, but it's
+
+197
+00:09:02,019 --> 00:09:07,019
+about using that as a framework and being disciplined about how you apply it and having
+
+198
+00:09:07,019 --> 00:09:10,019
+ideas about specific things you can go and do to bring that to life for people.
+
+199
+00:09:10,019 --> 00:09:11,019
+Yeah.
+
+200
+00:09:11,019 --> 00:09:16,019
+We had a story, Brian, that in a start-up business that is probably the foundation for
+
+201
+00:09:16,019 --> 00:09:18,019
+wanting to talk to great leaders like yourself.
+
+202
+00:09:18,019 --> 00:09:20,019
+And we've been working with our own leaders.
+
+203
+00:09:20,019 --> 00:09:22,019
+And one was a 24-hour production line.
+
+204
+00:09:22,019 --> 00:09:26,019
+And one section of the production line was so much more efficient than the other.
+
+205
+00:09:26,019 --> 00:09:28,019
+It's a bottling group.
+
+206
+00:09:28,019 --> 00:09:33,019
+And the organization just couldn't work out why one part was so much more effective than
+
+207
+00:09:33,019 --> 00:09:34,019
+it's a six-hour shift.
+
+208
+00:09:34,019 --> 00:09:36,019
+You put bottles on the line.
+
+209
+00:09:36,019 --> 00:09:37,019
+Why is there a 40% difference?
+
+210
+00:09:37,019 --> 00:09:41,019
+And that equates to serious bottom line improvement, as you would well know.
+
+211
+00:09:41,019 --> 00:09:45,019
+And observing one of these leaders on the shift and just worked out that he would, at
+
+212
+00:09:45,019 --> 00:09:46,019
+the end of the shift, walk down the line.
+
+213
+00:09:46,019 --> 00:09:48,019
+And say, hey, thanks for doing your job today.
+
+214
+00:09:48,019 --> 00:09:49,019
+We really appreciate it.
+
+215
+00:09:49,019 --> 00:09:50,019
+Shake everyone's hand.
+
+216
+00:09:50,019 --> 00:09:51,019
+Look them in the eye.
+
+217
+00:09:51,019 --> 00:09:56,019
+He put on a barbecue once a month that probably cost the organization $50 in white bread and
+
+218
+00:09:56,019 --> 00:09:57,019
+a few sausages.
+
+219
+00:09:57,019 --> 00:09:58,019
+But the team were engaged.
+
+220
+00:09:58,019 --> 00:10:00,019
+They loved being there at work.
+
+221
+00:10:00,019 --> 00:10:01,019
+They didn't take sick leave.
+
+222
+00:10:01,019 --> 00:10:04,019
+They found much more efficiency in that group.
+
+223
+00:10:04,019 --> 00:10:07,019
+And to be able to share that with the guy, you're right.
+
+224
+00:10:07,019 --> 00:10:09,019
+It wasn't that he was uncaring.
+
+225
+00:10:09,019 --> 00:10:12,019
+He just didn't understand his impact on those around him.
+
+226
+00:10:12,019 --> 00:10:14,019
+It sounds simple, but it can be really powerful, can't it?
+
+227
+00:10:14,019 --> 00:10:15,019
+Yeah.
+
+228
+00:10:15,019 --> 00:10:16,019
+Absolutely.
+
+229
+00:10:16,019 --> 00:10:20,019
+And it is just that recognition that each person, as an individual human being, has
+
+230
+00:10:20,019 --> 00:10:22,019
+choices on how they spend their time.
+
+231
+00:10:22,019 --> 00:10:28,019
+And if they feel like they matter and that you care about them and you demonstrate that
+
+232
+00:10:28,019 --> 00:10:34,019
+through your actions, then that will get reflected back on the leader and on the organization.
+
+233
+00:10:34,019 --> 00:10:36,019
+So you mentioned care.
+
+234
+00:10:36,019 --> 00:10:38,019
+We're going to work through a bit of the leadership star.
+
+235
+00:10:38,019 --> 00:10:43,019
+The idea of context and a great story you talk about, bricklayers building a cathedral.
+
+236
+00:10:43,019 --> 00:10:44,019
+Can you share that with me?
+
+237
+00:10:44,019 --> 00:10:45,019
+Yeah.
+
+238
+00:10:45,019 --> 00:10:46,019
+So it's a story.
+
+239
+00:10:46,019 --> 00:10:50,019
+A great friend of mine once told me about this idea that this guy was walking down the
+
+240
+00:10:50,019 --> 00:10:54,019
+road and he saw a guy by the side of the road laying bricks and went up to him and said,
+
+241
+00:10:54,019 --> 00:10:55,019
+what are you doing?
+
+242
+00:10:55,019 --> 00:10:56,019
+And he said, I'm laying bricks.
+
+243
+00:10:56,019 --> 00:10:57,019
+He said, okay, that's kind of interesting.
+
+244
+00:10:57,019 --> 00:11:01,019
+And then he went to the next person and there was another guy laying bricks and he said,
+
+245
+00:11:01,019 --> 00:11:02,019
+what are you doing?
+
+246
+00:11:02,019 --> 00:11:06,019
+And he said, I'm building a wall so I can feed my family.
+
+247
+00:11:06,019 --> 00:11:07,019
+He said, oh, that's pretty interesting.
+
+248
+00:11:07,019 --> 00:11:11,019
+And then he saw another guy laying bricks and went up to the third guy and said, what
+
+249
+00:11:11,019 --> 00:11:12,019
+are you doing?
+
+250
+00:11:12,019 --> 00:11:13,019
+And he said, I'm building a cathedral so I can serve God.
+
+251
+00:11:13,019 --> 00:11:20,019
+And it was just that notion of helping people find meaning in their work and connecting
+
+252
+00:11:20,019 --> 00:11:24,019
+that meaning back to them, I think, is one of the jobs of leaders.
+
+253
+00:11:24,019 --> 00:11:27,019
+Typically, people grow up in a company and they take for granted.
+
+254
+00:11:27,019 --> 00:11:32,019
+As they get more senior, they understand why the organization is there and what it's doing,
+
+255
+00:11:32,019 --> 00:11:37,019
+but they then forget that you need to explain that to people and you need to help people
+
+256
+00:11:37,019 --> 00:11:38,019
+connect.
+
+257
+00:11:38,019 --> 00:11:42,019
+The best way I like to bring this to life is in my job in retail banking, I've visited
+
+258
+00:11:42,019 --> 00:11:46,019
+hundreds and hundreds of bank branches over the years.
+
+259
+00:11:46,019 --> 00:11:50,019
+Often, when I'd go in and introduce myself around, I'd say, hi, I'm Brian.
+
+260
+00:11:50,019 --> 00:11:51,019
+What's your name?
+
+261
+00:11:51,019 --> 00:11:53,019
+The person might say, I'm Ellen.
+
+262
+00:11:53,019 --> 00:11:55,019
+Then she'd say, I'm just a teller.
+
+263
+00:11:55,019 --> 00:12:00,019
+I always used to say that if someone said to me, I'm just a teller, I knew that the
+
+264
+00:12:00,019 --> 00:12:05,019
+manager was no good because they weren't helping that person understand how important their
+
+265
+00:12:05,019 --> 00:12:09,019
+role was as being the face of the organization to the customers.
+
+266
+00:12:09,019 --> 00:12:10,019
+It's just that.
+
+267
+00:12:10,019 --> 00:12:11,019
+It's giving that.
+
+268
+00:12:11,019 --> 00:12:15,019
+It's giving that people a sense of meaning, a sense of purpose, and connecting that purpose
+
+269
+00:12:15,019 --> 00:12:17,019
+with something that's important to them.
+
+270
+00:12:17,019 --> 00:12:23,019
+You worked in large organizations for lots of your career and 40,000 staff, or they're
+
+271
+00:12:23,019 --> 00:12:26,019
+close enough in the Westpac example.
+
+272
+00:12:26,019 --> 00:12:30,019
+For people that are listening to this and maybe starting a small business or have got
+
+273
+00:12:30,019 --> 00:12:32,019
+a handful of people, does that relate?
+
+274
+00:12:32,019 --> 00:12:35,019
+Can you still explain purpose and context in the same way?
+
+275
+00:12:35,019 --> 00:12:36,019
+Yeah, I think so.
+
+276
+00:12:36,019 --> 00:12:40,019
+I don't think that people get out of bed in the morning to go and grow shareholder value.
+
+277
+00:12:40,019 --> 00:12:44,019
+Or go and create product, create profitability.
+
+278
+00:12:44,019 --> 00:12:47,019
+That should be an outcome of a good business.
+
+279
+00:12:47,019 --> 00:12:51,019
+If the purpose is just to make money for the boss, that's not the kind of thing that's
+
+280
+00:12:51,019 --> 00:12:52,019
+going to sustain people.
+
+281
+00:12:52,019 --> 00:12:56,019
+In the same way, I don't think people are going to stay motivated just because they're
+
+282
+00:12:56,019 --> 00:12:57,019
+getting paid.
+
+283
+00:12:57,019 --> 00:13:02,019
+If you think about your own career in football, you didn't do it because you were a highly
+
+284
+00:13:02,019 --> 00:13:03,019
+paid sportsman.
+
+285
+00:13:03,019 --> 00:13:04,019
+That was a benefit.
+
+286
+00:13:04,019 --> 00:13:09,019
+You did it because of how it made you feel and what you were a part of and the sense
+
+287
+00:13:09,019 --> 00:13:10,019
+of achievement.
+
+288
+00:13:10,019 --> 00:13:14,019
+There was a clear sense of, in the best footy teams, there's a clear sense of purpose and
+
+289
+00:13:14,019 --> 00:13:22,019
+camaraderie and so forth that transcends just this outcome of winning games.
+
+290
+00:13:22,019 --> 00:13:23,019
+That's a measure of it.
+
+291
+00:13:23,019 --> 00:13:27,019
+I think it's just helping people understand that there is meaning.
+
+292
+00:13:27,019 --> 00:13:31,019
+I think that can be as important in a small business as a big business.
+
+293
+00:13:31,019 --> 00:13:33,019
+It certainly resonated with me.
+
+294
+00:13:33,019 --> 00:13:36,019
+I love your idea of celebrating along the way.
+
+295
+00:13:36,019 --> 00:13:39,019
+It's something that we weren't particularly good at in sport.
+
+296
+00:13:39,019 --> 00:13:42,019
+Brian, you're always told, until you win the grand final or the championship, that's
+
+297
+00:13:42,019 --> 00:13:43,019
+your time to celebrate.
+
+298
+00:13:43,019 --> 00:13:48,019
+If you didn't ever get to win one of those, was your career a failure all the way along,
+
+299
+00:13:48,019 --> 00:13:50,019
+not celebrating the little things along the way?
+
+300
+00:13:50,019 --> 00:13:52,019
+Something you point out really clearly.
+
+301
+00:13:52,019 --> 00:13:55,019
+You talk a lot about clarity, but clear the way was an interesting concept that you've
+
+302
+00:13:55,019 --> 00:13:57,019
+got as part of your thesis.
+
+303
+00:13:57,019 --> 00:14:01,019
+Can you explain what you mean by clearing the way?
+
+304
+00:14:01,019 --> 00:14:08,019
+What I found is that often leaders don't recognize the barriers that their people face
+
+305
+00:14:08,019 --> 00:14:13,019
+to success, either because they're just simply not aware of them or because they've forgotten
+
+306
+00:14:13,019 --> 00:14:18,019
+what it's like to be a person in that particular role.
+
+307
+00:14:18,019 --> 00:14:22,019
+I found that it's really important, once people have clarity as to what's expected of them,
+
+308
+00:14:22,019 --> 00:14:26,019
+that you actually, from time to time, are asking, how are you going?
+
+309
+00:14:26,019 --> 00:14:27,019
+What's getting in the way?
+
+310
+00:14:27,019 --> 00:14:29,019
+Is there anything we can do to help?
+
+311
+00:14:29,019 --> 00:14:34,019
+Often, those barriers can be people don't have the resources, they don't have the training,
+
+312
+00:14:34,019 --> 00:14:36,019
+they don't have the emotional resilience.
+
+313
+00:14:36,019 --> 00:14:37,019
+It can be all sorts of things.
+
+314
+00:14:37,019 --> 00:14:42,019
+It's up to the leader to actually take an interest and try to find those things out.
+
+315
+00:14:42,019 --> 00:14:47,019
+Sometimes, it might be that when people come into an organization, they take for granted
+
+316
+00:14:47,019 --> 00:14:53,019
+certain constraints, which a more senior person might not recognize.
+
+317
+00:14:53,019 --> 00:14:58,019
+If they don't make an effort to go out and look at what's holding people up, they can't
+
+318
+00:14:58,019 --> 00:15:01,019
+intervene and fix things so that people can be more successful.
+
+319
+00:15:01,019 --> 00:15:06,019
+You once got a standing ovation, I understand, because you fixed a copy machine.
+
+320
+00:15:06,019 --> 00:15:07,019
+Yeah.
+
+321
+00:15:07,019 --> 00:15:10,019
+That was where the whole thing started for me.
+
+322
+00:15:10,019 --> 00:15:12,019
+I was a new leader of a business.
+
+323
+00:15:12,019 --> 00:15:16,019
+I went to give a presentation to an operations team that was in my business.
+
+324
+00:15:16,019 --> 00:15:21,019
+I felt pretty impressed with myself, giving my slick PowerPoint presentation.
+
+325
+00:15:21,019 --> 00:15:24,019
+I thought everyone was going to be really excited with the brilliance of my strategy.
+
+326
+00:15:24,019 --> 00:15:29,019
+They all sat there, po-faced, looking at me.
+
+327
+00:15:29,019 --> 00:15:31,019
+I asked for some questions and got nothing.
+
+328
+00:15:31,019 --> 00:15:35,019
+Then, eventually, said something to the effect that I'm not leaving until I get a question.
+
+329
+00:15:35,019 --> 00:15:36,019
+Some guy at the back of the room put his hand up and said,
+
+330
+00:15:36,019 --> 00:15:38,019
+Can we have a new copy machine?
+
+331
+00:15:38,019 --> 00:15:41,019
+Which was not at all the question I was expecting.
+
+332
+00:15:41,019 --> 00:15:44,019
+I said, What's up with the copy machine?
+
+333
+00:15:44,019 --> 00:15:46,019
+He said, Well, ours breaks down all the time.
+
+334
+00:15:46,019 --> 00:15:49,019
+I said, Well, do you need that to do your jobs?
+
+335
+00:15:49,019 --> 00:15:53,019
+He said, Yeah, there's often 70 people standing in a queue waiting for the copy machine to be fixed.
+
+336
+00:15:53,019 --> 00:15:55,019
+I said, Well, that's ridiculous.
+
+337
+00:15:55,019 --> 00:15:57,019
+Okay, of course you can have a new copy machine.
+
+338
+00:15:57,019 --> 00:15:59,019
+Suddenly, everyone got incredibly excited.
+
+339
+00:15:59,019 --> 00:16:03,019
+I said to them later, Why don't you have a new copy machine?
+
+340
+00:16:03,019 --> 00:16:05,019
+They said, Oh, well, the management said that we didn't have the budget for it.
+
+341
+00:16:05,019 --> 00:16:16,019
+I was able to go and have a fairly short and sharp conversation with the manager of the area about how to think about managing budgets and fix the issue.
+
+342
+00:16:16,019 --> 00:16:18,019
+Suddenly, everybody felt empowered.
+
+343
+00:16:18,019 --> 00:16:25,019
+They felt like, Okay, the leaders are finally here to make our jobs easier rather than just heap more pain on our heads.
+
+344
+00:16:25,019 --> 00:16:32,019
+I think even though a very small thing and an easy thing for me to say yes to, it had a pretty profound impact in terms of the message I was trying to send.
+
+345
+00:16:32,019 --> 00:16:34,019
+Brian, I read with Ian.
+
+346
+00:16:34,019 --> 00:16:44,019
+I read with interest that you spoke about some of the managers, some of the people you worked under initially that had the most effect, that maybe taught you the most, were also some of the most unreasonable.
+
+347
+00:16:44,019 --> 00:16:45,019
+What do you mean by that?
+
+348
+00:16:45,019 --> 00:16:46,019
+Yeah, I'm glad you picked up on that.
+
+349
+00:16:46,019 --> 00:16:48,019
+Not many people have asked me about that.
+
+350
+00:16:48,019 --> 00:16:54,019
+It's just one of these reflections that most people want to be liked, and I'm certainly no different.
+
+351
+00:16:54,019 --> 00:17:01,019
+That's been something that I've become aware of over the years, and it can hold you back in terms of having difficult conversations.
+
+352
+00:17:01,019 --> 00:17:16,019
+When I've been reflecting on my own journey as a leader, one of the things that I recognized was that a couple of the bosses I had when I was starting out were total assholes and really, really difficult.
+
+353
+00:17:16,019 --> 00:17:23,019
+Now, funny enough, I learned way more from them than I learned from people who took it easy on me.
+
+354
+00:17:23,019 --> 00:17:29,019
+Over the years, I came to appreciate that, really, they just had incredibly high standards.
+
+355
+00:17:29,019 --> 00:17:30,019
+Yes, they were a bit uncomfortable.
+
+356
+00:17:30,019 --> 00:17:31,019
+Yeah.
+
+357
+00:17:31,019 --> 00:17:33,019
+They were unskilled in how they dealt with that.
+
+358
+00:17:33,019 --> 00:17:38,019
+But I would not have been as successful as I was able to be if they hadn't pushed me.
+
+359
+00:17:38,019 --> 00:17:49,019
+And so it's just, I guess, something to reflect on is, as a leader, are you pushing your people or are you holding back because you're afraid they're not going to like you?
+
+360
+00:17:49,019 --> 00:17:50,019
+Where's that balance?
+
+361
+00:17:50,019 --> 00:17:56,019
+There's a quote that you also had, a CEO friend of yours said, hey, Brian, your ability to reduce misery is greater than you think too.
+
+362
+00:17:56,019 --> 00:18:00,019
+So how do you find that line between high expectation and not, as you said, being a complete loser?
+
+363
+00:18:00,019 --> 00:18:05,019
+Yeah, I think that you have to have certainty.
+
+364
+00:18:05,019 --> 00:18:11,019
+The way I process it for myself is you've got to have a level of certainty as to what you need to achieve as a team.
+
+365
+00:18:11,019 --> 00:18:20,019
+And if you're certain about that and you convey that to people, then they understand where you're coming from with that standard that you set.
+
+366
+00:18:20,019 --> 00:18:25,019
+And you can be straightforward about that's not good enough or I need more than that.
+
+367
+00:18:25,019 --> 00:18:28,019
+And I have confidence that you can do that.
+
+368
+00:18:28,019 --> 00:18:37,019
+I think there's a way to do it and be very, very clear and blunt when you need to without people feeling like you don't value them as a person.
+
+369
+00:18:37,019 --> 00:18:45,019
+And I think if you do that right, I had an executive who worked for me at Westpac who was amazing at this.
+
+370
+00:18:45,019 --> 00:18:57,019
+He came in and he said to, he was in technology, and he came in and he said to his team, guys, our performance in terms of the uptime of our systems is just nowhere near good enough.
+
+371
+00:18:57,019 --> 00:19:03,019
+And my intention and our aspiration is we want to have a world-class technology function.
+
+372
+00:19:03,019 --> 00:19:08,019
+And if we want to be world-class, then this has to be way better than it is.
+
+373
+00:19:08,019 --> 00:19:13,019
+And because he approached it from that standpoint, people were like, oh, yeah, I want to be part of a world-class team.
+
+374
+00:19:13,019 --> 00:19:17,019
+And so he could be very blunt with people going, that is not world-class.
+
+375
+00:19:17,019 --> 00:19:19,019
+World-class is over here.
+
+376
+00:19:19,019 --> 00:19:22,019
+And so everyone was very clear what they needed to get to.
+
+377
+00:19:22,019 --> 00:19:24,019
+And sure, not everybody made it.
+
+378
+00:19:24,019 --> 00:19:26,019
+But a lot of people who perhaps didn't make it.
+
+379
+00:19:26,019 --> 00:19:27,019
+Yeah.
+
+380
+00:19:27,019 --> 00:19:36,019
+And perhaps might have been thought of not being up to it turned out to be able to achieve a lot just because he was clear about what the aspiration was and why.
+
+381
+00:19:36,019 --> 00:19:37,019
+Yeah, it makes sense.
+
+382
+00:19:37,019 --> 00:19:48,019
+I think relating to we grew up in an era of sport, I think, where the coaches, one would or probably only plan was personal abuse and just to see if they could break people down.
+
+383
+00:19:48,019 --> 00:19:50,019
+If you survived, you got through.
+
+384
+00:19:50,019 --> 00:19:52,019
+But there wasn't any subtlety to that.
+
+385
+00:19:52,019 --> 00:19:56,019
+I think it spawned a generation for me of the next generation of coaches here in Australia and I think overseas.
+
+386
+00:19:56,019 --> 00:19:57,019
+They're still tough.
+
+387
+00:19:57,019 --> 00:19:58,019
+They still set high criteria.
+
+388
+00:19:58,019 --> 00:20:03,019
+But there is an element of empathy that goes with it as well and an element of fairness, I suppose.
+
+389
+00:20:03,019 --> 00:20:06,019
+I think they've worked out that perhaps the personal abuse doesn't work right.
+
+390
+00:20:06,019 --> 00:20:07,019
+Yeah.
+
+391
+00:20:07,019 --> 00:20:11,019
+Well, you might not be too thrilled with this, but I've actually been a Richmond Tigers supporter for 27 years.
+
+392
+00:20:11,019 --> 00:20:22,019
+And I'm incredibly proud of that association when I look at the way they rebuilt that team over the last few years and all the work they did as a team in terms of supporting each other.
+
+393
+00:20:22,019 --> 00:20:24,019
+I think it's really inspirational and shows it can actually work.
+
+394
+00:20:24,019 --> 00:20:25,019
+Yeah.
+
+395
+00:20:25,019 --> 00:20:26,019
+It is.
+
+396
+00:20:26,019 --> 00:20:27,019
+I'm not thrilled about it, Brian.
+
+397
+00:20:27,019 --> 00:20:29,019
+I think you picked the wrong group.
+
+398
+00:20:29,019 --> 00:20:32,019
+But they are a great story of leadership themselves.
+
+399
+00:20:32,019 --> 00:20:46,019
+And knowing those guys, Peggy from a board point of view and Brendan Gayle as a CEO and Damien Hardwick together, along with the whole team and the players, it's a fantastic story of turning that into an incredibly successful organization.
+
+400
+00:20:46,019 --> 00:20:48,019
+I want to talk about self-reflection.
+
+401
+00:20:48,019 --> 00:20:50,019
+You've got that at the middle of what you do and who you are.
+
+402
+00:20:50,019 --> 00:20:52,019
+And you're open to that.
+
+403
+00:20:52,019 --> 00:20:54,019
+And I love you talking about the fact you've had a coach.
+
+404
+00:20:54,019 --> 00:20:57,019
+The fact you've had a coach for a lot of your life.
+
+405
+00:20:57,019 --> 00:21:04,019
+And you're pretty open about working through stuff in your childhood and your parent separation and your relationship with your dad.
+
+406
+00:21:04,019 --> 00:21:07,019
+Can you explain that a little bit more and how beneficial that's been to you?
+
+407
+00:21:07,019 --> 00:21:08,019
+Yeah.
+
+408
+00:21:08,019 --> 00:21:14,019
+So it started with doing one of these 360-degree feedback exercises about 20 years ago.
+
+409
+00:21:14,019 --> 00:21:21,019
+And this woman was sent in to give me the good news, so to speak, on the feedback that I'd gotten.
+
+410
+00:21:21,019 --> 00:21:23,019
+And it started with this feedback.
+
+411
+00:21:23,019 --> 00:21:29,019
+And it started with this feedback that my colleagues said a lot of really nice things, but then they said, he's not very collaborative.
+
+412
+00:21:29,019 --> 00:21:39,019
+And I was really taken aback by that and kind of rejected the feedback because I thought, well, I would never do something in my benefit against the interest of a colleague.
+
+413
+00:21:39,019 --> 00:21:41,019
+And I'd always help people who ask.
+
+414
+00:21:41,019 --> 00:21:44,019
+And so I thought there was something wrong with the feedback.
+
+415
+00:21:44,019 --> 00:21:47,019
+And I resented it and kind of rejected it for three or four months.
+
+416
+00:21:47,019 --> 00:21:51,019
+And then eventually, in talking to this woman, who turned out to be incredibly insightful.
+
+417
+00:21:51,019 --> 00:22:03,019
+I realized that what people were experiencing was driven by some stuff that was going on in my head and that I needed to deal with that.
+
+418
+00:22:03,019 --> 00:22:05,019
+And then the problem resolved itself.
+
+419
+00:22:05,019 --> 00:22:12,019
+So in my mind, I was insecure about my own ability as a manager because I was new to this big job.
+
+420
+00:22:12,019 --> 00:22:18,019
+And so I thought that the best way I could help everybody was by doing my job well because I wasn't sure I was up to it.
+
+421
+00:22:18,019 --> 00:22:20,019
+And she said to me, well, you know what?
+
+422
+00:22:20,019 --> 00:22:23,019
+She said to me, well, people can't see that.
+
+423
+00:22:23,019 --> 00:22:26,019
+All they see is you're only interested in your own stuff.
+
+424
+00:22:26,019 --> 00:22:33,019
+And once I realized that, and the thing that she said after that is, and by the way, you've had two good years, so actually you are up to it.
+
+425
+00:22:33,019 --> 00:22:38,019
+So why don't you just give yourself a tick and stop worrying so much about whether or not you can do this job.
+
+426
+00:22:38,019 --> 00:22:40,019
+You can do this job.
+
+427
+00:22:40,019 --> 00:22:47,019
+And actually, it was like a switch was flicked in my mind where I kind of gave myself a pass and went, yeah, okay, I can do this.
+
+428
+00:22:47,019 --> 00:22:49,019
+And so I stopped being so stressed out about that.
+
+429
+00:22:49,019 --> 00:22:54,019
+And that meant I had more brain space to be generous and helpful with other people.
+
+430
+00:22:54,019 --> 00:23:10,019
+And I guess that was the start of recognizing that the beliefs I had about myself or the experiences that maybe bad experiences I had in the past that I was trying to avoid was having a flow-on effect into the way I dealt with people.
+
+431
+00:23:10,019 --> 00:23:18,019
+And so I have really become a big believer in the fact that the way people experience you is a consequence of the way they see you.
+
+432
+00:23:18,019 --> 00:23:23,019
+It's a consequence of what's going on internally, not just what you're trying to project.
+
+433
+00:23:23,019 --> 00:23:25,019
+And it's much easier to work on.
+
+434
+00:23:25,019 --> 00:23:28,019
+I mean, it's harder in a sense because you have to confront some stuff.
+
+435
+00:23:28,019 --> 00:23:36,019
+But if you can sort yourself out internally, then it gets easier because you're more able to just be yourself.
+
+436
+00:23:36,019 --> 00:23:39,019
+And that ends up being effective, if that makes sense.
+
+437
+00:23:39,019 --> 00:23:40,019
+Yeah, it does.
+
+438
+00:23:40,019 --> 00:23:41,019
+There's a great quote that you referenced.
+
+439
+00:23:41,019 --> 00:23:43,019
+Becoming a leader is synonymous with becoming yourself.
+
+440
+00:23:43,019 --> 00:23:46,019
+It's precisely that simple, and it's also that difficult.
+
+441
+00:23:46,019 --> 00:23:48,019
+I love that, Warren.
+
+442
+00:23:48,019 --> 00:23:49,019
+That's a fantastic quote.
+
+443
+00:23:49,019 --> 00:23:56,019
+And to me, I love that, to me, you don't think of CEOs of banks being self-reflective and vulnerable.
+
+444
+00:23:56,019 --> 00:23:59,019
+And I suppose there's stereotypes about footballers and sports people as well.
+
+445
+00:23:59,019 --> 00:24:03,019
+But were you open with those under you, that this was something you did and you worked on yourself?
+
+446
+00:24:03,019 --> 00:24:04,019
+Yeah.
+
+447
+00:24:04,019 --> 00:24:10,019
+Because to me, it helps a lot of other people to understand that it's perfectly normal and it helps you to be the person you want to be.
+
+448
+00:24:10,019 --> 00:24:11,019
+Yeah, absolutely.
+
+449
+00:24:11,019 --> 00:24:17,019
+I suppose a combination of taking a risk in that and just being pretty open about that sort of thing,
+
+450
+00:24:17,019 --> 00:24:22,019
+with a view that hopefully that encourages other people to do the same.
+
+451
+00:24:22,019 --> 00:24:28,019
+Because I've certainly learned that you build relationships by being willing to be vulnerable with people.
+
+452
+00:24:28,019 --> 00:24:29,019
+Relationships are about trust.
+
+453
+00:24:29,019 --> 00:24:32,019
+Trust is about vulnerability, actually.
+
+454
+00:24:32,019 --> 00:24:35,019
+And so I had to model that.
+
+455
+00:24:35,019 --> 00:24:39,019
+It's no good to tell everyone else to fix themselves and then pretend I'm perfect.
+
+456
+00:24:39,019 --> 00:24:42,019
+But actually starting with, look, here's what I'm working on.
+
+457
+00:24:42,019 --> 00:24:46,019
+I want to hear your feedback, and you'll see me trying to deal with that.
+
+458
+00:24:46,019 --> 00:24:52,019
+Once I can demonstrate being genuine about that, it's a lot easier for me to expect that of other people.
+
+459
+00:24:52,019 --> 00:24:56,019
+The other thing I found, it sounds silly, but there's an element of laziness about it,
+
+460
+00:24:56,019 --> 00:25:04,019
+which I found it's just much easier to actually be myself than to try to be some stereotype of how you ought to be.
+
+461
+00:25:04,019 --> 00:25:09,019
+And I guess somewhere along in my career, I just decided I was just going to be myself.
+
+462
+00:25:09,019 --> 00:25:14,019
+And sure, you have to tune your frequency a bit for different situations.
+
+463
+00:25:14,019 --> 00:25:15,019
+And there's a level of accuracy.
+
+464
+00:25:15,019 --> 00:25:17,019
+There's a level of acting that's involved.
+
+465
+00:25:17,019 --> 00:25:20,019
+And when you're running a big organization, you have to play certain roles.
+
+466
+00:25:20,019 --> 00:25:28,019
+But I found ways to try to do that and have them all be true to who I was rather than being fake about it.
+
+467
+00:25:28,019 --> 00:25:39,779
+A lot of people would listen and think, God, the banking world and the finance world that you've been immersed in
+
+468
+00:25:39,779 --> 00:25:42,779
+and been a great success right throughout your career.
+
+469
+00:25:42,779 --> 00:25:47,779
+It's alpha male, a lot of ego, a lot of politics at times.
+
+470
+00:25:47,779 --> 00:25:48,779
+Was it challenging?
+
+471
+00:25:48,779 --> 00:25:49,779
+Did that challenge other people?
+
+472
+00:25:49,779 --> 00:25:50,779
+Was it your style?
+
+473
+00:25:50,779 --> 00:25:53,779
+Perhaps he's a little bit more vulnerable than others before you?
+
+474
+00:25:53,779 --> 00:25:54,779
+Occasionally.
+
+475
+00:25:54,779 --> 00:26:00,779
+And these are really interesting points that you're highlighting.
+
+476
+00:26:00,779 --> 00:26:08,779
+So the alpha male thing, there was one point in my career where I found that actually the environment,
+
+477
+00:26:08,779 --> 00:26:11,779
+the people I was working with just really didn't work for me.
+
+478
+00:26:11,779 --> 00:26:14,779
+And it was just I wasn't enjoying getting out of bed and going to work.
+
+479
+00:26:14,779 --> 00:26:18,779
+And it took a while, but I left as a consequence.
+
+480
+00:26:18,779 --> 00:26:20,779
+I just decided life's not going to be the same.
+
+481
+00:26:20,779 --> 00:26:24,779
+Life's too short to put up with assholes, actually.
+
+482
+00:26:24,779 --> 00:26:30,779
+And to the extent that I've had control over the people who work for me in selecting the team,
+
+483
+00:26:30,779 --> 00:26:37,779
+I've always had a philosophy of I want to work with people who are world-class at what they do but are also nice people.
+
+484
+00:26:37,779 --> 00:26:42,779
+And just because an element of it is just life's too short to just deal with incredibly difficult people.
+
+485
+00:26:42,779 --> 00:26:48,779
+And I don't think that people like that in the end are good for big organizations either.
+
+486
+00:26:48,779 --> 00:26:52,779
+I think things have evolved a bit in big companies and financial services.
+
+487
+00:26:52,779 --> 00:26:58,779
+I think there's a lot more people probably who've come through and had the support that I've had along the way.
+
+488
+00:26:58,779 --> 00:27:03,779
+And I think there's much more of an understanding that you do need to have that element of humanity
+
+489
+00:27:03,779 --> 00:27:07,779
+when you're trying to get people engaged in what you're doing.
+
+490
+00:27:07,779 --> 00:27:11,779
+It really makes sense because that's something that I'm really passionate about, Brian,
+
+491
+00:27:11,779 --> 00:27:16,779
+in some of the work I'm doing at the moment is that idea that you spend a lot of time at work.
+
+492
+00:27:16,779 --> 00:27:19,779
+A lot of your well-being is generated by the people you're around.
+
+493
+00:27:19,779 --> 00:27:25,779
+And I suppose to me, you don't have to be the CEO of a bank or the captain of a footy team to have an impact.
+
+494
+00:27:25,779 --> 00:27:29,779
+And you can have an impact on the person sitting next to you and your environment.
+
+495
+00:27:29,779 --> 00:27:31,779
+Your philosophies to me relate to all that.
+
+496
+00:27:31,779 --> 00:27:32,779
+You show care.
+
+497
+00:27:32,779 --> 00:27:35,779
+That's not something that a leader can only be exclusive to.
+
+498
+00:27:35,779 --> 00:27:40,779
+Or you can create clarity for people around you and you can celebrate little wins.
+
+499
+00:27:40,779 --> 00:27:42,779
+And that language works for people.
+
+500
+00:27:42,779 --> 00:27:46,779
+But then when you bring more people along who've got bigger influence in managerial work,
+
+501
+00:27:46,779 --> 00:27:51,779
+managerial roles, who then show that sort of empathy and compassion and clarity along the line,
+
+502
+00:27:51,779 --> 00:27:53,779
+it changes people's lives, doesn't it?
+
+503
+00:27:53,779 --> 00:27:58,779
+Because people sitting in disengaged workforces tend to be miserable and unhealthy and unhappy
+
+504
+00:27:58,779 --> 00:28:00,779
+and it has a big impact on their life.
+
+505
+00:28:00,779 --> 00:28:01,779
+Absolutely.
+
+506
+00:28:01,779 --> 00:28:04,779
+I mean, I'm a believer that when you get engagement right,
+
+507
+00:28:04,779 --> 00:28:07,779
+it does have an impact on the performance of an organization.
+
+508
+00:28:07,779 --> 00:28:13,779
+But equally, it's just far more satisfying to work in an organization where people really want to be there.
+
+509
+00:28:13,779 --> 00:28:15,779
+They're excited about what they're doing.
+
+510
+00:28:15,779 --> 00:28:19,779
+And certainly, having left Westpac,
+
+511
+00:28:19,779 --> 00:28:26,779
+it is incredibly satisfying when you speak to people who were there a couple of years ago when I was there
+
+512
+00:28:26,779 --> 00:28:31,779
+who still reflect on how much it meant to them to be in the organization at that time
+
+513
+00:28:31,779 --> 00:28:36,779
+and how grateful they are for the way I was able to do things.
+
+514
+00:28:36,779 --> 00:28:43,779
+And that is an incredible satisfaction that transcends just the scoreboard.
+
+515
+00:28:43,779 --> 00:28:44,779
+Yeah.
+
+516
+00:28:44,779 --> 00:28:45,779
+And I'll ask you about that.
+
+517
+00:28:45,779 --> 00:28:48,779
+I mean, you're looking for people with your success stories.
+
+518
+00:28:48,779 --> 00:28:51,779
+You're trying to find, hey, was there a moment where you had a challenge to face
+
+519
+00:28:51,779 --> 00:28:55,779
+and you've had a really public challenge to face on the back of the Royal Banking Commission
+
+520
+00:28:55,779 --> 00:29:01,779
+and the subsequent issues regulatory that I suppose ultimately resulted in your departure from Westpac.
+
+521
+00:29:01,779 --> 00:29:05,779
+But you have a great sense of calmness about it and your language.
+
+522
+00:29:05,779 --> 00:29:08,779
+There was a great line that I read of yours, you know,
+
+523
+00:29:08,779 --> 00:29:11,779
+the privilege of leadership comes with accountability.
+
+524
+00:29:11,779 --> 00:29:12,779
+You might have caused it.
+
+525
+00:29:12,779 --> 00:29:13,779
+You might not have even known about it.
+
+526
+00:29:13,779 --> 00:29:15,779
+But the ultimate responsibility rests with you.
+
+527
+00:29:15,779 --> 00:29:20,779
+How did you find that calmness in such a public – the world was looking for a scalp
+
+528
+00:29:20,779 --> 00:29:24,779
+and unfortunately Brian Hartz's name was at the top of the tree.
+
+529
+00:29:24,779 --> 00:29:25,779
+Yeah.
+
+530
+00:29:25,779 --> 00:29:28,779
+Two things I'd say about – well, actually, there's three points I'd make about that.
+
+531
+00:29:28,779 --> 00:29:31,779
+So one was I knew what I was getting into.
+
+532
+00:29:31,779 --> 00:29:36,779
+So I had worked in the UK under a fellow called Stephen Hester running RBS.
+
+533
+00:29:36,779 --> 00:29:38,779
+RBS is the biggest bank failure in history.
+
+534
+00:29:38,779 --> 00:29:40,779
+Stephen was hired to fix it.
+
+535
+00:29:40,779 --> 00:29:43,779
+But everyone forgot that as soon as he was hired and started blaming him for it.
+
+536
+00:29:43,779 --> 00:29:47,779
+He had photographers trailing him when he'd go out for a run in the morning.
+
+537
+00:29:47,779 --> 00:29:50,779
+You know, it was just unbelievably abusive over there in the press.
+
+538
+00:29:50,779 --> 00:29:52,779
+And so I saw that.
+
+539
+00:29:52,779 --> 00:29:56,779
+And I always understood when I signed up for this job that that could happen.
+
+540
+00:29:56,779 --> 00:29:59,779
+Regardless, it's just – there's an element of symbolism.
+
+541
+00:29:59,779 --> 00:30:03,779
+People personalize organizations into the CEO.
+
+542
+00:30:03,779 --> 00:30:08,779
+And so if they're frustrated about something, they want to, as you say, find a scalp.
+
+543
+00:30:08,779 --> 00:30:11,779
+So number one, I knew going in that was a possibility.
+
+544
+00:30:11,779 --> 00:30:12,779
+And I think, therefore, you know, it's a good thing.
+
+545
+00:30:12,779 --> 00:30:16,779
+Therefore, in a sense, I wasn't that surprised when it finally happened.
+
+546
+00:30:16,779 --> 00:30:21,779
+It was like, okay, well, you know, that's a possibility that I've got to live with.
+
+547
+00:30:21,779 --> 00:30:30,779
+I think the second thing was I learned a number of years ago to separate how I felt about my career success from how I felt about myself as a person.
+
+548
+00:30:30,779 --> 00:30:34,779
+And I think that is a really, really important lesson that I learned.
+
+549
+00:30:34,779 --> 00:30:41,779
+It took a lot of stress out of my life because particularly as you get more senior in a large organization,
+
+550
+00:30:41,779 --> 00:30:44,779
+you can't control everything that's going to happen.
+
+551
+00:30:44,779 --> 00:30:45,779
+You can do your best.
+
+552
+00:30:45,779 --> 00:30:46,779
+You can work hard.
+
+553
+00:30:46,779 --> 00:30:48,779
+You can try and make good choices.
+
+554
+00:30:48,779 --> 00:30:49,779
+You can treat people well.
+
+555
+00:30:49,779 --> 00:30:52,779
+But in the end, there's a fair amount of randomness in life.
+
+556
+00:30:52,779 --> 00:31:00,779
+And I happened to be the CEO at a time when the industry was going through what it went through and where regulators were doing what they did.
+
+557
+00:31:00,779 --> 00:31:03,779
+And so that's just my lot.
+
+558
+00:31:03,779 --> 00:31:06,779
+I did my best, but I had to accept that that could happen.
+
+559
+00:31:06,779 --> 00:31:10,779
+And so it was more important that how I feel about myself is driven by what I do.
+
+560
+00:31:11,779 --> 00:31:15,779
+It's driven by am I happy with the way I've made decisions?
+
+561
+00:31:15,779 --> 00:31:17,779
+Am I happy with the way I behaved?
+
+562
+00:31:17,779 --> 00:31:18,779
+Have I tried hard?
+
+563
+00:31:18,779 --> 00:31:21,779
+Have I been careful and thoughtful?
+
+564
+00:31:21,779 --> 00:31:23,779
+Have I treated people well?
+
+565
+00:31:23,779 --> 00:31:26,779
+Have I looked after my family and my friends?
+
+566
+00:31:26,779 --> 00:31:29,779
+And if I've done that, then I'm okay with myself.
+
+567
+00:31:29,779 --> 00:31:34,779
+And my mantra is all I can do is all I can do, and it will be what it will be.
+
+568
+00:31:34,779 --> 00:31:38,779
+And so I've tried to live that for the last probably 15 years.
+
+569
+00:31:38,779 --> 00:31:41,779
+And it's meant that I haven't experienced a huge amount of success.
+
+570
+00:31:41,779 --> 00:31:51,779
+Certainly, I find things in family life way more stressful typically than business stuff because I can control how I feel about myself based on that behavior.
+
+571
+00:31:51,779 --> 00:31:55,779
+And if we have a great month in the company, terrific.
+
+572
+00:31:55,779 --> 00:31:57,779
+If we have a bad month, that's a shame.
+
+573
+00:31:57,779 --> 00:31:59,779
+But in both cases, it's, okay, what do we learn?
+
+574
+00:31:59,779 --> 00:32:00,779
+What do we need to do?
+
+575
+00:32:00,779 --> 00:32:05,779
+I don't try to internalize, hey, I'm brilliant because we had a good month last month.
+
+576
+00:32:05,779 --> 00:32:08,779
+Equally, I'm not terrible because we had a bad month last month.
+
+577
+00:32:08,779 --> 00:32:10,779
+And because I built that up as a habit, that made it easier.
+
+578
+00:32:10,779 --> 00:32:18,779
+The third thing I would say, and this might sound a little corny, but I appreciate the opportunity to share this with people having gone through it.
+
+579
+00:32:18,779 --> 00:32:26,779
+When it finished, I had a conversation with my children, and I said, there's one real lesson that I want to share with you out of this.
+
+580
+00:32:26,779 --> 00:32:38,779
+And that is that I knew shortly after I got the job as CEO, I remember having this conversation with myself recognizing that I was going to be faced with challenges and choices
+
+581
+00:32:38,779 --> 00:32:50,779
+where I could make a choice that was maybe good for me or safe for me, or I could make a choice that I thought was right for the company and right for the people, but might put me personally at risk.
+
+582
+00:32:50,779 --> 00:33:00,779
+And I made a decision that whenever I faced that, I was always going to do what I thought was right for the company, and I wasn't going to worry about what it meant for me.
+
+583
+00:33:00,779 --> 00:33:06,779
+And the consequence of that, of never choosing to protect myself and being willing to take risks, even if it was something that I didn't want to do, was that I was going to be faced with a lot of challenges.
+
+584
+00:33:06,779 --> 00:33:07,779
+I was going to be faced with a lot of challenges.
+
+585
+00:33:07,779 --> 00:33:08,779
+I was going to be faced with a lot of challenges.
+
+586
+00:33:08,779 --> 00:33:15,779
+And the fact that I had to leave, even if they had negative consequences for me, meant that when I did leave, I had a totally clear conscience.
+
+587
+00:33:15,779 --> 00:33:20,779
+And that was unbelievably important.
+
+588
+00:33:20,779 --> 00:33:36,779
+It sounds like a really obvious thing, like you tell your kids when they're five years old, but the fact that I never compromised my values in the decisions I made in order to protect myself or advance myself meant that I could leave without any regrets.
+
+589
+00:33:36,779 --> 00:33:37,779
+And if I had cut a corner.
+
+590
+00:33:37,779 --> 00:33:46,859
+cut a corner or tried to protect myself or not been courageous and then gotten something gone
+
+591
+00:33:46,859 --> 00:33:53,299
+wrong, I'd be beating myself up for the rest of my life. And I'm not. And that's a really good
+
+592
+00:33:53,299 --> 00:33:59,059
+place to be. And Brian, I think you can't fake the way you look and sound and feel. I think that's
+
+593
+00:33:59,059 --> 00:34:04,000
+just a testament to the authenticity that you share. I was just, as you were talking, thinking
+
+594
+00:34:04,000 --> 00:34:08,940
+about a wedding I went to a number of years ago. And as you do at weddings, you sometimes get to
+
+595
+00:34:08,940 --> 00:34:12,500
+sit next to someone and you turn around, you shake the hand of the person next to you, introduce
+
+596
+00:34:12,500 --> 00:34:18,639
+yourself. And this guy was really successful in the construction industry and made lots and lots
+
+597
+00:34:18,639 --> 00:34:23,800
+of money. And the GFC had just hit literally a week before. And he'd seen all of his net wealth
+
+598
+00:34:23,800 --> 00:34:28,920
+evaporate before his eye. I've never, ever sat next to a sadder person in my life. It was almost
+
+599
+00:34:28,920 --> 00:34:33,760
+to the point where you just couldn't engage at all. And it was just the sadness.
+
+600
+00:34:34,000 --> 00:34:39,000
+You could just tell his wellbeing and his life was attached to the financial success of his
+
+601
+00:34:39,000 --> 00:34:43,500
+career. And clearly it was raw and fresh, so in fairness. But what you're saying is that you've,
+
+602
+00:34:43,579 --> 00:34:48,960
+over a long period of time, been able to disengage your work life, your success with that family.
+
+603
+00:34:49,039 --> 00:34:53,119
+And obviously there's a great life lesson, isn't it, for you now? Because I look at you and you
+
+604
+00:34:53,119 --> 00:34:56,920
+look content, happy. You've got great stuff happening in your life post-banking. Can you
+
+605
+00:34:56,920 --> 00:35:01,019
+actually look back and think, I wouldn't choose that to be the case, but now that it's happened,
+
+606
+00:35:01,440 --> 00:35:03,579
+it's fine and it's a good chapter coming up?
+
+607
+00:35:04,000 --> 00:35:07,320
+Well, I am excited about the things I'm doing now. I'm certainly enjoying it.
+
+608
+00:35:07,579 --> 00:35:12,239
+I always knew that that role would only ever be a chapter in my life. And I think that was
+
+609
+00:35:12,239 --> 00:35:18,920
+also part of that same story. But I'm not going to pretend that I'm happy with the way that it
+
+610
+00:35:18,920 --> 00:35:24,420
+worked out. I wish it hadn't happened. And I wish I'd had a few more years to complete the agenda
+
+611
+00:35:24,420 --> 00:35:30,679
+that we were working on when I was there. I accept that that's what happens in life. Life
+
+612
+00:35:30,679 --> 00:35:35,219
+is what happens after you make plans. And one of the other things that people sometimes find
+
+613
+00:35:35,219 --> 00:35:40,059
+amusing is I used to joke that I had a list of things to do when I got fired, which I really
+
+614
+00:35:40,059 --> 00:35:47,599
+did. And one of which was to write that book. And it did help to remind myself from time to time that
+
+615
+00:35:47,599 --> 00:35:52,639
+there would be another chapter after that. And that I needed to think about what were the sorts
+
+616
+00:35:52,639 --> 00:35:58,260
+of things that I was going to want to do with myself so that I didn't suddenly find that my
+
+617
+00:35:58,260 --> 00:36:00,519
+world had ended. And can you share some of those
+
+618
+00:36:00,519 --> 00:36:00,659
+things? I think that's a great question. I think that's a great question. I think that's a great
+
+619
+00:36:00,679 --> 00:36:05,159
+I know you've jumped on as the, on the museum board and you're doing some work
+
+620
+00:36:05,159 --> 00:36:11,699
+with Luke Sayers here in Melbourne as well. Is this next chapter going to be as fulfilling
+
+621
+00:36:11,699 --> 00:36:14,739
+and successful as you'd hoped? Well, I hope it'll be good. A lot of what I'm doing,
+
+622
+00:36:14,860 --> 00:36:18,840
+so I'm really enjoying the museum. It's a really good time with the Australian Museum in Sydney,
+
+623
+00:36:19,039 --> 00:36:23,920
+but I'm also doing a lot of what I'm doing is working with startups actually. So I've done a
+
+624
+00:36:23,920 --> 00:36:28,599
+number of angel investments and there are two, maybe three companies that I'll actually be
+
+625
+00:36:28,599 --> 00:36:34,519
+chairing as startups. And I really think it's an exciting time in the economy, the impact that
+
+626
+00:36:34,519 --> 00:36:38,199
+technology is having. And that was something I was always really interested in, but didn't get to
+
+627
+00:36:38,199 --> 00:36:43,500
+spend as much time on in my previous role. So it's this period has given me the chance to pick
+
+628
+00:36:43,500 --> 00:36:48,280
+things I find genuinely interesting and spend my time on those things. A lot of people will be
+
+629
+00:36:48,280 --> 00:36:53,860
+listening to this who are in the startup phase and I'm in that myself. What's the key? What do you
+
+630
+00:36:53,860 --> 00:36:58,579
+see as being the practical things? There's no guarantee of sustained success, but what are the
+
+631
+00:36:58,579 --> 00:37:04,219
+practical bits of advice you'd give? Well, gosh, one of the main things I often find
+
+632
+00:37:04,219 --> 00:37:11,440
+myself saying to startup founders is that you're trying to build a business, not a product. So yes,
+
+633
+00:37:11,460 --> 00:37:16,659
+you need to build your product. And people often come to startups with a tremendous obsession about
+
+634
+00:37:16,659 --> 00:37:21,840
+a particular problem or a particular thing they want to build or an innovation, which is great.
+
+635
+00:37:21,940 --> 00:37:26,780
+And you need that, but that isn't enough to make a business a success. You have to really think
+
+636
+00:37:26,780 --> 00:37:27,960
+about the whole system.
+
+637
+00:37:28,579 --> 00:37:33,000
+The business, the team you've got around you, what customers you're going to go to,
+
+638
+00:37:33,139 --> 00:37:36,199
+how you're going to sell, how you're going to support those customers over time.
+
+639
+00:37:36,860 --> 00:37:42,719
+So I guess I would just say, in the end, the basics of business still apply. Sure,
+
+640
+00:37:42,820 --> 00:37:47,760
+you might invent some unbelievable thing and some company from Silicon Valley comes and pays you a
+
+641
+00:37:47,760 --> 00:37:52,239
+billion dollars for your brilliant innovation, but that's pretty rare. More likely, you've actually
+
+642
+00:37:52,239 --> 00:37:57,179
+got to come up with something that people want to buy and figure out a system whereby you can
+
+643
+00:37:57,179 --> 00:37:58,559
+actually sell it to them and make a quid.
+
+644
+00:37:58,579 --> 00:38:02,880
+And it doesn't sound very sexy, but I think people sometimes
+
+645
+00:38:02,880 --> 00:38:08,880
+lose sight of some of the basics of business. And how important in that space, your book's
+
+646
+00:38:08,880 --> 00:38:13,440
+about the practical guide to building engagement, how important, again, it comes back to those
+
+647
+00:38:13,440 --> 00:38:16,400
+principles that you've lived and thought about for 30 years.
+
+648
+00:38:16,619 --> 00:38:22,079
+Well, it sounds like a cliche, but building a great team around you of people who complement
+
+649
+00:38:22,079 --> 00:38:27,599
+each other, enjoy spending time together, and are highly motivated to deliver something amazing
+
+650
+00:38:28,579 --> 00:38:33,840
+is one of the most important elements in any business. And so I think what I've tried to do
+
+651
+00:38:33,840 --> 00:38:38,400
+with the framework of Leadership Star is give people a way to think about the elements that
+
+652
+00:38:38,400 --> 00:38:43,219
+go into building that kind of a culture and keeping it sustainable. And hopefully, people
+
+653
+00:38:43,219 --> 00:38:48,199
+will find that helpful as they reflect on the way they want to build a team and build a culture.
+
+654
+00:38:48,739 --> 00:38:53,219
+Brian, across this podcast, we're talking to a range of different leaders from the world of
+
+655
+00:38:53,219 --> 00:38:58,260
+sport and from industry and the arts. And we've been, at the end, just trying to get what we think
+
+656
+00:38:58,260 --> 00:38:58,559
+is the difference between a team and a culture. And I think that's really important. And I think
+
+657
+00:38:58,559 --> 00:39:03,000
+dimensions of leadership, and you've covered them a lot in your book, so it might be challenging
+
+658
+00:39:03,000 --> 00:39:08,480
+to answer them. Take as much time as you like. But I want to start with this handful, or finish
+
+659
+00:39:08,480 --> 00:39:12,559
+with this handful of questions, I should say. How would you describe self-leadership to you?
+
+660
+00:39:13,019 --> 00:39:17,179
+I think it's about knowing yourself, knowing what's important to you, what drives you,
+
+661
+00:39:17,659 --> 00:39:22,099
+what sort of contribution you want to make, understanding where you're at your best,
+
+662
+00:39:22,860 --> 00:39:28,460
+what your foibles are that you need to avoid and manage, and deciding to discipline yourself
+
+663
+00:39:28,559 --> 00:39:33,000
+to achieve the things that are going to help you have a meaningful life.
+
+664
+00:39:33,420 --> 00:39:36,860
+And how do you go about positively impacting others in your environment?
+
+665
+00:39:39,190 --> 00:39:43,849
+I guess I go back to starting with showing that you're interested in care about people
+
+666
+00:39:43,849 --> 00:39:47,769
+and are interested in what's important to them and helping them be successful in whatever
+
+667
+00:39:47,769 --> 00:39:53,070
+journey in life they're on. And if people think that you genuinely wish them well and
+
+668
+00:39:53,070 --> 00:39:57,130
+are interested in helping them, then I think that goes a long way.
+
+669
+00:39:57,130 --> 00:40:00,090
+And how have you gone about creating and sharing?
+
+670
+00:40:00,190 --> 00:40:07,570
+Well, it depends on the situation. I guess I like to talk to people about the things that
+
+671
+00:40:07,570 --> 00:40:12,409
+I'm seeing that are going on externally, what I'm excited about, why I'm excited about it,
+
+672
+00:40:12,789 --> 00:40:17,269
+and depending on the situation, then how they can contribute to that and why that will be
+
+673
+00:40:17,269 --> 00:40:22,750
+an exciting thing to be part of. I think I've certainly gravitated to people who want to build
+
+674
+00:40:22,750 --> 00:40:27,690
+things, create things, make an impact in the world. And that's certainly what motivates me.
+
+675
+00:40:28,349 --> 00:40:30,170
+And I find that tends to be a very important part of my life. And I think that's what I'm
+
+676
+00:40:30,170 --> 00:40:33,710
+trying to bring people together to want to be part of that.
+
+677
+00:40:34,349 --> 00:40:38,590
+Yeah, brilliantly said. And what about your approach to learning and improvement? How would
+
+678
+00:40:38,590 --> 00:40:39,170
+you describe that?
+
+679
+00:40:39,769 --> 00:40:46,969
+Eclectic. If there's one thing that I have learned about myself, it's that a great strength,
+
+680
+00:40:47,070 --> 00:40:52,409
+I suppose, that's helped drive me is I'm just inherently curious. I'm really interested.
+
+681
+00:40:52,929 --> 00:40:55,710
+Ever since I've been a kid, I've always been interested in how the world works,
+
+682
+00:40:56,130 --> 00:40:59,449
+how things work, what the system is that's going on behind the curtain.
+
+683
+00:41:00,170 --> 00:41:08,170
+And so I have allowed myself to indulge my curiosity by just diving into whatever I find
+
+684
+00:41:08,170 --> 00:41:13,309
+interesting and not... Occasionally, I'll force myself to read something that I think is important,
+
+685
+00:41:13,309 --> 00:41:18,469
+but I do a lot of reading and I don't actually try to be that disciplined about it. I just kind
+
+686
+00:41:18,469 --> 00:41:21,289
+of let them follow my nose as to what's interesting to me.
+
+687
+00:41:21,690 --> 00:41:28,070
+We started with the fact that you graduated from Princeton with a degree in European history.
+
+688
+00:41:28,409 --> 00:41:30,150
+What took you to that path?
+
+689
+00:41:30,170 --> 00:41:33,210
+It's not necessarily linked from there to the banking and finance world.
+
+690
+00:41:33,210 --> 00:41:36,550
+Well, funny enough, yeah. When I went to university, I thought I would major in economics
+
+691
+00:41:36,550 --> 00:41:42,730
+because I was really interested in going into banking from a pretty early age. And I went to
+
+692
+00:41:42,730 --> 00:41:47,869
+a couple of economics classes and just thought, this has got nothing to do with business. I found
+
+693
+00:41:47,869 --> 00:41:54,949
+it really, really boring. And luckily, we weren't actually allowed to pick our major until halfway
+
+694
+00:41:54,949 --> 00:41:59,570
+through the second year. And so I took lots of different courses. I took some politics classes,
+
+695
+00:41:59,570 --> 00:42:00,150
+and I just found it really, really interesting. And I thought, well, I'm going to do this.
+
+696
+00:42:00,170 --> 00:42:07,150
+I found, somewhat to my surprise, that I really loved my history classes. It was the ability to
+
+697
+00:42:07,150 --> 00:42:13,010
+burrow into a world and really try to understand a period of time or why something had happened or
+
+698
+00:42:13,010 --> 00:42:17,369
+the people that were involved in something and what motivated them. And I enjoyed the process
+
+699
+00:42:17,369 --> 00:42:24,150
+of researching and writing. And what I ended up finding was that studying history was a fantastic
+
+700
+00:42:24,150 --> 00:42:29,389
+preparation for what I ended up doing in management consulting because it taught me to find sources
+
+701
+00:42:30,170 --> 00:42:33,969
+of information, absorb huge amounts of information, synthesize that, and try and communicate it
+
+702
+00:42:33,969 --> 00:42:38,969
+clearly with a point of view. And that was essentially what I ended up doing in management
+
+703
+00:42:38,969 --> 00:42:47,090
+consulting in a way. And ever since then, I guess it gave me a useful skill to be able to synthesize
+
+704
+00:42:47,090 --> 00:42:54,269
+a lot of different bits of information and try to communicate that fairly clearly. And that has
+
+705
+00:42:54,269 --> 00:42:59,489
+been immensely helpful. So I continue to read lots of history books just for fun. But I actually
+
+706
+00:42:59,489 --> 00:43:00,150
+think it's interesting to me that I've been able to do that. And I think it's really, really
+
+707
+00:43:00,170 --> 00:43:05,269
+underappreciated as a training ground for future business leaders.
+
+708
+00:43:05,949 --> 00:43:10,409
+Yeah. And you mentioned the communication with clarity. How have you gone about that
+
+709
+00:43:10,409 --> 00:43:17,489
+throughout your career? Well, I started out just doing writing. And the training I had in
+
+710
+00:43:17,489 --> 00:43:22,409
+management consulting was a lot about writing clearly and endless editing to make things simple
+
+711
+00:43:22,409 --> 00:43:29,170
+and easy. And we were actually taught to write from a particular expert in that that helped me
+
+712
+00:43:29,170 --> 00:43:30,150
+see that it was a good thing. And I think that's what I've been able to do.
+
+713
+00:43:30,170 --> 00:43:35,530
+I guess communication beyond that, I've just always been interested in this question of how do
+
+714
+00:43:35,530 --> 00:43:43,590
+you communicate with impact? And there's a fantastic book that I came across, which has
+
+715
+00:43:43,590 --> 00:43:49,550
+kind of become my communication Bible, which is called Made to Stick by Chip and Dan Heath.
+
+716
+00:43:50,090 --> 00:43:54,969
+I highly, highly recommend it. And they essentially talk about what is it that makes some
+
+717
+00:43:54,969 --> 00:43:59,969
+communication stick and others be forgotten. And they talk about the importance of communication.
+
+718
+00:43:59,969 --> 00:44:04,429
+The importance of stories and the importance of telling emotionally connecting stories that
+
+719
+00:44:04,429 --> 00:44:11,210
+have a level of concreteness about them that can cut through. And so in my communications
+
+720
+00:44:11,210 --> 00:44:16,769
+in corporate life, I've tried really hard to think about using those principles about
+
+721
+00:44:16,769 --> 00:44:22,309
+what's the message I want to tell and how can I tell a story that people can remember that's
+
+722
+00:44:22,309 --> 00:44:26,469
+going to really bring this to life. Yeah. The art of storytelling. And you do tell a great story
+
+723
+00:44:26,469 --> 00:44:29,929
+about a trip to Disneyland and the impact. You wouldn't link Disneyland necessarily back to
+
+724
+00:44:29,969 --> 00:44:34,150
+customer service and banking, but by the leadership star. And I encourage you to read
+
+725
+00:44:34,150 --> 00:44:39,809
+that one. It was a great example of using your day-to-day life in a great storytelling way.
+
+726
+00:44:39,809 --> 00:44:44,250
+You mentioned earlier about you took the 360 degree feedback not so well at the start around
+
+727
+00:44:44,250 --> 00:44:50,010
+collaboration and you went and did some work on yourself. And then that really unlocked your
+
+728
+00:44:50,010 --> 00:44:54,849
+world of collaboration. How do you do that now? How do you collaborate and what's your method?
+
+729
+00:44:55,809 --> 00:44:59,949
+Well, I think because I'm now seeing myself as being
+
+730
+00:44:59,969 --> 00:45:04,349
+there to help other people fundamentally. From a corporate point of view, I had the
+
+731
+00:45:04,349 --> 00:45:10,269
+incredible privilege of getting to lead Australia's oldest company and one of the largest companies. So
+
+732
+00:45:10,269 --> 00:45:17,670
+there's nothing that's likely to top that from an external measure of leadership point of view.
+
+733
+00:45:17,769 --> 00:45:23,610
+So I kind of feel like, you know, tick. I kind of did that. And so now for me, it's much more about
+
+734
+00:45:23,610 --> 00:45:29,010
+how can I help make an impact by helping other people? So I don't really spend a lot of time
+
+735
+00:45:29,010 --> 00:45:29,690
+worrying about...
+
+736
+00:45:29,969 --> 00:45:38,110
+Me or what I want to achieve. My contribution, my success is helping other people be successful
+
+737
+00:45:38,110 --> 00:45:43,030
+and bringing to bear the experiences and the knowledge that I've gained. And so I guess
+
+738
+00:45:43,030 --> 00:45:49,150
+I'd like to think I'm almost 100% collaborative now because everything I'm doing is to try to
+
+739
+00:45:49,150 --> 00:45:52,929
+help other people be successful. Yeah, beautifully said. And it comes
+
+740
+00:45:52,929 --> 00:45:58,690
+across in your words in the leadership style. A final question, Brian, I have been asking this
+
+741
+00:45:58,690 --> 00:45:59,849
+regularly to...
+
+742
+00:45:59,849 --> 00:46:04,409
+To people who've joined me on this podcast. Who would you, if you thought about the greatest
+
+743
+00:46:04,409 --> 00:46:06,550
+leader in your life, is there someone that comes to mind?
+
+744
+00:46:07,230 --> 00:46:11,969
+Oh, boy. There's not one person that necessarily stands out, but there've been a few people who've
+
+745
+00:46:11,969 --> 00:46:18,969
+been just incredibly important in different ways. Starting with my father, who was the sort of
+
+746
+00:46:18,969 --> 00:46:23,909
+person that achieved an immense amount in life coming from pretty humble background and never
+
+747
+00:46:23,909 --> 00:46:29,289
+forgot where he came from and always made everybody he met like him and feel special.
+
+748
+00:46:29,849 --> 00:46:36,530
+And set a fantastic standard for me on how to treat people and how to be enthusiastic for other
+
+749
+00:46:36,530 --> 00:46:40,989
+people's success. So I think I dedicated the book at the start when I was thinking about how to
+
+750
+00:46:40,989 --> 00:46:44,309
+dedicate. I realized that actually everything I've written in the book, one way or another,
+
+751
+00:46:44,369 --> 00:46:51,610
+my father taught me without me realizing it. And as I've reflected back, I'm just feeling
+
+752
+00:46:51,610 --> 00:46:56,670
+incredibly privileged from what I've learned from him. Beyond that, though, I've been really
+
+753
+00:46:56,670 --> 00:46:59,829
+blessed to work for some amazing leaders of different countries. I've been able to work with
+
+754
+00:46:59,849 --> 00:47:08,150
+different types and also to see some incredible people who work for me, who I learned an immense
+
+755
+00:47:08,150 --> 00:47:12,010
+amount from about leadership. Miriam is a great example. We talked about Miriam earlier.
+
+756
+00:47:12,409 --> 00:47:12,530
+Yeah.
+
+757
+00:47:12,710 --> 00:47:18,730
+You know, the way she leads teams of people is amazing. I mean, I'll just give you an example
+
+758
+00:47:18,730 --> 00:47:22,610
+on that one. When I caught up with Miriam just before I published the book to make sure she was
+
+759
+00:47:22,610 --> 00:47:26,110
+okay with what I was going to say about her, she said, oh, she did absolutely. She said, oh,
+
+760
+00:47:26,110 --> 00:47:29,829
+by the way, you know, I'm still in touch with those people. And I said, what? And she said,
+
+761
+00:47:29,849 --> 00:47:35,829
+yeah. She said, I'd go up to Hong Kong once a year. We'd have a reunion. And everybody from
+
+762
+00:47:35,829 --> 00:47:40,630
+the business comes, including the guy who used to clean the office. And they invite me to their
+
+763
+00:47:40,630 --> 00:47:46,389
+weddings and send baby photos. And just as a reminder, these are people she fired.
+
+764
+00:47:48,610 --> 00:47:56,809
+And so just learning when you see someone like that and you realize how much care and love you
+
+765
+00:47:56,809 --> 00:47:59,829
+can actually bring to a work environment and how that's going to affect your life. And I think that's
+
+766
+00:47:59,849 --> 00:48:05,750
+incredible. And I think that pays incredible dividends in your life. It really is. Well,
+
+767
+00:48:05,750 --> 00:48:09,849
+for me, it's been quite inspirational. Brian, it's been a great pleasure to spend some time
+
+768
+00:48:09,849 --> 00:48:14,130
+with you. I encourage everyone. The Leadership Star is a fantastic practical guide to building
+
+769
+00:48:14,130 --> 00:48:18,969
+engagement is the full title, but it genuinely is this practical things for everyone, no matter
+
+770
+00:48:18,969 --> 00:48:23,989
+where you sit in any organization or in life. It's a great achievement, Brian, to put that
+
+771
+00:48:23,989 --> 00:48:27,070
+to paper. And thanks again. Really appreciate your time today.
+
+772
+00:48:27,070 --> 00:48:29,530
+Absolutely. Well, it's a real honor to get to meet you. And
+
+773
+00:48:29,530 --> 00:48:31,750
+I've really enjoyed the conversation. So thank you.
+
+774
+00:48:35,199 --> 00:48:38,679
+Empowering Leaders was presented by me, Luke Darcy, produced by Matt Dwyer,
+
+775
+00:48:38,840 --> 00:48:44,000
+with audio production by Darcy Thompson. To start your leadership journey, I encourage you to go to
+
+776
+00:48:44,000 --> 00:48:49,000
+elitacollective.com, take our Empowering Leaders Indicator Tool and understand the impact you have
+
+777
+00:48:49,000 --> 00:48:53,199
+on your environment. Join us at Elita to learn, lead, and collaborate.
+

@@ -2,10 +2,10 @@
 
 :root {
   --background: #0f0f23;
-  --foreground: #f1f5f9;
-  --text-primary: #1e293b;
-  --text-secondary: #475569;
-  --text-muted: #64748b;
+  --foreground: #000000;
+  --text-primary: #000000;
+  --text-secondary: #1f2937;
+  --text-muted: #374151;
   --font-inter: var(--font-inter);
   
   /* Glassmorphism colors */
@@ -23,10 +23,10 @@
 @media (prefers-color-scheme: light) {
   :root {
     --background: #f8fafc;
-    --foreground: #1e293b;
-    --text-primary: #1e293b;
-    --text-secondary: #475569;
-    --text-muted: #64748b;
+    --foreground: #000000;
+    --text-primary: #000000;
+    --text-secondary: #1f2937;
+    --text-muted: #374151;
     --glass-bg: rgba(255, 255, 255, 0.4);
     --glass-border: rgba(255, 255, 255, 0.6);
     --glass-shadow: rgba(0, 0, 0, 0.05);
@@ -35,6 +35,10 @@
 
 * {
   box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
@@ -89,11 +93,11 @@ body {
 }
 
 .text-glass-white {
-  color: #ffffff;
+  color: #000000;
 }
 
 .text-glass-nav {
-  color: #f8fafc;
+  color: #000000;
 }
 
 /* Animated gradient text */

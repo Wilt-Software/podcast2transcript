@@ -21,6 +21,18 @@ export default function Home() {
     // Handle file drop logic here
   };
 
+  const scrollToSection = (sectionId: string) => {
+    const element = document.getElementById(sectionId);
+    if (element) {
+      const navHeight = 64; // Height of the fixed navigation
+      const elementPosition = element.offsetTop - navHeight;
+      window.scrollTo({
+        top: elementPosition,
+        behavior: 'smooth'
+      });
+    }
+  };
+
   return (
     <div className="min-h-screen">
       {/* Navigation */}
@@ -29,20 +41,29 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <h1 className="text-2xl font-bold gradient-text">PodScript</h1>
+                <h1 className="text-2xl font-bold gradient-text">Podcast2Transcript</h1>
               </div>
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-8">
-                <a href="#features" className="text-glass-nav hover:text-white transition-colors duration-200">
+                <button 
+                  onClick={() => scrollToSection('features')} 
+                  className="text-glass-nav hover:text-gray-600 transition-colors duration-200 cursor-pointer"
+                >
                   Features
-                </a>
-                <a href="#pricing" className="text-glass-nav hover:text-white transition-colors duration-200">
+                </button>
+                <button 
+                  onClick={() => scrollToSection('pricing')} 
+                  className="text-glass-nav hover:text-gray-600 transition-colors duration-200 cursor-pointer"
+                >
                   Pricing
-                </a>
-                <a href="#faq" className="text-glass-nav hover:text-white transition-colors duration-200">
+                </button>
+                <button 
+                  onClick={() => scrollToSection('faq')} 
+                  className="text-glass-nav hover:text-gray-600 transition-colors duration-200 cursor-pointer"
+                >
                   FAQ
-                </a>
+                </button>
               </div>
             </div>
             <div>
@@ -61,9 +82,9 @@ export default function Home() {
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               <span className="gradient-text">Podcast Transcription</span>
               <br />
-              <span className="text-glass-white">Made Simple</span>
+              <span className="text-glass-primary">Made Simple</span>
             </h1>
-            <p className="text-xl md:text-2xl text-glass-nav mb-12 max-w-3xl mx-auto">
+            <p className="text-xl md:text-2xl text-glass-secondary mb-12 max-w-3xl mx-auto">
               Lightning-fast, AI-powered transcription and summarization. 
               Transform your audio content in minutes, not hours.
             </p>
@@ -131,8 +152,8 @@ export default function Home() {
       <section id="features" className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-glass-white mb-4">How it works</h2>
-            <p className="text-xl text-glass-nav">
+            <h2 className="text-4xl font-bold text-glass-primary mb-4">How it works</h2>
+            <p className="text-xl text-glass-secondary">
               Simple, fast, and accurate transcription in three easy steps
             </p>
           </div>
@@ -186,7 +207,7 @@ export default function Home() {
       {/* Pricing Section */}
       <section id="pricing" className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-glass-white mb-8">Simple Pricing</h2>
+          <h2 className="text-4xl font-bold text-glass-primary mb-8">Simple Pricing</h2>
           <div className="glass-card rounded-2xl p-8 mb-8">
             <div className="text-6xl font-bold gradient-text mb-4">$0.06</div>
             <div className="text-xl text-glass-primary mb-2">per minute</div>
@@ -198,7 +219,7 @@ export default function Home() {
               <p>✓ Multiple export formats</p>
             </div>
           </div>
-          <p className="text-glass-nav">
+          <p className="text-glass-secondary">
             Example: A 30-minute podcast costs $2.80 ($0.06 × 30 + $1)
           </p>
         </div>
@@ -207,7 +228,7 @@ export default function Home() {
       {/* FAQ Section */}
       <section id="faq" className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-4xl font-bold text-glass-white text-center mb-16">
+          <h2 className="text-4xl font-bold text-glass-primary text-center mb-16">
             Frequently Asked Questions
           </h2>
           
@@ -244,30 +265,30 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid md:grid-cols-4 gap-8">
             <div className="md:col-span-2">
-              <h3 className="text-2xl font-bold gradient-text mb-4">PodScript</h3>
-              <p className="text-glass-nav mb-4">
+              <h3 className="text-2xl font-bold gradient-text mb-4">Podcast2Transcript</h3>
+              <p className="text-glass-secondary mb-4">
                 Lightning-fast, cost-effective podcast transcription and summarization.
               </p>
             </div>
             <div>
-              <h4 className="text-glass-white font-semibold mb-4">Product</h4>
-              <ul className="space-y-2 text-glass-nav">
-                <li><a href="#" className="hover:text-white transition-colors">Features</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">Pricing</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">API</a></li>
+              <h4 className="text-glass-primary font-semibold mb-4">Product</h4>
+              <ul className="space-y-2 text-glass-secondary">
+                <li><a href="#" className="hover:text-glass-primary transition-colors">Features</a></li>
+                <li><a href="#" className="hover:text-glass-primary transition-colors">Pricing</a></li>
+                <li><a href="#" className="hover:text-glass-primary transition-colors">API</a></li>
               </ul>
             </div>
             <div>
-              <h4 className="text-glass-white font-semibold mb-4">Support</h4>
-              <ul className="space-y-2 text-glass-nav">
-                <li><a href="#" className="hover:text-white transition-colors">Help Center</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">Contact</a></li>
-                <li><a href="#" className="hover:text-white transition-colors">Privacy</a></li>
+              <h4 className="text-glass-primary font-semibold mb-4">Support</h4>
+              <ul className="space-y-2 text-glass-secondary">
+                <li><a href="#" className="hover:text-glass-primary transition-colors">Help Center</a></li>
+                <li><a href="#" className="hover:text-glass-primary transition-colors">Contact</a></li>
+                <li><a href="#" className="hover:text-glass-primary transition-colors">Privacy</a></li>
               </ul>
             </div>
           </div>
-          <div className="border-t border-white/20 mt-8 pt-8 text-center text-glass-nav">
-            <p>&copy; 2025 PodScript. All rights reserved.</p>
+          <div className="border-t border-white/20 mt-8 pt-8 text-center text-glass-secondary">
+            <p>&copy; 2025 Podcast2Transcript. All rights reserved.</p>
           </div>
         </div>
       </footer>

@@ -1,0 +1,8084 @@
+1
+00:00:02,480 --> 00:00:10,810
+Susan McLean is Australia's foremost expert in the area of cyber safety.
+
+2
+00:00:11,210 --> 00:00:13,810
+Formerly a Victoria police officer for 27 years,
+
+3
+00:00:14,369 --> 00:00:16,390
+Susan took her first report of cyberbullying
+
+4
+00:00:16,390 --> 00:00:19,170
+involving a group of Year 8 schoolgirls back in 1994.
+
+5
+00:00:20,109 --> 00:00:22,730
+She's internationally respected for her research and expertise
+
+6
+00:00:22,730 --> 00:00:25,890
+and in Australia speaks to more than 250,000 students
+
+7
+00:00:25,890 --> 00:00:27,469
+in 300 schools each year.
+
+8
+00:00:28,050 --> 00:00:30,989
+Susan's passion is to educate young people and parents
+
+9
+00:00:30,989 --> 00:00:33,049
+about the realities of the online world
+
+10
+00:00:33,049 --> 00:00:35,070
+so they can minimise risk to the point
+
+11
+00:00:35,070 --> 00:00:37,549
+where it doesn't have to be a dangerous place.
+
+12
+00:00:37,609 --> 00:00:38,649
+Susan, good to see you again.
+
+13
+00:00:38,710 --> 00:00:39,270
+Thanks for your time.
+
+14
+00:00:39,469 --> 00:00:40,649
+Thanks very much for having me.
+
+15
+00:00:40,810 --> 00:00:42,310
+I feel we need to start.
+
+16
+00:00:42,649 --> 00:00:46,590
+This has been recorded a few days after a horrific police tragedy
+
+17
+00:00:46,590 --> 00:00:51,490
+in Queensland and your community has had, you know,
+
+18
+00:00:51,649 --> 00:00:56,530
+an act of complete terrorism effectively perpetrated against them.
+
+19
+00:00:56,530 --> 00:00:57,670
+You know, we're feeling for you.
+
+20
+00:00:57,810 --> 00:01:01,009
+I think it's moments like these that we really do understand
+
+21
+00:01:01,009 --> 00:01:02,350
+the dangers of policing.
+
+22
+00:01:02,350 --> 00:01:04,329
+It must be a terrible time for you and your community.
+
+23
+00:01:04,730 --> 00:01:07,430
+It is and, you know, I'm a former police officer now
+
+24
+00:01:07,430 --> 00:01:11,209
+but once you wear the blue, you're always part of that police family
+
+25
+00:01:11,209 --> 00:01:15,269
+and it does hit hard and especially a job like these members were sent to
+
+26
+00:01:15,269 --> 00:01:16,250
+because we've all done them.
+
+27
+00:01:16,450 --> 00:01:19,069
+Like, this wasn't a unique situation.
+
+28
+00:01:19,510 --> 00:01:20,569
+It wasn't out of the blue.
+
+29
+00:01:20,730 --> 00:01:21,890
+It wasn't an odd job.
+
+30
+00:01:21,969 --> 00:01:25,189
+It was a very common job and there would hardly be a police officer
+
+31
+00:01:25,189 --> 00:01:28,450
+anywhere in Australia that has not done a wellbeing
+
+32
+00:01:28,450 --> 00:01:29,609
+and missing persons check.
+
+33
+00:01:29,870 --> 00:01:31,870
+And a young female officer, you know,
+
+34
+00:01:31,870 --> 00:01:34,969
+eight weeks out of the academy, ambushed and murdered.
+
+35
+00:01:35,250 --> 00:01:36,750
+It's just a terrible story.
+
+36
+00:01:36,750 --> 00:01:45,930
+Yeah, it defies any sort of ability to comprehend the harm, the anger.
+
+37
+00:01:47,049 --> 00:01:50,209
+You know, it wasn't just an unfortunate situation.
+
+38
+00:01:50,510 --> 00:01:53,209
+They were murdered and they were butchered and executed
+
+39
+00:01:53,209 --> 00:01:55,730
+and you can't say it in a polite way.
+
+40
+00:01:56,409 --> 00:01:59,750
+And, you know, there are more good people in the world than bad
+
+41
+00:01:59,750 --> 00:02:01,849
+but, my God, it was a tough time.
+
+42
+00:02:01,849 --> 00:02:02,170
+It was a tough day.
+
+43
+00:02:02,510 --> 00:02:05,670
+Yeah, Susan, I hope, you know, we're all genuinely feeling
+
+44
+00:02:05,670 --> 00:02:09,110
+and respectful for what the police community do
+
+45
+00:02:09,110 --> 00:02:11,210
+and didn't feel like we could start without that.
+
+46
+00:02:11,229 --> 00:02:13,750
+It is a big change of gear to move on to the world
+
+47
+00:02:13,750 --> 00:02:15,270
+that has become your world.
+
+48
+00:02:15,430 --> 00:02:20,689
+And my sense is that as parents, trying to get our kids off their screens,
+
+49
+00:02:20,930 --> 00:02:23,389
+social media, the internet, whatever it is,
+
+50
+00:02:23,610 --> 00:02:25,009
+and we know it's the world we live in now,
+
+51
+00:02:25,150 --> 00:02:27,810
+but, Susan, it's probably the number one thing we talk about as parents.
+
+52
+00:02:28,430 --> 00:02:31,330
+How do we do all that in a balanced way?
+
+53
+00:02:31,849 --> 00:02:33,129
+With difficulty.
+
+54
+00:02:33,349 --> 00:02:34,830
+Like, parenting is a tough gig.
+
+55
+00:02:34,969 --> 00:02:37,949
+It's the best gig in the world, of course, but it's not easy.
+
+56
+00:02:38,409 --> 00:02:40,349
+And just when you think you get on top of one thing,
+
+57
+00:02:40,650 --> 00:02:41,669
+something else comes along.
+
+58
+00:02:42,150 --> 00:02:44,849
+And screens are a huge issue at the moment.
+
+59
+00:02:45,229 --> 00:02:46,289
+They are manageable.
+
+60
+00:02:46,629 --> 00:02:48,229
+The benefits are enormous.
+
+61
+00:02:48,370 --> 00:02:49,930
+So, you know, we can't demonise it.
+
+62
+00:02:50,469 --> 00:02:54,469
+But it's always really important to understand that every time your child,
+
+63
+00:02:54,590 --> 00:02:57,389
+and yourself for that matter, uses technology, there's a risk.
+
+64
+00:02:57,810 --> 00:03:00,729
+But being able to identify that risk, minimise and manage it,
+
+65
+00:03:00,729 --> 00:03:01,310
+as you said it,
+
+66
+00:03:01,849 --> 00:03:02,250
+is the key.
+
+67
+00:03:02,849 --> 00:03:04,650
+And we want it to be balanced.
+
+68
+00:03:04,909 --> 00:03:07,430
+Like, we don't want young people to be, or adults,
+
+69
+00:03:07,789 --> 00:03:10,810
+you know, sitting down with their head in a screen for long periods of time.
+
+70
+00:03:11,129 --> 00:03:12,689
+There's a whole range of issues for that.
+
+71
+00:03:13,289 --> 00:03:15,349
+Yeah, and it's interesting you say that, Susan.
+
+72
+00:03:15,430 --> 00:03:17,349
+I hear that word a lot, and I've been trying to,
+
+73
+00:03:17,490 --> 00:03:19,210
+in my own parenting world, as you say,
+
+74
+00:03:19,270 --> 00:03:23,030
+if you demonise it, the kids just look at you like you've got two heads
+
+75
+00:03:23,030 --> 00:03:26,009
+because it's part of their world and, you know, you get emotional.
+
+76
+00:03:26,129 --> 00:03:27,349
+And it's an important part of their world.
+
+77
+00:03:27,409 --> 00:03:27,889
+And you're right.
+
+78
+00:03:27,949 --> 00:03:29,270
+There's enormous benefit, isn't there?
+
+79
+00:03:29,270 --> 00:03:31,169
+I love seeing how well they connect
+
+80
+00:03:31,169 --> 00:03:32,710
+and how well they organise themselves
+
+81
+00:03:32,710 --> 00:03:34,090
+and how well they communicate.
+
+82
+00:03:34,310 --> 00:03:36,629
+The best part, if you try to ignore that,
+
+83
+00:03:36,710 --> 00:03:39,069
+we're not living in the real world either, are we?
+
+84
+00:03:39,289 --> 00:03:41,849
+No, and we need to, for me, it's about, you know,
+
+85
+00:03:42,110 --> 00:03:44,389
+focusing on the benefits of technology,
+
+86
+00:03:45,050 --> 00:03:46,949
+but being mindful of the negatives.
+
+87
+00:03:47,229 --> 00:03:49,729
+So we don't want the negatives to overtake,
+
+88
+00:03:50,030 --> 00:03:51,169
+but it requires effort.
+
+89
+00:03:51,289 --> 00:03:52,569
+It's not going to magically happen.
+
+90
+00:03:53,590 --> 00:03:56,250
+A lot of parents will say, oh, but my kid is much better than me.
+
+91
+00:03:56,310 --> 00:03:57,009
+They know it all.
+
+92
+00:03:57,210 --> 00:03:57,969
+No, no, they don't.
+
+93
+00:03:58,090 --> 00:03:59,830
+They can use tech better than you,
+
+94
+00:03:59,830 --> 00:04:03,710
+because I laugh at this concept of tech being intuitive.
+
+95
+00:04:04,150 --> 00:04:05,949
+It's not intuitive when you're an old person
+
+96
+00:04:05,949 --> 00:04:07,270
+because you've got to learn it.
+
+97
+00:04:07,270 --> 00:04:10,370
+And it's like, I don't even understand what I'm doing here.
+
+98
+00:04:10,509 --> 00:04:12,889
+And you watch a really young person pick up tech
+
+99
+00:04:12,889 --> 00:04:13,849
+and they know what to do.
+
+100
+00:04:13,969 --> 00:04:14,810
+They've never had a lesson,
+
+101
+00:04:15,189 --> 00:04:17,810
+but it is intuitive for young people, not old people.
+
+102
+00:04:18,389 --> 00:04:21,709
+But what they don't have is that level of brain development.
+
+103
+00:04:21,930 --> 00:04:23,069
+So we know that that's lacking.
+
+104
+00:04:23,350 --> 00:04:25,089
+So there's a gap between what they can do
+
+105
+00:04:25,089 --> 00:04:27,089
+and what they have the capacity to understand.
+
+106
+00:04:27,370 --> 00:04:28,629
+And that's where parents come in.
+
+107
+00:04:28,709 --> 00:04:29,529
+You've got to be,
+
+108
+00:04:29,829 --> 00:04:33,170
+the brain power, not the tech support, the brain power.
+
+109
+00:04:33,410 --> 00:04:34,870
+Which in reality is what you have to do
+
+110
+00:04:34,870 --> 00:04:37,129
+in every other area of parenting as well, isn't it?
+
+111
+00:04:37,129 --> 00:04:38,870
+This one just seems to have a bit more complexity.
+
+112
+00:04:39,230 --> 00:04:40,449
+Can I talk about some of the numbers?
+
+113
+00:04:40,629 --> 00:04:43,870
+So the eSafety Commissioner says 44% of Australian young people
+
+114
+00:04:43,870 --> 00:04:48,149
+report having a negative online experience in the last six months.
+
+115
+00:04:48,189 --> 00:04:49,930
+So that can be online bullying,
+
+116
+00:04:50,470 --> 00:04:53,870
+exposure to inappropriate content, harassment, identity theft.
+
+117
+00:04:54,350 --> 00:04:56,990
+There are a huge range of issues out there to deal with.
+
+118
+00:04:57,110 --> 00:04:57,589
+There are.
+
+119
+00:04:57,750 --> 00:04:59,089
+And in my experience,
+
+120
+00:04:59,089 --> 00:05:00,610
+those numbers are quite low.
+
+121
+00:05:01,329 --> 00:05:03,730
+I would put it at probably closer to 70%.
+
+122
+00:05:04,329 --> 00:05:06,589
+Remembering a couple of things.
+
+123
+00:05:06,730 --> 00:05:10,310
+One, it's only based on reports to the eSafety Commissioner.
+
+124
+00:05:10,389 --> 00:05:11,750
+So not everything goes there.
+
+125
+00:05:12,230 --> 00:05:15,389
+And secondly, a lot of times this doesn't get reported anywhere
+
+126
+00:05:15,389 --> 00:05:18,709
+or it's reported somewhere where it's not captured in statistics.
+
+127
+00:05:19,550 --> 00:05:21,629
+So suffice to say, it is a huge issue.
+
+128
+00:05:22,009 --> 00:05:23,149
+It's multifaceted.
+
+129
+00:05:23,310 --> 00:05:25,410
+There's lots of different things that we need to be aware of.
+
+130
+00:05:25,709 --> 00:05:28,569
+But again, if we educate ourselves and we get on top of it,
+
+131
+00:05:28,569 --> 00:05:28,670
+we will be able to do a lot of things.
+
+132
+00:05:28,670 --> 00:05:28,930
+So that's one of the things that we need to be aware of.
+
+133
+00:05:28,930 --> 00:05:29,050
+So that's one of the things that we need to be aware of.
+
+134
+00:05:29,050 --> 00:05:29,069
+So that's one of the things that we need to be aware of.
+
+135
+00:05:29,069 --> 00:05:30,009
+We will reap the rewards.
+
+136
+00:05:30,949 --> 00:05:33,209
+I was in preparation for this,
+
+137
+00:05:33,449 --> 00:05:35,689
+so thinking about your world,
+
+138
+00:05:35,810 --> 00:05:38,350
+and I was watching a little boy walk up my street.
+
+139
+00:05:38,449 --> 00:05:39,430
+It was probably his last day of school.
+
+140
+00:05:39,490 --> 00:05:40,649
+He had to be five or six.
+
+141
+00:05:41,250 --> 00:05:42,649
+And I was watching him on his phone.
+
+142
+00:05:42,810 --> 00:05:43,810
+And he's head down,
+
+143
+00:05:44,250 --> 00:05:45,370
+he crossed all the driveways,
+
+144
+00:05:45,470 --> 00:05:46,990
+crossed a couple of street corners.
+
+145
+00:05:48,089 --> 00:05:50,569
+And the parenting hat kicks in,
+
+146
+00:05:50,649 --> 00:05:53,410
+you think he's a huge chance to get collected by.
+
+147
+00:05:53,550 --> 00:05:54,550
+Miracle that he wasn't.
+
+148
+00:05:54,629 --> 00:05:56,250
+So I went to the end of my street.
+
+149
+00:05:56,250 --> 00:05:58,709
+I thought I'm going to walk down and firstly make sure that,
+
+150
+00:05:58,910 --> 00:05:59,050
+you know,
+
+151
+00:05:59,069 --> 00:05:59,730
+he's okay.
+
+152
+00:06:00,709 --> 00:06:04,490
+He would have not even have understood that I was even walking past him.
+
+153
+00:06:04,509 --> 00:06:06,310
+And I managed to sort of glance at his screen.
+
+154
+00:06:06,910 --> 00:06:10,610
+He was scrolling through TikTok and you could just see it head down,
+
+155
+00:06:11,089 --> 00:06:13,269
+not even aware of anything.
+
+156
+00:06:13,269 --> 00:06:13,850
+No spatial awareness.
+
+157
+00:06:13,850 --> 00:06:15,389
+No spatial awareness at all.
+
+158
+00:06:15,529 --> 00:06:16,089
+And I thought,
+
+159
+00:06:16,189 --> 00:06:16,290
+God,
+
+160
+00:06:16,329 --> 00:06:21,089
+that algorithm is so sophisticated and so intoxicating for a young kid.
+
+161
+00:06:21,490 --> 00:06:22,649
+It's very hard to manage,
+
+162
+00:06:22,709 --> 00:06:22,970
+isn't it?
+
+163
+00:06:23,110 --> 00:06:23,509
+It is.
+
+164
+00:06:23,509 --> 00:06:28,910
+And I think the other issue too is what parents see and experience
+
+165
+00:06:28,910 --> 00:06:32,589
+online is not going to be what their children see and experience because of
+
+166
+00:06:32,589 --> 00:06:33,209
+the algorithms.
+
+167
+00:06:33,709 --> 00:06:36,449
+Different stuff is pumped differently to each demographic,
+
+168
+00:06:36,750 --> 00:06:38,430
+each individual user for that matter.
+
+169
+00:06:39,050 --> 00:06:39,410
+And,
+
+170
+00:06:39,509 --> 00:06:39,709
+you know,
+
+171
+00:06:39,750 --> 00:06:40,529
+it is a concern.
+
+172
+00:06:40,649 --> 00:06:42,110
+And a lot of parents will say to me,
+
+173
+00:06:42,170 --> 00:06:42,250
+oh,
+
+174
+00:06:42,269 --> 00:06:44,949
+their child has to have a phone to keep them safe.
+
+175
+00:06:45,170 --> 00:06:46,350
+Phones don't keep kids safe.
+
+176
+00:06:46,689 --> 00:06:50,529
+Perfect example of the fact that that kid could easily have been barreled by a
+
+177
+00:06:50,529 --> 00:06:51,970
+car that he would not have even seen.
+
+178
+00:06:52,490 --> 00:06:54,110
+If he's walking along,
+
+179
+00:06:54,290 --> 00:06:55,810
+scrolling on a phone,
+
+180
+00:06:55,810 --> 00:06:56,170
+well,
+
+181
+00:06:56,310 --> 00:06:58,470
+you're setting yourself up to be robbed.
+
+182
+00:06:58,470 --> 00:06:59,829
+And your phone's stolen.
+
+183
+00:07:00,430 --> 00:07:04,350
+I think parents need to understand that phones can be handy and they can be
+
+184
+00:07:04,350 --> 00:07:04,689
+helpful,
+
+185
+00:07:05,470 --> 00:07:07,269
+but they do not keep children safe.
+
+186
+00:07:07,310 --> 00:07:07,850
+Far from it.
+
+187
+00:07:07,930 --> 00:07:08,569
+So the argument,
+
+188
+00:07:08,709 --> 00:07:08,829
+Susan,
+
+189
+00:07:08,870 --> 00:07:10,649
+will be in our own household,
+
+190
+00:07:10,769 --> 00:07:12,050
+it gets to an age where they're catching a train.
+
+191
+00:07:12,129 --> 00:07:15,350
+We want them to be able to ring in the event something does happen.
+
+192
+00:07:15,490 --> 00:07:18,750
+So that's when you need a phone because of the circumstances.
+
+193
+00:07:19,170 --> 00:07:22,110
+A five-year-old is not catching a train to school on their own.
+
+194
+00:07:22,209 --> 00:07:23,050
+So there's a difference.
+
+195
+00:07:23,470 --> 00:07:23,829
+And yes,
+
+196
+00:07:23,850 --> 00:07:27,689
+I always say you start to consider it for high school because they're on public
+
+197
+00:07:27,689 --> 00:07:28,189
+transport.
+
+198
+00:07:28,189 --> 00:07:29,910
+After school activities,
+
+199
+00:07:29,910 --> 00:07:30,810
+sport training,
+
+200
+00:07:31,069 --> 00:07:31,870
+I've missed the bus,
+
+201
+00:07:31,870 --> 00:07:33,009
+sport training's been canceled.
+
+202
+00:07:33,009 --> 00:07:35,269
+Come get me helpful and handy.
+
+203
+00:07:35,629 --> 00:07:36,769
+But if you think about it this way,
+
+204
+00:07:36,769 --> 00:07:39,029
+if your child's walking along and you know,
+
+205
+00:07:39,029 --> 00:07:41,129
+some random bad person is going to grab them,
+
+206
+00:07:41,430 --> 00:07:42,149
+what are they going to say?
+
+207
+00:07:42,149 --> 00:07:42,689
+Hang on a minute,
+
+208
+00:07:42,689 --> 00:07:43,250
+bad person.
+
+209
+00:07:43,250 --> 00:07:47,149
+Can you wait till I get my safety phone out of my bag and just ring mom before
+
+210
+00:07:47,149 --> 00:07:47,810
+you attack me?
+
+211
+00:07:48,410 --> 00:07:48,790
+All right.
+
+212
+00:07:48,829 --> 00:07:50,209
+It's not going to work that way.
+
+213
+00:07:50,569 --> 00:07:51,170
+Helpful,
+
+214
+00:07:51,410 --> 00:07:51,970
+handy.
+
+215
+00:07:52,170 --> 00:07:52,910
+Absolutely.
+
+216
+00:07:53,290 --> 00:07:53,569
+Um,
+
+217
+00:07:53,569 --> 00:07:55,250
+but they're not going to stop things.
+
+218
+00:07:55,670 --> 00:07:56,310
+And often,
+
+219
+00:07:56,329 --> 00:07:56,569
+you know,
+
+220
+00:07:56,569 --> 00:07:57,990
+please understand that when you give,
+
+221
+00:07:57,990 --> 00:07:59,009
+a device to a child,
+
+222
+00:07:59,230 --> 00:08:02,209
+you are giving your child to the world and the world to your child,
+
+223
+00:08:02,550 --> 00:08:03,610
+every single person in it,
+
+224
+00:08:03,730 --> 00:08:07,529
+all those people you are trying to protect them from use the internet as well.
+
+225
+00:08:07,610 --> 00:08:08,490
+You just can't see them.
+
+226
+00:08:08,870 --> 00:08:10,230
+So do you think we look back,
+
+227
+00:08:10,230 --> 00:08:10,649
+uh,
+
+228
+00:08:10,649 --> 00:08:10,829
+so,
+
+229
+00:08:10,829 --> 00:08:11,509
+and I know,
+
+230
+00:08:11,509 --> 00:08:11,910
+you know,
+
+231
+00:08:11,910 --> 00:08:12,370
+your view,
+
+232
+00:08:12,370 --> 00:08:12,790
+as you said,
+
+233
+00:08:12,790 --> 00:08:13,250
+the start,
+
+234
+00:08:13,250 --> 00:08:14,829
+we've got to take the good with the bad here.
+
+235
+00:08:14,829 --> 00:08:15,209
+And your,
+
+236
+00:08:15,209 --> 00:08:18,509
+your mission is about education so that you can have a positive experience and
+
+237
+00:08:18,509 --> 00:08:19,209
+on a negative one.
+
+238
+00:08:19,209 --> 00:08:20,129
+But do you think,
+
+239
+00:08:20,129 --> 00:08:20,730
+you know,
+
+240
+00:08:20,730 --> 00:08:23,649
+Apple has become one of the biggest companies in the world and the creation
+
+241
+00:08:23,649 --> 00:08:25,949
+of the iPhone and Steve Jobs' legacy.
+
+242
+00:08:26,370 --> 00:08:27,569
+Do you think there'll be a point?
+
+243
+00:08:27,569 --> 00:08:27,990
+We look back,
+
+244
+00:08:27,990 --> 00:08:30,990
+and think that may be the great curse of the 21st century.
+
+245
+00:08:31,529 --> 00:08:31,750
+Look,
+
+246
+00:08:31,750 --> 00:08:35,269
+I think if you speak to adolescent and child psychologist,
+
+247
+00:08:35,309 --> 00:08:37,169
+if you speak to many,
+
+248
+00:08:37,169 --> 00:08:37,470
+you know,
+
+249
+00:08:37,470 --> 00:08:41,909
+wellbeing coordinators at schools who continually see the negative impact of
+
+250
+00:08:41,909 --> 00:08:42,730
+tech,
+
+251
+00:08:42,730 --> 00:08:44,610
+there will be conversations about,
+
+252
+00:08:44,610 --> 00:08:45,029
+you know,
+
+253
+00:08:45,029 --> 00:08:48,450
+this generation of young people being Guinea pigs for the future.
+
+254
+00:08:48,889 --> 00:08:53,190
+If I look at going back to when I took that first report of cyber bullying,
+
+255
+00:08:53,190 --> 00:08:55,049
+the technology then versus today,
+
+256
+00:08:55,470 --> 00:08:56,490
+polar opposite,
+
+257
+00:08:56,490 --> 00:08:57,629
+like in those days,
+
+258
+00:08:57,629 --> 00:08:58,789
+there were listservs,
+
+259
+00:08:58,789 --> 00:08:59,870
+bulletin boards and chat rooms.
+
+260
+00:08:59,870 --> 00:09:00,409
+That was it.
+
+261
+00:09:00,409 --> 00:09:02,409
+Like there was nothing that we have today.
+
+262
+00:09:03,330 --> 00:09:05,750
+What we've seen though is yes,
+
+263
+00:09:05,970 --> 00:09:10,649
+technology has come across in leaps and bounds and for lots of lots of beneficial reasons,
+
+264
+00:09:10,950 --> 00:09:14,190
+but the safety aspect of it hasn't kept up.
+
+265
+00:09:14,669 --> 00:09:21,450
+And what I get to see often is a new app gets invented and everyone jumps on board because of whatever reason,
+
+266
+00:09:21,990 --> 00:09:27,070
+and then safety becomes an afterthought and we've got to switch that thinking to make it,
+
+267
+00:09:27,070 --> 00:09:27,370
+you know,
+
+268
+00:09:27,370 --> 00:09:27,970
+safety first,
+
+269
+00:09:27,970 --> 00:09:30,429
+second and third embedded in the app,
+
+270
+00:09:30,429 --> 00:09:30,730
+not,
+
+271
+00:09:30,730 --> 00:09:31,809
+you know,
+
+272
+00:09:31,809 --> 00:09:32,649
+adding it on at the end.
+
+273
+00:09:32,649 --> 00:09:34,750
+Cause if you add something on to any product,
+
+274
+00:09:35,049 --> 00:09:35,230
+you know,
+
+275
+00:09:35,230 --> 00:09:37,450
+it's never going to be as good as if it's embedded in it.
+
+276
+00:09:37,990 --> 00:09:38,169
+Yeah.
+
+277
+00:09:38,169 --> 00:09:39,070
+It's a great point you make,
+
+278
+00:09:39,070 --> 00:09:39,370
+isn't it?
+
+279
+00:09:39,370 --> 00:09:42,070
+And I think app makers are about growing their audience,
+
+280
+00:09:42,129 --> 00:09:43,870
+not about safety first.
+
+281
+00:09:43,870 --> 00:09:46,029
+And you can sort of understand the commercial world of that.
+
+282
+00:09:46,370 --> 00:09:47,110
+Last time I saw you,
+
+283
+00:09:47,110 --> 00:09:47,950
+I was fascinated.
+
+284
+00:09:48,070 --> 00:09:48,269
+You know,
+
+285
+00:09:48,269 --> 00:09:51,110
+I had this conversation with you that the world of the online troll,
+
+286
+00:09:51,110 --> 00:09:51,370
+you know,
+
+287
+00:09:51,370 --> 00:09:52,750
+from racial,
+
+288
+00:09:53,049 --> 00:09:53,809
+misogynistic,
+
+289
+00:09:53,809 --> 00:09:54,669
+homophobic,
+
+290
+00:09:54,909 --> 00:09:55,690
+uh,
+
+291
+00:09:55,690 --> 00:09:55,990
+you know,
+
+292
+00:09:55,990 --> 00:09:57,350
+the trash that we see on the online,
+
+293
+00:09:57,970 --> 00:10:02,549
+I had this perception that it was incredibly difficult to track those people down.
+
+294
+00:10:02,649 --> 00:10:06,149
+The big tech companies protected them because of privacy laws.
+
+295
+00:10:06,269 --> 00:10:08,309
+You told me that's a hundred percent not true.
+
+296
+00:10:08,389 --> 00:10:08,809
+Can you explain?
+
+297
+00:10:08,990 --> 00:10:09,169
+Yeah.
+
+298
+00:10:09,289 --> 00:10:10,049
+And that's correct.
+
+299
+00:10:10,210 --> 00:10:11,710
+And what we know is,
+
+300
+00:10:11,750 --> 00:10:11,850
+look,
+
+301
+00:10:11,929 --> 00:10:15,250
+some platforms don't work cooperatively with police or it's,
+
+302
+00:10:15,409 --> 00:10:16,649
+they make it very difficult,
+
+303
+00:10:16,750 --> 00:10:20,429
+especially for countries that are not where the,
+
+304
+00:10:20,450 --> 00:10:20,789
+um,
+
+305
+00:10:20,889 --> 00:10:21,970
+the platform is based.
+
+306
+00:10:22,230 --> 00:10:23,950
+So a lot of times,
+
+307
+00:10:23,950 --> 00:10:24,429
+um,
+
+308
+00:10:24,429 --> 00:10:26,070
+for some of the lesser platforms,
+
+309
+00:10:26,070 --> 00:10:27,350
+it is an effort.
+
+310
+00:10:27,450 --> 00:10:30,129
+To get that data because it like,
+
+311
+00:10:30,129 --> 00:10:30,809
+for example,
+
+312
+00:10:30,809 --> 00:10:32,389
+if it was reported to Victoria place,
+
+313
+00:10:32,750 --> 00:10:34,409
+so Victoria place have to get a warrant,
+
+314
+00:10:34,450 --> 00:10:35,169
+a state warrant.
+
+315
+00:10:35,169 --> 00:10:37,149
+It has to get converted to a Commonwealth board.
+
+316
+00:10:37,389 --> 00:10:38,610
+Then it gets conferred,
+
+317
+00:10:38,710 --> 00:10:39,909
+converted to what's called a,
+
+318
+00:10:40,090 --> 00:10:41,230
+an M lat treaty,
+
+319
+00:10:41,230 --> 00:10:42,730
+which is an international warrant.
+
+320
+00:10:43,029 --> 00:10:44,649
+Then it gets served on the company.
+
+321
+00:10:45,009 --> 00:10:45,809
+And by this stage,
+
+322
+00:10:45,809 --> 00:10:46,029
+you know,
+
+323
+00:10:46,029 --> 00:10:46,830
+it's complex.
+
+324
+00:10:46,870 --> 00:10:47,769
+It's complex.
+
+325
+00:10:47,769 --> 00:10:49,389
+On what sort of platform is that?
+
+326
+00:10:49,389 --> 00:10:49,690
+I mean,
+
+327
+00:10:49,690 --> 00:10:49,929
+well,
+
+328
+00:10:49,929 --> 00:10:50,590
+that's the,
+
+329
+00:10:50,590 --> 00:10:55,269
+the lesser known ones and the ones that really don't have a brand to protect if you like.
+
+330
+00:10:55,269 --> 00:10:55,710
+Right.
+
+331
+00:10:55,710 --> 00:10:57,309
+So what you'll find is like,
+
+332
+00:10:57,309 --> 00:10:58,669
+the meta platforms,
+
+333
+00:10:58,669 --> 00:10:59,549
+Snapchat,
+
+334
+00:11:00,009 --> 00:11:01,090
+they will allow,
+
+335
+00:11:01,330 --> 00:11:01,870
+um,
+
+336
+00:11:02,309 --> 00:11:04,330
+a legal letter for want of a better word.
+
+337
+00:11:04,330 --> 00:11:07,629
+So this is a legally obtained document.
+
+338
+00:11:07,629 --> 00:11:08,590
+It'll be signed by,
+
+339
+00:11:08,649 --> 00:11:09,730
+by a judge to say,
+
+340
+00:11:09,730 --> 00:11:10,870
+this is the information we'd like,
+
+341
+00:11:11,049 --> 00:11:12,389
+and they will accept that.
+
+342
+00:11:12,669 --> 00:11:15,049
+So you don't have to go through the M lat process.
+
+343
+00:11:15,330 --> 00:11:18,730
+You might need to go through that process for certain pieces of information,
+
+344
+00:11:18,970 --> 00:11:19,870
+but basic,
+
+345
+00:11:19,929 --> 00:11:20,230
+um,
+
+346
+00:11:20,230 --> 00:11:21,789
+user identification,
+
+347
+00:11:21,970 --> 00:11:24,789
+you do not need to go that down that path.
+
+348
+00:11:24,970 --> 00:11:26,190
+So that's really good.
+
+349
+00:11:26,490 --> 00:11:26,950
+Um,
+
+350
+00:11:27,309 --> 00:11:28,509
+what we need though,
+
+351
+00:11:28,509 --> 00:11:29,529
+and if we think about,
+
+352
+00:11:29,529 --> 00:11:30,029
+you know,
+
+353
+00:11:30,190 --> 00:11:33,250
+cyberbullying and all forms of online abuse are a crime,
+
+354
+00:11:33,549 --> 00:11:37,450
+they're a crime throughout Australia under state law and Commonwealth law.
+
+355
+00:11:37,750 --> 00:11:39,730
+And if we think about what laws are meant to do,
+
+356
+00:11:39,730 --> 00:11:42,149
+they're meant to set the standard for acceptable behavior,
+
+357
+00:11:42,490 --> 00:11:44,250
+punish people that break the law,
+
+358
+00:11:44,470 --> 00:11:46,809
+but they're meant to provide a deterrent effect.
+
+359
+00:11:46,809 --> 00:11:47,309
+So,
+
+360
+00:11:47,350 --> 00:11:47,549
+you know,
+
+361
+00:11:47,549 --> 00:11:51,009
+if you're tempted to go and do the wrong thing and you see last week,
+
+362
+00:11:51,250 --> 00:11:54,129
+Billy or Mary have been sent to jail for doing the same thing.
+
+363
+00:11:54,490 --> 00:11:55,629
+Well then hopefully you might go,
+
+364
+00:11:55,629 --> 00:11:55,990
+Oh,
+
+365
+00:11:55,990 --> 00:11:56,490
+you know what?
+
+366
+00:11:56,490 --> 00:11:57,570
+I don't want to go to jail.
+
+367
+00:11:57,570 --> 00:11:58,889
+So I won't do that.
+
+368
+00:11:59,669 --> 00:12:02,970
+We're not seeing that with online crimes to the degree we should,
+
+369
+00:12:03,029 --> 00:12:06,509
+because so many people do not report it.
+
+370
+00:12:07,289 --> 00:12:07,529
+All right.
+
+371
+00:12:07,529 --> 00:12:09,029
+And they don't take it to the police.
+
+372
+00:12:09,149 --> 00:12:11,909
+So unless you are prepared to take that step,
+
+373
+00:12:12,490 --> 00:12:15,750
+then we're never going to get to that point where people see that,
+
+374
+00:12:15,750 --> 00:12:15,909
+well,
+
+375
+00:12:15,909 --> 00:12:20,669
+actually it is a crime and there are serious consequences if I choose this path.
+
+376
+00:12:20,990 --> 00:12:22,490
+So this is something I'm really passionate about.
+
+377
+00:12:22,490 --> 00:12:22,669
+So,
+
+378
+00:12:22,669 --> 00:12:24,490
+and I'm glad you explained that as clear as you did.
+
+379
+00:12:24,490 --> 00:12:25,470
+So we see that in the,
+
+380
+00:12:25,470 --> 00:12:26,370
+in the sporting world,
+
+381
+00:12:26,370 --> 00:12:27,210
+a lot.
+
+382
+00:12:27,210 --> 00:12:29,309
+And I know you've done a lot of work in,
+
+383
+00:12:29,309 --> 00:12:30,129
+in Sporting Codes,
+
+384
+00:12:30,129 --> 00:12:30,629
+the AFL,
+
+385
+00:12:30,629 --> 00:12:33,330
+Netball Australia around this work that you do,
+
+386
+00:12:33,330 --> 00:12:35,129
+but we'll say racist comment,
+
+387
+00:12:35,129 --> 00:12:38,549
+horrific thing said against an indigenous player or,
+
+388
+00:12:38,549 --> 00:12:39,029
+you know,
+
+389
+00:12:39,029 --> 00:12:40,590
+something horrific said to someone.
+
+390
+00:12:40,590 --> 00:12:41,129
+I mean,
+
+391
+00:12:41,129 --> 00:12:41,669
+for me,
+
+392
+00:12:41,669 --> 00:12:43,769
+what we want to do is exactly that.
+
+393
+00:12:43,769 --> 00:12:48,149
+We want to try and make an example of that behaviour and say that is
+
+394
+00:12:48,149 --> 00:12:48,750
+unacceptable.
+
+395
+00:12:48,750 --> 00:12:50,009
+It's not the standards we live up to.
+
+396
+00:12:50,009 --> 00:12:53,070
+And an example is not cancelling their club membership.
+
+397
+00:12:53,070 --> 00:12:54,269
+That's not an example.
+
+398
+00:12:54,269 --> 00:12:55,470
+So what would you do then?
+
+399
+00:12:55,470 --> 00:12:55,710
+So,
+
+400
+00:12:55,710 --> 00:12:59,309
+and my advice has always been to the clubs when I go into
+
+401
+00:12:59,309 --> 00:13:01,389
+them and this is for anyone,
+
+402
+00:13:01,649 --> 00:13:01,950
+you know,
+
+403
+00:13:01,950 --> 00:13:03,750
+you're going to cop some abuse,
+
+404
+00:13:03,950 --> 00:13:04,409
+you know,
+
+405
+00:13:04,409 --> 00:13:05,029
+is it fair?
+
+406
+00:13:05,029 --> 00:13:05,250
+No,
+
+407
+00:13:05,250 --> 00:13:05,730
+it's not,
+
+408
+00:13:05,730 --> 00:13:06,529
+but you know,
+
+409
+00:13:06,909 --> 00:13:08,610
+you're a peanut cause you missed a goal.
+
+410
+00:13:08,669 --> 00:13:09,090
+I mean,
+
+411
+00:13:09,090 --> 00:13:10,110
+you're going to have to suck that up,
+
+412
+00:13:10,690 --> 00:13:13,289
+but when it's targeted abuse,
+
+413
+00:13:13,470 --> 00:13:13,769
+you know,
+
+414
+00:13:13,769 --> 00:13:15,090
+really personal targeted,
+
+415
+00:13:15,090 --> 00:13:15,990
+I'm going to rape your wife,
+
+416
+00:13:15,990 --> 00:13:16,529
+for example,
+
+417
+00:13:16,529 --> 00:13:17,289
+as a common one,
+
+418
+00:13:17,610 --> 00:13:18,389
+the racist,
+
+419
+00:13:18,389 --> 00:13:19,230
+the homophobic,
+
+420
+00:13:19,230 --> 00:13:19,830
+et cetera.
+
+421
+00:13:20,070 --> 00:13:20,950
+That's not okay.
+
+422
+00:13:20,970 --> 00:13:21,669
+That that's not,
+
+423
+00:13:21,909 --> 00:13:22,149
+you know,
+
+424
+00:13:22,149 --> 00:13:24,509
+something you should accept as part and parcel of who you
+
+425
+00:13:24,509 --> 00:13:24,769
+are.
+
+426
+00:13:24,769 --> 00:13:28,429
+So until such time as we can make,
+
+427
+00:13:28,549 --> 00:13:29,090
+not make,
+
+428
+00:13:29,090 --> 00:13:32,509
+but encourage players to come forward and make that police
+
+429
+00:13:32,509 --> 00:13:33,009
+report,
+
+430
+00:13:33,149 --> 00:13:34,370
+nothing will change.
+
+431
+00:13:34,730 --> 00:13:36,169
+And it's all very well.
+
+432
+00:13:36,750 --> 00:13:37,669
+Media articles,
+
+433
+00:13:37,710 --> 00:13:38,870
+no media articles are great.
+
+434
+00:13:38,870 --> 00:13:39,169
+You know,
+
+435
+00:13:39,210 --> 00:13:40,850
+Billy got racially abused this week.
+
+436
+00:13:40,850 --> 00:13:41,330
+Great.
+
+437
+00:13:41,570 --> 00:13:45,110
+But the offender is still out there keeping on keeping
+
+438
+00:13:45,110 --> 00:13:45,610
+on.
+
+439
+00:13:45,769 --> 00:13:49,070
+And we have to encourage that reporting because that's where
+
+440
+00:13:49,070 --> 00:13:52,070
+we're going to make a difference and change the thought process.
+
+441
+00:13:52,129 --> 00:13:54,110
+Can I ask you a pointed question then as a,
+
+442
+00:13:54,230 --> 00:13:54,730
+as a,
+
+443
+00:13:54,809 --> 00:13:55,190
+you know,
+
+444
+00:13:55,190 --> 00:13:57,149
+nearly 30 year police officer,
+
+445
+00:13:57,529 --> 00:13:59,509
+are you going to get a good reception?
+
+446
+00:14:00,149 --> 00:14:00,649
+You know,
+
+447
+00:14:00,649 --> 00:14:02,450
+I feel play you're walking in to say,
+
+448
+00:14:02,450 --> 00:14:02,690
+you know,
+
+449
+00:14:02,690 --> 00:14:03,990
+someone seriously threatened me.
+
+450
+00:14:04,490 --> 00:14:08,330
+Is that process one that encourages people to do that?
+
+451
+00:14:08,990 --> 00:14:09,350
+Well,
+
+452
+00:14:09,350 --> 00:14:11,090
+we could call it postcode lottery,
+
+453
+00:14:11,590 --> 00:14:13,009
+which is a really sad thing to say,
+
+454
+00:14:13,009 --> 00:14:18,169
+but it's real in that it does often depend on who
+
+455
+00:14:18,169 --> 00:14:18,830
+you speak to.
+
+456
+00:14:19,370 --> 00:14:20,570
+But you know,
+
+457
+00:14:20,929 --> 00:14:21,230
+I,
+
+458
+00:14:21,230 --> 00:14:21,830
+I,
+
+459
+00:14:21,830 --> 00:14:24,169
+the player is not going to rock up to the PlayStation on
+
+460
+00:14:24,169 --> 00:14:24,509
+their own.
+
+461
+00:14:24,769 --> 00:14:27,590
+The player development manager for the club would go with them.
+
+462
+00:14:27,929 --> 00:14:32,029
+The player's manager that they'd be fronting up and going high.
+
+463
+00:14:32,149 --> 00:14:33,210
+This is the situation.
+
+464
+00:14:33,950 --> 00:14:36,110
+And I think in that regard,
+
+465
+00:14:36,269 --> 00:14:40,009
+an AFL player has far more chance of having something investigated
+
+466
+00:14:40,009 --> 00:14:41,009
+than Mr.
+
+467
+00:14:41,049 --> 00:14:41,269
+And Mrs.
+
+468
+00:14:41,389 --> 00:14:41,690
+Citizen.
+
+469
+00:14:41,970 --> 00:14:43,029
+And there was a case,
+
+470
+00:14:43,070 --> 00:14:46,029
+and I think it was a Richmond plan not that long ago where threats
+
+471
+00:14:46,029 --> 00:14:46,610
+had been made,
+
+472
+00:14:46,850 --> 00:14:47,210
+you know,
+
+473
+00:14:47,210 --> 00:14:48,850
+to rape his wife or something like that.
+
+474
+00:14:48,850 --> 00:14:52,049
+And he went to the police and the people got arrested and charged.
+
+475
+00:14:52,230 --> 00:14:52,669
+Now,
+
+476
+00:14:52,669 --> 00:14:54,690
+did they get a penalty that,
+
+477
+00:14:54,690 --> 00:14:55,409
+that I would have given?
+
+478
+00:14:55,529 --> 00:14:56,210
+Probably not,
+
+479
+00:14:56,490 --> 00:14:59,309
+but there was a penalty and you know,
+
+480
+00:14:59,690 --> 00:14:59,929
+we,
+
+481
+00:14:59,929 --> 00:15:03,029
+we need to do more of that because it's doable and it's
+
+482
+00:15:03,029 --> 00:15:05,549
+possible and no person,
+
+483
+00:15:05,870 --> 00:15:09,690
+let alone an AFL player or anyone in between should have to
+
+484
+00:15:09,690 --> 00:15:10,470
+tolerate that.
+
+485
+00:15:10,809 --> 00:15:12,149
+And this is all about leadership,
+
+486
+00:15:12,149 --> 00:15:12,870
+this podcast.
+
+487
+00:15:12,870 --> 00:15:13,149
+And I,
+
+488
+00:15:13,149 --> 00:15:13,870
+and I think it's a,
+
+489
+00:15:13,889 --> 00:15:16,690
+it's a massive opportunity for a leadership position to be
+
+490
+00:15:16,690 --> 00:15:17,850
+taken from police,
+
+491
+00:15:17,850 --> 00:15:19,230
+from high profile people,
+
+492
+00:15:19,409 --> 00:15:20,129
+from average people.
+
+493
+00:15:20,129 --> 00:15:20,549
+I mean,
+
+494
+00:15:20,669 --> 00:15:22,309
+as you said to me last time I saw you,
+
+495
+00:15:22,309 --> 00:15:24,570
+if you're at the front of your house and someone walked
+
+496
+00:15:24,570 --> 00:15:26,809
+past and said something as horrific as that,
+
+497
+00:15:26,850 --> 00:15:27,389
+I'm going to write you,
+
+498
+00:15:27,389 --> 00:15:28,070
+or I mean,
+
+499
+00:15:28,610 --> 00:15:29,110
+you know,
+
+500
+00:15:29,110 --> 00:15:30,110
+I know exactly what my reaction is.
+
+501
+00:15:30,110 --> 00:15:30,210
+Oh,
+
+502
+00:15:30,210 --> 00:15:30,690
+thanks.
+
+503
+00:15:30,690 --> 00:15:31,450
+See you later.
+
+504
+00:15:31,450 --> 00:15:32,690
+Appreciate your feedback.
+
+505
+00:15:32,690 --> 00:15:34,769
+You're going to get police involved.
+
+506
+00:15:34,769 --> 00:15:36,149
+You're going to react yourself.
+
+507
+00:15:36,450 --> 00:15:37,230
+Um,
+
+508
+00:15:37,350 --> 00:15:38,169
+but you know,
+
+509
+00:15:38,169 --> 00:15:42,750
+that happens thousands of times an hour online and it's
+
+510
+00:15:42,750 --> 00:15:43,370
+getting through.
+
+511
+00:15:43,370 --> 00:15:44,330
+And that's to me,
+
+512
+00:15:44,330 --> 00:15:47,190
+creating a huge issue with where we're at in society.
+
+513
+00:15:47,190 --> 00:15:50,889
+If we look currently at that amazing young man,
+
+514
+00:15:50,889 --> 00:15:52,330
+that's been drafted to North Melbourne,
+
+515
+00:15:52,330 --> 00:15:54,169
+the Jewish player and the amount.
+
+516
+00:15:54,169 --> 00:15:59,049
+And the amount of abuse that he's copying and his family.
+
+517
+00:15:59,710 --> 00:16:02,350
+And what do we have bleeding hard articles in the paper?
+
+518
+00:16:02,830 --> 00:16:03,289
+You know,
+
+519
+00:16:03,289 --> 00:16:05,570
+it is a big ask for an 18 year old who has just
+
+520
+00:16:05,570 --> 00:16:07,690
+been drafted to trot off to the police station.
+
+521
+00:16:07,929 --> 00:16:08,389
+However,
+
+522
+00:16:08,389 --> 00:16:09,769
+I would expect his manager,
+
+523
+00:16:09,769 --> 00:16:10,350
+the club,
+
+524
+00:16:10,350 --> 00:16:11,450
+the player development manager,
+
+525
+00:16:11,450 --> 00:16:13,009
+whoever is looking after him,
+
+526
+00:16:13,730 --> 00:16:14,950
+the AFL to be going,
+
+527
+00:16:14,950 --> 00:16:15,769
+hang on a minute.
+
+528
+00:16:16,110 --> 00:16:18,429
+It's all very well getting these comments taken down.
+
+529
+00:16:18,710 --> 00:16:19,129
+All right.
+
+530
+00:16:19,129 --> 00:16:19,549
+Okay.
+
+531
+00:16:19,549 --> 00:16:20,289
+And what do they do?
+
+532
+00:16:20,289 --> 00:16:21,169
+It happens again.
+
+533
+00:16:21,970 --> 00:16:22,330
+You know,
+
+534
+00:16:22,330 --> 00:16:24,129
+someone somewhere along the journey,
+
+535
+00:16:24,129 --> 00:16:28,330
+has to take a stand and not an isolated player because the,
+
+536
+00:16:28,330 --> 00:16:30,889
+the Richmond one would have to have been two or three years ago.
+
+537
+00:16:30,889 --> 00:16:34,789
+Now I can't tell you another case that I am aware of where a
+
+538
+00:16:34,789 --> 00:16:37,590
+player has actually gone and lodged a complaint.
+
+539
+00:16:37,870 --> 00:16:38,970
+And if it is racist,
+
+540
+00:16:39,129 --> 00:16:39,610
+racist,
+
+541
+00:16:39,610 --> 00:16:40,210
+homophobic,
+
+542
+00:16:40,210 --> 00:16:40,809
+et cetera,
+
+543
+00:16:41,070 --> 00:16:44,169
+not only is that under cyber bullying laws,
+
+544
+00:16:44,570 --> 00:16:46,389
+it's a breach of the discrimination act.
+
+545
+00:16:46,889 --> 00:16:47,830
+And for example,
+
+546
+00:16:47,830 --> 00:16:52,090
+let's say Harry got 50 racist messages,
+
+547
+00:16:52,210 --> 00:16:52,509
+right?
+
+548
+00:16:53,070 --> 00:16:54,110
+The perpetrator,
+
+549
+00:16:54,129 --> 00:16:54,629
+well,
+
+550
+00:16:54,629 --> 00:16:59,129
+it's like the one person that sent the 50 that perpetrator would face 150
+
+551
+00:16:59,129 --> 00:16:59,750
+charges,
+
+552
+00:17:00,090 --> 00:17:01,210
+150,
+
+553
+00:17:01,570 --> 00:17:03,549
+50 state cyber bullying charges,
+
+554
+00:17:03,549 --> 00:17:05,289
+50 Commonwealth cyber bullying charges,
+
+555
+00:17:05,529 --> 00:17:07,329
+and 50 discrimination act charges.
+
+556
+00:17:08,230 --> 00:17:09,670
+It's a powerful message to send,
+
+557
+00:17:09,670 --> 00:17:10,009
+isn't it?
+
+558
+00:17:10,009 --> 00:17:10,509
+So,
+
+559
+00:17:10,509 --> 00:17:13,369
+and I love your leadership in this space and tell me,
+
+560
+00:17:13,369 --> 00:17:14,970
+I'm all about accountability.
+
+561
+00:17:14,970 --> 00:17:18,710
+If you show people that you can get away with those things,
+
+562
+00:17:18,710 --> 00:17:19,630
+it encourages other people.
+
+563
+00:17:19,630 --> 00:17:20,329
+Of course it does.
+
+564
+00:17:20,369 --> 00:17:21,289
+Of course it does.
+
+565
+00:17:21,289 --> 00:17:22,329
+And you know,
+
+566
+00:17:22,329 --> 00:17:23,410
+we've been so slow.
+
+567
+00:17:23,410 --> 00:17:23,690
+What,
+
+568
+00:17:23,690 --> 00:17:24,369
+why is that?
+
+569
+00:17:24,609 --> 00:17:25,509
+To me it's a free hit,
+
+570
+00:17:25,630 --> 00:17:25,910
+you know?
+
+571
+00:17:26,049 --> 00:17:27,369
+I don't know.
+
+572
+00:17:28,269 --> 00:17:28,849
+You know,
+
+573
+00:17:28,890 --> 00:17:31,349
+if you look at any other type of offending,
+
+574
+00:17:31,990 --> 00:17:34,990
+I don't think it's as underreported other than sexual offending,
+
+575
+00:17:35,049 --> 00:17:36,730
+which we know is terribly underreported.
+
+576
+00:17:37,029 --> 00:17:38,170
+But other than that,
+
+577
+00:17:38,430 --> 00:17:38,809
+you know,
+
+578
+00:17:38,890 --> 00:17:40,490
+if a crime is committed against you,
+
+579
+00:17:40,630 --> 00:17:42,130
+you go to the place like that.
+
+580
+00:17:42,130 --> 00:17:43,230
+That's how it is.
+
+581
+00:17:44,150 --> 00:17:47,049
+Whether people think it's a free for all on the internet,
+
+582
+00:17:47,130 --> 00:17:50,289
+it doesn't matter whether they think that laws don't count out there.
+
+583
+00:17:50,650 --> 00:17:51,150
+But again,
+
+584
+00:17:51,150 --> 00:17:53,670
+it's often because I didn't know,
+
+585
+00:17:53,690 --> 00:17:56,390
+it was a crime because I don't ever see a consequence.
+
+586
+00:17:56,450 --> 00:17:59,150
+I don't see anyone arrested and charged for this.
+
+587
+00:17:59,329 --> 00:18:01,849
+So therefore it must be okay.
+
+588
+00:18:02,210 --> 00:18:04,309
+The platforms by and large,
+
+589
+00:18:04,309 --> 00:18:07,190
+the main ones work cooperatively with police,
+
+590
+00:18:07,910 --> 00:18:08,750
+even Snapchat.
+
+591
+00:18:09,289 --> 00:18:09,650
+All right.
+
+592
+00:18:09,930 --> 00:18:11,509
+The content disappears.
+
+593
+00:18:11,569 --> 00:18:13,009
+It does not delete.
+
+594
+00:18:14,269 --> 00:18:14,690
+All right.
+
+595
+00:18:14,789 --> 00:18:15,109
+And again,
+
+596
+00:18:15,109 --> 00:18:15,369
+people go,
+
+597
+00:18:15,369 --> 00:18:15,490
+Oh,
+
+598
+00:18:15,490 --> 00:18:16,190
+it's on Snapchat.
+
+599
+00:18:16,190 --> 00:18:16,609
+I know.
+
+600
+00:18:16,849 --> 00:18:17,029
+No,
+
+601
+00:18:17,029 --> 00:18:17,150
+no,
+
+602
+00:18:17,150 --> 00:18:17,430
+no.
+
+603
+00:18:17,750 --> 00:18:20,950
+It is always worth visiting the police station.
+
+604
+00:18:21,349 --> 00:18:21,769
+Um,
+
+605
+00:18:23,069 --> 00:18:23,690
+unfortunately,
+
+606
+00:18:23,710 --> 00:18:25,369
+sometimes you have to stand your ground and go,
+
+607
+00:18:25,450 --> 00:18:26,369
+I know this is a crime,
+
+608
+00:18:26,430 --> 00:18:28,029
+so I'm not leaving here until you take a report.
+
+609
+00:18:28,269 --> 00:18:28,970
+Shouldn't happen.
+
+610
+00:18:29,529 --> 00:18:30,390
+But you know,
+
+611
+00:18:30,490 --> 00:18:33,809
+we've got to do more to make it unacceptable.
+
+612
+00:18:34,069 --> 00:18:35,430
+It's all very well saying it's unacceptable,
+
+613
+00:18:35,430 --> 00:18:37,109
+but what are we doing to show it?
+
+614
+00:18:37,529 --> 00:18:38,150
+And Susan,
+
+615
+00:18:38,230 --> 00:18:39,950
+at the extreme end,
+
+616
+00:18:40,009 --> 00:18:40,210
+I mean,
+
+617
+00:18:40,230 --> 00:18:41,549
+that's horrific to deal with,
+
+618
+00:18:41,809 --> 00:18:42,269
+uh,
+
+619
+00:18:42,410 --> 00:18:45,190
+not under the estimating that any shape or mind,
+
+620
+00:18:45,190 --> 00:18:46,529
+but some other,
+
+621
+00:18:46,809 --> 00:18:46,970
+you know,
+
+622
+00:18:47,009 --> 00:18:48,089
+in preparation for this,
+
+623
+00:18:48,250 --> 00:18:48,529
+there's talk,
+
+624
+00:18:48,809 --> 00:18:48,930
+you know,
+
+625
+00:18:48,970 --> 00:18:50,069
+at any one time in the internet,
+
+626
+00:18:50,329 --> 00:18:52,809
+there's a million online predators,
+
+627
+00:18:52,809 --> 00:18:54,849
+online grooming,
+
+628
+00:18:55,130 --> 00:18:56,289
+sexual exploitation,
+
+629
+00:18:56,869 --> 00:18:58,789
+a whole range of really serious.
+
+630
+00:18:59,730 --> 00:19:01,250
+Is that from your experience,
+
+631
+00:19:01,349 --> 00:19:03,369
+what's happening at that end of the scale?
+
+632
+00:19:03,710 --> 00:19:03,910
+Yep.
+
+633
+00:19:04,029 --> 00:19:09,029
+So we know that the online exploitation of children is the fastest growing crime of its type in the world.
+
+634
+00:19:09,450 --> 00:19:11,829
+I still have parents tell me that,
+
+635
+00:19:12,089 --> 00:19:14,109
+that I worry about pedophiles because they're kids smart.
+
+636
+00:19:14,369 --> 00:19:14,809
+Well,
+
+637
+00:19:14,829 --> 00:19:15,009
+you know,
+
+638
+00:19:15,029 --> 00:19:16,029
+I'm sorry to burst your bubble,
+
+639
+00:19:16,190 --> 00:19:17,569
+but they're not that smart.
+
+640
+00:19:17,970 --> 00:19:18,410
+Um,
+
+641
+00:19:18,410 --> 00:19:20,869
+or I don't worry about pedophiles because my child would pick them.
+
+642
+00:19:20,970 --> 00:19:21,089
+No,
+
+643
+00:19:21,089 --> 00:19:21,609
+they won't.
+
+644
+00:19:21,750 --> 00:19:22,730
+That's why these people,
+
+645
+00:19:22,809 --> 00:19:25,710
+they're so good at what they do because they're not going to get picked.
+
+646
+00:19:25,769 --> 00:19:28,910
+They don't enter into a conversation with your child.
+
+647
+00:19:29,210 --> 00:19:29,609
+Hi,
+
+648
+00:19:29,750 --> 00:19:30,849
+I'm a child sex offender.
+
+649
+00:19:30,930 --> 00:19:32,170
+Do you want to hang out with me?
+
+650
+00:19:32,609 --> 00:19:32,829
+Right?
+
+651
+00:19:32,890 --> 00:19:33,890
+They're going to seem nice,
+
+652
+00:19:33,910 --> 00:19:34,269
+sound nice,
+
+653
+00:19:34,309 --> 00:19:35,369
+look nice and appear nice.
+
+654
+00:19:35,690 --> 00:19:37,049
+They will spin them a line.
+
+655
+00:19:37,710 --> 00:19:38,109
+And,
+
+656
+00:19:38,190 --> 00:19:38,609
+you know,
+
+657
+00:19:38,650 --> 00:19:41,410
+unfortunately for the 10 kids that don't take the bait,
+
+658
+00:19:42,269 --> 00:19:43,670
+number 11 and 12 will.
+
+659
+00:19:44,190 --> 00:19:44,329
+Right?
+
+660
+00:19:44,369 --> 00:19:44,869
+They don't care.
+
+661
+00:19:44,869 --> 00:19:48,650
+Like they'll just keep going until they get someone to engage with.
+
+662
+00:19:49,410 --> 00:19:51,230
+And it is a huge issue.
+
+663
+00:19:51,269 --> 00:19:52,789
+And I said recently at a parent,
+
+664
+00:19:52,890 --> 00:19:56,490
+evening that I would much rather if I had a 12 year old child,
+
+665
+00:19:57,009 --> 00:20:01,049
+I would much rather let them walk around the block at midnight on their own
+
+666
+00:20:01,329 --> 00:20:05,410
+than put them on the internet unsupervised because I know where the most
+
+667
+00:20:05,410 --> 00:20:08,829
+likelihood of harm is and it's not on my street at midnight.
+
+668
+00:20:09,329 --> 00:20:11,529
+That's a confronting thing to say,
+
+669
+00:20:11,529 --> 00:20:11,930
+isn't it?
+
+670
+00:20:11,930 --> 00:20:15,069
+Cause no parent I know was going to allow their 12 year old to walk around the
+
+671
+00:20:15,069 --> 00:20:15,430
+block,
+
+672
+00:20:15,430 --> 00:20:16,869
+but not all of us at one.
+
+673
+00:20:16,869 --> 00:20:18,250
+And I have to put my hand up.
+
+674
+00:20:18,250 --> 00:20:20,430
+I say this all the time because you know,
+
+675
+00:20:20,430 --> 00:20:22,690
+as a father of four and you're passionate about this space,
+
+676
+00:20:22,690 --> 00:20:23,589
+but you know,
+
+677
+00:20:23,589 --> 00:20:24,430
+I'm on my phone.
+
+678
+00:20:24,430 --> 00:20:25,450
+You can't be there 24 seven.
+
+679
+00:20:25,450 --> 00:20:25,730
+Yeah.
+
+680
+00:20:25,730 --> 00:20:28,329
+And also you're sort of hypocritical cause I'm on my phone too much.
+
+681
+00:20:28,329 --> 00:20:32,230
+And I'm yelling at young Maxie to get off his phone as I'm on the phone myself.
+
+682
+00:20:32,230 --> 00:20:34,029
+So I know the hypocrisy is alive and well.
+
+683
+00:20:34,029 --> 00:20:36,130
+It's like don't drink alcohol darling while I'm swigging a beer.
+
+684
+00:20:36,130 --> 00:20:36,410
+Well,
+
+685
+00:20:36,410 --> 00:20:37,029
+that's right.
+
+686
+00:20:37,029 --> 00:20:37,250
+I mean,
+
+687
+00:20:37,250 --> 00:20:37,430
+it's,
+
+688
+00:20:37,430 --> 00:20:37,829
+it's,
+
+689
+00:20:37,829 --> 00:20:39,369
+it's a complex parenting thing,
+
+690
+00:20:39,369 --> 00:20:42,630
+more complex than any I think we've we've seen.
+
+691
+00:20:42,630 --> 00:20:42,730
+I,
+
+692
+00:20:42,730 --> 00:20:44,069
+it certainly feels like an error.
+
+693
+00:20:44,069 --> 00:20:44,869
+Can I change tack?
+
+694
+00:20:45,309 --> 00:20:48,349
+We had a huge high profile hacking issue,
+
+695
+00:20:48,349 --> 00:20:52,130
+Medibank and the data being released to people's private health,
+
+696
+00:20:52,130 --> 00:20:52,650
+uh,
+
+697
+00:20:52,650 --> 00:20:53,150
+information,
+
+698
+00:20:53,150 --> 00:20:54,089
+horrific thing.
+
+699
+00:20:54,089 --> 00:20:54,930
+I mean,
+
+700
+00:20:54,930 --> 00:20:55,789
+how,
+
+701
+00:20:55,789 --> 00:20:56,089
+you know,
+
+702
+00:20:56,089 --> 00:20:59,410
+for people who run small businesses are listening to this people who,
+
+703
+00:20:59,410 --> 00:21:00,029
+you know,
+
+704
+00:21:00,029 --> 00:21:00,750
+in the past,
+
+705
+00:21:00,750 --> 00:21:01,829
+it was a Nigerian scammer.
+
+706
+00:21:01,829 --> 00:21:02,670
+And you thought I'm,
+
+707
+00:21:02,670 --> 00:21:03,170
+you know what,
+
+708
+00:21:03,170 --> 00:21:04,349
+I reckon I'll be okay.
+
+709
+00:21:04,349 --> 00:21:04,869
+Yeah.
+
+710
+00:21:04,869 --> 00:21:08,589
+Now it's very sophisticated and they're very good at what they do.
+
+711
+00:21:08,589 --> 00:21:10,029
+What should you do to protect yourself?
+
+712
+00:21:10,029 --> 00:21:12,690
+If you are running a business that has any tech,
+
+713
+00:21:12,690 --> 00:21:13,029
+um,
+
+714
+00:21:13,029 --> 00:21:15,029
+which it will cause at least have an email,
+
+715
+00:21:15,029 --> 00:21:17,190
+you need to understand that there is a risk.
+
+716
+00:21:17,190 --> 00:21:17,970
+Now,
+
+717
+00:21:17,970 --> 00:21:18,529
+where do you,
+
+718
+00:21:18,529 --> 00:21:19,650
+and I say this all the time,
+
+719
+00:21:19,650 --> 00:21:21,750
+where do you sit on the risk scale?
+
+720
+00:21:21,750 --> 00:21:22,029
+Like,
+
+721
+00:21:22,029 --> 00:21:22,529
+I can't,
+
+722
+00:21:22,529 --> 00:21:24,150
+I can't answer that because I don't know what you do,
+
+723
+00:21:24,150 --> 00:21:25,049
+how you do it.
+
+724
+00:21:25,049 --> 00:21:26,309
+I don't know how good you are,
+
+725
+00:21:26,309 --> 00:21:27,529
+what systems you have in place.
+
+726
+00:21:27,529 --> 00:21:28,650
+I don't know your knowledge.
+
+727
+00:21:28,650 --> 00:21:29,650
+And I don't know,
+
+728
+00:21:29,650 --> 00:21:30,750
+you know a lot about you,
+
+729
+00:21:30,750 --> 00:21:32,769
+whether you know you are attractive to Harry,
+
+730
+00:21:32,769 --> 00:21:33,930
+the hacker or you're not.
+
+731
+00:21:33,930 --> 00:21:35,589
+So all these things are important,
+
+732
+00:21:35,589 --> 00:21:39,930
+but I don't want people to think that now job's right because I'm X.
+
+733
+00:21:39,930 --> 00:21:40,470
+Therefore,
+
+734
+00:21:40,470 --> 00:21:45,569
+no one's going to bother me because a lot of this is nuisance value as well.
+
+735
+00:21:45,569 --> 00:21:50,309
+So they don't actually get anything out of it in a monetary way other than
+
+736
+00:21:50,309 --> 00:21:51,910
+they've stuffed you up.
+
+737
+00:21:51,910 --> 00:21:52,910
+The amount of people,
+
+738
+00:21:52,910 --> 00:21:53,549
+however,
+
+739
+00:21:53,549 --> 00:21:56,410
+that are willing to pay a ransom to allegedly,
+
+740
+00:21:56,410 --> 00:21:56,650
+you know,
+
+741
+00:21:56,650 --> 00:21:59,109
+get access to their database back does my head in.
+
+742
+00:21:59,109 --> 00:22:00,369
+And it's the one thing,
+
+743
+00:22:00,369 --> 00:22:00,769
+you know,
+
+744
+00:22:00,769 --> 00:22:05,430
+that I fully support a Medibank with is that the minute you pay a ransom,
+
+745
+00:22:05,430 --> 00:22:09,549
+you are telling the offender that you have a willingness to pay and a capacity
+
+746
+00:22:09,549 --> 00:22:12,009
+to pay the two things you don't want them to know.
+
+747
+00:22:12,009 --> 00:22:12,730
+So you never,
+
+748
+00:22:12,730 --> 00:22:13,390
+ever do that.
+
+749
+00:22:13,390 --> 00:22:14,430
+And you should never,
+
+750
+00:22:14,430 --> 00:22:15,990
+on any circumstances,
+
+751
+00:22:15,990 --> 00:22:16,329
+never,
+
+752
+00:22:16,329 --> 00:22:16,690
+ever,
+
+753
+00:22:16,690 --> 00:22:17,289
+ever,
+
+754
+00:22:17,289 --> 00:22:18,069
+ever.
+
+755
+00:22:18,069 --> 00:22:19,029
+So,
+
+756
+00:22:19,029 --> 00:22:19,470
+you know,
+
+757
+00:22:19,470 --> 00:22:21,789
+so any business owner is at risk.
+
+758
+00:22:21,789 --> 00:22:23,089
+Obviously some more than others.
+
+759
+00:22:23,089 --> 00:22:23,490
+Now,
+
+760
+00:22:23,490 --> 00:22:26,589
+if you look at the Optus and the Medibank and the things like that,
+
+761
+00:22:26,589 --> 00:22:27,490
+you know,
+
+762
+00:22:27,490 --> 00:22:28,789
+all that data,
+
+763
+00:22:28,789 --> 00:22:29,490
+well,
+
+764
+00:22:29,490 --> 00:22:32,430
+there's a debate with Optus about keeping it a bit longer than they legally
+
+765
+00:22:32,430 --> 00:22:33,029
+should have.
+
+766
+00:22:33,029 --> 00:22:35,069
+But the one thing that they all did,
+
+767
+00:22:35,069 --> 00:22:36,970
+it appears that they did wrong is that yes,
+
+768
+00:22:36,970 --> 00:22:37,930
+you're allowed to hold the data,
+
+769
+00:22:37,930 --> 00:22:39,130
+but it was meant to be encrypted.
+
+770
+00:22:39,130 --> 00:22:40,089
+So if you know,
+
+771
+00:22:40,089 --> 00:22:40,450
+Harry,
+
+772
+00:22:40,450 --> 00:22:41,410
+the hacker did get in,
+
+773
+00:22:41,410 --> 00:22:46,390
+it was useless to them because there was nothing there in a format that they
+
+774
+00:22:46,390 --> 00:22:50,049
+could use or Susan McLean,
+
+775
+00:22:50,049 --> 00:22:51,029
+the name is there,
+
+776
+00:22:51,029 --> 00:22:51,789
+but it doesn't,
+
+777
+00:22:51,789 --> 00:22:52,630
+it doesn't link to anything.
+
+778
+00:22:52,630 --> 00:22:53,289
+So,
+
+779
+00:22:53,289 --> 00:22:53,789
+you know,
+
+780
+00:22:53,789 --> 00:22:55,210
+you couldn't match it all up.
+
+781
+00:22:55,210 --> 00:22:57,869
+And that appears to be something that's lacking again,
+
+782
+00:22:57,869 --> 00:23:00,109
+unless there are consequences for that,
+
+783
+00:23:00,109 --> 00:23:00,609
+you know,
+
+784
+00:23:00,609 --> 00:23:02,410
+nothing is going to change.
+
+785
+00:23:02,410 --> 00:23:02,910
+And,
+
+786
+00:23:02,910 --> 00:23:03,410
+you know,
+
+787
+00:23:03,410 --> 00:23:04,349
+to the government's credit,
+
+788
+00:23:04,349 --> 00:23:09,869
+they have jumped fairly quickly to put in place some consequences for future
+
+789
+00:23:09,869 --> 00:23:10,450
+hacks,
+
+790
+00:23:10,450 --> 00:23:11,549
+which there will be.
+
+791
+00:23:11,549 --> 00:23:17,170
+You've only got to look at Telstra this week that inadvertently published
+
+792
+00:23:17,170 --> 00:23:21,069
+personal information of people that had asked for their number and their
+
+793
+00:23:21,069 --> 00:23:22,390
+address to remain silent.
+
+794
+00:23:22,390 --> 00:23:25,569
+And apparently it appeared in white pages directories.
+
+795
+00:23:25,569 --> 00:23:27,009
+Now to me,
+
+796
+00:23:27,009 --> 00:23:27,609
+yes,
+
+797
+00:23:27,609 --> 00:23:32,170
+if I had a complex medical history that I didn't really want known,
+
+798
+00:23:32,569 --> 00:23:34,990
+that would be distressing that that was on the dark web.
+
+799
+00:23:35,049 --> 00:23:36,690
+Will it ever make the light a day?
+
+800
+00:23:36,990 --> 00:23:37,390
+Might,
+
+801
+00:23:37,390 --> 00:23:37,990
+might not.
+
+802
+00:23:38,509 --> 00:23:43,150
+But if I was fleeing domestic violence or I was still a serving police
+
+803
+00:23:43,150 --> 00:23:43,690
+officer,
+
+804
+00:23:43,990 --> 00:23:46,690
+I most definitely do not want my name,
+
+805
+00:23:46,690 --> 00:23:48,910
+address and phone number out there for everyone to see,
+
+806
+00:23:49,269 --> 00:23:50,589
+because you know,
+
+807
+00:23:50,589 --> 00:23:53,769
+that's a personal safety issue and you know,
+
+808
+00:23:54,250 --> 00:23:56,150
+it's not going to go anywhere fast.
+
+809
+00:23:57,009 --> 00:23:58,089
+What can we do?
+
+810
+00:23:58,309 --> 00:24:00,009
+Not a lot because you've got to,
+
+811
+00:24:00,349 --> 00:24:02,529
+there has to be a level of trust in these organisations,
+
+812
+00:24:02,569 --> 00:24:04,789
+but they're failing us dismally at the moment.
+
+813
+00:24:05,109 --> 00:24:08,509
+And so you clearly understand this better than I do,
+
+814
+00:24:08,509 --> 00:24:11,490
+but the data gathering on us and our kids,
+
+815
+00:24:11,529 --> 00:24:14,769
+but you can't sign into your kids,
+
+816
+00:24:14,890 --> 00:24:15,190
+you know,
+
+817
+00:24:15,190 --> 00:24:17,289
+school function without giving you know,
+
+818
+00:24:17,289 --> 00:24:20,529
+your address and your phone number and 14 other points of information.
+
+819
+00:24:20,589 --> 00:24:22,970
+And you get to the point where I do certainly where you go,
+
+820
+00:24:23,289 --> 00:24:24,490
+it's so far gone.
+
+821
+00:24:24,549 --> 00:24:24,829
+Yeah.
+
+822
+00:24:25,569 --> 00:24:29,950
+I think though that I think people are now with these three are starting to
+
+823
+00:24:29,950 --> 00:24:31,910
+challenge a bit more like,
+
+824
+00:24:31,930 --> 00:24:32,289
+Hey,
+
+825
+00:24:32,289 --> 00:24:34,109
+why do you actually need this?
+
+826
+00:24:34,410 --> 00:24:34,589
+You know,
+
+827
+00:24:34,589 --> 00:24:36,789
+is it a function of your business or is it,
+
+828
+00:24:36,829 --> 00:24:37,130
+you know,
+
+829
+00:24:37,130 --> 00:24:42,609
+something extra school login systems that I'm not a fan of a lot of those,
+
+830
+00:24:42,609 --> 00:24:43,210
+because again,
+
+831
+00:24:43,210 --> 00:24:46,450
+they gather far too much information that is totally irrelevant and is not
+
+832
+00:24:46,450 --> 00:24:46,990
+necessary.
+
+833
+00:24:46,990 --> 00:24:48,130
+I sign into schools every day,
+
+834
+00:24:48,130 --> 00:24:50,569
+obviously I'm in schools and I got asked recently,
+
+835
+00:24:50,950 --> 00:24:52,089
+am I vaccinated?
+
+836
+00:24:52,089 --> 00:24:52,210
+Yeah,
+
+837
+00:24:52,210 --> 00:24:52,869
+it's not a problem.
+
+838
+00:24:53,529 --> 00:24:55,450
+Which brand of vaccination did I have?
+
+839
+00:24:55,569 --> 00:24:56,069
+Well,
+
+840
+00:24:56,809 --> 00:24:57,549
+I don't think so.
+
+841
+00:24:57,589 --> 00:24:58,809
+Like not that I care,
+
+842
+00:24:59,029 --> 00:24:59,269
+but,
+
+843
+00:24:59,269 --> 00:25:01,150
+but for what purpose are you gathering that?
+
+844
+00:25:01,930 --> 00:25:02,829
+So I think,
+
+845
+00:25:03,009 --> 00:25:03,470
+you know,
+
+846
+00:25:03,470 --> 00:25:06,910
+we do need to be very clear that if,
+
+847
+00:25:06,970 --> 00:25:11,269
+if someone is starting to ask questions or I'm expecting you to provide
+
+848
+00:25:11,269 --> 00:25:12,490
+information that you're thinking,
+
+849
+00:25:12,490 --> 00:25:12,609
+well,
+
+850
+00:25:12,609 --> 00:25:13,130
+hang on this,
+
+851
+00:25:13,130 --> 00:25:17,890
+this does not in any way relate to what I'm trying to do with you.
+
+852
+00:25:18,309 --> 00:25:20,410
+Then we need to be prepared to pull back and go,
+
+853
+00:25:20,410 --> 00:25:21,009
+well, hang on a minute.
+
+854
+00:25:21,009 --> 00:25:22,009
+Cause if everyone pulls back,
+
+855
+00:25:22,009 --> 00:25:22,849
+then things will change,
+
+856
+00:25:23,170 --> 00:25:24,910
+but it's when people accept it as,
+
+857
+00:25:24,970 --> 00:25:25,150
+oh,
+
+858
+00:25:25,150 --> 00:25:25,589
+well,
+
+859
+00:25:25,589 --> 00:25:26,349
+what can I do?
+
+860
+00:25:26,650 --> 00:25:28,170
+And if everyone takes that attitude,
+
+861
+00:25:28,650 --> 00:25:29,710
+it's just going to continue.
+
+862
+00:25:29,710 --> 00:25:31,170
+And it's the same as the cyber bullying.
+
+863
+00:25:31,569 --> 00:25:33,369
+If you put it in the too high basket and go,
+
+864
+00:25:33,369 --> 00:25:33,789
+you know what?
+
+865
+00:25:33,789 --> 00:25:35,109
+It can be someone else's problem.
+
+866
+00:25:35,730 --> 00:25:37,029
+Then nothing changes.
+
+867
+00:25:37,069 --> 00:25:38,230
+And I am forever,
+
+868
+00:25:38,670 --> 00:25:39,029
+you know,
+
+869
+00:25:39,029 --> 00:25:44,049
+reporting accounts on social media that I say that I know are inappropriate.
+
+870
+00:25:44,049 --> 00:25:46,329
+Now they're not targeting me particularly.
+
+871
+00:25:46,609 --> 00:25:47,230
+They might be,
+
+872
+00:25:47,470 --> 00:25:50,289
+they're often not they're targeting someone else.
+
+873
+00:25:50,410 --> 00:25:51,470
+I'll report them.
+
+874
+00:25:51,950 --> 00:25:56,970
+I have often multiple accounts a week deleted off social media,
+
+875
+00:25:56,970 --> 00:25:58,750
+simply on based on my report.
+
+876
+00:25:58,750 --> 00:26:00,089
+It takes all of 10 seconds.
+
+877
+00:26:00,210 --> 00:26:02,349
+So I'm not prepared to walk past that standard.
+
+878
+00:26:02,869 --> 00:26:03,650
+I'm going to act.
+
+879
+00:26:04,029 --> 00:26:05,150
+If it simply means click,
+
+880
+00:26:05,210 --> 00:26:05,369
+click,
+
+881
+00:26:05,450 --> 00:26:06,690
+click and send it off.
+
+882
+00:26:06,769 --> 00:26:07,789
+If the platform does nothing,
+
+883
+00:26:07,869 --> 00:26:09,369
+I can't do anything more at that point,
+
+884
+00:26:09,609 --> 00:26:11,210
+unless it's something I need to,
+
+885
+00:26:11,250 --> 00:26:12,690
+to deal with in a different way.
+
+886
+00:26:13,029 --> 00:26:16,069
+But I think if everyone did that again,
+
+887
+00:26:16,269 --> 00:26:16,549
+you know,
+
+888
+00:26:16,609 --> 00:26:20,289
+the AI behind the programs now are starting to block people from
+
+889
+00:26:20,289 --> 00:26:20,349
+saying,
+
+890
+00:26:20,410 --> 00:26:22,890
+setting up multiple accounts when their accounts have been deleted.
+
+891
+00:26:23,410 --> 00:26:26,650
+There's reporting options about blocking someone,
+
+892
+00:26:27,049 --> 00:26:31,049
+blocking an account plus any new count they create,
+
+893
+00:26:31,490 --> 00:26:31,650
+you know,
+
+894
+00:26:31,710 --> 00:26:32,349
+so we're,
+
+895
+00:26:32,450 --> 00:26:32,750
+we're,
+
+896
+00:26:32,750 --> 00:26:33,089
+you know,
+
+897
+00:26:33,170 --> 00:26:34,089
+five steps forward,
+
+898
+00:26:34,190 --> 00:26:34,970
+six steps back,
+
+899
+00:26:35,410 --> 00:26:36,730
+but we're getting there,
+
+900
+00:26:36,809 --> 00:26:39,569
+but it takes a groundswell of people going,
+
+901
+00:26:39,710 --> 00:26:39,730
+well,
+
+902
+00:26:39,750 --> 00:26:40,230
+hang on a minute.
+
+903
+00:26:40,309 --> 00:26:41,109
+This is not okay.
+
+904
+00:26:49,099 --> 00:26:51,240
+Now you're an old school,
+
+905
+00:26:51,440 --> 00:26:51,720
+you know,
+
+906
+00:26:51,819 --> 00:26:52,759
+hardened police officer.
+
+907
+00:26:52,900 --> 00:26:53,900
+It takes a bit to rattle you,
+
+908
+00:26:54,000 --> 00:26:56,559
+but you get more than your fair share,
+
+909
+00:26:56,559 --> 00:27:00,640
+of horrific abuse online and probably more than given you take such a powerful stance.
+
+910
+00:27:00,720 --> 00:27:00,900
+I mean,
+
+911
+00:27:00,920 --> 00:27:01,200
+does it,
+
+912
+00:27:01,200 --> 00:27:02,359
+does it ever get to you?
+
+913
+00:27:03,140 --> 00:27:03,940
+Yes and no.
+
+914
+00:27:04,000 --> 00:27:07,500
+Like I just sort of think sad people in the world that think they need to,
+
+915
+00:27:07,660 --> 00:27:07,960
+this is,
+
+916
+00:27:08,039 --> 00:27:09,880
+these are people targeting me that don't even know me.
+
+917
+00:27:10,180 --> 00:27:10,539
+Right.
+
+918
+00:27:10,579 --> 00:27:12,539
+But I've come out and I've been vocal about,
+
+919
+00:27:12,619 --> 00:27:12,859
+you know,
+
+920
+00:27:12,859 --> 00:27:17,240
+something in the media or some other online abuse and you get,
+
+921
+00:27:17,359 --> 00:27:17,680
+you know,
+
+922
+00:27:18,019 --> 00:27:18,200
+well,
+
+923
+00:27:18,640 --> 00:27:20,019
+just don't read it or,
+
+924
+00:27:20,200 --> 00:27:20,319
+you know,
+
+925
+00:27:20,319 --> 00:27:21,079
+things like that.
+
+926
+00:27:21,380 --> 00:27:21,799
+I mean,
+
+927
+00:27:22,079 --> 00:27:23,039
+block is my friend,
+
+928
+00:27:23,440 --> 00:27:24,119
+block and report.
+
+929
+00:27:25,559 --> 00:27:26,539
+And it never,
+
+930
+00:27:26,559 --> 00:27:27,859
+never ceases to amaze me,
+
+931
+00:27:28,140 --> 00:27:28,519
+you know,
+
+932
+00:27:29,000 --> 00:27:29,339
+what,
+
+933
+00:27:29,420 --> 00:27:32,140
+what people will go you for and how they actually find you.
+
+934
+00:27:32,220 --> 00:27:32,380
+Like,
+
+935
+00:27:32,400 --> 00:27:32,859
+it's like,
+
+936
+00:27:33,220 --> 00:27:35,480
+clearly you're following me for,
+
+937
+00:27:35,559 --> 00:27:35,779
+for,
+
+938
+00:27:35,839 --> 00:27:36,599
+for a reason.
+
+939
+00:27:36,740 --> 00:27:37,039
+You know,
+
+940
+00:27:37,079 --> 00:27:38,259
+you want to go me online.
+
+941
+00:27:38,400 --> 00:27:40,220
+I'm not interested in that conversation.
+
+942
+00:27:40,220 --> 00:27:42,319
+And I look at my Facebook page,
+
+943
+00:27:42,359 --> 00:27:46,000
+which has a really nice community of 30,000 people.
+
+944
+00:27:46,740 --> 00:27:47,140
+And,
+
+945
+00:27:47,180 --> 00:27:47,720
+you know,
+
+946
+00:27:47,720 --> 00:27:49,960
+they're all there because they want information by and large.
+
+947
+00:27:49,980 --> 00:27:50,220
+And,
+
+948
+00:27:50,299 --> 00:27:51,720
+and it's a very respectful place,
+
+949
+00:27:51,720 --> 00:27:53,039
+but you get the odd person that,
+
+950
+00:27:53,319 --> 00:27:53,700
+you know,
+
+951
+00:27:53,700 --> 00:27:55,019
+comes up with stupid stuff.
+
+952
+00:27:55,019 --> 00:27:55,279
+Well,
+
+953
+00:27:55,559 --> 00:27:56,380
+they're not welcome.
+
+954
+00:27:56,880 --> 00:27:58,519
+And I make that very clear.
+
+955
+00:27:59,359 --> 00:28:00,319
+But one,
+
+956
+00:28:00,500 --> 00:28:02,519
+one thing that really distressed me,
+
+957
+00:28:02,640 --> 00:28:05,140
+it did distress me,
+
+958
+00:28:05,180 --> 00:28:05,640
+not greatly.
+
+959
+00:28:05,759 --> 00:28:06,460
+We got over it,
+
+960
+00:28:06,500 --> 00:28:10,640
+but my husband and I got caught up in Los Rambles in Barcelona with the terrorist attack.
+
+961
+00:28:10,740 --> 00:28:18,099
+So we were on Los Rambles when that happened and got ourselves safe back into a shop.
+
+962
+00:28:19,119 --> 00:28:20,359
+We put all the,
+
+963
+00:28:20,579 --> 00:28:22,059
+because shops in Europe have metal shutters.
+
+964
+00:28:22,059 --> 00:28:25,839
+So we put all the shutters down and we hid in the shop with a lot of other people.
+
+965
+00:28:26,559 --> 00:28:30,039
+And the minute that I saw that car flying past,
+
+966
+00:28:30,039 --> 00:28:30,640
+I knew it was,
+
+967
+00:28:30,640 --> 00:28:31,960
+I knew exactly what was happening.
+
+968
+00:28:31,960 --> 00:28:33,819
+It was a terrorist attack and we needed to get out of there.
+
+969
+00:28:34,359 --> 00:28:36,700
+And I put a thing out to say,
+
+970
+00:28:36,759 --> 00:28:36,920
+like,
+
+971
+00:28:36,920 --> 00:28:37,900
+I marked myself safe,
+
+972
+00:28:37,940 --> 00:28:42,400
+which is one of the good things you can do in an emergency situation on social media.
+
+973
+00:28:42,940 --> 00:28:44,019
+And you know,
+
+974
+00:28:44,019 --> 00:28:44,519
+the,
+
+975
+00:28:44,559 --> 00:28:46,400
+I was getting messages like shame,
+
+976
+00:28:46,400 --> 00:28:47,720
+they didn't get you,
+
+977
+00:28:47,980 --> 00:28:48,279
+you know,
+
+978
+00:28:48,279 --> 00:28:50,099
+they should have tried harder to kill you.
+
+979
+00:28:50,319 --> 00:28:51,039
+And I'm thinking,
+
+980
+00:28:51,839 --> 00:28:53,019
+I don't even know who you are.
+
+981
+00:28:53,160 --> 00:28:53,500
+Like,
+
+982
+00:28:53,500 --> 00:28:53,720
+you know,
+
+983
+00:28:53,720 --> 00:28:56,319
+if you get your jollies telling someone you wish they were dead,
+
+984
+00:28:56,319 --> 00:28:56,400
+you know, you're dead.
+
+985
+00:28:56,400 --> 00:28:56,539
+And I'm like,
+
+986
+00:28:56,539 --> 00:28:56,779
+you know,
+
+987
+00:28:56,779 --> 00:29:00,539
+I feel sorry for you and I'm not going to let that affect what I do.
+
+988
+00:29:00,539 --> 00:29:01,039
+Yeah.
+
+989
+00:29:01,039 --> 00:29:01,700
+It's horrific though,
+
+990
+00:29:01,700 --> 00:29:01,940
+isn't it?
+
+991
+00:29:01,940 --> 00:29:04,400
+I hear that and your mind just goes,
+
+992
+00:29:04,400 --> 00:29:04,579
+well,
+
+993
+00:29:04,579 --> 00:29:06,500
+what have we become?
+
+994
+00:29:06,500 --> 00:29:07,519
+And I just,
+
+995
+00:29:07,599 --> 00:29:07,940
+to me,
+
+996
+00:29:07,940 --> 00:29:09,440
+it's that accountability piece isn't it?
+
+997
+00:29:09,440 --> 00:29:09,980
+I love those,
+
+998
+00:29:09,980 --> 00:29:10,299
+you know,
+
+999
+00:29:10,339 --> 00:29:16,059
+sometimes those people are working sophisticated jobs and you find out that that's what they,
+
+1000
+00:29:16,099 --> 00:29:16,640
+you know,
+
+1001
+00:29:16,640 --> 00:29:18,200
+like to put out into the universe.
+
+1002
+00:29:18,200 --> 00:29:21,440
+What distresses me greatly when I work with young people is the amount of them,
+
+1003
+00:29:22,299 --> 00:29:24,380
+the amount of them that are told to go and kill themselves.
+
+1004
+00:29:24,660 --> 00:29:24,859
+Now,
+
+1005
+00:29:24,859 --> 00:29:26,539
+I think that is the most abhorrent thing you could do.
+
+1006
+00:29:26,539 --> 00:29:27,720
+Say to any other human being,
+
+1007
+00:29:27,720 --> 00:29:28,640
+whether you like them or not.
+
+1008
+00:29:29,099 --> 00:29:31,180
+And it's common.
+
+1009
+00:29:31,619 --> 00:29:32,680
+That happens a lot.
+
+1010
+00:29:32,680 --> 00:29:34,039
+It flows off.
+
+1011
+00:29:34,220 --> 00:29:35,480
+And I say it flows off their tongue.
+
+1012
+00:29:35,480 --> 00:29:36,740
+It's coming off their fingers.
+
+1013
+00:29:37,220 --> 00:29:42,619
+I am sent the most distressing messages and screenshots from parents about what do I do about this?
+
+1014
+00:29:42,619 --> 00:29:44,519
+My child has just been told to kill himself.
+
+1015
+00:29:44,960 --> 00:29:47,160
+And there was one recently where he was,
+
+1016
+00:29:47,359 --> 00:29:47,720
+you know,
+
+1017
+00:29:47,720 --> 00:29:49,819
+told to jump off a bridge.
+
+1018
+00:29:50,180 --> 00:29:50,480
+Um,
+
+1019
+00:29:50,480 --> 00:29:51,680
+and if he planned it right,
+
+1020
+00:29:51,680 --> 00:29:53,500
+a train could hit him at the same time.
+
+1021
+00:29:53,960 --> 00:29:56,539
+I've seen families that have been sent playlists to die.
+
+1022
+00:29:56,539 --> 00:29:56,940
+Bye.
+
+1023
+00:29:57,299 --> 00:29:57,799
+You know,
+
+1024
+00:29:58,819 --> 00:29:59,180
+you know,
+
+1025
+00:29:59,180 --> 00:30:00,079
+this is it.
+
+1026
+00:30:00,380 --> 00:30:01,859
+This is our society.
+
+1027
+00:30:01,859 --> 00:30:03,140
+And then you look at that,
+
+1028
+00:30:03,440 --> 00:30:05,299
+then you look at what happened in Queensland,
+
+1029
+00:30:05,960 --> 00:30:06,359
+you know,
+
+1030
+00:30:06,359 --> 00:30:07,579
+and you've got to think,
+
+1031
+00:30:07,579 --> 00:30:08,079
+you know,
+
+1032
+00:30:08,799 --> 00:30:14,900
+are these people heading towards that sort of behavior if they're starting in primary school,
+
+1033
+00:30:15,440 --> 00:30:21,140
+thinking it's okay to tell someone to go kill themselves and we read that it becomes acceptable.
+
+1034
+00:30:21,140 --> 00:30:22,259
+It comes normal.
+
+1035
+00:30:22,259 --> 00:30:23,519
+And as you said,
+
+1036
+00:30:23,519 --> 00:30:23,859
+that's,
+
+1037
+00:30:23,859 --> 00:30:24,380
+uh,
+
+1038
+00:30:24,400 --> 00:30:24,680
+you know,
+
+1039
+00:30:24,680 --> 00:30:26,519
+something you walk past is something you accept.
+
+1040
+00:30:26,539 --> 00:30:27,039
+Isn't it?
+
+1041
+00:30:27,039 --> 00:30:29,299
+It's a powerful message that you've got.
+
+1042
+00:30:29,299 --> 00:30:32,299
+I've got a handful of leadership questions I want to ask you,
+
+1043
+00:30:32,299 --> 00:30:34,880
+but just a quick one before we move on to that.
+
+1044
+00:30:34,880 --> 00:30:39,079
+Where do you sit on schools allowing kids to have their phones in a classroom?
+
+1045
+00:30:39,500 --> 00:30:40,000
+Um,
+
+1046
+00:30:40,220 --> 00:30:42,140
+it depends how much you want to pay me for that answer.
+
+1047
+00:30:42,920 --> 00:30:44,920
+So let's go back to,
+
+1048
+00:30:44,960 --> 00:30:46,460
+I think it's 2018.
+
+1049
+00:30:46,759 --> 00:30:47,059
+Dr.
+
+1050
+00:30:47,059 --> 00:30:47,599
+Michael Carr,
+
+1051
+00:30:47,599 --> 00:30:47,900
+Greg,
+
+1052
+00:30:47,900 --> 00:30:49,740
+the adolescent psychologist and myself,
+
+1053
+00:30:50,059 --> 00:30:50,480
+um,
+
+1054
+00:30:50,480 --> 00:30:51,500
+and Amanda third,
+
+1055
+00:30:51,500 --> 00:30:56,180
+who's an academic were employed by the New South Wales education department to,
+
+1056
+00:30:56,180 --> 00:30:59,559
+to conduct a review into what should this look like?
+
+1057
+00:30:59,559 --> 00:31:00,680
+What should we do?
+
+1058
+00:31:01,180 --> 00:31:01,759
+The risk,
+
+1059
+00:31:01,759 --> 00:31:02,420
+the benefit,
+
+1060
+00:31:02,420 --> 00:31:03,019
+the dangers,
+
+1061
+00:31:03,019 --> 00:31:03,720
+et cetera.
+
+1062
+00:31:04,099 --> 00:31:08,660
+Now I am a hundred percent for the banning phones in schools.
+
+1063
+00:31:08,660 --> 00:31:09,900
+Do not stop cyberbullying.
+
+1064
+00:31:09,940 --> 00:31:11,539
+They do not write in any way,
+
+1065
+00:31:11,539 --> 00:31:12,019
+shape or form,
+
+1066
+00:31:12,019 --> 00:31:14,019
+because we know most of the cyberbullying happens at night.
+
+1067
+00:31:14,539 --> 00:31:18,779
+But what our review found and we spoke to lots of young people,
+
+1068
+00:31:18,779 --> 00:31:19,339
+parents,
+
+1069
+00:31:19,400 --> 00:31:20,660
+educators themselves,
+
+1070
+00:31:20,980 --> 00:31:26,059
+especially schools that had started to limit the use of phones and not one person had,
+
+1071
+00:31:26,059 --> 00:31:27,140
+anything negative to say,
+
+1072
+00:31:27,140 --> 00:31:29,559
+not one of them best thing we ever did.
+
+1073
+00:31:29,559 --> 00:31:31,460
+More engagement from the students,
+
+1074
+00:31:31,640 --> 00:31:33,000
+less distraction,
+
+1075
+00:31:33,019 --> 00:31:35,319
+children engaging better in the playground,
+
+1076
+00:31:35,359 --> 00:31:35,960
+et cetera.
+
+1077
+00:31:36,559 --> 00:31:38,299
+So it's not about block,
+
+1078
+00:31:38,299 --> 00:31:41,539
+bad and take away because it can be useful.
+
+1079
+00:31:41,599 --> 00:31:44,220
+And there is certainly teacher directed learning.
+
+1080
+00:31:44,720 --> 00:31:48,339
+There is amazing apps on your phone that manage your blood sugar.
+
+1081
+00:31:48,460 --> 00:31:50,440
+So valid medical reasons,
+
+1082
+00:31:50,480 --> 00:31:53,859
+not I need to text mom at two o'clock in the afternoon,
+
+1083
+00:31:53,859 --> 00:31:54,380
+not that,
+
+1084
+00:31:54,380 --> 00:31:55,559
+but medical reasons.
+
+1085
+00:31:56,059 --> 00:31:59,440
+But the unsupervised go for your life use.
+
+1086
+00:31:59,839 --> 00:32:00,259
+No,
+
+1087
+00:32:00,500 --> 00:32:00,799
+no,
+
+1088
+00:32:00,799 --> 00:32:00,980
+no,
+
+1089
+00:32:00,980 --> 00:32:01,299
+no.
+
+1090
+00:32:01,700 --> 00:32:02,960
+For a variety of reasons.
+
+1091
+00:32:03,859 --> 00:32:04,339
+I laugh.
+
+1092
+00:32:04,339 --> 00:32:05,660
+Schools have big signs.
+
+1093
+00:32:05,740 --> 00:32:07,640
+All visitors must report to the office.
+
+1094
+00:32:07,900 --> 00:32:08,059
+Well,
+
+1095
+00:32:08,059 --> 00:32:13,579
+what about the 200 or the 2000 random strangers that are in your school ground through technology?
+
+1096
+00:32:14,440 --> 00:32:16,380
+I had a school a couple of years ago said,
+
+1097
+00:32:16,380 --> 00:32:16,680
+Oh,
+
+1098
+00:32:16,680 --> 00:32:17,000
+you know,
+
+1099
+00:32:17,000 --> 00:32:20,940
+we're dealing with kids filming Tik Tok videos in the toilets in uniform.
+
+1100
+00:32:20,940 --> 00:32:22,400
+We really don't know what to do.
+
+1101
+00:32:22,660 --> 00:32:23,599
+So my first question is,
+
+1102
+00:32:23,660 --> 00:32:25,039
+what is your phone policy?
+
+1103
+00:32:25,819 --> 00:32:26,039
+Oh,
+
+1104
+00:32:26,079 --> 00:32:26,960
+we don't have one.
+
+1105
+00:32:27,440 --> 00:32:27,599
+Well,
+
+1106
+00:32:27,599 --> 00:32:28,819
+how's that working out for you?
+
+1107
+00:32:28,940 --> 00:32:29,859
+Not very well.
+
+1108
+00:32:30,319 --> 00:32:32,880
+So it is about setting an acceptable standard.
+
+1109
+00:32:33,240 --> 00:32:34,940
+It is about also,
+
+1110
+00:32:35,119 --> 00:32:35,359
+you know,
+
+1111
+00:32:35,400 --> 00:32:37,759
+people talk about preparing children for the real world.
+
+1112
+00:32:38,099 --> 00:32:41,599
+There are plenty of occupations where you cannot fiddle on your phone for eight hours a day.
+
+1113
+00:32:41,819 --> 00:32:42,039
+You know,
+
+1114
+00:32:42,079 --> 00:32:46,079
+you'll check your phone when you arrive at work and you will not see it again until you finished your shift.
+
+1115
+00:32:46,339 --> 00:32:49,880
+So if we've allowed kids to fiddle all day,
+
+1116
+00:32:49,940 --> 00:32:50,519
+every day,
+
+1117
+00:32:50,599 --> 00:32:50,720
+well,
+
+1118
+00:32:50,759 --> 00:32:52,000
+that is setting them up for failure.
+
+1119
+00:32:52,400 --> 00:32:54,019
+There is the inappropriate content.
+
+1120
+00:32:54,019 --> 00:32:56,039
+There is a small amount of bullying and harassment.
+
+1121
+00:32:56,039 --> 00:32:57,240
+I've seen that happens during the school day.
+
+1122
+00:32:57,920 --> 00:32:58,380
+There is,
+
+1123
+00:32:58,539 --> 00:32:58,720
+you know,
+
+1124
+00:32:58,779 --> 00:33:02,519
+if my child is a student at school and some other kid brings up,
+
+1125
+00:33:02,519 --> 00:33:03,039
+you know,
+
+1126
+00:33:03,099 --> 00:33:04,579
+violent pornography on their phone and says,
+
+1127
+00:33:04,660 --> 00:33:04,759
+Hey,
+
+1128
+00:33:04,799 --> 00:33:05,420
+look at this,
+
+1129
+00:33:05,920 --> 00:33:09,380
+that's a breach of duty of care of the school to keep my child safe.
+
+1130
+00:33:09,880 --> 00:33:10,319
+So,
+
+1131
+00:33:10,599 --> 00:33:10,960
+um,
+
+1132
+00:33:11,059 --> 00:33:13,799
+I firmly believe that school should have clear and robust,
+
+1133
+00:33:14,079 --> 00:33:14,940
+robust policy.
+
+1134
+00:33:15,200 --> 00:33:17,960
+Policy only works when it's enforced like a law,
+
+1135
+00:33:18,160 --> 00:33:25,779
+but I have not been given any valid reasons anywhere by anyone that says kids should have unsupervised access to phones.
+
+1136
+00:33:25,779 --> 00:33:26,740
+So as I said,
+
+1137
+00:33:26,740 --> 00:33:27,759
+teacher directed learning,
+
+1138
+00:33:27,940 --> 00:33:32,259
+please bring your phone because that's a decision for a teacher,
+
+1139
+00:33:32,859 --> 00:33:33,460
+um,
+
+1140
+00:33:33,759 --> 00:33:34,779
+medical reasons.
+
+1141
+00:33:35,140 --> 00:33:36,119
+But other than that,
+
+1142
+00:33:36,400 --> 00:33:37,420
+bring them into school.
+
+1143
+00:33:37,420 --> 00:33:40,079
+They stay in the locker and they come out at the end of the school day.
+
+1144
+00:33:40,359 --> 00:33:40,539
+Oh,
+
+1145
+00:33:40,539 --> 00:33:42,099
+but we let them use them at lunchtime.
+
+1146
+00:33:42,339 --> 00:33:43,240
+So what are they doing?
+
+1147
+00:33:43,759 --> 00:33:45,220
+Or they can check them at their lockers.
+
+1148
+00:33:45,380 --> 00:33:46,420
+What are they accessing?
+
+1149
+00:33:47,200 --> 00:33:47,380
+Oh,
+
+1150
+00:33:47,380 --> 00:33:48,039
+I don't know.
+
+1151
+00:33:48,579 --> 00:33:50,619
+So there's a whole lot of legal issues here.
+
+1152
+00:33:50,660 --> 00:33:51,160
+And I think,
+
+1153
+00:33:51,519 --> 00:33:51,880
+you know,
+
+1154
+00:33:51,920 --> 00:33:53,539
+the majority of schools understand that,
+
+1155
+00:33:53,539 --> 00:33:54,660
+but there are still some that,
+
+1156
+00:33:54,660 --> 00:33:55,220
+you know,
+
+1157
+00:33:55,220 --> 00:33:56,619
+live by hope.
+
+1158
+00:33:56,940 --> 00:33:57,079
+You know,
+
+1159
+00:33:57,119 --> 00:33:59,019
+we expect our students to make a good choice.
+
+1160
+00:33:59,759 --> 00:33:59,920
+All right,
+
+1161
+00:33:59,940 --> 00:34:00,799
+what planet are you on?
+
+1162
+00:34:01,259 --> 00:34:02,240
+Kids don't make good choices.
+
+1163
+00:34:02,339 --> 00:34:02,720
+They're children.
+
+1164
+00:34:02,980 --> 00:34:04,220
+They need guidance.
+
+1165
+00:34:04,500 --> 00:34:05,220
+They need,
+
+1166
+00:34:05,579 --> 00:34:05,940
+you know,
+
+1167
+00:34:06,000 --> 00:34:06,680
+someone to go,
+
+1168
+00:34:06,779 --> 00:34:10,960
+this is not a good idea and help them understand the why behind it.
+
+1169
+00:34:11,139 --> 00:34:11,460
+Well,
+
+1170
+00:34:11,480 --> 00:34:13,739
+that makes an enormous amount of sense.
+
+1171
+00:34:13,960 --> 00:34:14,159
+Susan,
+
+1172
+00:34:14,219 --> 00:34:19,059
+I love asking these questions because I see leadership in different spaces and you've got a really clear,
+
+1173
+00:34:19,460 --> 00:34:19,619
+you know,
+
+1174
+00:34:19,639 --> 00:34:21,579
+1994 when most of us were,
+
+1175
+00:34:21,659 --> 00:34:22,019
+you know,
+
+1176
+00:34:22,340 --> 00:34:22,940
+weren't born.
+
+1177
+00:34:24,440 --> 00:34:24,840
+Well,
+
+1178
+00:34:24,880 --> 00:34:25,199
+I certainly,
+
+1179
+00:34:25,219 --> 00:34:25,519
+I certainly was,
+
+1180
+00:34:25,619 --> 00:34:27,980
+but working out the internet or what it was going to be,
+
+1181
+00:34:28,099 --> 00:34:28,420
+you know,
+
+1182
+00:34:28,500 --> 00:34:28,699
+you had,
+
+1183
+00:34:28,699 --> 00:34:28,940
+you know,
+
+1184
+00:34:29,019 --> 00:34:31,800
+I thought the internet was a fad that we were going to get over.
+
+1185
+00:34:32,159 --> 00:34:32,179
+Seriously.
+
+1186
+00:34:32,280 --> 00:34:32,500
+Yeah.
+
+1187
+00:34:32,639 --> 00:34:42,119
+I still remember a close family friend of ours bought a computer for their children and we were invited around to see the computer.
+
+1188
+00:34:42,360 --> 00:34:43,360
+What year do you reckon that?
+
+1189
+00:34:43,739 --> 00:34:45,360
+That would have had to have been,
+
+1190
+00:34:45,519 --> 00:34:45,619
+well,
+
+1191
+00:34:45,639 --> 00:34:46,820
+it was before 94.
+
+1192
+00:34:46,920 --> 00:34:48,340
+It would have to have been in the late.
+
+1193
+00:34:48,719 --> 00:34:49,059
+No,
+
+1194
+00:34:49,159 --> 00:34:49,760
+it was,
+
+1195
+00:34:50,019 --> 00:34:52,079
+I would not have been.
+
+1196
+00:34:52,239 --> 00:34:53,539
+So in the seven,
+
+1197
+00:34:53,639 --> 00:34:54,280
+late seventies.
+
+1198
+00:34:54,280 --> 00:34:54,599
+Okay.
+
+1199
+00:34:54,599 --> 00:34:58,539
+And it was this boxy thing that really was not connected to the internet,
+
+1200
+00:34:58,760 --> 00:34:59,860
+but it was a computer.
+
+1201
+00:35:00,480 --> 00:35:00,800
+And,
+
+1202
+00:35:00,920 --> 00:35:01,000
+you know,
+
+1203
+00:35:01,019 --> 00:35:03,519
+there was things on the screen and you could play a game.
+
+1204
+00:35:03,619 --> 00:35:04,559
+And I looked at it and think,
+
+1205
+00:35:04,599 --> 00:35:04,940
+oh yeah,
+
+1206
+00:35:05,019 --> 00:35:05,219
+whatever.
+
+1207
+00:35:05,300 --> 00:35:06,480
+Like it didn't even interest me.
+
+1208
+00:35:06,760 --> 00:35:07,699
+And then when the internet,
+
+1209
+00:35:07,860 --> 00:35:08,000
+you know,
+
+1210
+00:35:08,000 --> 00:35:08,179
+oh,
+
+1211
+00:35:08,179 --> 00:35:11,000
+it's a bit of a fad or a fashion because of course the internet came from the ARPANET,
+
+1212
+00:35:11,079 --> 00:35:13,579
+which was the American military communication system.
+
+1213
+00:35:14,500 --> 00:35:14,860
+Again,
+
+1214
+00:35:14,980 --> 00:35:15,619
+it was like,
+
+1215
+00:35:15,780 --> 00:35:16,039
+nah,
+
+1216
+00:35:16,400 --> 00:35:17,400
+not interested,
+
+1217
+00:35:17,599 --> 00:35:18,579
+nothing to do with me.
+
+1218
+00:35:18,739 --> 00:35:19,099
+And,
+
+1219
+00:35:19,219 --> 00:35:19,400
+you know,
+
+1220
+00:35:19,460 --> 00:35:19,780
+now,
+
+1221
+00:35:19,860 --> 00:35:20,820
+now look where I am.
+
+1222
+00:35:21,119 --> 00:35:21,760
+We think how,
+
+1223
+00:35:21,880 --> 00:35:22,119
+you know,
+
+1224
+00:35:22,159 --> 00:35:23,019
+young Google,
+
+1225
+00:35:23,219 --> 00:35:23,659
+Facebook,
+
+1226
+00:35:23,659 --> 00:35:25,920
+it's not a lot,
+
+1227
+00:35:25,980 --> 00:35:26,179
+is it?
+
+1228
+00:35:26,239 --> 00:35:28,820
+It's not a long history for how big they are in our life.
+
+1229
+00:35:28,900 --> 00:35:31,760
+So we see these dimensions of leadership really common.
+
+1230
+00:35:31,840 --> 00:35:32,780
+So there's an indifferent settings,
+
+1231
+00:35:32,840 --> 00:35:37,380
+whether you've been an educator or running a social venture or a cyber safety expert like you.
+
+1232
+00:35:37,619 --> 00:35:38,719
+So I'll ask you some questions.
+
+1233
+00:35:38,820 --> 00:35:40,000
+I expand as much as you like,
+
+1234
+00:35:40,000 --> 00:35:40,760
+or as little as you like.
+
+1235
+00:35:40,800 --> 00:35:44,880
+We see most people start with a sense of self leadership before they can lead others.
+
+1236
+00:35:45,139 --> 00:35:46,280
+When I say that to you,
+
+1237
+00:35:46,320 --> 00:35:46,719
+what does it mean?
+
+1238
+00:35:47,340 --> 00:35:53,639
+It means that I have confidence in my own ability and I'm prepared to do what I want.
+
+1239
+00:35:53,659 --> 00:35:58,159
+I'm prepared to do what is right rather than what might be expected of me.
+
+1240
+00:35:59,199 --> 00:36:09,179
+I think that was instilled in me from a very young age through my parents that although they were never a hundred percent happy that I joined the police force,
+
+1241
+00:36:09,320 --> 00:36:09,800
+a very stupid,
+
+1242
+00:36:09,920 --> 00:36:10,539
+super proud,
+
+1243
+00:36:11,099 --> 00:36:12,760
+but I was still a little girl.
+
+1244
+00:36:12,980 --> 00:36:13,000
+And,
+
+1245
+00:36:13,320 --> 00:36:13,480
+you know,
+
+1246
+00:36:13,519 --> 00:36:16,460
+when I joined 5% of police officers were females.
+
+1247
+00:36:16,840 --> 00:36:19,460
+So it was not a female industry.
+
+1248
+00:36:19,559 --> 00:36:20,760
+Like it clearly isn't anymore.
+
+1249
+00:36:20,860 --> 00:36:21,219
+Still,
+
+1250
+00:36:21,760 --> 00:36:22,619
+you know,
+
+1251
+00:36:22,619 --> 00:36:23,480
+I was the first,
+
+1252
+00:36:23,659 --> 00:36:26,639
+first female ever gazetted to the Eltham police station.
+
+1253
+00:36:27,639 --> 00:36:29,360
+When I would go out on the van,
+
+1254
+00:36:29,659 --> 00:36:29,920
+they were,
+
+1255
+00:36:30,099 --> 00:36:31,440
+instead of saying that we're two up,
+
+1256
+00:36:31,780 --> 00:36:32,820
+we were one and one.
+
+1257
+00:36:34,559 --> 00:36:35,000
+No,
+
+1258
+00:36:35,159 --> 00:36:37,019
+no separate change rooms and toilets.
+
+1259
+00:36:37,059 --> 00:36:38,500
+Like it was a very different world.
+
+1260
+00:36:38,800 --> 00:36:40,699
+So it was again,
+
+1261
+00:36:40,940 --> 00:36:42,579
+the belief I had in myself that,
+
+1262
+00:36:42,619 --> 00:36:45,360
+that it was right and I needed to do it.
+
+1263
+00:36:45,559 --> 00:36:50,920
+And I suppose that was more evidence when I started to work in this space in the police force.
+
+1264
+00:36:51,139 --> 00:36:52,820
+So when I took that report,
+
+1265
+00:36:52,820 --> 00:36:53,639
+and I started to think,
+
+1266
+00:36:53,699 --> 00:36:53,800
+well,
+
+1267
+00:36:53,800 --> 00:36:54,420
+hang on a minute,
+
+1268
+00:36:54,920 --> 00:36:55,260
+you know,
+
+1269
+00:36:55,260 --> 00:36:57,219
+I had little children at that time.
+
+1270
+00:36:57,280 --> 00:36:57,659
+I was like,
+
+1271
+00:36:57,679 --> 00:36:57,840
+God,
+
+1272
+00:36:57,840 --> 00:36:59,239
+is this the world they're growing up in?
+
+1273
+00:36:59,280 --> 00:37:00,739
+I need to educate myself.
+
+1274
+00:37:01,280 --> 00:37:06,480
+So I was very lucky in that I was invited to America and I undertook training with the FBI.
+
+1275
+00:37:07,159 --> 00:37:07,480
+Um,
+
+1276
+00:37:07,519 --> 00:37:08,960
+I reviewed some of the programs,
+
+1277
+00:37:08,960 --> 00:37:10,699
+the Dallas police department were using,
+
+1278
+00:37:11,039 --> 00:37:11,539
+um,
+
+1279
+00:37:11,820 --> 00:37:19,159
+and I came back and I badgered and harassed Victoria police to give me a position to put into place my knowledge.
+
+1280
+00:37:19,400 --> 00:37:20,420
+Because at that point,
+
+1281
+00:37:20,420 --> 00:37:23,440
+what I wanted to do is make Victoria police a better place and share,
+
+1282
+00:37:23,440 --> 00:37:27,260
+all my learnings from the States over here so that we could,
+
+1283
+00:37:27,260 --> 00:37:28,440
+because they were ahead of us,
+
+1284
+00:37:28,820 --> 00:37:29,059
+you know,
+
+1285
+00:37:29,199 --> 00:37:30,380
+at the police stations in,
+
+1286
+00:37:30,400 --> 00:37:31,079
+in Victoria,
+
+1287
+00:37:31,260 --> 00:37:32,780
+you had a complaints book and,
+
+1288
+00:37:32,920 --> 00:37:33,019
+you know,
+
+1289
+00:37:33,099 --> 00:37:33,300
+you'd,
+
+1290
+00:37:33,519 --> 00:37:34,679
+it's like the book you've got there.
+
+1291
+00:37:34,800 --> 00:37:35,639
+You'd make a note,
+
+1292
+00:37:35,940 --> 00:37:38,760
+be aware that there's a hoon driver at this address,
+
+1293
+00:37:39,000 --> 00:37:39,260
+you know,
+
+1294
+00:37:39,260 --> 00:37:40,619
+so the next shift would come in and go,
+
+1295
+00:37:40,679 --> 00:37:40,820
+oh,
+
+1296
+00:37:40,840 --> 00:37:41,639
+I need to go there.
+
+1297
+00:37:42,079 --> 00:37:42,440
+Well,
+
+1298
+00:37:42,500 --> 00:37:43,199
+they were always using,
+
+1299
+00:37:43,300 --> 00:37:44,940
+they were already using technology to,
+
+1300
+00:37:45,039 --> 00:37:46,000
+to do that sort of stuff.
+
+1301
+00:37:46,059 --> 00:37:46,179
+So,
+
+1302
+00:37:46,280 --> 00:37:46,440
+you know,
+
+1303
+00:37:46,440 --> 00:37:47,760
+way ahead of what we were doing.
+
+1304
+00:37:48,500 --> 00:37:48,860
+And,
+
+1305
+00:37:48,940 --> 00:37:49,480
+you know,
+
+1306
+00:37:49,559 --> 00:37:50,159
+it was,
+
+1307
+00:37:50,280 --> 00:37:53,380
+it was hard getting listened to.
+
+1308
+00:37:54,039 --> 00:37:56,940
+I had one high ranking police officer say to my face,
+
+1309
+00:37:57,360 --> 00:37:58,480
+you are blonde and female.
+
+1310
+00:37:58,679 --> 00:38:00,159
+You don't have much going for you.
+
+1311
+00:38:00,300 --> 00:38:00,659
+Do you?
+
+1312
+00:38:01,420 --> 00:38:05,000
+I had another one tell me that I needed to choose between being a police
+
+1313
+00:38:05,000 --> 00:38:06,960
+officer and a mother because I couldn't be both.
+
+1314
+00:38:07,559 --> 00:38:10,079
+But would they have ever said that to a male police officer?
+
+1315
+00:38:10,599 --> 00:38:11,000
+No.
+
+1316
+00:38:12,659 --> 00:38:14,639
+But I had a belief in myself and I,
+
+1317
+00:38:14,639 --> 00:38:19,079
+I understood that this was going to be a problem and I didn't want to be the
+
+1318
+00:38:19,079 --> 00:38:19,360
+problem.
+
+1319
+00:38:19,420 --> 00:38:20,760
+I wanted to try to be the solution.
+
+1320
+00:38:21,280 --> 00:38:21,679
+So,
+
+1321
+00:38:21,880 --> 00:38:22,860
+um,
+
+1322
+00:38:22,860 --> 00:38:24,219
+and I often say to people,
+
+1323
+00:38:24,219 --> 00:38:24,840
+um,
+
+1324
+00:38:25,039 --> 00:38:25,239
+is,
+
+1325
+00:38:25,340 --> 00:38:25,460
+you know,
+
+1326
+00:38:25,480 --> 00:38:28,260
+you have to believe in yourself first and foremost,
+
+1327
+00:38:28,260 --> 00:38:30,699
+and you have to back yourself in.
+
+1328
+00:38:31,139 --> 00:38:34,059
+And that is a strong sense of self-leadership in every sense of the word.
+
+1329
+00:38:34,139 --> 00:38:37,480
+And it clearly is a huge part of you and what you've been able to achieve.
+
+1330
+00:38:37,480 --> 00:38:41,739
+We see leaders who are really conscious of how they positively impact others in
+
+1331
+00:38:41,739 --> 00:38:43,239
+their environment on a daily basis.
+
+1332
+00:38:43,400 --> 00:38:43,559
+I mean,
+
+1333
+00:38:43,599 --> 00:38:47,679
+you're impacting so many people with what you're doing and your research and
+
+1334
+00:38:47,679 --> 00:38:47,920
+your,
+
+1335
+00:38:47,920 --> 00:38:49,139
+and your leadership in this space.
+
+1336
+00:38:49,179 --> 00:38:52,159
+But how does that resonate with you impacting others in a positive way?
+
+1337
+00:38:52,500 --> 00:38:52,840
+I think,
+
+1338
+00:38:52,840 --> 00:38:53,280
+I think that's,
+
+1339
+00:38:53,719 --> 00:38:53,860
+you know,
+
+1340
+00:38:53,900 --> 00:38:58,420
+I think every person on this planet should be trying to do the right thing and
+
+1341
+00:38:58,420 --> 00:38:59,000
+should be,
+
+1342
+00:38:59,019 --> 00:38:59,219
+you know,
+
+1343
+00:38:59,280 --> 00:39:01,940
+leaving a positive child behind rather than a negative one.
+
+1344
+00:39:02,559 --> 00:39:02,840
+Um,
+
+1345
+00:39:02,960 --> 00:39:03,760
+so I suppose again,
+
+1346
+00:39:03,760 --> 00:39:05,380
+that comes back from my upbringing,
+
+1347
+00:39:05,760 --> 00:39:07,079
+my policing career.
+
+1348
+00:39:07,440 --> 00:39:08,099
+And I mean,
+
+1349
+00:39:08,199 --> 00:39:08,500
+I,
+
+1350
+00:39:08,619 --> 00:39:10,199
+I worked at Fitzroy police station.
+
+1351
+00:39:10,360 --> 00:39:11,099
+Now Fitzroy is,
+
+1352
+00:39:11,219 --> 00:39:11,440
+you know,
+
+1353
+00:39:11,780 --> 00:39:15,260
+full of trendy cafes and it's nice now in the,
+
+1354
+00:39:15,260 --> 00:39:15,599
+um,
+
+1355
+00:39:15,619 --> 00:39:16,119
+mid eighties.
+
+1356
+00:39:16,199 --> 00:39:16,679
+It was not,
+
+1357
+00:39:16,760 --> 00:39:17,519
+it was a very,
+
+1358
+00:39:17,599 --> 00:39:18,440
+very different place.
+
+1359
+00:39:18,440 --> 00:39:19,179
+And it was,
+
+1360
+00:39:19,519 --> 00:39:20,199
+it was,
+
+1361
+00:39:20,199 --> 00:39:21,300
+um,
+
+1362
+00:39:22,019 --> 00:39:22,820
+divided into three,
+
+1363
+00:39:22,840 --> 00:39:23,920
+three clear areas.
+
+1364
+00:39:24,280 --> 00:39:24,719
+Um,
+
+1365
+00:39:24,739 --> 00:39:26,900
+the South of Fitzroy was a very,
+
+1366
+00:39:27,179 --> 00:39:28,480
+where the commission flights were,
+
+1367
+00:39:28,519 --> 00:39:31,119
+it was a very low socioeconomic rundown area.
+
+1368
+00:39:31,340 --> 00:39:33,440
+The middle was a slight step up.
+
+1369
+00:39:33,519 --> 00:39:34,800
+And if you were North Fitzroy,
+
+1370
+00:39:34,880 --> 00:39:35,400
+you were the,
+
+1371
+00:39:35,400 --> 00:39:36,059
+the gentry.
+
+1372
+00:39:36,420 --> 00:39:38,900
+So it was a very different world,
+
+1373
+00:39:38,900 --> 00:39:39,559
+um,
+
+1374
+00:39:39,719 --> 00:39:42,380
+to what even any policing is today.
+
+1375
+00:39:42,380 --> 00:39:44,559
+And I suppose I saw the worst of the worst.
+
+1376
+00:39:45,239 --> 00:39:45,679
+Um,
+
+1377
+00:39:45,900 --> 00:39:46,219
+you know,
+
+1378
+00:39:46,219 --> 00:39:48,400
+I dealt with child sexual abuse.
+
+1379
+00:39:48,579 --> 00:39:49,579
+I dealt with murders.
+
+1380
+00:39:49,760 --> 00:39:50,820
+I dealt with drugs.
+
+1381
+00:39:51,019 --> 00:39:51,559
+I dealt with,
+
+1382
+00:39:51,619 --> 00:39:51,739
+you know,
+
+1383
+00:39:51,780 --> 00:39:52,159
+I had,
+
+1384
+00:39:52,239 --> 00:39:52,719
+um,
+
+1385
+00:39:52,840 --> 00:39:53,920
+my nose broken in a pub.
+
+1386
+00:39:54,000 --> 00:39:57,059
+I was punched in the face trying to arrest a New South Wales escapee.
+
+1387
+00:39:57,639 --> 00:39:58,000
+Um,
+
+1388
+00:39:58,380 --> 00:39:58,679
+you know,
+
+1389
+00:39:58,679 --> 00:40:00,500
+so I did it tough then,
+
+1390
+00:40:00,500 --> 00:40:03,579
+but it was all about trying to make a difference in a positive way.
+
+1391
+00:40:03,780 --> 00:40:05,980
+And I think in the work that I do now,
+
+1392
+00:40:06,019 --> 00:40:06,219
+you know,
+
+1393
+00:40:06,219 --> 00:40:09,800
+I will never know how many people made a good choice based on listening to me
+
+1394
+00:40:09,800 --> 00:40:11,440
+speak or me coming into this school.
+
+1395
+00:40:12,000 --> 00:40:12,360
+But,
+
+1396
+00:40:12,480 --> 00:40:12,659
+you know,
+
+1397
+00:40:12,679 --> 00:40:14,159
+I'll often get a message going,
+
+1398
+00:40:14,320 --> 00:40:14,599
+you know,
+
+1399
+00:40:14,659 --> 00:40:14,900
+I got,
+
+1400
+00:40:14,980 --> 00:40:15,780
+I got one the other day.
+
+1401
+00:40:15,820 --> 00:40:17,460
+I heard you speak at a conference.
+
+1402
+00:40:17,739 --> 00:40:20,800
+I never thought I would need this knowledge as a parent,
+
+1403
+00:40:20,800 --> 00:40:22,739
+but I do because this,
+
+1404
+00:40:22,739 --> 00:40:23,940
+this just happened to my child.
+
+1405
+00:40:24,139 --> 00:40:24,539
+So,
+
+1406
+00:40:24,619 --> 00:40:24,840
+you know,
+
+1407
+00:40:24,960 --> 00:40:27,760
+I know that I'm making a difference.
+
+1408
+00:40:28,059 --> 00:40:28,460
+Um,
+
+1409
+00:40:28,579 --> 00:40:31,760
+and I think that that's just an important facet of,
+
+1410
+00:40:31,860 --> 00:40:33,219
+of being a decent human being.
+
+1411
+00:40:33,539 --> 00:40:33,940
+Yeah.
+
+1412
+00:40:34,019 --> 00:40:34,500
+Well said.
+
+1413
+00:40:34,659 --> 00:40:34,980
+Um,
+
+1414
+00:40:35,039 --> 00:40:37,860
+we see leaders are really conscious of how they go about creating and
+
+1415
+00:40:37,860 --> 00:40:39,219
+sharing her vision.
+
+1416
+00:40:39,219 --> 00:40:41,820
+And you've got a really clear vision for cyber safety and,
+
+1417
+00:40:41,880 --> 00:40:43,519
+and how we should engage in that world.
+
+1418
+00:40:43,639 --> 00:40:45,599
+How have you gone about trying to share that?
+
+1419
+00:40:46,219 --> 00:40:46,380
+Um,
+
+1420
+00:40:46,440 --> 00:40:48,099
+so it was very interesting.
+
+1421
+00:40:48,099 --> 00:40:49,420
+So I was,
+
+1422
+00:40:49,639 --> 00:40:50,039
+you know,
+
+1423
+00:40:50,659 --> 00:40:51,579
+pushing shit uphill,
+
+1424
+00:40:51,579 --> 00:40:52,380
+um,
+
+1425
+00:40:52,380 --> 00:40:53,199
+in the police force,
+
+1426
+00:40:53,280 --> 00:40:57,360
+trying to get them to listen and they wouldn't.
+
+1427
+00:40:57,360 --> 00:40:57,800
+And again,
+
+1428
+00:40:57,800 --> 00:40:59,019
+it was that blonde female,
+
+1429
+00:40:59,460 --> 00:40:59,800
+you know,
+
+1430
+00:40:59,940 --> 00:41:01,719
+why would we listen to you?
+
+1431
+00:41:01,780 --> 00:41:04,659
+And it got very interesting because I,
+
+1432
+00:41:04,760 --> 00:41:06,239
+I got a little bit known.
+
+1433
+00:41:06,300 --> 00:41:07,739
+I came back from the States.
+
+1434
+00:41:07,780 --> 00:41:08,059
+I was,
+
+1435
+00:41:08,139 --> 00:41:10,400
+I'm the only person in Australia with my qualifications and,
+
+1436
+00:41:10,500 --> 00:41:13,639
+and experience and the media got wind of me.
+
+1437
+00:41:13,639 --> 00:41:17,679
+So they would go to police media and ask to interview me and they get
+
+1438
+00:41:17,679 --> 00:41:18,699
+replies like this.
+
+1439
+00:41:18,840 --> 00:41:19,059
+Oh,
+
+1440
+00:41:19,099 --> 00:41:19,840
+I'm really sorry.
+
+1441
+00:41:19,960 --> 00:41:20,820
+Susan's not available,
+
+1442
+00:41:21,300 --> 00:41:22,159
+but detective Smith,
+
+1443
+00:41:22,159 --> 00:41:22,420
+he's,
+
+1444
+00:41:22,420 --> 00:41:23,460
+he's from the arson squad,
+
+1445
+00:41:23,559 --> 00:41:23,960
+but you know,
+
+1446
+00:41:24,039 --> 00:41:24,599
+he'll be fine.
+
+1447
+00:41:24,920 --> 00:41:26,780
+And then they'd request again.
+
+1448
+00:41:27,219 --> 00:41:27,360
+Oh no,
+
+1449
+00:41:27,400 --> 00:41:28,320
+Susan's not available.
+
+1450
+00:41:28,760 --> 00:41:29,079
+Um,
+
+1451
+00:41:29,099 --> 00:41:30,639
+but detective Jones is,
+
+1452
+00:41:30,800 --> 00:41:30,960
+um,
+
+1453
+00:41:31,019 --> 00:41:32,119
+he's from the,
+
+1454
+00:41:32,139 --> 00:41:32,480
+uh,
+
+1455
+00:41:32,519 --> 00:41:33,860
+motor theft squad,
+
+1456
+00:41:33,980 --> 00:41:34,460
+but you know,
+
+1457
+00:41:34,480 --> 00:41:35,119
+he'll be your man,
+
+1458
+00:41:35,340 --> 00:41:35,619
+you know?
+
+1459
+00:41:35,619 --> 00:41:36,179
+So it was,
+
+1460
+00:41:36,300 --> 00:41:39,280
+they were stymieing me at every point and it was like,
+
+1461
+00:41:39,719 --> 00:41:40,579
+this is ridiculous.
+
+1462
+00:41:40,900 --> 00:41:41,219
+You know,
+
+1463
+00:41:41,260 --> 00:41:42,480
+I'm only trying to help.
+
+1464
+00:41:43,119 --> 00:41:44,840
+I went to work one day.
+
+1465
+00:41:44,840 --> 00:41:47,800
+It was the Tuesday after the black Saturday bushfires.
+
+1466
+00:41:48,500 --> 00:41:50,960
+And I went home and I said to my husband,
+
+1467
+00:41:50,960 --> 00:41:51,440
+I'm quitting.
+
+1468
+00:41:52,159 --> 00:41:53,099
+And I never went back.
+
+1469
+00:41:53,900 --> 00:41:55,239
+And it was like,
+
+1470
+00:41:55,559 --> 00:41:56,860
+I know that there is a problem.
+
+1471
+00:41:57,019 --> 00:42:00,920
+I know that I have an ability to help not hinder this problem.
+
+1472
+00:42:01,519 --> 00:42:04,260
+And if they're not going to value me,
+
+1473
+00:42:04,800 --> 00:42:05,039
+um,
+
+1474
+00:42:05,039 --> 00:42:06,159
+then I'm going to do it on my own.
+
+1475
+00:42:06,480 --> 00:42:09,039
+And the PR this was like February.
+
+1476
+00:42:09,480 --> 00:42:11,559
+So the preceding November,
+
+1477
+00:42:11,559 --> 00:42:15,800
+my mother had died and she got diagnosed with lung cancer and died in six
+
+1478
+00:42:15,800 --> 00:42:16,059
+weeks.
+
+1479
+00:42:16,059 --> 00:42:17,059
+And she was a non-smoker.
+
+1480
+00:42:17,239 --> 00:42:19,280
+So it was quite confronting.
+
+1481
+00:42:19,360 --> 00:42:21,460
+But I remember like on her deathbed,
+
+1482
+00:42:21,579 --> 00:42:22,139
+her saying to me,
+
+1483
+00:42:22,199 --> 00:42:22,679
+Susan,
+
+1484
+00:42:23,000 --> 00:42:24,019
+they don't value you.
+
+1485
+00:42:24,780 --> 00:42:24,800
+Um,
+
+1486
+00:42:24,880 --> 00:42:25,099
+you know,
+
+1487
+00:42:25,159 --> 00:42:27,059
+and that always rung in my,
+
+1488
+00:42:27,139 --> 00:42:28,300
+my mind that,
+
+1489
+00:42:28,480 --> 00:42:28,539
+well,
+
+1490
+00:42:28,579 --> 00:42:29,039
+perhaps I,
+
+1491
+00:42:29,139 --> 00:42:33,420
+I'm not being valued and perhaps I can make a difference outside the
+
+1492
+00:42:33,420 --> 00:42:34,820
+constraints of Victoria police.
+
+1493
+00:42:35,039 --> 00:42:35,579
+You know,
+
+1494
+00:42:35,639 --> 00:42:37,219
+I would never not have my police career.
+
+1495
+00:42:37,400 --> 00:42:39,619
+I loved 99% of my police career.
+
+1496
+00:42:39,940 --> 00:42:44,239
+Best part of my police career was an Academy romance with the person that is
+
+1497
+00:42:44,239 --> 00:42:47,860
+still my husband now after almost 40 years.
+
+1498
+00:42:47,980 --> 00:42:48,460
+So,
+
+1499
+00:42:48,579 --> 00:42:48,900
+you know,
+
+1500
+00:42:48,980 --> 00:42:51,579
+lots of benefits came with being a police officer.
+
+1501
+00:42:51,579 --> 00:42:52,139
+And I love it.
+
+1502
+00:42:52,679 --> 00:42:54,019
+I love the work and all of that,
+
+1503
+00:42:54,019 --> 00:42:56,679
+but I just know that I can do more now.
+
+1504
+00:42:57,679 --> 00:42:59,679
+And that's what I try my very best to do.
+
+1505
+00:42:59,679 --> 00:43:00,679
+And you know,
+
+1506
+00:43:00,679 --> 00:43:01,679
+I work in schools.
+
+1507
+00:43:01,679 --> 00:43:02,679
+I work with corporates.
+
+1508
+00:43:02,679 --> 00:43:03,679
+I do webinars.
+
+1509
+00:43:03,679 --> 00:43:04,679
+You know,
+
+1510
+00:43:04,679 --> 00:43:05,679
+I make myself available.
+
+1511
+00:43:05,679 --> 00:43:06,679
+Um,
+
+1512
+00:43:06,679 --> 00:43:08,679
+I make myself available to the media.
+
+1513
+00:43:08,679 --> 00:43:10,679
+I don't get paid for any media.
+
+1514
+00:43:10,679 --> 00:43:11,679
+Um,
+
+1515
+00:43:11,679 --> 00:43:12,679
+but my,
+
+1516
+00:43:12,679 --> 00:43:14,679
+my thought process is the story's going to run,
+
+1517
+00:43:14,679 --> 00:43:15,679
+right?
+
+1518
+00:43:15,679 --> 00:43:17,679
+Whether I'm available or not.
+
+1519
+00:43:17,679 --> 00:43:21,679
+And if they run the story with someone that doesn't know what they're saying,
+
+1520
+00:43:21,679 --> 00:43:22,219
+um,
+
+1521
+00:43:22,219 --> 00:43:23,219
+you know,
+
+1522
+00:43:23,219 --> 00:43:24,219
+the,
+
+1523
+00:43:24,219 --> 00:43:25,219
+uh,
+
+1524
+00:43:25,219 --> 00:43:26,219
+you know,
+
+1525
+00:43:26,219 --> 00:43:27,219
+Eddie everywhere,
+
+1526
+00:43:27,219 --> 00:43:28,219
+expert sort of person,
+
+1527
+00:43:28,219 --> 00:43:29,219
+um,
+
+1528
+00:43:29,219 --> 00:43:30,219
+then that's doing harm.
+
+1529
+00:43:30,219 --> 00:43:31,219
+So if I make myself available,
+
+1530
+00:43:31,219 --> 00:43:36,219
+then at least I know that I've got some control about the message that's being shared.
+
+1531
+00:43:36,219 --> 00:43:38,219
+And I think in an area where,
+
+1532
+00:43:38,219 --> 00:43:39,219
+you know,
+
+1533
+00:43:39,219 --> 00:43:43,219
+there are some things that you can talk about and the whole world knows you're lying,
+
+1534
+00:43:43,219 --> 00:43:44,219
+right?
+
+1535
+00:43:44,219 --> 00:43:45,219
+Cause they're already facts.
+
+1536
+00:43:45,219 --> 00:43:46,219
+They're already out there.
+
+1537
+00:43:46,219 --> 00:43:47,219
+Everyone knows,
+
+1538
+00:43:47,219 --> 00:43:48,219
+but with technology,
+
+1539
+00:43:48,219 --> 00:43:50,219
+there's still a lot of lack of information.
+
+1540
+00:43:50,219 --> 00:43:51,219
+So if I fed you a really good,
+
+1541
+00:43:51,219 --> 00:43:55,059
+you're a really good line and I'm touted as an expert by the media,
+
+1542
+00:43:55,059 --> 00:43:55,599
+you're going to go,
+
+1543
+00:43:55,599 --> 00:43:56,760
+ah,
+
+1544
+00:43:56,760 --> 00:43:57,980
+must be true.
+
+1545
+00:43:57,980 --> 00:44:01,719
+And I challenged journalists that quote people as experts,
+
+1546
+00:44:01,719 --> 00:44:08,219
+because technically an expert is someone whose evidence can be accepted in a court of law without being challenged.
+
+1547
+00:44:08,219 --> 00:44:09,519
+You've quoted them as an expert.
+
+1548
+00:44:09,519 --> 00:44:11,179
+What are their qualifications?
+
+1549
+00:44:11,179 --> 00:44:12,179
+Uh,
+
+1550
+00:44:12,179 --> 00:44:15,179
+they've got a website and,
+
+1551
+00:44:15,179 --> 00:44:15,880
+uh,
+
+1552
+00:44:15,880 --> 00:44:18,760
+they do talks and,
+
+1553
+00:44:18,760 --> 00:44:19,019
+you know,
+
+1554
+00:44:19,019 --> 00:44:19,679
+so,
+
+1555
+00:44:19,679 --> 00:44:19,920
+you know,
+
+1556
+00:44:19,920 --> 00:44:20,420
+to me,
+
+1557
+00:44:20,420 --> 00:44:21,179
+that's a social responsibility.
+
+1558
+00:44:21,179 --> 00:44:22,980
+Um,
+
+1559
+00:44:22,980 --> 00:44:23,300
+and,
+
+1560
+00:44:23,300 --> 00:44:23,719
+you know,
+
+1561
+00:44:23,719 --> 00:44:31,099
+I provide hundreds of pro bono hours to families to step them through and help them because where else do they go?
+
+1562
+00:44:31,099 --> 00:44:31,679
+And if I,
+
+1563
+00:44:31,679 --> 00:44:32,179
+if the,
+
+1564
+00:44:32,179 --> 00:44:34,880
+if the tables were turned and I needed that help,
+
+1565
+00:44:34,880 --> 00:44:36,420
+I don't want a chat bot that did not,
+
+1566
+00:44:36,420 --> 00:44:37,940
+does not understand my issue.
+
+1567
+00:44:37,940 --> 00:44:41,559
+I don't want to put an online form in that might get returned,
+
+1568
+00:44:41,559 --> 00:44:42,179
+you know,
+
+1569
+00:44:42,179 --> 00:44:43,179
+in a week.
+
+1570
+00:44:43,179 --> 00:44:44,840
+I need someone to help me now.
+
+1571
+00:44:44,840 --> 00:44:46,940
+In an issue that's confronting parents on a,
+
+1572
+00:44:46,940 --> 00:44:47,380
+you know,
+
+1573
+00:44:47,380 --> 00:44:48,380
+in a growth industry,
+
+1574
+00:44:48,380 --> 00:44:50,019
+tragically with more need than,
+
+1575
+00:44:50,019 --> 00:44:50,880
+than ever before.
+
+1576
+00:44:50,880 --> 00:44:54,300
+It's a huge amount of a positive impact that you have.
+
+1577
+00:44:54,300 --> 00:44:56,840
+Curiosity is something we see from everyone.
+
+1578
+00:44:56,840 --> 00:45:00,260
+I sit across from curiosity seems to be a really common trait of,
+
+1579
+00:45:00,260 --> 00:45:00,920
+of leadership.
+
+1580
+00:45:00,920 --> 00:45:02,880
+Does that word ring true to you?
+
+1581
+00:45:02,880 --> 00:45:04,340
+It does in that,
+
+1582
+00:45:04,340 --> 00:45:04,719
+you know,
+
+1583
+00:45:04,719 --> 00:45:07,760
+I'm always curious into what's going to happen next.
+
+1584
+00:45:07,760 --> 00:45:08,880
+What will it look like?
+
+1585
+00:45:08,880 --> 00:45:09,880
+How can I manage it?
+
+1586
+00:45:09,880 --> 00:45:13,219
+How can I improve myself and do better?
+
+1587
+00:45:13,219 --> 00:45:16,679
+I think it's about having an open mind and,
+
+1588
+00:45:16,679 --> 00:45:16,960
+you know,
+
+1589
+00:45:16,960 --> 00:45:19,880
+not switching off from things just because,
+
+1590
+00:45:19,880 --> 00:45:20,300
+um,
+
+1591
+00:45:20,300 --> 00:45:20,679
+always, um,
+
+1592
+00:45:20,679 --> 00:45:22,099
+always be curious,
+
+1593
+00:45:22,099 --> 00:45:23,019
+always think,
+
+1594
+00:45:23,019 --> 00:45:23,179
+well,
+
+1595
+00:45:23,179 --> 00:45:23,920
+okay,
+
+1596
+00:45:23,920 --> 00:45:25,019
+here it is now,
+
+1597
+00:45:25,019 --> 00:45:26,440
+but what might this look like?
+
+1598
+00:45:26,440 --> 00:45:28,440
+What might the potential good be?
+
+1599
+00:45:28,440 --> 00:45:29,880
+What might the potential bad be?
+
+1600
+00:45:29,880 --> 00:45:31,719
+And then how do we target that?
+
+1601
+00:45:31,719 --> 00:45:33,340
+And we see communicating with clarity,
+
+1602
+00:45:33,340 --> 00:45:33,639
+which,
+
+1603
+00:45:33,639 --> 00:45:34,059
+uh,
+
+1604
+00:45:34,059 --> 00:45:35,019
+you're brilliant at,
+
+1605
+00:45:35,019 --> 00:45:36,679
+and you get your message across,
+
+1606
+00:45:36,679 --> 00:45:36,920
+you know,
+
+1607
+00:45:36,920 --> 00:45:38,760
+incredibly clearly.
+
+1608
+00:45:38,760 --> 00:45:38,980
+And,
+
+1609
+00:45:38,980 --> 00:45:39,380
+and,
+
+1610
+00:45:39,380 --> 00:45:39,599
+you know,
+
+1611
+00:45:39,599 --> 00:45:41,059
+sometimes it's confronting because we,
+
+1612
+00:45:41,059 --> 00:45:41,380
+you know,
+
+1613
+00:45:41,380 --> 00:45:41,519
+the,
+
+1614
+00:45:41,519 --> 00:45:42,340
+the language is,
+
+1615
+00:45:42,340 --> 00:45:42,840
+is,
+
+1616
+00:45:42,840 --> 00:45:44,300
+is intense at times.
+
+1617
+00:45:44,300 --> 00:45:47,920
+But how have you gone about communicating that message?
+
+1618
+00:45:47,920 --> 00:45:49,719
+Hopefully with clarity.
+
+1619
+00:45:49,719 --> 00:45:50,519
+It's interesting.
+
+1620
+00:45:50,519 --> 00:45:54,599
+One of the things I say when I speak to young people is
+
+1621
+00:45:54,599 --> 00:45:54,820
+that,
+
+1622
+00:45:54,820 --> 00:45:56,280
+and I'll say at the start of my talk,
+
+1623
+00:45:56,280 --> 00:45:57,639
+I'm going to be blunt.
+
+1624
+00:45:57,639 --> 00:45:59,019
+I'm going to be direct.
+
+1625
+00:45:59,019 --> 00:46:02,059
+And there is no wriggle room in what I say.
+
+1626
+00:46:02,059 --> 00:46:03,860
+And for me,
+
+1627
+00:46:03,860 --> 00:46:07,019
+that's important because I need to share really important facts.
+
+1628
+00:46:07,019 --> 00:46:09,019
+And especially when I'm talking about laws.
+
+1629
+00:46:09,019 --> 00:46:09,559
+Um,
+
+1630
+00:46:09,559 --> 00:46:12,400
+if I give any audience wriggle room,
+
+1631
+00:46:12,400 --> 00:46:13,360
+I know what they will do.
+
+1632
+00:46:13,360 --> 00:46:15,599
+They will twist it to suit them,
+
+1633
+00:46:15,599 --> 00:46:18,139
+or they'll twist it to what they want to hear.
+
+1634
+00:46:18,139 --> 00:46:19,760
+So that then that's a failing as well.
+
+1635
+00:46:19,760 --> 00:46:19,940
+So,
+
+1636
+00:46:19,940 --> 00:46:22,440
+if you leave my sessions confused,
+
+1637
+00:46:22,440 --> 00:46:23,360
+then I failed.
+
+1638
+00:46:23,360 --> 00:46:26,320
+So no wriggle room here it is.
+
+1639
+00:46:26,320 --> 00:46:27,699
+Is it always fair?
+
+1640
+00:46:27,699 --> 00:46:28,519
+No.
+
+1641
+00:46:28,519 --> 00:46:29,320
+Is it factual?
+
+1642
+00:46:29,320 --> 00:46:30,320
+Yes.
+
+1643
+00:46:30,320 --> 00:46:32,980
+And you cannot expect any person,
+
+1644
+00:46:32,980 --> 00:46:34,739
+particularly young people to make,
+
+1645
+00:46:34,739 --> 00:46:39,019
+or even try to make a good choice if they haven't been given the facts.
+
+1646
+00:46:39,019 --> 00:46:39,639
+It's like saying,
+
+1647
+00:46:39,639 --> 00:46:40,360
+read this book,
+
+1648
+00:46:40,360 --> 00:46:43,940
+but we're going to test you on a different one and hope for the best.
+
+1649
+00:46:43,940 --> 00:46:45,780
+And the,
+
+1650
+00:46:45,780 --> 00:46:49,900
+the cost of harm to young people that get themselves into situations,
+
+1651
+00:46:49,900 --> 00:46:50,519
+on the internet,
+
+1652
+00:46:50,519 --> 00:46:51,280
+get targeted,
+
+1653
+00:46:51,280 --> 00:46:52,239
+et cetera,
+
+1654
+00:46:52,239 --> 00:46:53,659
+is enormous.
+
+1655
+00:46:53,659 --> 00:46:54,280
+And,
+
+1656
+00:46:54,280 --> 00:46:54,559
+you know,
+
+1657
+00:46:54,559 --> 00:46:57,360
+we all have to do more to make sure that,
+
+1658
+00:46:57,360 --> 00:46:57,559
+you know,
+
+1659
+00:46:57,559 --> 00:46:58,139
+for me,
+
+1660
+00:46:58,139 --> 00:47:04,739
+every adult has a responsibility to try to keep all children safe online so that children don't get mixed messages.
+
+1661
+00:47:04,739 --> 00:47:04,980
+You know,
+
+1662
+00:47:04,980 --> 00:47:05,739
+it's like the good cop,
+
+1663
+00:47:05,739 --> 00:47:06,820
+bad cop parents,
+
+1664
+00:47:06,820 --> 00:47:07,400
+you know,
+
+1665
+00:47:07,400 --> 00:47:09,559
+the child will go to the good cop to get the lollies,
+
+1666
+00:47:09,559 --> 00:47:12,480
+but they won't ask the bad cop parent because they will say no.
+
+1667
+00:47:12,480 --> 00:47:13,599
+So it's the same thing.
+
+1668
+00:47:13,599 --> 00:47:15,940
+You want them to get the same message from school,
+
+1669
+00:47:15,940 --> 00:47:16,820
+from home,
+
+1670
+00:47:16,820 --> 00:47:17,780
+from the sport club,
+
+1671
+00:47:17,780 --> 00:47:19,059
+the co-curricular activity,
+
+1672
+00:47:19,059 --> 00:47:19,699
+from grandparents.
+
+1673
+00:47:19,699 --> 00:47:20,280
+Aunts,
+
+1674
+00:47:20,280 --> 00:47:20,500
+uncles,
+
+1675
+00:47:20,500 --> 00:47:21,739
+and cousins,
+
+1676
+00:47:21,739 --> 00:47:24,400
+because consistent messaging works.
+
+1677
+00:47:24,400 --> 00:47:27,119
+Which leads to the next dimension that I want to talk to you about,
+
+1678
+00:47:27,119 --> 00:47:28,159
+which is collaboration.
+
+1679
+00:47:28,159 --> 00:47:29,159
+To do that,
+
+1680
+00:47:29,159 --> 00:47:32,119
+we see leaders are really conscious now of collaborating and you're right,
+
+1681
+00:47:32,119 --> 00:47:33,320
+even on the home front,
+
+1682
+00:47:33,320 --> 00:47:35,539
+if you're not collaborating with your partner on this,
+
+1683
+00:47:35,539 --> 00:47:38,000
+you don't get anywhere or the extended family.
+
+1684
+00:47:38,000 --> 00:47:39,000
+I mean,
+
+1685
+00:47:39,000 --> 00:47:41,820
+how important has collaboration been for you in your space?
+
+1686
+00:47:41,820 --> 00:47:43,280
+It's been really important.
+
+1687
+00:47:43,280 --> 00:47:44,000
+And,
+
+1688
+00:47:44,000 --> 00:47:44,460
+you know,
+
+1689
+00:47:44,460 --> 00:47:45,159
+again,
+
+1690
+00:47:45,159 --> 00:47:46,360
+I don't know it all.
+
+1691
+00:47:46,360 --> 00:47:49,659
+I have some knowledge and my knowledge is better than most people.
+
+1692
+00:47:49,659 --> 00:47:52,239
+But then there are other people with different knowledge.
+
+1693
+00:47:52,239 --> 00:47:53,500
+And I think in this space,
+
+1694
+00:47:53,500 --> 00:47:55,320
+because it's so fluid,
+
+1695
+00:47:55,320 --> 00:47:57,500
+it requires a multifaceted approach.
+
+1696
+00:47:57,500 --> 00:47:59,360
+So there are people,
+
+1697
+00:47:59,360 --> 00:48:00,659
+there are tech expert people.
+
+1698
+00:48:00,659 --> 00:48:02,659
+Like I couldn't pull a phone apart to save my life,
+
+1699
+00:48:02,659 --> 00:48:04,000
+but there are people that can,
+
+1700
+00:48:04,000 --> 00:48:06,360
+and they can get the data off the phone.
+
+1701
+00:48:06,360 --> 00:48:08,619
+There are people that,
+
+1702
+00:48:08,619 --> 00:48:09,460
+you know,
+
+1703
+00:48:09,460 --> 00:48:12,699
+the adolescent psychologists and psychiatrists that work with the mental health harms.
+
+1704
+00:48:12,699 --> 00:48:19,239
+There are academics that just churn through research after research to look at patterns of emerging behavior.
+
+1705
+00:48:19,239 --> 00:48:25,159
+And I think that this is where we all need to work together because we all have something to bring to the table.
+
+1706
+00:48:25,159 --> 00:48:29,780
+And there's no one thing that is going to solve this in isolation.
+
+1707
+00:48:29,780 --> 00:48:31,400
+What will solve problems,
+
+1708
+00:48:31,400 --> 00:48:32,860
+any problem,
+
+1709
+00:48:32,860 --> 00:48:36,119
+is the mass coming at it from the same,
+
+1710
+00:48:36,119 --> 00:48:39,739
+the same direction with the same expectations.
+
+1711
+00:48:39,739 --> 00:48:45,440
+So if everyone expects a platform to protect their users,
+
+1712
+00:48:45,440 --> 00:48:48,579
+then it will force the platform to do the right thing.
+
+1713
+00:48:48,579 --> 00:48:48,860
+But,
+
+1714
+00:48:48,860 --> 00:48:55,320
+but if people are happy to stay there and accept a substandard experience,
+
+1715
+00:48:55,320 --> 00:48:57,739
+then what incentive is there to change?
+
+1716
+00:48:57,739 --> 00:48:59,199
+They'll come out with all the talk.
+
+1717
+00:48:59,199 --> 00:48:59,280
+Oh,
+
+1718
+00:48:59,280 --> 00:48:59,619
+yappy,
+
+1719
+00:48:59,619 --> 00:48:59,900
+yappy,
+
+1720
+00:48:59,900 --> 00:49:00,199
+yap.
+
+1721
+00:49:00,199 --> 00:49:00,400
+Yeah,
+
+1722
+00:49:00,400 --> 00:49:00,559
+yeah,
+
+1723
+00:49:00,559 --> 00:49:00,980
+yeah.
+
+1724
+00:49:00,980 --> 00:49:01,699
+We do this,
+
+1725
+00:49:01,699 --> 00:49:03,559
+read our T's and C's,
+
+1726
+00:49:03,559 --> 00:49:04,019
+but it,
+
+1727
+00:49:04,019 --> 00:49:04,820
+you know,
+
+1728
+00:49:04,820 --> 00:49:06,940
+actions speak louder than words.
+
+1729
+00:49:06,940 --> 00:49:07,159
+Yeah.
+
+1730
+00:49:07,159 --> 00:49:10,280
+I'm incredibly new to the online space of social.
+
+1731
+00:49:10,280 --> 00:49:11,940
+I thought it passed me by,
+
+1732
+00:49:11,940 --> 00:49:13,280
+Susan,
+
+1733
+00:49:13,280 --> 00:49:14,659
+which might've been a happy experience,
+
+1734
+00:49:14,659 --> 00:49:15,980
+but through the web.
+
+1735
+00:49:15,980 --> 00:49:16,980
+Are you a TikToker?
+
+1736
+00:49:16,980 --> 00:49:17,239
+No,
+
+1737
+00:49:17,239 --> 00:49:18,239
+I'm not TikToker,
+
+1738
+00:49:18,239 --> 00:49:18,820
+but I,
+
+1739
+00:49:18,820 --> 00:49:22,320
+I did my first experience with my 17 year old daughter on that the other day,
+
+1740
+00:49:22,320 --> 00:49:24,820
+which was mind blowing around,
+
+1741
+00:49:24,820 --> 00:49:25,199
+you know,
+
+1742
+00:49:25,199 --> 00:49:27,059
+are you team Johnny Depp or team Amber Heard?
+
+1743
+00:49:27,059 --> 00:49:27,360
+I said,
+
+1744
+00:49:27,360 --> 00:49:29,360
+what are you even talking about?
+
+1745
+00:49:29,360 --> 00:49:32,199
+And then 40 minutes of my life was gone scrolling through,
+
+1746
+00:49:32,199 --> 00:49:32,739
+through TikToker.
+
+1747
+00:49:32,739 --> 00:49:36,360
+So how easy was it to lose 40 minutes as an adult?
+
+1748
+00:49:36,360 --> 00:49:37,119
+Stunning.
+
+1749
+00:49:37,119 --> 00:49:38,699
+So couldn't believe it.
+
+1750
+00:49:38,699 --> 00:49:39,619
+Couldn't believe that,
+
+1751
+00:49:39,619 --> 00:49:40,019
+you know,
+
+1752
+00:49:40,019 --> 00:49:44,059
+someone had disseminated that case into a really skewed version around,
+
+1753
+00:49:44,059 --> 00:49:44,579
+you know,
+
+1754
+00:49:44,579 --> 00:49:44,900
+and,
+
+1755
+00:49:44,900 --> 00:49:45,239
+and,
+
+1756
+00:49:45,239 --> 00:49:45,860
+and it just,
+
+1757
+00:49:45,860 --> 00:49:46,360
+it was so.
+
+1758
+00:49:46,360 --> 00:49:48,320
+So it was really easy for you.
+
+1759
+00:49:48,320 --> 00:49:48,519
+Yeah.
+
+1760
+00:49:48,519 --> 00:49:48,820
+With,
+
+1761
+00:49:48,820 --> 00:49:49,219
+you know,
+
+1762
+00:49:49,219 --> 00:49:50,280
+life experiences,
+
+1763
+00:49:50,280 --> 00:49:50,860
+maturity,
+
+1764
+00:49:50,860 --> 00:49:51,860
+fully formed brain,
+
+1765
+00:49:51,860 --> 00:49:53,179
+all of that.
+
+1766
+00:49:53,179 --> 00:49:55,860
+Think about the impact on young people.
+
+1767
+00:49:55,860 --> 00:49:56,860
+And I laugh,
+
+1768
+00:49:56,860 --> 00:49:57,320
+you know,
+
+1769
+00:49:57,320 --> 00:49:57,820
+again,
+
+1770
+00:49:57,820 --> 00:49:59,059
+I'm much older than you,
+
+1771
+00:49:59,059 --> 00:50:03,280
+but I got a little message from Meta this week to say,
+
+1772
+00:50:03,280 --> 00:50:05,019
+congratulations.
+
+1773
+00:50:05,019 --> 00:50:10,360
+You are in the top 2% of content creators on Facebook.
+
+1774
+00:50:10,360 --> 00:50:11,099
+Now,
+
+1775
+00:50:11,099 --> 00:50:12,219
+what the hell is a content creator?
+
+1776
+00:50:12,219 --> 00:50:12,440
+Like,
+
+1777
+00:50:12,440 --> 00:50:12,639
+you know,
+
+1778
+00:50:12,639 --> 00:50:13,480
+I do know what one is,
+
+1779
+00:50:13,480 --> 00:50:16,679
+but when I sat down with my careers teacher at high school,
+
+1780
+00:50:16,679 --> 00:50:17,860
+content creator,
+
+1781
+00:50:17,860 --> 00:50:21,059
+an influencer were not two job opportunities.
+
+1782
+00:50:21,059 --> 00:50:24,360
+So here is someone that is mature of age,
+
+1783
+00:50:24,360 --> 00:50:27,360
+use technology only relatively recently,
+
+1784
+00:50:27,360 --> 00:50:27,780
+of course,
+
+1785
+00:50:27,780 --> 00:50:29,699
+like in the last 20 years,
+
+1786
+00:50:29,699 --> 00:50:31,699
+but you know,
+
+1787
+00:50:31,699 --> 00:50:34,159
+there I am being acknowledged as,
+
+1788
+00:50:34,159 --> 00:50:37,099
+as being able to manage this sort of space.
+
+1789
+00:50:37,099 --> 00:50:39,320
+But I do laugh at that because it's like,
+
+1790
+00:50:39,320 --> 00:50:39,940
+okay,
+
+1791
+00:50:39,940 --> 00:50:41,099
+I think that's good.
+
+1792
+00:50:41,099 --> 00:50:44,820
+I think your story is a great leadership story in every sense in a,
+
+1793
+00:50:44,820 --> 00:50:47,159
+in a space that we all have to confront,
+
+1794
+00:50:47,159 --> 00:50:48,199
+whether we like it or not,
+
+1795
+00:50:48,199 --> 00:50:50,579
+but asking these final two questions,
+
+1796
+00:50:50,579 --> 00:50:51,079
+Susan,
+
+1797
+00:50:51,079 --> 00:50:53,659
+of all the guests on this empowering leaders podcast,
+
+1798
+00:50:53,659 --> 00:50:56,400
+who's been the greatest leader in your life?
+
+1799
+00:50:56,400 --> 00:50:57,400
+Oh my goodness.
+
+1800
+00:50:57,400 --> 00:51:00,400
+That is such a hard question.
+
+1801
+00:51:00,400 --> 00:51:01,159
+And,
+
+1802
+00:51:01,159 --> 00:51:01,780
+you know,
+
+1803
+00:51:01,780 --> 00:51:03,920
+there's leaders in different,
+
+1804
+00:51:03,920 --> 00:51:05,039
+in different ways.
+
+1805
+00:51:05,039 --> 00:51:06,659
+And I look at,
+
+1806
+00:51:06,659 --> 00:51:06,960
+um,
+
+1807
+00:51:06,960 --> 00:51:08,659
+I look at my parents,
+
+1808
+00:51:08,659 --> 00:51:09,039
+um,
+
+1809
+00:51:09,039 --> 00:51:12,619
+that certainly were exceptional leaders for their time.
+
+1810
+00:51:12,619 --> 00:51:13,860
+And my father,
+
+1811
+00:51:13,860 --> 00:51:14,780
+um,
+
+1812
+00:51:14,780 --> 00:51:16,920
+he gave so much of his life,
+
+1813
+00:51:16,920 --> 00:51:18,619
+to the country and to volunteering.
+
+1814
+00:51:18,619 --> 00:51:20,460
+He was a world war two veteran.
+
+1815
+00:51:20,460 --> 00:51:21,039
+Um,
+
+1816
+00:51:21,039 --> 00:51:24,960
+he was a talented footballer and tennis player,
+
+1817
+00:51:24,960 --> 00:51:27,000
+a life member of the diamond Valley football league,
+
+1818
+00:51:27,000 --> 00:51:29,380
+life member of the country fire authority,
+
+1819
+00:51:29,380 --> 00:51:31,539
+Queens fire service medal.
+
+1820
+00:51:31,539 --> 00:51:31,920
+Um,
+
+1821
+00:51:31,920 --> 00:51:35,260
+he never asked for thanks or acknowledgement of anything that he did.
+
+1822
+00:51:35,260 --> 00:51:36,579
+He gave back,
+
+1823
+00:51:36,579 --> 00:51:37,039
+um,
+
+1824
+00:51:37,039 --> 00:51:40,579
+and then mum by default supported him in doing that.
+
+1825
+00:51:40,579 --> 00:51:41,219
+Um,
+
+1826
+00:51:41,219 --> 00:51:43,619
+I look at my husband as a leader.
+
+1827
+00:51:43,619 --> 00:51:44,039
+Um,
+
+1828
+00:51:44,039 --> 00:51:46,039
+he's a forensic crash investigator.
+
+1829
+00:51:46,039 --> 00:51:46,920
+He worked with major,
+
+1830
+00:51:46,920 --> 00:51:51,920
+major collision in Victoria police and successfully runs his own company as well.
+
+1831
+00:51:51,920 --> 00:51:53,340
+So he leads,
+
+1832
+00:51:53,340 --> 00:51:53,679
+you know,
+
+1833
+00:51:53,679 --> 00:51:56,880
+us and has been an amazing father.
+
+1834
+00:51:56,880 --> 00:51:57,800
+I look at,
+
+1835
+00:51:57,800 --> 00:51:59,039
+and something I didn't mention before,
+
+1836
+00:51:59,039 --> 00:52:00,460
+I think is important about,
+
+1837
+00:52:00,460 --> 00:52:00,719
+you know,
+
+1838
+00:52:00,719 --> 00:52:02,500
+obviously trusting your gut,
+
+1839
+00:52:02,500 --> 00:52:04,039
+but getting a mentor,
+
+1840
+00:52:04,039 --> 00:52:05,760
+getting someone else that believes in you.
+
+1841
+00:52:05,760 --> 00:52:06,719
+Cause it's all very well going.
+
+1842
+00:52:06,719 --> 00:52:06,960
+Yeah,
+
+1843
+00:52:06,960 --> 00:52:08,380
+I think I'm okay.
+
+1844
+00:52:08,380 --> 00:52:10,420
+But when you hear it from someone else,
+
+1845
+00:52:10,420 --> 00:52:12,840
+I think that adds to your credibility.
+
+1846
+00:52:12,840 --> 00:52:15,119
+And I've had the most amazing mentor in Dr.
+
+1847
+00:52:15,119 --> 00:52:15,619
+Michael Carr,
+
+1848
+00:52:15,619 --> 00:52:16,340
+Greg,
+
+1849
+00:52:16,340 --> 00:52:18,340
+who believed in me from the get go,
+
+1850
+00:52:18,340 --> 00:52:20,960
+told me I was actually really good at what I did.
+
+1851
+00:52:20,960 --> 00:52:21,960
+Cause up until that point,
+
+1852
+00:52:21,960 --> 00:52:22,539
+I was me,
+
+1853
+00:52:22,539 --> 00:52:24,719
+I was a police officer with an interest in this.
+
+1854
+00:52:24,719 --> 00:52:25,260
+Um,
+
+1855
+00:52:25,260 --> 00:52:26,960
+I could clearly string a sentence together,
+
+1856
+00:52:26,960 --> 00:52:28,880
+bit different to some police officers.
+
+1857
+00:52:28,880 --> 00:52:29,300
+People go,
+
+1858
+00:52:29,300 --> 00:52:30,719
+what media training did you do?
+
+1859
+00:52:30,719 --> 00:52:31,579
+None.
+
+1860
+00:52:31,579 --> 00:52:32,639
+But you know,
+
+1861
+00:52:32,639 --> 00:52:33,219
+he,
+
+1862
+00:52:33,219 --> 00:52:35,719
+I still remember the first time he heard me speak and it was like,
+
+1863
+00:52:35,719 --> 00:52:36,039
+wow,
+
+1864
+00:52:36,039 --> 00:52:37,340
+this is amazing.
+
+1865
+00:52:37,340 --> 00:52:39,500
+You need to do more with this knowledge.
+
+1866
+00:52:39,500 --> 00:52:41,639
+You are wasted in Victoria police.
+
+1867
+00:52:41,639 --> 00:52:42,179
+So,
+
+1868
+00:52:42,179 --> 00:52:42,460
+you know,
+
+1869
+00:52:42,460 --> 00:52:46,139
+he certainly has been a leader for me to look up to and support me.
+
+1870
+00:52:46,139 --> 00:52:46,559
+In,
+
+1871
+00:52:46,559 --> 00:52:48,380
+in what I do now and moving forward.
+
+1872
+00:52:48,380 --> 00:52:49,099
+I love your answer.
+
+1873
+00:52:49,099 --> 00:52:49,900
+Isn't it often,
+
+1874
+00:52:49,900 --> 00:52:50,179
+you know,
+
+1875
+00:52:50,179 --> 00:52:50,519
+it's a,
+
+1876
+00:52:50,519 --> 00:52:51,980
+it's a question that,
+
+1877
+00:52:51,980 --> 00:52:52,340
+you know,
+
+1878
+00:52:52,340 --> 00:52:53,099
+without notice,
+
+1879
+00:52:53,099 --> 00:52:55,260
+you think about your family and if you've had great influences in your
+
+1880
+00:52:55,260 --> 00:52:56,599
+family or a great partner,
+
+1881
+00:52:56,599 --> 00:52:57,380
+people go there.
+
+1882
+00:52:57,380 --> 00:52:57,900
+But to then,
+
+1883
+00:52:57,900 --> 00:52:58,480
+as you said,
+
+1884
+00:52:58,480 --> 00:52:59,599
+if you get someone in your life,
+
+1885
+00:52:59,599 --> 00:53:00,900
+he backs you in like Dr.
+
+1886
+00:53:00,900 --> 00:53:01,380
+Michael Carr,
+
+1887
+00:53:01,380 --> 00:53:01,639
+Greg,
+
+1888
+00:53:01,639 --> 00:53:05,340
+who's got a great legacy for the work that he has done here and around the
+
+1889
+00:53:05,340 --> 00:53:06,019
+world.
+
+1890
+00:53:06,019 --> 00:53:10,179
+If you could collaborate with anyone and clearly you've got a clear passion in
+
+1891
+00:53:10,179 --> 00:53:10,760
+this space,
+
+1892
+00:53:10,760 --> 00:53:12,019
+is there someone out there you think,
+
+1893
+00:53:12,019 --> 00:53:12,179
+God,
+
+1894
+00:53:12,179 --> 00:53:15,900
+if I could connect with them anywhere around the world on any of your passions
+
+1895
+00:53:15,900 --> 00:53:15,980
+in life,
+
+1896
+00:53:15,980 --> 00:53:17,780
+is there anyone that springs to life?
+
+1897
+00:53:17,780 --> 00:53:18,519
+Oh my goodness.
+
+1898
+00:53:18,519 --> 00:53:18,860
+Um,
+
+1899
+00:53:18,860 --> 00:53:20,480
+who would I like to collaborate with?
+
+1900
+00:53:23,750 --> 00:53:24,010
+Oh,
+
+1901
+00:53:24,010 --> 00:53:25,750
+that is such a hard question.
+
+1902
+00:53:26,010 --> 00:53:26,550
+Um,
+
+1903
+00:53:27,010 --> 00:53:29,130
+I don't know that there's anyone out there that I think,
+
+1904
+00:53:29,130 --> 00:53:29,489
+oh gee,
+
+1905
+00:53:29,489 --> 00:53:30,010
+I really,
+
+1906
+00:53:30,010 --> 00:53:30,289
+really,
+
+1907
+00:53:30,289 --> 00:53:32,869
+really would like to collaborate with them.
+
+1908
+00:53:33,250 --> 00:53:35,829
+There's people that I admire and I think,
+
+1909
+00:53:35,829 --> 00:53:36,170
+wow,
+
+1910
+00:53:36,170 --> 00:53:39,130
+it'd be really amazing to meet you and chat with you.
+
+1911
+00:53:39,630 --> 00:53:39,949
+Um,
+
+1912
+00:53:39,949 --> 00:53:40,909
+and things like that.
+
+1913
+00:53:40,909 --> 00:53:41,750
+And you know,
+
+1914
+00:53:41,750 --> 00:53:45,170
+I still remember like I have been extremely lucky.
+
+1915
+00:53:45,289 --> 00:53:45,710
+Um,
+
+1916
+00:53:45,710 --> 00:53:46,090
+and again,
+
+1917
+00:53:46,090 --> 00:53:48,010
+I talk to kids about opportunities.
+
+1918
+00:53:48,010 --> 00:53:52,349
+And the thing with an opportunity is you don't know it's going to happen
+
+1919
+00:53:52,349 --> 00:53:53,550
+until it happens.
+
+1920
+00:53:54,010 --> 00:53:56,670
+And it's about taking those opportunities.
+
+1921
+00:53:56,670 --> 00:53:57,389
+And you know,
+
+1922
+00:53:57,389 --> 00:53:59,849
+I have met some famous people,
+
+1923
+00:53:59,849 --> 00:54:00,510
+if you like.
+
+1924
+00:54:00,849 --> 00:54:01,389
+Um,
+
+1925
+00:54:01,469 --> 00:54:05,590
+I've met Prince Charles and Princess Diana when they visited Melbourne many
+
+1926
+00:54:05,590 --> 00:54:06,630
+years ago on a tour.
+
+1927
+00:54:06,630 --> 00:54:07,210
+I was doing,
+
+1928
+00:54:07,510 --> 00:54:08,050
+um,
+
+1929
+00:54:08,050 --> 00:54:08,849
+crowd control,
+
+1930
+00:54:09,210 --> 00:54:09,510
+uh,
+
+1931
+00:54:09,510 --> 00:54:09,929
+for them,
+
+1932
+00:54:09,929 --> 00:54:11,050
+for want of a better word.
+
+1933
+00:54:11,510 --> 00:54:16,010
+I've met Prince William at an event that he and I both spoke at.
+
+1934
+00:54:16,010 --> 00:54:17,769
+Can you imagine that I'm on the same speaker?
+
+1935
+00:54:17,769 --> 00:54:19,809
+Speaking gig as Prince William,
+
+1936
+00:54:19,809 --> 00:54:23,530
+who is also passionate about bullying and harassment of young people.
+
+1937
+00:54:24,070 --> 00:54:24,570
+Um,
+
+1938
+00:54:24,570 --> 00:54:28,269
+I went into a studio in London to film for sunrise.
+
+1939
+00:54:28,349 --> 00:54:30,230
+I need to be met by David Williams,
+
+1940
+00:54:30,570 --> 00:54:31,070
+the,
+
+1941
+00:54:31,070 --> 00:54:31,389
+um,
+
+1942
+00:54:31,389 --> 00:54:32,610
+the actor and author.
+
+1943
+00:54:33,070 --> 00:54:33,429
+Um,
+
+1944
+00:54:33,429 --> 00:54:36,230
+and they're all people in their own right that I think,
+
+1945
+00:54:36,230 --> 00:54:36,610
+you know,
+
+1946
+00:54:36,610 --> 00:54:39,769
+are doing good in the world and it's been an honor to meet them.
+
+1947
+00:54:40,150 --> 00:54:41,349
+But the funniest story,
+
+1948
+00:54:41,349 --> 00:54:42,889
+and you will laugh at this as,
+
+1949
+00:54:42,889 --> 00:54:43,309
+um,
+
+1950
+00:54:43,309 --> 00:54:44,389
+a former footballer.
+
+1951
+00:54:44,769 --> 00:54:47,769
+I remember working in a school in Melbourne and I was asked,
+
+1952
+00:54:47,769 --> 00:54:48,650
+the question,
+
+1953
+00:54:49,150 --> 00:54:52,730
+have I met anyone famous now at that point?
+
+1954
+00:54:52,809 --> 00:54:53,769
+And it was a Catholic school,
+
+1955
+00:54:54,010 --> 00:54:54,650
+primary school.
+
+1956
+00:54:54,889 --> 00:54:55,650
+So I said,
+
+1957
+00:54:55,690 --> 00:54:56,570
+I've met the Pope,
+
+1958
+00:54:56,610 --> 00:54:57,650
+which I had because again,
+
+1959
+00:54:57,650 --> 00:55:00,929
+he was out and we'd done close personal protection for the Pope.
+
+1960
+00:55:01,809 --> 00:55:03,570
+It didn't seem to resonate with the kids,
+
+1961
+00:55:03,610 --> 00:55:04,530
+but I'd met the Pope.
+
+1962
+00:55:05,230 --> 00:55:08,190
+So they said anyone else?
+
+1963
+00:55:08,269 --> 00:55:08,730
+And I said,
+
+1964
+00:55:08,730 --> 00:55:09,070
+oh,
+
+1965
+00:55:09,469 --> 00:55:10,610
+I've met Paul Salmon.
+
+1966
+00:55:10,969 --> 00:55:11,429
+Well,
+
+1967
+00:55:11,429 --> 00:55:14,429
+the room erupted and it was like,
+
+1968
+00:55:14,469 --> 00:55:15,389
+oh my God,
+
+1969
+00:55:15,389 --> 00:55:15,730
+you know?
+
+1970
+00:55:15,730 --> 00:55:16,349
+And I'm thinking,
+
+1971
+00:55:16,469 --> 00:55:17,570
+I came in a Catholic school.
+
+1972
+00:55:17,570 --> 00:55:18,570
+And the Pope's not winning it.
+
+1973
+00:55:18,869 --> 00:55:19,190
+Um,
+
+1974
+00:55:19,190 --> 00:55:22,190
+but Paul Salmon came to the forefront there.
+
+1975
+00:55:22,530 --> 00:55:24,070
+So I've had an interesting life,
+
+1976
+00:55:24,070 --> 00:55:24,489
+but again,
+
+1977
+00:55:24,489 --> 00:55:25,869
+it's about opportunities.
+
+1978
+00:55:26,030 --> 00:55:27,070
+It's about knowing your audience,
+
+1979
+00:55:27,070 --> 00:55:27,369
+isn't it?
+
+1980
+00:55:27,369 --> 00:55:28,230
+It is knowing your audience,
+
+1981
+00:55:28,230 --> 00:55:29,150
+but who would have thought?
+
+1982
+00:55:29,150 --> 00:55:30,030
+The great fish,
+
+1983
+00:55:30,030 --> 00:55:30,690
+Paul Salmon,
+
+1984
+00:55:30,690 --> 00:55:33,909
+who was a legend at Essendon and Hawthorne football club.
+
+1985
+00:55:33,909 --> 00:55:34,409
+But,
+
+1986
+00:55:34,409 --> 00:55:34,730
+uh,
+
+1987
+00:55:34,730 --> 00:55:36,070
+it's an incredible legacy.
+
+1988
+00:55:36,070 --> 00:55:37,809
+I feel like you're just getting started,
+
+1989
+00:55:37,809 --> 00:55:38,190
+Susan.
+
+1990
+00:55:38,190 --> 00:55:41,329
+I feel like we're all starting to really understand.
+
+1991
+00:55:41,329 --> 00:55:41,909
+And as you said,
+
+1992
+00:55:41,909 --> 00:55:43,809
+take our own sense of leadership in this space.
+
+1993
+00:55:43,809 --> 00:55:45,690
+It's the thing that comes up the most in the,
+
+1994
+00:55:45,690 --> 00:55:47,110
+when I'm speaking to someone from sports,
+
+1995
+00:55:47,110 --> 00:55:49,150
+from sport or another industry,
+
+1996
+00:55:49,150 --> 00:55:52,110
+everyone as a parent or in their own world,
+
+1997
+00:55:52,110 --> 00:55:53,190
+they're dealing with this space.
+
+1998
+00:55:53,190 --> 00:55:55,949
+So to have you as such a clear voice,
+
+1999
+00:55:55,949 --> 00:55:56,769
+and really,
+
+2000
+00:55:56,769 --> 00:55:57,610
+as you said,
+
+2001
+00:55:57,610 --> 00:55:58,449
+there's no wiggle room in your language,
+
+2002
+00:55:58,449 --> 00:55:59,989
+you know exactly where you sit.
+
+2003
+00:55:59,989 --> 00:56:00,809
+It's a,
+
+2004
+00:56:00,809 --> 00:56:01,650
+it's great to,
+
+2005
+00:56:01,650 --> 00:56:02,489
+you know,
+
+2006
+00:56:02,489 --> 00:56:03,309
+be able to sit down with you.
+
+2007
+00:56:03,309 --> 00:56:04,150
+And thanks for sharing it today.
+
+2008
+00:56:04,150 --> 00:56:04,989
+And it's my pleasure.
+
+2009
+00:56:04,989 --> 00:56:09,269
+And thank you so much for inviting me to have a chat.
+
+2010
+00:56:09,269 --> 00:56:10,849
+Empowering Leaders was presented by me,
+
+2011
+00:56:10,849 --> 00:56:11,769
+Luke Darcy,
+
+2012
+00:56:11,769 --> 00:56:13,050
+produced by Ed Gooden,
+
+2013
+00:56:13,050 --> 00:56:15,349
+the sound design by Matt Curry.
+
+2014
+00:56:15,349 --> 00:56:16,650
+To start your leadership journey,
+
+2015
+00:56:16,650 --> 00:56:18,050
+I encourage you to go to
+
+2016
+00:56:18,050 --> 00:56:19,550
+leadercollective.com.
+
+2017
+00:56:19,550 --> 00:56:21,469
+Take our empowering leaders indicator tool
+
+2018
+00:56:21,469 --> 00:56:24,510
+and understand the impact you have on your environment.
+
+2019
+00:56:24,510 --> 00:56:26,170
+Join us at a leader to learn,
+
+2020
+00:56:26,170 --> 00:56:27,510
+lead and collaborate.
+
+2021
+00:56:32,380 --> 00:56:33,179
+Listener.
+

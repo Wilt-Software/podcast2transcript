@@ -1,0 +1,4148 @@
+1
+00:00:02,480 --> 00:00:08,169
+Hi, it's Luke Darcy.
+
+2
+00:00:08,390 --> 00:00:11,150
+Thank you again for joining me on the Empowering Leaders podcast.
+
+3
+00:00:11,589 --> 00:00:14,570
+I hope you're enjoying it as much as I am recording these conversations.
+
+4
+00:00:15,050 --> 00:00:17,109
+The upcoming guest, Michael Hewitt Gleeson.
+
+5
+00:00:17,550 --> 00:00:18,269
+What a legend.
+
+6
+00:00:18,629 --> 00:00:20,629
+I learned an incredible amount from this conversation,
+
+7
+00:00:20,809 --> 00:00:25,449
+so much so that we lost track of time and have decided to release this in two parts.
+
+8
+00:00:25,449 --> 00:00:26,910
+Both are ready to go now.
+
+9
+00:00:27,390 --> 00:00:32,689
+It was a fascinating insight from a man who has collected wisdom right across his life.
+
+10
+00:00:33,090 --> 00:00:33,929
+I hope you enjoy it.
+
+11
+00:00:33,929 --> 00:00:34,909
+On with the conversation.
+
+12
+00:00:37,439 --> 00:00:38,640
+G'day, it's Luke Darcy.
+
+13
+00:00:39,219 --> 00:00:42,520
+The idea of self-improvement and leadership both on and off the field
+
+14
+00:00:42,520 --> 00:00:44,280
+has been a lifelong passion of mine.
+
+15
+00:00:44,979 --> 00:00:47,200
+With one of my oldest friends, we created a leader collective
+
+16
+00:00:47,200 --> 00:00:49,939
+and have had the privilege of working with thousands of leaders
+
+17
+00:00:49,939 --> 00:00:53,100
+in education, sport, industry and the arts
+
+18
+00:00:53,100 --> 00:00:57,060
+that have helped shift to what we see as the 21st century style of leadership
+
+19
+00:00:57,060 --> 00:00:58,539
+where everyone has a voice.
+
+20
+00:00:59,500 --> 00:01:03,100
+In this podcast, we hear stories from these iconic leaders.
+
+21
+00:01:19,019 --> 00:01:20,439
+I love every time I change topic.
+
+22
+00:01:20,439 --> 00:01:22,760
+You've got another book, Wombat,
+
+23
+00:01:23,120 --> 00:01:25,700
+selling another one of your brilliant books,
+
+24
+00:01:26,560 --> 00:01:28,000
+Word of Mouth, Buy and Tell,
+
+25
+00:01:28,060 --> 00:01:32,480
+and your sales philosophy sort of pivots into that concept.
+
+26
+00:01:32,739 --> 00:01:34,019
+Can you explain that?
+
+27
+00:01:34,200 --> 00:01:36,900
+So, yeah, Wombat, Word of Mouth, Buy and Tell,
+
+28
+00:01:37,019 --> 00:01:39,280
+and it's also Australian, not American, sorry.
+
+29
+00:01:40,280 --> 00:01:45,540
+But the idea is the goal in most businesses is to close the sale,
+
+30
+00:01:46,500 --> 00:01:49,099
+is to get a deal or to get a customer.
+
+31
+00:01:49,319 --> 00:01:50,099
+So, yeah.
+
+32
+00:01:50,439 --> 00:01:52,640
+A very, very big in science is replication.
+
+33
+00:01:53,299 --> 00:01:55,420
+You know, I won't go into it all, but it's a very big thing.
+
+34
+00:01:56,659 --> 00:01:59,980
+The whole genetic structure of everything is based on replication
+
+35
+00:01:59,980 --> 00:02:02,180
+and what happens when genes replicate
+
+36
+00:02:02,180 --> 00:02:06,219
+and what happens when they replicate accurately
+
+37
+00:02:06,219 --> 00:02:08,900
+and what they have when they replicate with a little flaw
+
+38
+00:02:08,900 --> 00:02:11,680
+and that plays all out into evolution and everything else.
+
+39
+00:02:12,020 --> 00:02:13,560
+So, replication is...
+
+40
+00:02:13,560 --> 00:02:17,259
+And there's only two replicators that we know of at present in science,
+
+41
+00:02:17,419 --> 00:02:18,259
+genes and memes.
+
+42
+00:02:18,840 --> 00:02:20,360
+Memes are like idea viruses.
+
+43
+00:02:20,439 --> 00:02:21,039
+Yeah.
+
+44
+00:02:21,379 --> 00:02:21,879
+So...
+
+45
+00:02:21,879 --> 00:02:23,580
+Darwin's theory would...
+
+46
+00:02:23,580 --> 00:02:25,560
+Yeah, and applies to them as well.
+
+47
+00:02:25,639 --> 00:02:26,199
+That's evolution.
+
+48
+00:02:26,780 --> 00:02:29,340
+The little defaults change evolution.
+
+49
+00:02:29,340 --> 00:02:31,240
+Yeah, mistakes are the important thing.
+
+50
+00:02:31,259 --> 00:02:31,439
+Yeah.
+
+51
+00:02:32,139 --> 00:02:35,379
+Is what enables us to survive in a changing environment.
+
+52
+00:02:35,500 --> 00:02:38,520
+Now, if the environment was stable, then you wouldn't want that.
+
+53
+00:02:38,599 --> 00:02:40,639
+You'd want everything to replicate accurately.
+
+54
+00:02:40,840 --> 00:02:41,020
+Yeah.
+
+55
+00:02:41,120 --> 00:02:43,319
+But in a changing environment, which it always is,
+
+56
+00:02:43,539 --> 00:02:47,840
+it's actually the mutations or the mistakes that enables accidentally
+
+57
+00:02:47,840 --> 00:02:50,419
+to a certain copy.
+
+58
+00:02:51,020 --> 00:02:51,539
+Yeah.
+
+59
+00:02:51,539 --> 00:02:53,800
+And the other ones die off, you know.
+
+60
+00:02:54,120 --> 00:02:55,099
+So, the same with memes.
+
+61
+00:02:55,319 --> 00:03:01,099
+So, use the word meme and I've got, you know, 13, 15, 18, 12-year-olds.
+
+62
+00:03:01,259 --> 00:03:04,919
+So, meme is something that occurs, you know, on social media.
+
+63
+00:03:05,319 --> 00:03:08,900
+Those memes are an example of a meme, but that's not what memes are.
+
+64
+00:03:08,900 --> 00:03:10,120
+Memes have been going on for thousands of years.
+
+65
+00:03:10,120 --> 00:03:14,219
+Memes are little packages of information that are very good
+
+66
+00:03:14,219 --> 00:03:16,860
+at getting themselves copied from brain to brain.
+
+67
+00:03:17,000 --> 00:03:19,340
+And historically, how has that happened?
+
+68
+00:03:19,340 --> 00:03:20,340
+You're like...
+
+69
+00:03:21,000 --> 00:03:21,020
+Yeah.
+
+70
+00:03:21,020 --> 00:03:22,139
+You know, Beethoven's Fifth.
+
+71
+00:03:22,379 --> 00:03:25,379
+It could be, you know, Mind Your Manners.
+
+72
+00:03:25,479 --> 00:03:27,159
+It could be Drive on a Certain Side of the...
+
+73
+00:03:27,159 --> 00:03:31,139
+They're just things that become highly replicable.
+
+74
+00:03:31,719 --> 00:03:35,219
+Whereas other things, like Save Money, could be a good idea,
+
+75
+00:03:35,580 --> 00:03:38,099
+but don't want to hear about that.
+
+76
+00:03:38,240 --> 00:03:41,599
+You know, so they're not always necessarily good or bad.
+
+77
+00:03:41,699 --> 00:03:43,379
+They're just very good at getting copied.
+
+78
+00:03:43,479 --> 00:03:46,360
+Anyway, sorry, that's a bit detour, but that's the science behind one.
+
+79
+00:03:46,539 --> 00:03:46,560
+Yeah.
+
+80
+00:03:46,719 --> 00:03:48,520
+So, word of mouth, buy and tell.
+
+81
+00:03:48,520 --> 00:03:50,060
+I buy something.
+
+82
+00:03:50,419 --> 00:03:52,879
+I become a satisfied customer.
+
+83
+00:03:53,360 --> 00:03:56,080
+And I tell you at a dinner party or something, you know,
+
+84
+00:03:56,080 --> 00:03:59,300
+you complain about your, you know, your insurance costs.
+
+85
+00:03:59,340 --> 00:04:00,419
+Oh, you should talk to my guy.
+
+86
+00:04:00,520 --> 00:04:02,060
+He doesn't do that, you know, and blah, blah, blah.
+
+87
+00:04:02,180 --> 00:04:03,580
+And then we'll give me his number and so on.
+
+88
+00:04:03,620 --> 00:04:05,099
+So, we've all done it.
+
+89
+00:04:05,139 --> 00:04:06,099
+Go and see this movie.
+
+90
+00:04:06,599 --> 00:04:07,979
+We've all, we're all wombats.
+
+91
+00:04:08,500 --> 00:04:13,419
+So, but in wombat selling, the goal is not the deal, but it's a wombat.
+
+92
+00:04:14,580 --> 00:04:18,839
+Because every time you get a wombat, a satisfied customer who replicates
+
+93
+00:04:18,839 --> 00:04:23,959
+another satisfied customer, and it turns out that if a satisfied customer
+
+94
+00:04:23,959 --> 00:04:27,759
+comes to you because they're replicated by a wombat, they're very likely to do
+
+95
+00:04:27,759 --> 00:04:29,800
+the same thing if you map it out.
+
+96
+00:04:31,740 --> 00:04:35,879
+That's how you really multiply your business by 10, other than just some
+
+97
+00:04:35,879 --> 00:04:37,620
+motivational slogan, you know.
+
+98
+00:04:38,000 --> 00:04:40,199
+And we can, again, track it all down.
+
+99
+00:04:40,480 --> 00:04:44,680
+But I ask a customer, how many wombats do you have on your database, you know,
+
+100
+00:04:44,680 --> 00:04:45,459
+and on your spreadsheet?
+
+101
+00:04:46,300 --> 00:04:48,500
+Oh, what's a wombat, you know?
+
+102
+00:04:48,839 --> 00:04:52,040
+In other words, it's not even on the spreadsheet of projections.
+
+103
+00:04:52,879 --> 00:04:53,560
+To be able to measure.
+
+104
+00:04:53,779 --> 00:04:56,139
+It's just deals, sales, and dollars.
+
+105
+00:04:56,139 --> 00:04:58,360
+So, having some data saying, this is our customer base.
+
+106
+00:04:58,360 --> 00:05:02,740
+We should know who fall into the wombat category, who are genuinely satisfied
+
+107
+00:05:02,740 --> 00:05:06,060
+and are a good likelihood to tell other people that we're, yeah.
+
+108
+00:05:06,060 --> 00:05:09,319
+And that's because we're obviously still servicing them very well, and what can
+
+109
+00:05:09,319 --> 00:05:11,100
+we do to multiply that by 10?
+
+110
+00:05:11,300 --> 00:05:14,779
+So, that's where the lateral thinking of just different strategies, different
+
+111
+00:05:14,779 --> 00:05:18,139
+ways of looking at the world, and therefore, different behaviours.
+
+112
+00:05:18,139 --> 00:05:20,420
+You've had extraordinary people in your life.
+
+113
+00:05:20,519 --> 00:05:23,660
+I'm going to get to a handful of questions in a moment that I've been asking all
+
+114
+00:05:23,660 --> 00:05:26,259
+the inspirational leaders, but you mentioned George Gallup.
+
+115
+00:05:26,399 --> 00:05:31,519
+I didn't realise he was the academic that oversaw your PhD, but became a great
+
+116
+00:05:31,519 --> 00:05:33,019
+mentor in life.
+
+117
+00:05:33,680 --> 00:05:34,759
+Tell us George Gallup story.
+
+118
+00:05:34,779 --> 00:05:36,399
+He was 84 when I met him.
+
+119
+00:05:36,620 --> 00:05:38,959
+He had the Gallup Pollock Princeton, which he'd formed.
+
+120
+00:05:39,560 --> 00:05:44,319
+He originally was a professor of psychology, I think, in Midwest,
+
+121
+00:05:44,680 --> 00:05:47,199
+Northwestern University near Chicago or something.
+
+122
+00:05:47,199 --> 00:05:48,100
+But his idea.
+
+123
+00:05:48,100 --> 00:05:52,980
+His idea was he would look at newspapers and he would measure, you know, the ads
+
+124
+00:05:52,980 --> 00:05:57,579
+in newspapers, and then he found a way of measuring readership, and then he would
+
+125
+00:05:57,860 --> 00:06:00,899
+start calling people and say, did you see the ad on page six, upper left hand?
+
+126
+00:06:01,259 --> 00:06:04,779
+And then he would do that research and then sell it to advertising agencies,
+
+127
+00:06:04,779 --> 00:06:07,319
+the early days, in the 1920s.
+
+128
+00:06:07,759 --> 00:06:13,399
+And then Ericsson, I think it was, McCann Ericsson, jumped on this, that this is
+
+129
+00:06:13,399 --> 00:06:18,079
+really clever, and then that led to the kinds of things that they do in marketing.
+
+130
+00:06:18,139 --> 00:06:24,420
+Research, not all of it's great, but a lot of it's good, where you actually measure the
+
+131
+00:06:24,420 --> 00:06:28,839
+customer's point of view rather than just what you want to say and, you know, what
+
+132
+00:06:28,839 --> 00:06:33,120
+sort of headline you'll have and copywriting, all of which are important, but a big
+
+133
+00:06:33,120 --> 00:06:37,879
+emphasis on what the customer is thinking and saying, not just, so Henry Ford, you
+
+134
+00:06:37,879 --> 00:06:39,639
+can have any color you want as long as it's black.
+
+135
+00:06:40,540 --> 00:06:41,680
+Well, he was the opposite of that.
+
+136
+00:06:41,680 --> 00:06:45,560
+What do the customers want, you know, and then, and then coming backwards from that.
+
+137
+00:06:46,079 --> 00:06:47,980
+And so, you know, people wouldn't even run.
+
+138
+00:06:48,079 --> 00:06:53,519
+For politics today, unless they did polling and tried to find out, it's not always done
+
+139
+00:06:53,519 --> 00:06:54,839
+well, but I mean, it's done.
+
+140
+00:06:54,959 --> 00:06:55,879
+He changed the system.
+
+141
+00:06:56,079 --> 00:07:00,319
+I believe it was his mother-in-law that was running for a, for a seat in local government
+
+142
+00:07:00,319 --> 00:07:01,139
+or a Senate seat.
+
+143
+00:07:01,279 --> 00:07:01,800
+Ah, yeah.
+
+144
+00:07:01,819 --> 00:07:02,839
+I think, I think you're right.
+
+145
+00:07:03,040 --> 00:07:03,259
+Yeah.
+
+146
+00:07:03,420 --> 00:07:08,699
+And that they had surveying systems that were millions of people, but he worked out he could.
+
+147
+00:07:08,779 --> 00:07:09,839
+The statistical sample.
+
+148
+00:07:09,959 --> 00:07:10,199
+Yeah.
+
+149
+00:07:10,420 --> 00:07:15,639
+That if you measure 1200 people, you get the same result, plus or minus a small deviation
+
+150
+00:07:15,639 --> 00:07:16,959
+if you measure everyone.
+
+151
+00:07:17,040 --> 00:07:17,300
+Yeah.
+
+152
+00:07:17,300 --> 00:07:18,060
+Well, you can't measure.
+
+153
+00:07:18,079 --> 00:07:19,980
+You can't measure everyone, but you can measure a sample.
+
+154
+00:07:20,139 --> 00:07:21,680
+So this is, you're right, sample polling.
+
+155
+00:07:21,680 --> 00:07:23,180
+And he had brilliant accuracy at the start.
+
+156
+00:07:23,259 --> 00:07:23,339
+Yeah, yeah, yeah.
+
+157
+00:07:23,339 --> 00:07:25,079
+You can always get it right, but we said.
+
+158
+00:07:25,199 --> 00:07:29,800
+And he got the, the Gallup poll predicted the result of every presidential election
+
+159
+00:07:29,800 --> 00:07:32,699
+since, you know, from then to then kind of thing.
+
+160
+00:07:33,339 --> 00:07:35,360
+But again, nothing is perfect.
+
+161
+00:07:35,420 --> 00:07:39,160
+And was he influential on, on your thinking as a, as a thinking instructor?
+
+162
+00:07:39,160 --> 00:07:42,300
+Yeah, well, he was the one who said the importance of measuring the CVS.
+
+163
+00:07:42,819 --> 00:07:43,040
+Yeah.
+
+164
+00:07:43,139 --> 00:07:48,060
+You know, so Edward was on about, you know, looking for BVSs, you know, in, in my, in my
+
+165
+00:07:48,060 --> 00:07:52,600
+terminology, you know, thinking outside the box, looking for, for BVSs in better ways.
+
+166
+00:07:52,660 --> 00:07:52,879
+Yeah.
+
+167
+00:07:53,459 --> 00:07:57,420
+Well, George was, but make sure you understand what the CVS, you know, make sure you, you
+
+168
+00:07:57,420 --> 00:08:01,339
+know, problem well stated is a problem half solved kind of thing.
+
+169
+00:08:01,339 --> 00:08:09,420
+And a lot of time we, we're confused about our CVS, you know, so he helped me to pay
+
+170
+00:08:09,420 --> 00:08:12,660
+a lot more attention to the CVS and the value of it.
+
+171
+00:08:12,699 --> 00:08:17,040
+And we do have a CVS and it is valuable because we've spent a lot of time on getting it and
+
+172
+00:08:17,040 --> 00:08:17,879
+investing in it.
+
+173
+00:08:18,060 --> 00:08:25,740
+So, so, and then, then of course the other part of the switch CVS to BVS is, well, then
+
+174
+00:08:25,740 --> 00:08:29,600
+what can we find that's 10 times better, but you better watch what you're multiplying by
+
+175
+00:08:29,600 --> 00:08:33,840
+10, you know, because that could lead you off somewhere where you don't really want
+
+176
+00:08:33,840 --> 00:08:34,179
+to go.
+
+177
+00:08:34,299 --> 00:08:39,220
+So understanding this and his measurement of trying to understand, he measured more
+
+178
+00:08:39,220 --> 00:08:42,600
+human thinking than any other individual on the planet.
+
+179
+00:08:42,779 --> 00:08:44,220
+And that transformed your thinking.
+
+180
+00:08:44,379 --> 00:08:46,379
+You've got to know where you are to get to where you want to get to.
+
+181
+00:08:46,379 --> 00:08:47,960
+If you don't know where you are.
+
+182
+00:08:48,059 --> 00:08:54,139
+But using measurement from a scientific point, not just sort of a vague feeling that
+
+183
+00:08:54,139 --> 00:08:57,820
+I think I know what I'm doing or, or my vague feeling that this is what the customer is
+
+184
+00:08:57,820 --> 00:08:58,179
+wanting.
+
+185
+00:08:58,519 --> 00:09:02,960
+So, you know, let me ask them 10 questions to find out exactly, you know.
+
+186
+00:09:03,100 --> 00:09:06,100
+And for a business, that's an important skill too, to understand.
+
+187
+00:09:06,240 --> 00:09:11,740
+And even in relationships with kids and with partners, you know, it can help if we understand
+
+188
+00:09:11,740 --> 00:09:15,019
+where they're thinking, where they, yeah, that's right.
+
+189
+00:09:15,019 --> 00:09:17,659
+That's again, careful what you multiply by 10.
+
+190
+00:09:18,059 --> 00:09:21,379
+The classic one I always say is that the parent, well meaning, of course, and most,
+
+191
+00:09:21,460 --> 00:09:22,940
+most of the things we do are well meaning.
+
+192
+00:09:23,220 --> 00:09:31,320
+The kid spends two hours on writing an essay or something and comes to mom or dad and there's
+
+193
+00:09:31,320 --> 00:09:32,740
+a spelling mistake on line three.
+
+194
+00:09:33,620 --> 00:09:35,820
+Well, there is a spelling mistake on line three.
+
+195
+00:09:35,860 --> 00:09:36,379
+That's true.
+
+196
+00:09:36,539 --> 00:09:37,320
+That's correct.
+
+197
+00:09:38,740 --> 00:09:43,779
+But something to me, or the famous story is that the cart, can I think we got time to
+
+198
+00:09:43,779 --> 00:09:44,019
+quickly?
+
+199
+00:09:44,159 --> 00:09:44,580
+Absolutely.
+
+200
+00:09:44,580 --> 00:09:44,700
+Absolutely.
+
+201
+00:09:44,860 --> 00:09:46,120
+So the cut.
+
+202
+00:09:46,559 --> 00:09:46,960
+Yeah.
+
+203
+00:09:46,960 --> 00:09:47,019
+It's.
+
+204
+00:09:47,019 --> 00:09:47,039
+It's.
+
+205
+00:09:47,139 --> 00:09:47,159
+It's.
+
+206
+00:09:47,159 --> 00:09:47,179
+It's.
+
+207
+00:09:47,179 --> 00:09:47,200
+It's.
+
+208
+00:09:47,200 --> 00:09:47,220
+It's.
+
+209
+00:09:47,220 --> 00:09:47,279
+It's.
+
+210
+00:09:47,299 --> 00:09:47,320
+It's.
+
+211
+00:09:47,320 --> 00:09:47,379
+It's.
+
+212
+00:09:47,379 --> 00:09:47,399
+It's.
+
+213
+00:09:47,399 --> 00:09:47,419
+It's.
+
+214
+00:09:47,419 --> 00:09:47,519
+It's.
+
+215
+00:09:47,519 --> 00:09:48,000
+It's.
+
+216
+00:09:48,000 --> 00:09:48,039
+It's.
+
+217
+00:09:48,059 --> 00:09:52,639
+playground and he goes up to this little girl he's got his eye on
+
+218
+00:09:52,639 --> 00:09:56,559
+and he says, if you can guess what I've got in my hand, I'll take you to the
+
+219
+00:09:56,559 --> 00:10:00,559
+dance tonight. And she says, oh, it must be hippopotamus. He said, that's
+
+220
+00:10:00,559 --> 00:10:04,519
+close enough, I'll pick you up at 7 o'clock. So there's logic's
+
+221
+00:10:04,519 --> 00:10:08,360
+one way of thinking, but there are other types of thinking to get a result that you want
+
+222
+00:10:08,360 --> 00:10:12,379
+that they don't necessarily deal with right and wrong, you know. That's the best lateral
+
+223
+00:10:12,379 --> 00:10:16,500
+thinking I think I've ever heard. If only I'd known that, my youth might have
+
+224
+00:10:16,500 --> 00:10:20,039
+been a happier time. Andy, who introduced us, loves that one. He loves that one,
+
+225
+00:10:20,139 --> 00:10:24,100
+absolutely. The great Andrew Sutherland, who's been kind enough to
+
+226
+00:10:24,100 --> 00:10:27,740
+tee up this meeting today and I'm very appreciative.
+
+227
+00:10:28,139 --> 00:10:32,200
+Part of what we've been doing in the leadership space, Michael, is identifying what we think
+
+228
+00:10:32,200 --> 00:10:36,220
+great leadership looks like in the current context and we see an
+
+229
+00:10:36,220 --> 00:10:40,360
+evolution in leadership and some traits and dimensions of great
+
+230
+00:10:40,360 --> 00:10:44,360
+leaders that are coming through regularly and your story is one of the great
+
+231
+00:10:44,360 --> 00:10:45,840
+leadership stories that
+
+232
+00:10:45,840 --> 00:10:49,539
+we've ever heard and so please expand on these dimensions
+
+233
+00:10:49,539 --> 00:10:54,320
+or as little as much as you'd like, but we see all leaders have an understanding
+
+234
+00:10:54,320 --> 00:10:58,379
+of self-leadership. When I ask you about that term,
+
+235
+00:10:58,500 --> 00:11:03,120
+does it resonate with you? Oh, very much so. I mean,
+
+236
+00:11:03,120 --> 00:11:04,679
+the way I hear it, you know,
+
+237
+00:11:04,720 --> 00:11:11,159
+my way of saying is thinking is the skill or ability
+
+238
+00:11:11,159 --> 00:11:15,299
+to lead yourself. So that's where it starts,
+
+239
+00:11:15,399 --> 00:11:15,679
+doesn't it?
+
+240
+00:11:15,840 --> 00:11:19,899
+Self-leadership. So from a scientific point of view to do with
+
+241
+00:11:19,899 --> 00:11:22,960
+brains and biology and so on, it comes down to behaviours.
+
+242
+00:11:23,779 --> 00:11:27,139
+So, you know, why do I behave
+
+243
+00:11:27,139 --> 00:11:31,679
+in certain ways? And behaviours that are often triggered by emotions, fear being the big one.
+
+244
+00:11:32,480 --> 00:11:37,080
+So, how do I,
+
+245
+00:11:38,259 --> 00:11:40,320
+to what extent have I been taught?
+
+246
+00:11:40,320 --> 00:11:45,379
+Maybe formally, the way I'm saying it, or just by good parents and grandparents
+
+247
+00:11:45,379 --> 00:11:45,779
+or
+
+248
+00:11:45,840 --> 00:11:49,059
+good little village or whatever that you learn somehow instinctively
+
+249
+00:11:49,059 --> 00:11:53,779
+that the importance of not just always reacting to a
+
+250
+00:11:53,779 --> 00:11:57,600
+stimuli on the first response, although there are occasions
+
+251
+00:11:57,600 --> 00:12:01,639
+where, you know, rustling the grass in the old days, don't say, I wonder what that is?
+
+252
+00:12:01,639 --> 00:12:04,360
+You know, you've got to be out of there, otherwise you're lunch, you know,
+
+253
+00:12:04,659 --> 00:12:09,759
+to a tiger, but still, life is
+
+254
+00:12:09,759 --> 00:12:13,759
+not full of those kind of moments. So how do we use our thinking
+
+255
+00:12:13,759 --> 00:12:15,360
+to, and the big word is,
+
+256
+00:12:15,840 --> 00:12:19,759
+praise. So this is what I was going to do, and if our
+
+257
+00:12:19,759 --> 00:12:24,120
+prefrontal contact is well and being trained, it says, but wait a minute.
+
+258
+00:12:25,200 --> 00:12:27,879
+Is that, you know, what's the customer
+
+259
+00:12:27,879 --> 00:12:31,340
+actually thinking here? Or what's your partner thinking?
+
+260
+00:12:31,700 --> 00:12:34,320
+Or why did he or she say that?
+
+261
+00:12:35,720 --> 00:12:40,059
+Oh, okay, and then you can have a second think. It's like, you know, a second opinion with doctors.
+
+262
+00:12:40,620 --> 00:12:44,000
+A second think, and the second thing very often is more
+
+263
+00:12:44,000 --> 00:12:44,460
+useful.
+
+264
+00:12:45,840 --> 00:12:49,799
+it's metacognition you're actually thinking about your thinking and therefore the behavior that
+
+265
+00:12:49,799 --> 00:12:55,279
+comes could be a quite different behavior and that's where self-leadership comes in
+
+266
+00:12:55,279 --> 00:13:01,759
+we think and there are other definitions of leadership but that to the extent that one can
+
+267
+00:13:01,759 --> 00:13:07,120
+help others do that whether they're your family your children or your colleagues or your platoon
+
+268
+00:13:07,120 --> 00:13:15,159
+if you can help them also to be better thinkers to lead themselves better that's also fits into
+
+269
+00:13:15,159 --> 00:13:19,100
+my view of leadership yeah it's a brilliant answer and as i'm listening to your talk
+
+270
+00:13:19,100 --> 00:13:24,700
+in some ways it feels like what you started in that thinking is is sort of the founding part
+
+271
+00:13:24,700 --> 00:13:29,759
+of the modern mindfulness movement in lots of ways it's really being mindful is actually
+
+272
+00:13:29,759 --> 00:13:35,679
+really taking in your current you know view of the situation as you call it cvs yes being able
+
+273
+00:13:35,679 --> 00:13:43,679
+to process that pause and react in the way that you feel like you want to um and are you a believer
+
+274
+00:13:43,679 --> 00:13:44,159
+in
+
+275
+00:13:44,159 --> 00:13:44,879
+you
+
+276
+00:13:45,159 --> 00:13:50,200
+the stuff like meditation and oh yes very much so i mean nothing could be more deliberate and
+
+277
+00:13:50,200 --> 00:13:55,639
+mindful than breathe than than your breathing and improving on your breathing i had pneumonia
+
+278
+00:13:55,639 --> 00:14:02,679
+twice when i was a kid and uh you know quite young and i was even apart from giving shot penicillin
+
+279
+00:14:02,679 --> 00:14:06,980
+shots in the bum uh which i remember but i can remember that when i was eight you know i can
+
+280
+00:14:06,980 --> 00:14:12,580
+remember the doctor giving me breathing said all all the rubbish settles down in the bottom of your
+
+281
+00:14:12,580 --> 00:14:15,139
+lungs and we only breathe shallow most of the time and i was like oh my god i'm not going to
+
+282
+00:14:15,159 --> 00:14:15,720
+breathe at all i'm not going to breathe at all i'm not going to breathe at all i'm not going to breathe at all
+
+283
+00:14:15,720 --> 00:14:22,519
+you know like this so and that's fine but uh to make sure that's a number of times a day you know
+
+284
+00:14:22,519 --> 00:14:27,960
+the one method i was taught was three deep breaths where you push your stomach out so you feel your
+
+285
+00:14:27,960 --> 00:14:33,799
+stomach first and then your chest and hold it for four seconds and then let it out do three of those
+
+286
+00:14:33,799 --> 00:14:40,279
+you know as many times a day as you can think of now i've had that for well should i admit 70 70
+
+287
+00:14:41,159 --> 00:14:44,679
+75 years so so very much so and then of course uh
+
+288
+00:14:45,879 --> 00:14:51,720
+the buddhist and other um cultures uh that believe in that and understand
+
+289
+00:14:53,320 --> 00:14:59,879
+meditation and are also mindful we call it metacognition thinking about thinking and it's
+
+290
+00:14:59,879 --> 00:15:08,120
+just a synonym yeah their one is mindfulness which as you say is right now um so so yes uh
+
+291
+00:15:08,919 --> 00:15:15,159
+the alternative to mindfulness is unmindfulness the term alternative to metacognition is not the
+
+292
+00:15:15,159 --> 00:15:18,519
+word mindfulness it's actually the other one is sleep so sleep is usually it's always the intention
+
+293
+00:15:18,519 --> 00:15:20,759
+of that person and that's what you feel it's almost like i'm just thinking about sleep
+
+294
+00:15:20,759 --> 00:15:25,000
+have that you're sort of thinking about it you're thinking it's basically reacting so you know and
+
+295
+00:15:25,000 --> 00:15:31,240
+what do you react to a stimulus so basically you know you're a slave to to uh social media
+
+296
+00:15:31,240 --> 00:15:36,039
+whoever you're sitting with or anything road rage in the car they do something and if i'm gonna do
+
+297
+00:15:36,039 --> 00:15:41,320
+yeah no you you i you do actually do that but that's when your prefrontal cords come in and say
+
+298
+00:15:41,320 --> 00:15:46,299
+You know, sometimes if you can actually get it on the first thing, but usually on the
+
+299
+00:15:46,299 --> 00:15:49,320
+second thing, whereas without it, you don't do a second thing.
+
+300
+00:15:49,399 --> 00:15:51,259
+You're into the behavior, the behavior takes off.
+
+301
+00:15:51,779 --> 00:15:55,919
+Or I'm going to eat a little bit better today because, you know what, I'd love to have had
+
+302
+00:15:55,919 --> 00:15:59,159
+the burger, but I know I'm going to feel a bit better afterwards if I have something
+
+303
+00:15:59,159 --> 00:16:00,419
+that's maybe a bit more nutritious.
+
+304
+00:16:00,679 --> 00:16:07,440
+It's always an alcohol-free day, you know, which, you know, someone talked about years
+
+305
+00:16:07,440 --> 00:16:11,139
+ago, just a day, you know, we all like to have a drink and that in our society.
+
+306
+00:16:11,840 --> 00:16:16,000
+We just say, well, today, you know, I'm not giving up drinking, but I'm having an alcohol-free
+
+307
+00:16:16,000 --> 00:16:16,399
+day.
+
+308
+00:16:16,600 --> 00:16:18,980
+And then you can have two if you want, you know.
+
+309
+00:16:19,200 --> 00:16:20,320
+So that's a nice little one.
+
+310
+00:16:20,379 --> 00:16:21,320
+That was useful for me.
+
+311
+00:16:21,440 --> 00:16:25,039
+And my mate's just that, you see, today is a day where I just won't have a drink.
+
+312
+00:16:25,500 --> 00:16:26,559
+The laid gratification.
+
+313
+00:16:26,700 --> 00:16:26,860
+Yeah.
+
+314
+00:16:27,000 --> 00:16:27,799
+For the great.
+
+315
+00:16:27,799 --> 00:16:30,580
+And that can almost become a skill, you know, a little pattern.
+
+316
+00:16:30,799 --> 00:16:32,279
+And then you say, I'll do an AFD today.
+
+317
+00:16:33,279 --> 00:16:34,340
+But what about lunch?
+
+318
+00:16:34,500 --> 00:16:36,039
+Oh, well, maybe I'll do the AFD tomorrow.
+
+319
+00:16:36,320 --> 00:16:36,580
+But anyway.
+
+320
+00:16:37,159 --> 00:16:39,379
+Software update's not perfect all the time, Michael.
+
+321
+00:16:39,620 --> 00:16:41,220
+It glitches occasionally.
+
+322
+00:16:41,320 --> 00:16:46,820
+But we see leaders are really conscious of how they positively impact others in their
+
+323
+00:16:46,820 --> 00:16:47,299
+environment.
+
+324
+00:16:47,500 --> 00:16:51,200
+I mean, that feels like that's been a huge part of your life.
+
+325
+00:16:51,279 --> 00:16:55,980
+How can I positively impact, train trainers, improve thinking, improve people's lives?
+
+326
+00:16:56,080 --> 00:16:57,759
+I mean, were you conscious about that?
+
+327
+00:16:57,820 --> 00:16:58,039
+Yeah.
+
+328
+00:16:58,120 --> 00:16:58,259
+Yeah.
+
+329
+00:16:58,259 --> 00:17:00,159
+Well, because that army experience taught me that.
+
+330
+00:17:00,220 --> 00:17:05,160
+I also had a classical education at a Catholic boarding school at Rupert's Wood in Sunbury.
+
+331
+00:17:05,160 --> 00:17:11,299
+And that was, you know, the true for Italian, there were all Italian priests that are
+
+332
+00:17:11,299 --> 00:17:11,539
+coming out.
+
+333
+00:17:11,539 --> 00:17:18,619
+So we got the full, you know, Italian church classical education, you know, Latin and learning
+
+334
+00:17:18,619 --> 00:17:19,160
+vocab.
+
+335
+00:17:19,220 --> 00:17:24,019
+And you had to learn 10 words of Latin vocab every day in the order that they were on the
+
+336
+00:17:24,019 --> 00:17:24,180
+list.
+
+337
+00:17:24,240 --> 00:17:25,640
+Apart from anything else, you had to do so.
+
+338
+00:17:25,859 --> 00:17:29,900
+A lot of academic discipline stuff, old fashioned in a way.
+
+339
+00:17:31,619 --> 00:17:37,220
+And in updating the education, some of the things we did throw out some of the good things,
+
+340
+00:17:37,720 --> 00:17:39,160
+the baby with the bathwater.
+
+341
+00:17:39,380 --> 00:17:41,220
+Because practice repetition.
+
+342
+00:17:41,299 --> 00:17:45,420
+Practition, rehearsal, are what the military use, for example.
+
+343
+00:17:45,619 --> 00:17:50,279
+And when you're, you know, flying in a two-seater plane and the pilot says,
+
+344
+00:17:50,720 --> 00:17:52,940
+Tango, Whiskey, Juliet, eject, eject, eject.
+
+345
+00:17:53,500 --> 00:17:54,940
+If you say, are you sure?
+
+346
+00:17:56,099 --> 00:17:56,940
+It's too late.
+
+347
+00:17:57,099 --> 00:17:59,420
+So certain things, and we don't live life like that.
+
+348
+00:17:59,460 --> 00:18:01,759
+But in the military, they have to deal with situations.
+
+349
+00:18:01,960 --> 00:18:02,579
+Ambush left.
+
+350
+00:18:03,859 --> 00:18:04,339
+Who, me?
+
+351
+00:18:04,339 --> 00:18:06,140
+You know, it's all over, you know.
+
+352
+00:18:06,299 --> 00:18:10,759
+So there are things that have, in the military, a very severe bottom line.
+
+353
+00:18:11,299 --> 00:18:17,039
+So in the thousands of years of military science, they've evolved pedagogies that are very,
+
+354
+00:18:17,160 --> 00:18:17,680
+very useful.
+
+355
+00:18:17,859 --> 00:18:21,700
+And, you know, many of my old mates, when we get together and talk about that, we say,
+
+356
+00:18:21,759 --> 00:18:24,940
+well, you know, Marcus Blackmore was in my class.
+
+357
+00:18:25,019 --> 00:18:29,359
+Well, he took his dad's little, I used to tease him, his voodoo laboratory and built
+
+358
+00:18:29,359 --> 00:18:30,839
+it into, you know, one of the great brands.
+
+359
+00:18:30,839 --> 00:18:33,220
+Biggest vitamin business, Blackmore's Vitamins.
+
+360
+00:18:33,319 --> 00:18:34,259
+Yeah, it's an incredible story.
+
+361
+00:18:34,259 --> 00:18:37,880
+Kenneth and Tim Fisher also went to the same education.
+
+362
+00:18:38,160 --> 00:18:41,259
+So, so, um, I think that the other thing we haven't missed.
+
+363
+00:18:41,299 --> 00:18:46,019
+I think that the other thing we haven't missed is, you know, the role model, the imitation.
+
+364
+00:18:46,160 --> 00:18:50,220
+So you can learn from techniques that you're taught by a coach and through practice and
+
+365
+00:18:50,220 --> 00:18:55,700
+so on, but the brain through the mean thing can also, and we've all got our heroes and
+
+366
+00:18:55,700 --> 00:19:03,259
+our, which may be, they may be, uh, you know, fake, I mean, if nonfiction or fiction, but
+
+367
+00:19:03,259 --> 00:19:07,640
+they're still, for whatever reason, our heroes, uh, and in the sporting field, you know, we
+
+368
+00:19:07,640 --> 00:19:10,839
+all had our, we had our little footy cards when we were young.
+
+369
+00:19:11,079 --> 00:19:11,279
+And, you know.
+
+370
+00:19:11,299 --> 00:19:17,460
+And we all wanted to be footy, you know, if you're short and fat like me, uh, then the
+
+371
+00:19:17,460 --> 00:19:18,119
+opposite of you.
+
+372
+00:19:18,319 --> 00:19:20,940
+So you, you don't, I was always the last one.
+
+373
+00:19:21,019 --> 00:19:23,440
+I was the youngest in the class and the smallest.
+
+374
+00:19:23,440 --> 00:19:29,180
+And so the big boys like you, uh, would pick their teams and they, you know, one would
+
+375
+00:19:29,180 --> 00:19:30,519
+pick one and one would pick the other.
+
+376
+00:19:30,599 --> 00:19:33,440
+And then it would come to me and say, they'd fight over who's getting me.
+
+377
+00:19:33,539 --> 00:19:35,440
+So we had him last time, you know.
+
+378
+00:19:36,299 --> 00:19:40,259
+I don't think any of those guys went on to find, found the school of thinking, but there
+
+379
+00:19:40,259 --> 00:19:41,079
+were DeBoto, uh.
+
+380
+00:19:41,079 --> 00:19:42,440
+Uh, Michael said, we've all got our.
+
+381
+00:19:42,740 --> 00:19:43,480
+We've all got our strengths.
+
+382
+00:19:43,500 --> 00:19:44,440
+We've all got our strengths.
+
+383
+00:19:44,660 --> 00:19:49,920
+And, uh, you know, someone, uh, on this podcast said to me, you get some cards, you just have
+
+384
+00:19:49,920 --> 00:19:51,240
+to play those cards well.
+
+385
+00:19:51,460 --> 00:19:51,799
+Exactly.
+
+386
+00:19:51,799 --> 00:19:56,200
+And you've played your cards as well as you could possibly imagine.
+
+387
+00:19:56,359 --> 00:20:01,599
+We, we see great leaders conscious about how they go about creating and sharing their vision.
+
+388
+00:20:01,680 --> 00:20:03,400
+The school of thinking is a huge vision.
+
+389
+00:20:03,660 --> 00:20:07,400
+I mean, how did you systematically go about sharing that vision?
+
+390
+00:20:09,200 --> 00:20:11,059
+Sort of random.
+
+391
+00:20:11,079 --> 00:20:11,440
+Randomly.
+
+392
+00:20:11,980 --> 00:20:15,039
+So you have to remember, it was also the days of Studio 54.
+
+393
+00:20:16,019 --> 00:20:22,559
+I was new in New York and I was, uh, so it was, uh, you know, it was learning about life
+
+394
+00:20:22,559 --> 00:20:25,680
+and enjoying myself and, and, and learning on every level that I could.
+
+395
+00:20:26,039 --> 00:20:26,359
+But, um.
+
+396
+00:20:26,440 --> 00:20:27,759
+Did you have big ambition for it?
+
+397
+00:20:27,839 --> 00:20:28,019
+Did you?
+
+398
+00:20:28,039 --> 00:20:28,480
+Yeah, yeah.
+
+399
+00:20:28,539 --> 00:20:34,259
+And I had a kind of, well, the fact is, so, uh, I said, we've got to do something.
+
+400
+00:20:34,319 --> 00:20:35,099
+We've got to have something.
+
+401
+00:20:35,160 --> 00:20:37,019
+I can't just be wandering around trying to sell.
+
+402
+00:20:37,019 --> 00:20:39,799
+I was originally trying to sell Edward, the city corp on that.
+
+403
+00:20:39,799 --> 00:20:40,599
+And then when I'll get it.
+
+404
+00:20:40,700 --> 00:20:41,039
+It's a.
+
+405
+00:20:41,079 --> 00:20:42,539
+They'd say, well, well, where is he then?
+
+406
+00:20:42,900 --> 00:20:44,059
+Well, he's at Cambridge.
+
+407
+00:20:44,180 --> 00:20:45,259
+Well, Americans want it now.
+
+408
+00:20:45,339 --> 00:20:46,519
+They don't want some guy.
+
+409
+00:20:46,640 --> 00:20:48,059
+So I, that wasn't the model.
+
+410
+00:20:48,140 --> 00:20:48,759
+So I said, Edward.
+
+411
+00:20:49,500 --> 00:20:53,980
+So I presented him an idea for a school at JFK once on a visit.
+
+412
+00:20:54,160 --> 00:20:55,720
+The 70th of November, 1979.
+
+413
+00:20:55,880 --> 00:20:57,299
+And I said, what we need is a school.
+
+414
+00:20:57,940 --> 00:20:58,680
+So I got a point.
+
+415
+00:20:58,880 --> 00:20:59,900
+You never forget that day.
+
+416
+00:20:59,940 --> 00:21:00,380
+No, no, no.
+
+417
+00:21:00,380 --> 00:21:01,599
+I was there and he said, yes.
+
+418
+00:21:02,099 --> 00:21:02,740
+On the spot.
+
+419
+00:21:02,819 --> 00:21:02,920
+Yeah.
+
+420
+00:21:02,920 --> 00:21:04,819
+That was when I did the idea of the train, the train.
+
+421
+00:21:04,920 --> 00:21:05,079
+Yeah.
+
+422
+00:21:05,140 --> 00:21:06,359
+I'll do what I know.
+
+423
+00:21:06,599 --> 00:21:06,839
+Yeah.
+
+424
+00:21:06,980 --> 00:21:07,259
+Now.
+
+425
+00:21:07,259 --> 00:21:08,339
+We'll go into business together.
+
+426
+00:21:08,460 --> 00:21:08,859
+Going together.
+
+427
+00:21:09,000 --> 00:21:09,619
+This is a school.
+
+428
+00:21:09,700 --> 00:21:10,839
+If you want to do it, we'll do it together.
+
+429
+00:21:10,839 --> 00:21:11,460
+As a business.
+
+430
+00:21:11,680 --> 00:21:11,880
+Yeah.
+
+431
+00:21:12,400 --> 00:21:13,880
+I suggested 50-50.
+
+432
+00:21:14,539 --> 00:21:16,019
+He suggested 60-40.
+
+433
+00:21:17,759 --> 00:21:18,960
+Fair enough, you know.
+
+434
+00:21:19,500 --> 00:21:20,380
+So that was okay.
+
+435
+00:21:20,680 --> 00:21:23,779
+No, but it was good and I knew I could do that.
+
+436
+00:21:24,359 --> 00:21:26,279
+I put the first ad in the New York Times.
+
+437
+00:21:26,339 --> 00:21:28,200
+I thought teachers would be, you know, logically.
+
+438
+00:21:28,500 --> 00:21:31,759
+So I put an ad in the New York Times Education Supplement,
+
+439
+00:21:32,299 --> 00:21:33,839
+part-time thinking instructors.
+
+440
+00:21:34,339 --> 00:21:37,839
+And when the ad came out, it was part-time thinking instructors.
+
+441
+00:21:38,819 --> 00:21:40,180
+And then a little copy that.
+
+442
+00:21:40,539 --> 00:21:40,819
+No.
+
+443
+00:21:40,839 --> 00:21:42,339
+No one knew about De Bono or anything.
+
+444
+00:21:42,759 --> 00:21:44,339
+And then I'd put the wrong phone number in.
+
+445
+00:21:44,339 --> 00:21:46,619
+I, you know, it was a little bit too much Studio 54.
+
+446
+00:21:47,059 --> 00:21:51,700
+Anyway, this poor lady in Harlem kept getting all these calls about wanting,
+
+447
+00:21:51,700 --> 00:21:53,339
+people wanting to be part-time thinking.
+
+448
+00:21:53,680 --> 00:21:55,119
+She gave them a piece of her mind.
+
+449
+00:21:55,119 --> 00:21:56,160
+So, false start.
+
+450
+00:21:56,460 --> 00:21:58,799
+So, so De Bono wasn't a household name at that stage.
+
+451
+00:21:58,799 --> 00:21:59,940
+No, no one had heard of him.
+
+452
+00:22:00,019 --> 00:22:00,400
+Yeah.
+
+453
+00:22:00,440 --> 00:22:04,680
+And, uh, he, he, he was, no, there wasn't, he was getting well known here
+
+454
+00:22:04,980 --> 00:22:08,259
+because he'd done regular trips to Australia, was starting to.
+
+455
+00:22:08,339 --> 00:22:09,839
+What brought, what brought him to Australia?
+
+456
+00:22:09,839 --> 00:22:10,839
+He studied at RMI.
+
+457
+00:22:10,839 --> 00:22:12,079
+I tell you, didn't he, here in Australia?
+
+458
+00:22:12,079 --> 00:22:15,740
+No, no, he, you know, he, he, he was given an honorary PhD from RMI.
+
+459
+00:22:15,740 --> 00:22:15,940
+Yeah.
+
+460
+00:22:15,940 --> 00:22:18,740
+But he did his, he's from Malta.
+
+461
+00:22:18,960 --> 00:22:21,980
+So he got his, he was very young doctor of meds.
+
+462
+00:22:21,980 --> 00:22:23,279
+Not all his family are doctors.
+
+463
+00:22:23,900 --> 00:22:24,859
+Uh, very young.
+
+464
+00:22:24,859 --> 00:22:27,440
+His father was a famous Malta doctor.
+
+465
+00:22:27,460 --> 00:22:32,619
+Um, and then won a road, road scholarship to Oxford and did psychology at Oxford.
+
+466
+00:22:33,039 --> 00:22:37,299
+And then when I met him, he was the professor of investigative meds at Cambridge.
+
+467
+00:22:37,579 --> 00:22:40,539
+Since then, he's been given various honorary doctorates around the world, including RMI.
+
+468
+00:22:40,539 --> 00:22:51,160
+But, um, so, so, but what I said was, let's do a book together because then I've got something I can sell, you know, a book.
+
+469
+00:22:51,160 --> 00:22:53,180
+And then I obviously put courses together.
+
+470
+00:22:53,420 --> 00:23:03,900
+So we did the learn to think course book and instructor's manual, which we co, uh, authored in, in, uh, 19 sort of 82.
+
+471
+00:23:05,059 --> 00:23:10,500
+And that had the lessons in there and how to teach them, you know, so I had the lessons and if you're an instructor, you just.
+
+472
+00:23:10,539 --> 00:23:12,160
+I bought the book and you could teach from the book.
+
+473
+00:23:12,519 --> 00:23:13,420
+And that was the multiplier.
+
+474
+00:23:13,660 --> 00:23:20,980
+Then, then, um, uh, he always said, oh, I'd love to get something in the reader's digest because that is the biggest magazine in the world.
+
+475
+00:23:21,480 --> 00:23:26,559
+So I was like a little, you know, robot bunny, you know, the bunny rabbit just pressed the button.
+
+476
+00:23:26,559 --> 00:23:27,039
+I said, okay.
+
+477
+00:23:27,160 --> 00:23:34,839
+So I went up and I did manage to get a, an interview, uh, about the book in the reader's digest.
+
+478
+00:23:34,839 --> 00:23:37,839
+And it turned out to be the cover story in all international editions.
+
+479
+00:23:37,839 --> 00:23:39,619
+And which had massive coverage, didn't it?
+
+480
+00:23:39,619 --> 00:23:40,380
+Read his digest.
+
+481
+00:23:40,380 --> 00:23:41,579
+That would be like being on Oprah.
+
+482
+00:23:41,619 --> 00:23:42,000
+Yeah.
+
+483
+00:23:42,200 --> 00:23:45,119
+You know, it was before the internet on it, 68 million readers.
+
+484
+00:23:45,119 --> 00:23:48,299
+So, and we had seven lessons in there, you know, so.
+
+485
+00:23:48,299 --> 00:23:50,160
+And that, and that put the school of thinking on the map.
+
+486
+00:23:50,160 --> 00:23:54,339
+That, that puts, well, then what, from that comes like hundreds of these.
+
+487
+00:23:54,500 --> 00:23:54,880
+Yeah.
+
+488
+00:23:54,880 --> 00:23:56,460
+Radio interviews all around America.
+
+489
+00:23:56,460 --> 00:24:03,660
+Cause it's all, everyone copies what's in the reader's digest, the New York times, all cascading across that America we described before.
+
+490
+00:24:03,779 --> 00:24:04,019
+Yeah.
+
+491
+00:24:04,019 --> 00:24:09,759
+So I was doing talk show, like, you know, suddenly from nothing or, you know, a dribble of things we were trying to create.
+
+492
+00:24:09,759 --> 00:24:09,779
+Yeah.
+
+493
+00:24:09,779 --> 00:24:10,279
+And then we hit.
+
+494
+00:24:10,279 --> 00:24:10,380
+Yeah.
+
+495
+00:24:11,000 --> 00:24:12,460
+And then your vision changes.
+
+496
+00:24:12,460 --> 00:24:13,299
+I mean, you're sharing it then.
+
+497
+00:24:13,299 --> 00:24:20,380
+But in the course book, I said, let's train 300,000 thinking instructors in America, which is a number I just made up.
+
+498
+00:24:20,500 --> 00:24:20,759
+Yeah.
+
+499
+00:24:20,759 --> 00:24:22,480
+I mean, that's the long answer to your question.
+
+500
+00:24:22,480 --> 00:24:24,819
+So Edward said, well, where'd you get that number from?
+
+501
+00:24:24,819 --> 00:24:25,980
+I said, well, you know, why not?
+
+502
+00:24:27,339 --> 00:24:27,700
+You know.
+
+503
+00:24:27,880 --> 00:24:29,440
+Six million instructors later.
+
+504
+00:24:29,440 --> 00:24:30,799
+Now there's 6 million in the world.
+
+505
+00:24:30,799 --> 00:24:34,460
+We haven't trained them all, but it's cascaded down to 6 million.
+
+506
+00:24:34,460 --> 00:24:35,940
+So it's a, it's a brilliant story.
+
+507
+00:24:35,940 --> 00:24:36,839
+It was a vision.
+
+508
+00:24:36,900 --> 00:24:37,259
+Yeah.
+
+509
+00:24:37,259 --> 00:24:40,119
+But how to do it, it was a little less.
+
+510
+00:24:40,119 --> 00:24:43,299
+It's brilliant to hear the back story of it.
+
+511
+00:24:43,299 --> 00:24:48,799
+I like, we, we see curiosity as a common trait for, for this, uh, modern leaders.
+
+512
+00:24:48,799 --> 00:24:51,940
+And, and I suspect, uh, that's going to be a huge part of, of you.
+
+513
+00:24:51,940 --> 00:24:57,079
+And then through curiosity, leaders really thinking about how they change and learn and, and develop.
+
+514
+00:24:57,079 --> 00:24:58,779
+It was, was curiosity a big part of your.
+
+515
+00:24:58,779 --> 00:24:59,119
+Yeah.
+
+516
+00:24:59,119 --> 00:24:59,440
+Yeah.
+
+517
+00:24:59,440 --> 00:25:07,480
+I'm always got into trouble for being curious, even in the military, you know, but, um, but, but, uh, that's okay.
+
+518
+00:25:07,480 --> 00:25:09,880
+Cause sometimes it's perhaps inappropriate, but other times.
+
+519
+00:25:09,880 --> 00:25:10,019
+Yeah.
+
+520
+00:25:10,019 --> 00:25:14,099
+But it turned out to bone to explain why it's actually very, very important in the brain.
+
+521
+00:25:14,460 --> 00:25:16,019
+Humor is the other big thing.
+
+522
+00:25:16,259 --> 00:25:22,079
+Um, if, if, if computers ever start laughing, that's going to be a very sinister day indeed.
+
+523
+00:25:22,079 --> 00:25:27,119
+Cause it's one quality of the human brain that indicates that random patterns are connecting.
+
+524
+00:25:27,640 --> 00:25:29,759
+If it's temporary, then it's just a joke.
+
+525
+00:25:29,940 --> 00:25:31,680
+But if it's permanent, it's an insight.
+
+526
+00:25:31,980 --> 00:25:32,400
+Yeah.
+
+527
+00:25:32,900 --> 00:25:33,960
+And I, I can't do that.
+
+528
+00:25:33,960 --> 00:25:34,460
+Yeah.
+
+529
+00:25:34,920 --> 00:25:39,960
+Uh, not, not, we can program, we can program it.
+
+530
+00:25:40,019 --> 00:25:45,539
+We have to do it and it even can take off in self-programming that may, that's kind of changing.
+
+531
+00:25:46,259 --> 00:25:53,200
+And by 2030, there probably will be two distinct types of thinking, silicon and carbon.
+
+532
+00:25:54,259 --> 00:25:56,400
+So it is, as we all know, rapidly changing.
+
+533
+00:25:56,400 --> 00:25:57,299
+Does that alarm you?
+
+534
+00:25:58,559 --> 00:26:05,779
+Well, it does both, you know, it alarms me and, uh, you know, piques my curiosity, but, uh, but I won't be here.
+
+535
+00:26:05,779 --> 00:26:10,000
+So that's an awful thing to say, but, uh, because, uh, but it is.
+
+536
+00:26:10,019 --> 00:26:14,339
+I mean, it's, it's something we have to, the opportunity is unbelievable.
+
+537
+00:26:14,339 --> 00:26:17,099
+In artificial intelligence, but the threat's also there.
+
+538
+00:26:17,259 --> 00:26:23,339
+But we have to really be on the ball and know what we're doing because the potential consequences are there as well.
+
+539
+00:26:23,339 --> 00:26:32,259
+I think there's a quote from Elon Musk that's coming to me that, uh, he's clearly an interesting thinker, Elon Musk, however you view his, his view of the world, but he's.
+
+540
+00:26:32,339 --> 00:26:33,140
+He's a visionary.
+
+541
+00:26:33,180 --> 00:26:39,299
+He, at one point said, if we don't have a way back into artificial intelligence, a human way back in.
+
+542
+00:26:39,299 --> 00:26:39,339
+Yes.
+
+543
+00:26:39,339 --> 00:26:39,380
+Yeah.
+
+544
+00:26:39,380 --> 00:26:39,420
+Yeah.
+
+545
+00:26:39,420 --> 00:26:39,460
+Yeah.
+
+546
+00:26:39,460 --> 00:26:39,500
+Yeah.
+
+547
+00:26:39,500 --> 00:26:39,779
+Yeah.
+
+548
+00:26:39,779 --> 00:26:39,799
+Yeah.
+
+549
+00:26:40,019 --> 00:26:42,759
+Humans are a chance to end up like a domesticated cat, effectively.
+
+550
+00:26:42,759 --> 00:26:46,279
+Well, we are going to evolve into the future together.
+
+551
+00:26:47,180 --> 00:27:02,500
+How, how that unfolds could be anything from us being domesticated to something far more favorable, you know, uh, uh, some sort of cooperative thing that worked well as it, in a sense, has to a large extent so far.
+
+552
+00:27:02,559 --> 00:27:07,000
+But, uh, uh, the biggest thing that worries me on the planet right now is social media.
+
+553
+00:27:07,000 --> 00:27:09,819
+I mean, if you're, you didn't ask me, so I'm just poking.
+
+554
+00:27:09,819 --> 00:27:10,099
+I mean, if you're, you didn't ask me, so I'm just poking.
+
+555
+00:27:10,099 --> 00:27:13,799
+Which is great, because it's, uh, it's, it's the addictive nature of it.
+
+556
+00:27:13,920 --> 00:27:19,559
+I mean, it's up there with heroin and, uh, you know, you get, and we don't understand it.
+
+557
+00:27:19,599 --> 00:27:23,720
+Unfortunately, it's happening faster than our ability to understand it.
+
+558
+00:27:23,720 --> 00:27:31,500
+So you do get people who pick up their kids from school because they're worried about stranger danger.
+
+559
+00:27:32,039 --> 00:27:34,660
+And then the kids will be sitting back and say, here's your mobile phone.
+
+560
+00:27:34,880 --> 00:27:39,720
+And, uh, and, uh, and we're becoming more and more aware and even challenging.
+
+561
+00:27:39,819 --> 00:27:43,460
+We're challenging tech companies now to do something about it, but we can already see.
+
+562
+00:27:43,900 --> 00:27:46,160
+As, as a parent, Michael, it's the number one.
+
+563
+00:27:46,160 --> 00:27:46,380
+Yeah.
+
+564
+00:27:46,619 --> 00:27:46,880
+Is it?
+
+565
+00:27:47,000 --> 00:27:47,160
+Yeah.
+
+566
+00:27:47,200 --> 00:27:50,380
+By far and away, because it's the genie's out of the bottle.
+
+567
+00:27:50,880 --> 00:27:53,160
+That's where all the communication channels exist.
+
+568
+00:27:53,500 --> 00:27:56,299
+There's part of it that is, that is genius, that I admire.
+
+569
+00:27:56,420 --> 00:27:56,960
+Their ability to.
+
+570
+00:27:56,980 --> 00:27:57,700
+It's, it's so useful.
+
+571
+00:27:57,779 --> 00:27:59,420
+I mean, you can't just throw it away.
+
+572
+00:27:59,519 --> 00:28:00,180
+I'll try and explain it.
+
+573
+00:28:00,180 --> 00:28:04,000
+As a kid, I used to, growing up in, in South Australia, and you'd try and meet someone
+
+574
+00:28:04,000 --> 00:28:07,980
+in the, in the city, in the mall, and two out of three times, you'd miss each other
+
+575
+00:28:07,980 --> 00:28:09,799
+because you might've been standing on the side.
+
+576
+00:28:09,799 --> 00:28:12,079
+But you'd go home because.
+
+577
+00:28:12,240 --> 00:28:12,660
+Yeah, yeah.
+
+578
+00:28:12,720 --> 00:28:13,440
+You know, it's so.
+
+579
+00:28:13,519 --> 00:28:19,500
+So there's just so many, for all, it's a total mixture of pluses and minuses.
+
+580
+00:28:19,660 --> 00:28:21,380
+The minus side, can I share this with you?
+
+581
+00:28:21,380 --> 00:28:24,539
+Because I find this, and I have told this story before, but, you know, through lockdown
+
+582
+00:28:24,539 --> 00:28:27,859
+in Melbourne, we lived in the most lockdown city in the world.
+
+583
+00:28:28,279 --> 00:28:34,259
+And there was an extraordinary amount of teenage girls by the end of it presenting with eating
+
+584
+00:28:34,259 --> 00:28:34,779
+disorders.
+
+585
+00:28:35,099 --> 00:28:39,400
+And the link back to not being able to connect, not being able to connect, sitting at home
+
+586
+00:28:39,400 --> 00:28:39,779
+and looking.
+
+587
+00:28:39,799 --> 00:28:42,680
+And looking at these unrealistic images of what body image looks like.
+
+588
+00:28:43,200 --> 00:28:46,779
+There was, you know, I'll get the number wrong and I shouldn't have it, but something
+
+589
+00:28:46,779 --> 00:28:50,859
+like 700 a week teenage girls in the city of Melbourne being diagnosed.
+
+590
+00:28:51,500 --> 00:28:53,039
+The, the, the social media.
+
+591
+00:28:53,400 --> 00:28:53,619
+Yeah.
+
+592
+00:28:53,880 --> 00:28:56,799
+The complexity for young people is, it's alarming.
+
+593
+00:28:57,759 --> 00:29:00,559
+The problem is with any, it's, it's an addiction.
+
+594
+00:29:01,160 --> 00:29:04,779
+And the problem with it, it's two problems with addiction, but the problem with anything
+
+595
+00:29:04,779 --> 00:29:08,200
+like, you know, a Kit Kat or a cigarette, there's nothing wrong with a cigarette.
+
+596
+00:29:08,200 --> 00:29:10,339
+Or a Kit Kat.
+
+597
+00:29:10,680 --> 00:29:15,099
+But if you have 10 Kit Kats a day, that is a very, very serious problem.
+
+598
+00:29:15,539 --> 00:29:18,740
+If you have 10 cigarettes a day, so it's the dosage.
+
+599
+00:29:19,140 --> 00:29:22,619
+People say, oh, you know, it's, it's, it's, and the dosage, the problem with the dosage
+
+600
+00:29:22,619 --> 00:29:24,420
+is some things can be, are addictive.
+
+601
+00:29:25,039 --> 00:29:30,960
+So, an easy, a basic definition of addiction is, I can't say no.
+
+602
+00:29:32,640 --> 00:29:38,140
+It doesn't matter what it is, whether it's sex or sugar or, you know, coffee or drugs
+
+603
+00:29:38,140 --> 00:29:38,180
+or whatever.
+
+604
+00:29:38,200 --> 00:29:41,259
+It doesn't matter what it is, whether it's sex or religion or any of the things to do
+
+605
+00:29:41,259 --> 00:29:46,420
+with, again, we're getting back into the, into the amygdala and the prefrontal cortex.
+
+606
+00:29:46,779 --> 00:29:53,440
+But, um, uh, the basic thing is if you, if you cannot say no, then it's really addiction.
+
+607
+00:29:53,619 --> 00:29:55,160
+And this is something.
+
+608
+00:29:55,339 --> 00:29:55,740
+Unbelievable.
+
+609
+00:29:55,900 --> 00:29:59,700
+Right on up there with heroin in terms of the ability to say no.
+
+610
+00:29:59,720 --> 00:30:00,980
+It's interesting you make that comparison.
+
+611
+00:30:00,980 --> 00:30:03,220
+And you understand that much more than me because you've got kids.
+
+612
+00:30:03,359 --> 00:30:03,819
+And you know the problem.
+
+613
+00:30:03,819 --> 00:30:04,720
+I've just got my partner.
+
+614
+00:30:04,920 --> 00:30:05,140
+Yeah.
+
+615
+00:30:06,039 --> 00:30:07,400
+But I, I find the problem.
+
+616
+00:30:07,400 --> 00:30:08,140
+I've got to be totally transparent.
+
+617
+00:30:08,200 --> 00:30:11,619
+I'm yelling at the kids to get off social media as I'm on my phone.
+
+618
+00:30:11,619 --> 00:30:12,759
+Yeah, I know, of course, exactly.
+
+619
+00:30:12,759 --> 00:30:18,099
+And it has, and I, you, you can lose, and I'm very, very late to the market in social media.
+
+620
+00:30:18,099 --> 00:30:22,299
+In fact, people who know me know that I have no understanding at all, but, but, but I find
+
+621
+00:30:22,299 --> 00:30:26,380
+myself reading news articles and half an hour's gone and you go, what happened just then?
+
+622
+00:30:26,380 --> 00:30:38,140
+Cause it's, it's, it's intelligent behavior to use this, but you know, there's many ways of using, I, I, you know, when I'm had a couple of years.
+
+623
+00:30:38,140 --> 00:30:40,779
+I've you know, I'm on a roll here with four glasses of red wine and I'm on a roll.
+
+624
+00:30:40,779 --> 00:30:51,279
+I, I say, uh, partly emotional might say it's like kloaca, maxima, the great sewer of Hen, you know, it's like a sewer in the sewer.
+
+625
+00:30:51,279 --> 00:30:53,480
+There are diamonds.
+
+626
+00:30:53,640 --> 00:30:58,000
+Unbelievably precious diamond, but you got to wade through a lot of What a shit to get there.
+
+627
+00:30:58,220 --> 00:30:59,279
+Well, you said it.
+
+628
+00:31:00,559 --> 00:31:03,960
+So, so that's, you know, it's a very serious problem.
+
+629
+00:31:03,960 --> 00:31:06,200
+I think we're now understanding that it is.
+
+630
+00:31:06,200 --> 00:31:07,920
+And we're starting to the government's and very similar.
+
+631
+00:31:08,140 --> 00:31:12,160
+people. But I don't envy, you know, parents because
+
+632
+00:31:12,160 --> 00:31:15,920
+I mean, you know, I'm having enough trouble
+
+633
+00:31:15,920 --> 00:31:19,980
+using leadership on myself with this. It's much more difficult with kids
+
+634
+00:31:19,980 --> 00:31:23,940
+who don't yet have a prefrontal cortex. Yeah. So there's no
+
+635
+00:31:23,940 --> 00:31:27,480
+possible way they can really understand what we're trying to tell them,
+
+636
+00:31:28,180 --> 00:31:31,180
+you know, and all their mates have got it. I mean,
+
+637
+00:31:31,279 --> 00:31:36,200
+I would call it a wicked problem, which is a problem which in a sense
+
+638
+00:31:36,200 --> 00:31:39,299
+doesn't yet have a solution. Yeah. No, it's a very
+
+639
+00:31:39,299 --> 00:31:43,960
+important point that you make. A couple more dimensions that we've been talking about,
+
+640
+00:31:44,059 --> 00:31:47,920
+communicating with clarity and your books are, and I'm going to come back to
+
+641
+00:31:47,920 --> 00:31:51,680
+the fourth brain. It feels like you've captured really
+
+642
+00:31:51,680 --> 00:31:55,799
+a version of where thinking is going in 2022 that we talk about.
+
+643
+00:31:56,119 --> 00:32:00,019
+It's a good segue from social media and kids really having a shorter, and adults too.
+
+644
+00:32:00,940 --> 00:32:03,420
+So your communication's brilliant
+
+645
+00:32:03,420 --> 00:32:07,839
+and clearly your writing and the way that you've been able to expand
+
+646
+00:32:07,839 --> 00:32:10,779
+the school of things. How did you go about that communication?
+
+647
+00:32:11,839 --> 00:32:14,579
+That book there. All of it, yeah, just in all of you.
+
+648
+00:32:14,640 --> 00:32:19,720
+Well, that's a really good question. I don't really, I don't think I've been asked
+
+649
+00:32:19,720 --> 00:32:23,660
+that before, but it's one I really
+
+650
+00:32:23,660 --> 00:32:27,400
+like to be asked because it's one of my things that I think I'm good at.
+
+651
+00:32:28,539 --> 00:32:31,640
+So it's about communication and there are levels of communication
+
+652
+00:32:31,640 --> 00:32:33,400
+aren't there? So for example,
+
+653
+00:32:33,420 --> 00:32:37,420
+I was raised a Catholic, okay, and had
+
+654
+00:32:37,420 --> 00:32:41,519
+great education, the fall, everything, and the liturgy as it
+
+655
+00:32:41,519 --> 00:32:44,880
+was then in those days with fabulous vestments and
+
+656
+00:32:44,880 --> 00:32:49,480
+I was the kid on the smoke thing, you know, and I got the job of doing a smoke ring
+
+657
+00:32:49,480 --> 00:32:52,500
+once when I thought the priests weren't watching. But you know, all of that
+
+658
+00:32:52,500 --> 00:32:56,700
+and the wonderful history and
+
+659
+00:32:56,700 --> 00:33:01,539
+culture of the church and so on. Well, it's good because not everyone
+
+660
+00:33:01,539 --> 00:33:03,039
+had a great experience. No, no, no.
+
+661
+00:33:03,420 --> 00:33:05,299
+I had some experiences that weren't great. Yeah, yeah.
+
+662
+00:33:05,299 --> 00:33:11,200
+But overall, this will be another soapbox I could get in, but overall,
+
+663
+00:33:12,299 --> 00:33:14,779
+well, you can pay, well, you can focus on
+
+664
+00:33:14,779 --> 00:33:18,920
+well, you know, the child abuse thing in the church. There's no doubt about that
+
+665
+00:33:18,920 --> 00:33:23,180
+that is terrible. Horrific. But already now they're far more advanced
+
+666
+00:33:23,180 --> 00:33:26,680
+than probably any other country in the world in dealing with it.
+
+667
+00:33:26,980 --> 00:33:31,299
+That's not focused on and looked at, and so there are other issues. But that's
+
+668
+00:33:31,299 --> 00:33:32,220
+not the point I want to make.
+
+669
+00:33:33,420 --> 00:33:38,519
+Then as I grew up and then I became a scientist and so on, I became agnostic. I couldn't really
+
+670
+00:33:38,519 --> 00:33:43,740
+believe what I taught anymore. But I was trying to hold on with, you know, one foot in the
+
+671
+00:33:43,740 --> 00:33:47,200
+thing. And then it came to a point where, well, I mean, I'm sorry. I mean, what I've
+
+672
+00:33:47,200 --> 00:33:52,440
+now learned in science, I have no choice to be an atheist. I can't believe in the version
+
+673
+00:33:52,440 --> 00:33:59,339
+that I was taught. And then I went further and I find myself becoming an agnostic. And
+
+674
+00:33:59,339 --> 00:34:03,400
+now I'm sort of, you know, vacillating between I believe. But the thing is, I'm an agnostic.
+
+675
+00:34:03,420 --> 00:34:06,900
+I'm an atheist as far as what I was taught when I was young. But the man with the long
+
+676
+00:34:06,900 --> 00:34:13,019
+beard and all that. Yeah. Santa Claus. I mean, that was nice for a prefrontal cortex, pre-pre.
+
+677
+00:34:13,340 --> 00:34:15,960
+Yeah. You know, but I could never go and believe
+
+678
+00:34:15,960 --> 00:34:26,539
+that anymore. Extraordinary, but a bit the same when you're
+
+679
+00:34:26,539 --> 00:34:28,099
+forced to go into the church environment. It's a mixed bag.
+
+680
+00:34:28,119 --> 00:34:32,760
+And you look back and you go, that, you know, that doesn't add up. But there's part of me
+
+681
+00:34:32,760 --> 00:34:37,800
+that is in this universal energy understanding of the way that the world organizes itself
+
+682
+00:34:37,800 --> 00:34:39,579
+and that there is a greater force. Yeah.
+
+683
+00:34:39,980 --> 00:34:43,219
+If you're curious, there are other ways to explain that.
+
+684
+00:34:43,219 --> 00:34:47,000
+So I had a wonderful meeting once. I was a fan of the Dalai Lamas because I'd read some
+
+685
+00:34:47,000 --> 00:34:51,340
+of those Lobsang Rama books when I was young. And then I had a chance in New York on his
+
+686
+00:34:51,340 --> 00:34:57,760
+very first trip to America to meet him. A friend of mine was a friend of his. And I
+
+687
+00:34:57,760 --> 00:35:03,860
+really wanted to have a meeting with the Dalai. So I arranged through CBS for a friend for
+
+688
+00:35:03,860 --> 00:35:09,039
+them to do a documentary on him. And in exchange, I had a long meeting with him.
+
+689
+00:35:09,539 --> 00:35:09,900
+What was that like?
+
+690
+00:35:09,900 --> 00:35:14,340
+What was that like? They tell me incredible presence being around.
+
+691
+00:35:14,420 --> 00:35:19,860
+I couldn't speak when he, I mean, as you can tell, I'm not someone who has trouble speaking.
+
+692
+00:35:19,860 --> 00:35:25,440
+But when he came into the room and he just, the presence came in and he was in the other
+
+693
+00:35:25,440 --> 00:35:30,519
+room giving an audience to the governor of New York. And then he came in, there was a
+
+694
+00:35:30,519 --> 00:35:36,380
+chair, his sort of throne type of chair was there. And then mine was here. And then I
+
+695
+00:35:36,380 --> 00:35:39,880
+had a tape recorder set up and I had a photographer with me. And he came in and I was like, I'm
+
+696
+00:35:39,900 --> 00:35:43,440
+going to do this. And he came in, big smile, took my hand and then went over, looked at
+
+697
+00:35:43,440 --> 00:35:49,340
+the chair and then moved mine away. Physically himself, got another one like his and put
+
+698
+00:35:49,340 --> 00:35:55,159
+it next to it. And being cynical, I looked at the, you know, the, all the Tibetans in
+
+699
+00:35:55,159 --> 00:35:59,019
+the room and the ambassadors and that thought, oh, this must be his little stunt that he
+
+700
+00:35:59,019 --> 00:36:03,380
+does. And you could see by the look on their face that it was a completely spontaneous
+
+701
+00:36:03,380 --> 00:36:08,500
+thing for whatever reason, you know, that he just did. And they were like, this is not
+
+702
+00:36:08,500 --> 00:36:09,639
+his routine that he does.
+
+703
+00:36:09,900 --> 00:36:10,000
+Yeah.
+
+704
+00:36:10,280 --> 00:36:13,539
+It was tremendous. You know, the things we talked about, I asked him to design a new
+
+705
+00:36:13,539 --> 00:36:13,940
+religion.
+
+706
+00:36:14,800 --> 00:36:17,300
+That would have been interesting. Yeah. That's probably a separate.
+
+707
+00:36:17,320 --> 00:36:18,719
+He said no at first, but then.
+
+708
+00:36:19,579 --> 00:36:23,940
+I'm fascinated by that. When you're in the presence of someone with great presence, that
+
+709
+00:36:23,940 --> 00:36:29,079
+energy, you know, is such a unique thing. And it's, you know, I'm sure that would have
+
+710
+00:36:29,079 --> 00:36:35,039
+been the experience. We're talking final, so many great stories to keep going, but collaboration,
+
+711
+00:36:35,199 --> 00:36:39,780
+we see leaders are really passionate now about how they collaborate. Your life is,
+
+712
+00:36:39,900 --> 00:36:45,400
+has been full of great collaborations from Edward de Bono to, to, to George Gallop. I
+
+713
+00:36:45,400 --> 00:36:48,619
+mean, you've extraordinary life of collaboration is, is, is that how you've.
+
+714
+00:36:48,619 --> 00:36:54,139
+Yeah. And continues. I mean, the, the project that I told you, well, that, that had Andrew
+
+715
+00:36:54,139 --> 00:36:58,000
+Sutherland who met us. I mean, that's the, you know, it's a collaborative thing we're
+
+716
+00:36:58,000 --> 00:36:58,239
+doing.
+
+717
+00:36:58,300 --> 00:36:58,500
+Yeah.
+
+718
+00:36:58,659 --> 00:37:03,380
+You know, I couldn't do it without them and the way that they're applying it. I think
+
+719
+00:37:03,380 --> 00:37:08,659
+you really, you know, you can really say you're in the leadership zone when you're collaborating.
+
+720
+00:37:09,119 --> 00:37:09,360
+Yeah.
+
+721
+00:37:09,360 --> 00:37:09,659
+Yeah.
+
+722
+00:37:09,659 --> 00:37:09,699
+Yeah.
+
+723
+00:37:09,699 --> 00:37:09,800
+Yeah.
+
+724
+00:37:09,800 --> 00:37:09,860
+Yeah.
+
+725
+00:37:09,860 --> 00:37:09,880
+Yeah.
+
+726
+00:37:09,900 --> 00:37:16,480
+In an active way with someone with, you know, I don't know, did you know the, one of my
+
+727
+00:37:16,480 --> 00:37:22,219
+favorite models over these is the transactional analysis model that was developed by, there
+
+728
+00:37:22,219 --> 00:37:27,539
+was a book around in my day called I'm okay, you're okay. It was a big bestseller, but
+
+729
+00:37:27,539 --> 00:37:31,639
+there were the, there's the three circles, parent, adult, child, and you put two of them
+
+730
+00:37:31,639 --> 00:37:36,460
+together, parent, adult, child. So you can do the metrics of the relationships. So parent,
+
+731
+00:37:36,460 --> 00:37:39,539
+parent is good. Child.
+
+732
+00:37:39,900 --> 00:37:46,659
+Oh, no. Yeah. Yeah. Adult, adult is good. Child, child is good. But parent, child has
+
+733
+00:37:46,659 --> 00:37:51,699
+problems. Nothing to do with the fact that parents and children don't have, but just
+
+734
+00:37:51,699 --> 00:37:52,739
+as a psychological.
+
+735
+00:37:53,460 --> 00:37:53,860
+Exchange.
+
+736
+00:37:54,159 --> 00:37:57,619
+Exchange, you know, there's a power thing, you know, do this because I'm saying so, that
+
+737
+00:37:57,619 --> 00:38:02,219
+sort of thing. So that there are other ways to communicate other than, you know, when
+
+738
+00:38:02,219 --> 00:38:05,960
+I want your opinion, I'll give it to you. You know, that's a joke, you know, but, but
+
+739
+00:38:05,960 --> 00:38:09,699
+obviously adult, adult's good. And when we're having a bit of fun, child, child, child, child,
+
+740
+00:38:09,699 --> 00:38:10,420
+you know.
+
+741
+00:38:10,539 --> 00:38:10,760
+Yeah.
+
+742
+00:38:11,079 --> 00:38:16,019
+Um, so, so just different ways to communicate. And I think if you're in that collaborative
+
+743
+00:38:16,019 --> 00:38:20,300
+zone, rather than someone just telling you what to do, you're in the leadership zone
+
+744
+00:38:20,300 --> 00:38:21,679
+no matter what the ranks are.
+
+745
+00:38:21,960 --> 00:38:22,239
+Yeah.
+
+746
+00:38:22,579 --> 00:38:27,519
+That's fascinating. You know, I love talking parenting, um, you know, given my house is,
+
+747
+00:38:27,519 --> 00:38:30,840
+is full of it. But that is interesting why, because it's the great sort of conundrum is
+
+748
+00:38:30,840 --> 00:38:36,119
+that the parent adult, parent, uh, child relation naturally has got that hierarchy.
+
+749
+00:38:36,340 --> 00:38:36,460
+Yeah.
+
+750
+00:38:36,539 --> 00:38:37,559
+It comes with challenges.
+
+751
+00:38:37,880 --> 00:38:37,900
+Yeah.
+
+752
+00:38:37,920 --> 00:38:39,659
+One of the things that's been great advice.
+
+753
+00:38:39,699 --> 00:38:42,099
+is you're having the outside mentors for your kids
+
+754
+00:38:42,099 --> 00:38:44,920
+who naturally they want to gravitate to
+
+755
+00:38:44,920 --> 00:38:45,940
+because there is that barrier.
+
+756
+00:38:46,000 --> 00:38:47,380
+And when you can accept that as a parent,
+
+757
+00:38:47,920 --> 00:38:49,739
+there's so much genius in burnout.
+
+758
+00:38:49,880 --> 00:38:53,139
+Just sit back and hopefully have other people surround you.
+
+759
+00:38:53,139 --> 00:38:54,079
+Well, in the old days we had a village.
+
+760
+00:38:54,179 --> 00:38:55,960
+They used to say the village raises the child.
+
+761
+00:38:56,099 --> 00:38:56,400
+We don't know.
+
+762
+00:38:56,679 --> 00:39:00,619
+And it's not that the kids shouldn't be exposed to parents.
+
+763
+00:39:00,619 --> 00:39:03,019
+I mean, they've got to grow up and survive in a world of humans.
+
+764
+00:39:03,199 --> 00:39:03,460
+Yeah.
+
+765
+00:39:03,460 --> 00:39:06,400
+And there are occasions when they'll be authoritative
+
+766
+00:39:06,400 --> 00:39:08,380
+or even authoritarian.
+
+767
+00:39:08,380 --> 00:39:10,480
+In some parts of the world.
+
+768
+00:39:11,000 --> 00:39:13,179
+And so, you know, if they've had a bit of that in the family,
+
+769
+00:39:13,280 --> 00:39:14,280
+that doesn't hurt them.
+
+770
+00:39:14,300 --> 00:39:16,619
+But you wouldn't want only that or too much of it, you know.
+
+771
+00:39:16,760 --> 00:39:16,900
+Yeah.
+
+772
+00:39:17,000 --> 00:39:22,099
+So kids should be exposed to a range of things that they can adapt to
+
+773
+00:39:22,099 --> 00:39:23,860
+and be skilled at.
+
+774
+00:39:23,900 --> 00:39:28,219
+Otherwise, their survival is inhibited, you know.
+
+775
+00:39:28,519 --> 00:39:36,079
+But we all know what an authoritarian household is like,
+
+776
+00:39:36,079 --> 00:39:38,360
+you know, whether we've had it or whether we've seen it somewhere.
+
+777
+00:39:38,380 --> 00:39:42,539
+So, and that's, you know, we can do better than that, you know.
+
+778
+00:39:42,679 --> 00:39:43,659
+Yeah, not a lot of joy.
+
+779
+00:39:43,760 --> 00:39:45,039
+But there are moments, of course, when rank is important.
+
+780
+00:39:45,039 --> 00:39:46,119
+We occasionally need it.
+
+781
+00:39:46,900 --> 00:39:47,300
+Occasionally.
+
+782
+00:39:47,719 --> 00:39:50,219
+It still happens in my house from time to time.
+
+783
+00:39:50,280 --> 00:39:52,480
+I put my hand up, pull rank occasionally.
+
+784
+00:39:53,960 --> 00:39:55,139
+Two final questions.
+
+785
+00:39:55,639 --> 00:40:00,260
+And I've loved catching up with you and learnt an enormous amount from it.
+
+786
+00:40:00,280 --> 00:40:02,159
+We've been asking this of all the great leaders we've been around.
+
+787
+00:40:02,639 --> 00:40:04,619
+Who has been the greatest leader in your life?
+
+788
+00:40:06,550 --> 00:40:06,989
+Well.
+
+789
+00:40:08,849 --> 00:40:09,389
+Yeah.
+
+790
+00:40:09,389 --> 00:40:09,409
+Yeah.
+
+791
+00:40:09,409 --> 00:40:09,429
+Yeah.
+
+792
+00:40:09,429 --> 00:40:09,449
+Yeah.
+
+793
+00:40:09,449 --> 00:40:09,469
+Yeah.
+
+794
+00:40:09,469 --> 00:40:09,489
+Yeah.
+
+795
+00:40:09,489 --> 00:40:09,510
+Yeah.
+
+796
+00:40:09,510 --> 00:40:09,530
+Yeah.
+
+797
+00:40:09,530 --> 00:40:09,550
+Yeah.
+
+798
+00:40:09,550 --> 00:40:09,590
+Yeah.
+
+799
+00:40:09,590 --> 00:40:09,690
+Yeah.
+
+800
+00:40:09,690 --> 00:40:09,710
+Yeah.
+
+801
+00:40:09,730 --> 00:40:09,789
+Yeah.
+
+802
+00:40:09,789 --> 00:40:09,829
+Yeah.
+
+803
+00:40:09,829 --> 00:40:09,849
+Yeah.
+
+804
+00:40:09,849 --> 00:40:09,869
+Yeah.
+
+805
+00:40:09,869 --> 00:40:09,889
+Yeah.
+
+806
+00:40:09,889 --> 00:40:09,929
+Yeah.
+
+807
+00:40:09,929 --> 00:40:09,969
+Yeah.
+
+808
+00:40:09,969 --> 00:40:10,070
+Yeah.
+
+809
+00:40:10,070 --> 00:40:10,110
+Yeah.
+
+810
+00:40:10,110 --> 00:40:10,130
+Yeah.
+
+811
+00:40:10,130 --> 00:40:14,269
+It's like when someone says what's your favorite song or movie, you know, you've got several
+
+812
+00:40:14,269 --> 00:40:16,329
+that could, I mean, easily my dad.
+
+813
+00:40:16,409 --> 00:40:19,369
+I mean, that's, that's easy, you know, in a sense.
+
+814
+00:40:19,670 --> 00:40:21,090
+Can you tell me about him quickly before?
+
+815
+00:40:21,309 --> 00:40:21,409
+Yeah.
+
+816
+00:40:21,489 --> 00:40:21,750
+Yeah.
+
+817
+00:40:21,889 --> 00:40:26,150
+He, uh, he, uh, you know, he, he went to St.
+
+818
+00:40:26,329 --> 00:40:28,670
+Kevin's and went on scholarship there as a St.
+
+819
+00:40:28,750 --> 00:40:30,170
+Kilda boy, you know, grew up in St.
+
+820
+00:40:30,190 --> 00:40:35,949
+Kilda, put his age up and went to the war for six, six years in the Middle East, New
+
+821
+00:40:35,949 --> 00:40:39,429
+Guinea, came back redhead or sandy coloured hair.
+
+822
+00:40:39,429 --> 00:40:44,889
+and told me, you know, and then I was born right after then
+
+823
+00:40:44,889 --> 00:40:46,949
+and when I was, one of my earliest memories,
+
+824
+00:40:47,409 --> 00:40:51,150
+one of his famous sayings, son, if things aren't working out,
+
+825
+00:40:51,710 --> 00:40:52,389
+go to the beach.
+
+826
+00:40:53,510 --> 00:40:55,809
+Like that was, that pretty much sums up.
+
+827
+00:40:56,190 --> 00:40:59,489
+He was well-read, one of the most well-read people I've ever met,
+
+828
+00:40:59,489 --> 00:41:01,389
+highly intelligent, wicked sense of humour.
+
+829
+00:41:02,389 --> 00:41:05,750
+I often say we weren't so much raised up as we were teased up, you know,
+
+830
+00:41:06,510 --> 00:41:08,190
+cheated at Monopoly, did everything, you know.
+
+831
+00:41:08,190 --> 00:41:13,369
+But we were always laughing, you know, his sense of humour was always,
+
+832
+00:41:13,690 --> 00:41:15,949
+you know, there were different moments when he had to be dead,
+
+833
+00:41:16,590 --> 00:41:19,869
+but, and empowering, you know.
+
+834
+00:41:20,090 --> 00:41:22,050
+He was not an ambitious man himself.
+
+835
+00:41:22,230 --> 00:41:25,929
+He had a great life, he was fine, but he never brought work home.
+
+836
+00:41:25,929 --> 00:41:28,809
+You know, we went to the beach every weekend and, you know,
+
+837
+00:41:28,909 --> 00:41:32,590
+but he, anything I ever wanted to do, I was a bit different, you know,
+
+838
+00:41:32,630 --> 00:41:37,170
+I had things I wanted to do and I needed to buy things
+
+839
+00:41:37,170 --> 00:41:38,070
+that he thought were silly.
+
+840
+00:41:38,190 --> 00:41:40,849
+Like motivational tapes from America when I was starting out.
+
+841
+00:41:41,150 --> 00:41:42,150
+Some of them were no good.
+
+842
+00:41:42,969 --> 00:41:45,809
+So he was right, but I didn't know that and I needed them
+
+843
+00:41:45,809 --> 00:41:46,929
+and he paid for them, you know.
+
+844
+00:41:47,429 --> 00:41:47,670
+Yeah.
+
+845
+00:41:47,989 --> 00:41:51,949
+You know, like if, well, you know, oh, you're going to play this bullshit,
+
+846
+00:41:52,150 --> 00:41:55,750
+you know, but you need them here and, you know, they were not cheap,
+
+847
+00:41:55,829 --> 00:41:57,690
+you know, it was like 500 bucks, it was a lot of money then.
+
+848
+00:41:57,869 --> 00:41:58,050
+Yeah.
+
+849
+00:41:58,110 --> 00:42:01,289
+And so that was dad, you know, whatever you're doing, he backed you
+
+850
+00:42:01,289 --> 00:42:05,289
+and right up and older, I would always go and discuss everything with him,
+
+851
+00:42:05,349 --> 00:42:05,989
+you know, and.
+
+852
+00:42:06,809 --> 00:42:08,070
+It's a gift, Michael, isn't it?
+
+853
+00:42:08,190 --> 00:42:10,090
+The people that answer that they're a parent.
+
+854
+00:42:10,150 --> 00:42:10,550
+I was lucky.
+
+855
+00:42:10,550 --> 00:42:13,570
+They go there straight away and they feel that I feel exactly the same way.
+
+856
+00:42:13,570 --> 00:42:13,670
+Oh, that's good.
+
+857
+00:42:14,050 --> 00:42:16,889
+And lost my father in recent times as well,
+
+858
+00:42:16,969 --> 00:42:20,849
+but had a very similar relationship to that, you know.
+
+859
+00:42:20,889 --> 00:42:24,329
+Can I ask you a return question because I really admire the work
+
+860
+00:42:24,329 --> 00:42:26,769
+that you've been doing and that you are now doing.
+
+861
+00:42:26,869 --> 00:42:28,530
+I mean, you're current and you're doing this.
+
+862
+00:42:29,969 --> 00:42:32,110
+What's one of your favourite things to say?
+
+863
+00:42:32,250 --> 00:42:34,389
+Like, I mean, vaguely in answer to the question,
+
+864
+00:42:34,530 --> 00:42:37,449
+if you could teach a 10-year-old one thing about leadership.
+
+865
+00:42:38,190 --> 00:42:40,110
+But you don't have to answer that question.
+
+866
+00:42:40,190 --> 00:42:43,409
+But one of your, if you could just get one message across something
+
+867
+00:42:43,409 --> 00:42:44,949
+you've really learned as being.
+
+868
+00:42:45,369 --> 00:42:47,710
+Well, it's a great comment.
+
+869
+00:42:47,829 --> 00:42:50,449
+It's a lot easier asking the questions, Michael, than answering them.
+
+870
+00:42:50,550 --> 00:42:57,070
+But I think the idea that being able to self-reflect, being self-aware,
+
+871
+00:42:57,150 --> 00:42:58,809
+you don't have to get things right all the time.
+
+872
+00:42:58,869 --> 00:43:03,329
+But I think there is a common trait of people who I think live a lot more
+
+873
+00:43:03,329 --> 00:43:06,710
+full lives, that they are reflective and want to get better.
+
+874
+00:43:06,949 --> 00:43:07,110
+Mm-hmm.
+
+875
+00:43:07,110 --> 00:43:07,150
+Yeah.
+
+876
+00:43:07,150 --> 00:43:07,170
+Yeah.
+
+877
+00:43:07,170 --> 00:43:07,190
+Yeah.
+
+878
+00:43:07,190 --> 00:43:07,250
+Yeah.
+
+879
+00:43:07,250 --> 00:43:07,269
+Yeah.
+
+880
+00:43:07,269 --> 00:43:07,289
+Yeah.
+
+881
+00:43:07,289 --> 00:43:07,309
+Yeah.
+
+882
+00:43:07,309 --> 00:43:07,329
+Yeah.
+
+883
+00:43:07,329 --> 00:43:07,389
+Yeah.
+
+884
+00:43:07,389 --> 00:43:07,409
+Yeah.
+
+885
+00:43:07,409 --> 00:43:07,429
+Yeah.
+
+886
+00:43:07,429 --> 00:43:07,489
+Yeah.
+
+887
+00:43:07,489 --> 00:43:07,510
+Yeah.
+
+888
+00:43:07,510 --> 00:43:07,530
+Yeah.
+
+889
+00:43:07,530 --> 00:43:07,550
+Yeah.
+
+890
+00:43:07,550 --> 00:43:07,570
+Yeah.
+
+891
+00:43:07,570 --> 00:43:07,590
+Yeah.
+
+892
+00:43:07,590 --> 00:43:07,610
+Yeah.
+
+893
+00:43:07,610 --> 00:43:07,650
+Yeah.
+
+894
+00:43:07,650 --> 00:43:07,670
+Yeah.
+
+895
+00:43:07,670 --> 00:43:14,510
+Mm-hm.
+
+896
+00:43:18,989 --> 00:43:19,429
+Yeah.
+
+897
+00:43:19,429 --> 00:43:19,449
+Yeah.
+
+898
+00:43:19,449 --> 00:43:19,650
+Yeah.
+
+899
+00:43:19,650 --> 00:43:19,869
+Yeah.
+
+900
+00:43:23,929 --> 00:43:24,289
+Yeah.
+
+901
+00:43:24,289 --> 00:43:25,469
+Yeah.
+
+902
+00:43:25,769 --> 00:43:26,250
+Yeah.
+
+903
+00:43:31,550 --> 00:43:36,989
+And so that's the sort of community I'm passionate about creating,
+
+904
+00:43:36,989 --> 00:43:37,289
+really.
+
+905
+00:43:37,329 --> 00:43:37,650
+Yeah.
+
+906
+00:43:37,650 --> 00:43:41,750
+connecting with is that idea of your life experience so different
+
+907
+00:43:41,750 --> 00:43:45,849
+from mine, but there's a hundred things in preparation
+
+908
+00:43:45,849 --> 00:43:49,730
+for this that I'm reflecting on and what we want to create in the
+
+909
+00:43:49,730 --> 00:43:53,429
+leadership space and the people I want to connect with, that constant idea to learn would be what
+
+910
+00:43:53,429 --> 00:43:57,690
+I would hope to pass on. And learning a lot from people, I can see that
+
+911
+00:43:57,690 --> 00:44:00,789
+in you. It's that constant curiosity and learning.
+
+912
+00:44:01,309 --> 00:44:05,510
+And you're doing it. I mean, of course, having the media
+
+913
+00:44:05,510 --> 00:44:09,670
+is a terrific thing. I mean, the media is great, especially if you've got
+
+914
+00:44:09,670 --> 00:44:13,650
+something interesting to say, whereas not always is that the case. So what
+
+915
+00:44:13,650 --> 00:44:17,510
+you're doing, I mean. And I've worked in mainstream media where you don't get that, which is why
+
+916
+00:44:17,510 --> 00:44:21,670
+you're not all the time. You're sort of soundbite media. You're not really able
+
+917
+00:44:21,670 --> 00:44:25,650
+to, which is the beauty of where I think media is going, which is this format to sit down
+
+918
+00:44:25,650 --> 00:44:29,670
+with someone. Hopefully we're capturing unbelievable life stories
+
+919
+00:44:29,670 --> 00:44:33,710
+like yours and there's going to be life lessons out of it. The world of collaboration
+
+920
+00:44:33,710 --> 00:44:37,650
+is sort of part of what we're passionate about in the business I'm working
+
+921
+00:44:37,650 --> 00:44:41,530
+with my great friend, Matt Waterwitz in Alita. And we see
+
+922
+00:44:41,530 --> 00:44:45,690
+great collaboration and yours is so obvious. But if you look back now
+
+923
+00:44:45,690 --> 00:44:49,510
+and if you collaborate with anyone else, has there been anyone else in the world you could collaborate
+
+924
+00:44:49,510 --> 00:44:53,030
+with right now on any passion of your life? Is there a name that springs to mind?
+
+925
+00:44:54,150 --> 00:44:57,250
+Well, that's great. That's like getting a blank check.
+
+926
+00:44:59,210 --> 00:44:59,949
+There is
+
+927
+00:44:59,949 --> 00:45:05,019
+someone.
+
+928
+00:45:05,340 --> 00:45:06,500
+Whether I can remember or not.
+
+929
+00:45:09,699 --> 00:45:13,480
+Well, it's not, there's someone else but I can't
+
+930
+00:45:13,480 --> 00:45:17,179
+remember. But for example, I'll say Prince Charles. Now
+
+931
+00:45:17,179 --> 00:45:20,719
+a couple of reasons. Prince Charles obviously is
+
+932
+00:45:20,719 --> 00:45:25,320
+in his own version, but one of these. You know, they used to joke that he talked
+
+933
+00:45:25,320 --> 00:45:29,059
+to the flowers and all that. But actually when you look into what he does
+
+934
+00:45:29,059 --> 00:45:33,559
+he's very, he's curious, he's interested in different points of view. He's got an open mind.
+
+935
+00:45:34,360 --> 00:45:35,320
+And having been
+
+936
+00:45:35,340 --> 00:45:39,300
+Prince of Wales so long, he can have an opinion, which you won't be able to have
+
+937
+00:45:39,300 --> 00:45:42,980
+so easily when he becomes king. You'll see he'll change completely.
+
+938
+00:45:43,980 --> 00:45:47,300
+They're frightened that as a king he'll be, you know, he'll have his finger
+
+939
+00:45:47,300 --> 00:45:51,400
+in every pie. He won't. He knows the job. So as his father pointed
+
+940
+00:45:51,400 --> 00:45:55,320
+out, being Prince of Wales for so long, he's been able to, you know, build special
+
+941
+00:45:55,320 --> 00:45:59,380
+towns and have the Prince Charles trust and do all the various
+
+942
+00:45:59,380 --> 00:46:03,139
+things he does. So I've seen a lot of the work he does
+
+943
+00:46:03,139 --> 00:46:05,219
+and you just see, you know,
+
+944
+00:46:05,340 --> 00:46:09,320
+relate to a lot of it, not all of it, but a lot of it. But of course he's going to be the next
+
+945
+00:46:09,320 --> 00:46:13,340
+King of England. So somehow, you know, you are able to say
+
+946
+00:46:13,340 --> 00:46:17,280
+co-author a book or something. Apart from that, that would be a very interesting
+
+947
+00:46:17,280 --> 00:46:20,820
+thing to do. There's always the practical outcome. I mean,
+
+948
+00:46:21,260 --> 00:46:25,139
+that would draw a lot of attention to thinking
+
+949
+00:46:25,139 --> 00:46:29,300
+if one could do a book on, you know, lateral thinking with
+
+950
+00:46:29,300 --> 00:46:33,659
+Prince HRH, you know. HRH lateral thinking. I mean, he gets a bad run.
+
+951
+00:46:34,019 --> 00:46:35,300
+Yeah. Doesn't he? Really? He does.
+
+952
+00:46:35,340 --> 00:46:39,360
+No. Well, he gets a run in a way like the church does
+
+953
+00:46:39,360 --> 00:46:43,360
+that is less than what it really is, you know. So your understanding
+
+954
+00:46:43,360 --> 00:46:47,199
+is he's a good thinker. Well, you can focus on the quirky things,
+
+955
+00:46:47,619 --> 00:46:51,000
+but if that's all you focus on, then it's a bad run.
+
+956
+00:46:51,099 --> 00:46:52,780
+There's a lot of value there.
+
+957
+00:46:55,039 --> 00:46:59,500
+Well, in a Darwinian sense,
+
+958
+00:47:00,820 --> 00:47:05,320
+the Vatican, for example, I wanted to do a Netflix series on the Vatican.
+
+959
+00:47:05,340 --> 00:47:07,519
+And I've kind of written it up, you know. But
+
+960
+00:47:07,519 --> 00:47:13,360
+it's a human organization. It's the only one that's actually survived for
+
+961
+00:47:13,360 --> 00:47:17,039
+2,000 years. Now, whether Google will survive for 2,000 years
+
+962
+00:47:17,039 --> 00:47:21,300
+or Musk, what's his
+
+963
+00:47:21,300 --> 00:47:24,980
+company? Tesla. Tesla, yeah. Or Amazon. It's another matter.
+
+964
+00:47:25,420 --> 00:47:29,079
+It's no easy thing to do. And then the crown, of course. Well, number two
+
+965
+00:47:29,079 --> 00:47:33,079
+is the crown. 1,000 years. So it's like Coke and Pepsi.
+
+966
+00:47:33,079 --> 00:47:33,460
+Yeah.
+
+967
+00:47:35,340 --> 00:47:41,059
+If you're a scientist and a Darwinian thinker, you realize the enormous
+
+968
+00:47:41,059 --> 00:47:44,900
+value that must be there for that to happen. And so
+
+969
+00:47:44,900 --> 00:47:49,019
+if one starts to dig into that value, there's a lot there, regardless of
+
+970
+00:47:49,019 --> 00:47:52,820
+what, you know. Quirky things happen. The coverage is,
+
+971
+00:47:53,119 --> 00:47:56,820
+you know, and you're going to find terrible mistakes.
+
+972
+00:47:57,699 --> 00:48:00,840
+And you're going to find what there is to find, which is the highs
+
+973
+00:48:00,840 --> 00:48:03,699
+and lows. But you just don't, in any species,
+
+974
+00:48:05,340 --> 00:48:08,900
+get to survive in a Darwinian sense for thousands
+
+975
+00:48:08,900 --> 00:48:12,940
+of years unless there's enormous survival value there. And what is
+
+976
+00:48:12,940 --> 00:48:17,000
+that? And that's what I'm curious about. Well, that's a fascinating answer, isn't it?
+
+977
+00:48:17,000 --> 00:48:20,639
+Because, you know, your mind doesn't think of it in that way, that the Vatican is the oldest
+
+978
+00:48:20,639 --> 00:48:24,000
+living organization followed by the royal family.
+
+979
+00:48:24,619 --> 00:48:29,179
+And so they must do more than, you know, ride around on horses and, you know.
+
+980
+00:48:29,980 --> 00:48:32,539
+So, and of course, I mean, you know,
+
+981
+00:48:32,619 --> 00:48:35,260
+I'm not religious at the present.
+
+982
+00:48:35,460 --> 00:48:38,699
+Okay, so this is not me trying to promote religion, but
+
+983
+00:48:38,699 --> 00:48:42,099
+the Vatican has 230,000 schools.
+
+984
+00:48:43,340 --> 00:48:46,900
+Who's got that? Who's got 230,000 schools?
+
+985
+00:48:47,300 --> 00:48:51,320
+Imagine the teachers, the parents, the students. It has 5,000
+
+986
+00:48:51,320 --> 00:48:54,960
+hospitals. Who's got 5,000 hospitals? America?
+
+987
+00:48:55,920 --> 00:48:59,139
+Russia? It's got 10,000 old age times.
+
+988
+00:48:59,579 --> 00:49:03,179
+So just forget all of the dogma and all of that
+
+989
+00:49:03,179 --> 00:49:05,320
+and, you know, the fancy hats and so on.
+
+990
+00:49:05,340 --> 00:49:09,320
+Who's actually doing that? Not to mention the gratuitous
+
+991
+00:49:09,320 --> 00:49:13,159
+libraries and art and music and artifacts
+
+992
+00:49:13,159 --> 00:49:17,059
+that have been spread around the world by missionaries, today you'd call them
+
+993
+00:49:17,059 --> 00:49:21,400
+influencers, for 2,000 years. So when
+
+994
+00:49:21,400 --> 00:49:25,380
+you actually look at the value. And the land holdings outside
+
+995
+00:49:25,380 --> 00:49:29,159
+of all that. You go to Rome and, you know, there's a church on every corner,
+
+996
+00:49:29,260 --> 00:49:31,960
+one of which, if that was in Australia, it'd be the most amazing thing.
+
+997
+00:49:32,500 --> 00:49:35,320
+Let alone their own country with their own, you know, set of rules.
+
+998
+00:49:35,340 --> 00:49:39,219
+And the Vatican Observatory and science. I mean, the science
+
+999
+00:49:39,219 --> 00:49:42,800
+of the, I'm just starting a new school, which I haven't launched yet, called
+
+1000
+00:49:42,800 --> 00:49:47,420
+the School of Catholic Science Thinking. And I'm looking at like a Venn diagram
+
+1001
+00:49:47,420 --> 00:49:50,579
+if you looked at Catholic thinking, just 20 centuries.
+
+1002
+00:49:51,300 --> 00:49:54,559
+Science thinking, which is four centuries. The bit that overlaps.
+
+1003
+00:49:55,179 --> 00:49:58,780
+Now whether it's science that was created, usually the
+
+1004
+00:49:58,780 --> 00:50:02,760
+priests and that, but science that was created because they were Catholics
+
+1005
+00:50:02,760 --> 00:50:04,820
+or in spite of being Catholics.
+
+1006
+00:50:05,340 --> 00:50:08,980
+Or, you know, just the bit. And then you get these George
+
+1007
+00:50:08,980 --> 00:50:12,960
+Lemaitre's and Mendel, you know, and you get Galileo
+
+1008
+00:50:12,960 --> 00:50:16,199
+and you get a whole lot of others. And if you just look at that. In the cross over?
+
+1009
+00:50:16,539 --> 00:50:20,940
+Yeah, just in the part of Catholic science thinking. Which is not thinking about
+
+1010
+00:50:20,940 --> 00:50:24,000
+Catholic science, because there's no such thing. Science is science. But
+
+1011
+00:50:24,000 --> 00:50:29,159
+to the extent that Catholic education has created valuable
+
+1012
+00:50:29,159 --> 00:50:33,099
+science. You know, it's up there with the schools and the
+
+1013
+00:50:33,099 --> 00:50:34,440
+hospitals and so on. So
+
+1014
+00:50:35,340 --> 00:50:40,099
+I just encourage people to go a little bit more than just, you know, throwing stones,
+
+1015
+00:50:40,099 --> 00:50:41,719
+because there's a lot of value there.
+
+1016
+00:50:41,840 --> 00:50:45,860
+It's a brilliant way to understand the school of thinking. It's a brilliant way to understand
+
+1017
+00:50:45,860 --> 00:50:49,880
+the curiosity of your mind. It's a brilliant way to think outside the square. And an incredible
+
+1018
+00:50:49,880 --> 00:50:53,039
+note to finish on. I could sit here all afternoon, Michael, and
+
+1019
+00:50:53,039 --> 00:50:54,199
+I'll get off my soapbox now.
+
+1020
+00:50:54,199 --> 00:50:58,699
+You've got story after story. It's a remarkable life. The schoolofthinking.org, really go
+
+1021
+00:50:58,699 --> 00:51:03,000
+and check it out. There's so many great tools available for free. Most of them, you can
+
+1022
+00:51:03,000 --> 00:51:04,219
+download the books for free.
+
+1023
+00:51:04,219 --> 00:51:08,539
+The one I've got in my hand now, The Fourth Brain, alongside all of Michael's other
+
+1024
+00:51:08,539 --> 00:51:12,539
+incredible books. But that is a nine-minute bit of genius that you can pass on, which
+
+1025
+00:51:12,539 --> 00:51:17,059
+I plan to do. Really, it's been a great pleasure to meet you. Thank you for your time.
+
+1026
+00:51:17,260 --> 00:51:21,619
+Thanks, Luke. This has been a lot of fun. Great questions, too. I usually don't get
+
+1027
+00:51:21,619 --> 00:51:22,500
+really good questions.
+
+1028
+00:51:22,860 --> 00:51:24,019
+Well, I appreciate that.
+
+1029
+00:51:24,400 --> 00:51:28,159
+It's been lovely having the time, too, instead of like three or four, five minutes to really
+
+1030
+00:51:28,159 --> 00:51:30,639
+learn from each other. It's really, really loved it.
+
+1031
+00:51:30,639 --> 00:51:34,199
+I'm driving everyone mad in my house with X10 thinking, and I'll continue.
+
+1032
+00:51:34,219 --> 00:51:38,539
+Continue to do so. Go to schoolofthinking.org, Michael Hewitt Gleeson on the Empowering Leaders
+
+1033
+00:51:38,539 --> 00:51:39,380
+podcast. Thanks again.
+
+1034
+00:51:42,469 --> 00:51:46,550
+Empowering Leaders was presented by me, Luke Darcy, produced by Matt Dwyer, with audio
+
+1035
+00:51:46,550 --> 00:51:51,190
+production by Darcy Thompson. To start your leadership journey, I encourage you to go
+
+1036
+00:51:51,190 --> 00:51:55,489
+to elitacollective.com, take our Empowering Leaders Indicator Tool, and understand the
+
+1037
+00:51:55,489 --> 00:52:00,449
+impact you have on your environment. Join us at Elita to learn, lead, and collaborate.
+
