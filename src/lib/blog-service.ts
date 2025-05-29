@@ -4,9 +4,18 @@ import matter from 'gray-matter'
 import { remark } from 'remark'
 import html from 'remark-html'
 
+interface StorageFileObject {
+  name: string
+  id?: string
+  updated_at?: string
+  created_at?: string
+  last_accessed_at?: string
+  metadata?: Record<string, unknown>
+}
+
 export class BlogService {
   private static instance: BlogService
-  private cache: Map<string, any> = new Map()
+  private cache: Map<string, unknown> = new Map()
   private cacheExpiry: Map<string, number> = new Map()
   private readonly CACHE_DURATION = 5 * 60 * 1000 // 5 minutes
 
@@ -22,12 +31,12 @@ export class BlogService {
     return expiry ? Date.now() < expiry : false
   }
 
-  private setCache(key: string, value: any): void {
+  private setCache(key: string, value: unknown): void {
     this.cache.set(key, value)
     this.cacheExpiry.set(key, Date.now() + this.CACHE_DURATION)
   }
 
-  private getCache(key: string): any {
+  private getCache(key: string): unknown {
     if (this.isCacheValid(key)) {
       return this.cache.get(key)
     }
@@ -39,7 +48,7 @@ export class BlogService {
   async getAllFiles(): Promise<string[]> {
     const cacheKey = 'all-files'
     const cached = this.getCache(cacheKey)
-    if (cached) return cached
+    if (cached) return cached as string[]
 
     try {
       const { data, error } = await supabaseStorage.storage
@@ -54,7 +63,7 @@ export class BlogService {
       const files: string[] = []
       
       // Get all podcast directories
-      const podcastDirs = data?.filter((item: any) => item.name && !item.name.includes('.')) || []
+      const podcastDirs = data?.filter((item: StorageFileObject) => item.name && !item.name.includes('.')) || []
       
       for (const dir of podcastDirs) {
         const { data: episodeFiles, error: episodeError } = await supabaseStorage.storage
@@ -69,8 +78,8 @@ export class BlogService {
           continue
         }
 
-        const markdownFiles = episodeFiles?.filter((file: any) => file.name.endsWith('.md')) || []
-        files.push(...markdownFiles.map((file: any) => `${dir.name}/${file.name}`))
+        const markdownFiles = episodeFiles?.filter((file: StorageFileObject) => file.name.endsWith('.md')) || []
+        files.push(...markdownFiles.map((file: StorageFileObject) => `${dir.name}/${file.name}`))
       }
 
       this.setCache(cacheKey, files)
@@ -84,7 +93,7 @@ export class BlogService {
   async getFileContent(filePath: string): Promise<string | null> {
     const cacheKey = `file-${filePath}`
     const cached = this.getCache(cacheKey)
-    if (cached) return cached
+    if (cached) return cached as string
 
     try {
       const { data, error } = await supabaseStorage.storage
@@ -149,7 +158,7 @@ export class BlogService {
   async getEpisode(podcastSlug: string, episodeSlug: string): Promise<PodcastEpisode | null> {
     const cacheKey = `episode-${podcastSlug}-${episodeSlug}`
     const cached = this.getCache(cacheKey)
-    if (cached) return cached
+    if (cached) return cached as PodcastEpisode
 
     try {
       const files = await this.getAllFiles()
@@ -198,7 +207,7 @@ export class BlogService {
   async getAllPodcastsLight(): Promise<Podcast[]> {
     const cacheKey = 'all-podcasts-light'
     const cached = this.getCache(cacheKey)
-    if (cached) return cached
+    if (cached) return cached as Podcast[]
 
     try {
       console.log('Fetching podcast directories...')
@@ -211,14 +220,12 @@ export class BlogService {
 
       if (error) throw error
 
-      const podcasts: Podcast[] = []
-      
       // Get all podcast directories
-      const podcastDirs = data?.filter((item: any) => item.name && !item.name.includes('.')) || []
+      const podcastDirs = data?.filter((item: StorageFileObject) => item.name && !item.name.includes('.')) || []
       console.log(`Found ${podcastDirs.length} podcast directories`)
       
       // Fetch episode counts in parallel for better performance
-      const podcastPromises = podcastDirs.map(async (dir: any) => {
+      const podcastPromises = podcastDirs.map(async (dir: StorageFileObject) => {
         try {
           const { data: episodeFiles, error: episodeError } = await supabaseStorage.storage
             .from('transcripts')
@@ -232,7 +239,7 @@ export class BlogService {
             return null
           }
 
-          const markdownFiles = episodeFiles?.filter((file: any) => file.name.endsWith('.md')) || []
+          const markdownFiles = episodeFiles?.filter((file: StorageFileObject) => file.name.endsWith('.md')) || []
           
           // Create podcast without processing individual episodes
           return {
@@ -264,7 +271,7 @@ export class BlogService {
   async getAllPodcasts(): Promise<Podcast[]> {
     const cacheKey = 'all-podcasts'
     const cached = this.getCache(cacheKey)
-    if (cached) return cached
+    if (cached) return cached as Podcast[]
 
     try {
       const files = await this.getAllFiles()
@@ -284,7 +291,7 @@ export class BlogService {
         }
       }
 
-      const podcasts: Podcast[] = Array.from(podcastMap.entries()).map(([slug, episodes]) => {
+      const validPodcasts: Podcast[] = Array.from(podcastMap.entries()).map(([slug, episodes]) => {
         const sortedEpisodes = episodes.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
         
         return {
@@ -297,8 +304,8 @@ export class BlogService {
         }
       })
 
-      this.setCache(cacheKey, podcasts)
-      return podcasts
+      this.setCache(cacheKey, validPodcasts)
+      return validPodcasts
     } catch (error) {
       console.error('Error getting all podcasts:', error)
       return []
@@ -308,7 +315,7 @@ export class BlogService {
   async getPodcast(podcastSlug: string): Promise<Podcast | null> {
     const cacheKey = `podcast-${podcastSlug}`
     const cached = this.getCache(cacheKey)
-    if (cached) return cached
+    if (cached) return cached as Podcast
 
     try {
       // First try the light approach - just get the podcast metadata
@@ -338,7 +345,7 @@ export class BlogService {
           'straight-talk-with-mark-bouris'
         ]
         
-        let episodeData = null
+        let episodeData: StorageFileObject[] | null = null
         let actualDirName = ''
         
         // Try each possible directory name
@@ -365,13 +372,13 @@ export class BlogService {
           throw new Error(`No episodes found for ${podcastSlug}`)
         }
 
-        const markdownFiles = episodeData.filter((file: any) => file.name.endsWith('.md'))
+        const markdownFiles = episodeData.filter((file: StorageFileObject) => file.name.endsWith('.md'))
         
         // Create lightweight episodes - NO content downloading!
         const episodes: PodcastEpisode[] = []
         const seenEpisodeSlugs = new Set<string>() // Track unique episode slugs
         
-        markdownFiles.forEach((file: any, index: number) => {
+        markdownFiles.forEach((file: StorageFileObject) => {
           const episodeTitle = file.name.replace('.md', '')
           const episodeSlug = this.createSlug(episodeTitle)
           

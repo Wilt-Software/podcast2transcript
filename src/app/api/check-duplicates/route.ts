@@ -1,6 +1,23 @@
 import { NextResponse } from 'next/server'
 import { supabaseStorage } from '@/lib/supabase'
 
+interface FileObject {
+  name: string
+  updated_at?: string
+}
+
+interface DuplicateInfo {
+  slug: string
+  title: string
+  filename: string
+}
+
+interface DuplicateGroup {
+  slug: string
+  count: number
+  files: string[]
+}
+
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url)
@@ -17,7 +34,7 @@ export async function GET(request: Request) {
 
     if (error) throw error
 
-    const markdownFiles = data?.filter((file: any) => file.name.endsWith('.md')) || []
+    const markdownFiles = data?.filter((file: FileObject) => file.name.endsWith('.md')) || []
     
     // Create slug function (same as in blog service)
     const createSlug = (text: string): string => {
@@ -31,9 +48,9 @@ export async function GET(request: Request) {
     
     const slugCounts = new Map<string, string[]>()
     const seenSlugs = new Set<string>()
-    const duplicates: any[] = []
+    const duplicates: DuplicateInfo[] = []
     
-    markdownFiles.forEach((file: any) => {
+    markdownFiles.forEach((file: FileObject) => {
       const episodeTitle = file.name.replace('.md', '')
       const episodeSlug = createSlug(episodeTitle)
       
@@ -52,8 +69,8 @@ export async function GET(request: Request) {
       seenSlugs.add(episodeSlug)
     })
     
-    const duplicateGroups = Array.from(slugCounts.entries())
-      .filter(([slug, files]) => files.length > 1)
+    const duplicateGroups: DuplicateGroup[] = Array.from(slugCounts.entries())
+      .filter(([, files]) => files.length > 1)
       .map(([slug, files]) => ({
         slug,
         count: files.length,

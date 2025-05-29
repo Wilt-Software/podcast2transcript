@@ -8,10 +8,10 @@ import Breadcrumbs from '@/components/ui/Breadcrumbs'
 import { formatDistanceToNow } from 'date-fns'
 
 interface EpisodePageProps {
-  params: {
+  params: Promise<{
     podcast: string
     episode: string
-  }
+  }>
 }
 
 export async function generateMetadata({ params }: EpisodePageProps): Promise<Metadata> {
@@ -170,7 +170,7 @@ export default async function EpisodePage({ params }: EpisodePageProps) {
                 Get the same AI-powered transcription service used to create this transcript. 
                 Fast, accurate, and affordable.
               </p>
-              <a
+              <Link
                 href="/"
                 className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-semibold rounded-lg hover:from-indigo-700 hover:to-purple-700 transition-all duration-200 transform hover:scale-105"
               >
@@ -178,7 +178,7 @@ export default async function EpisodePage({ params }: EpisodePageProps) {
                 <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
-              </a>
+              </Link>
             </div>
           </div>
         </div>

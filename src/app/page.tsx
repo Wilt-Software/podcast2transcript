@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
 
 export default function Home() {
   const [isDragOver, setIsDragOver] = useState(false);
@@ -46,12 +47,12 @@ export default function Home() {
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-8">
-                <a 
+                <Link 
                   href="/blog"
                   className="text-glass-nav hover:text-gray-600 transition-colors duration-200"
                 >
                   Blog
-                </a>
+                </Link>
                 <button 
                   onClick={() => scrollToSection('features')} 
                   className="text-glass-nav hover:text-gray-600 transition-colors duration-200 cursor-pointer"

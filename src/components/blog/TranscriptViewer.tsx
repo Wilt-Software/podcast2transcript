@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { PodcastEpisode, TimestampEntry } from '@/types/blog'
+import { PodcastEpisode } from '@/types/blog'
 import { formatDuration } from '@/lib/seo'
 
 interface TranscriptViewerProps {

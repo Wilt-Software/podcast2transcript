@@ -3,6 +3,7 @@ import { BlogService } from '@/lib/blog-service'
 import { generateBlogIndexMetaTags } from '@/lib/seo'
 import PodcastCard from '@/components/blog/PodcastCard'
 import Breadcrumbs from '@/components/ui/Breadcrumbs'
+import Link from 'next/link'
 
 export async function generateMetadata(): Promise<Metadata> {
   const metaTags = generateBlogIndexMetaTags()
@@ -78,7 +79,7 @@ export default async function BlogPage() {
                 No podcasts found
               </h3>
               <p className="text-glass-secondary">
-                We're working on adding more podcast transcripts. Check back soon!
+                We&apos;re working on adding more podcast transcripts. Check back soon!
               </p>
             </div>
           </div>
@@ -100,7 +101,7 @@ export default async function BlogPage() {
               Get lightning-fast, AI-powered transcription for your podcast episodes. 
               Upload your audio and get accurate transcripts with timestamps in minutes.
             </p>
-            <a
+            <Link
               href="/"
               className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-semibold rounded-lg hover:from-indigo-700 hover:to-purple-700 transition-all duration-200 transform hover:scale-105"
             >
@@ -108,7 +109,7 @@ export default async function BlogPage() {
               <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

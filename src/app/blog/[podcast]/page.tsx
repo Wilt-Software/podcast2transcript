@@ -5,11 +5,12 @@ import { generatePodcastMetaTags, generatePodcastStructuredData, generateBreadcr
 import EpisodeCard from '@/components/blog/EpisodeCard'
 import Breadcrumbs from '@/components/ui/Breadcrumbs'
 import { formatDistanceToNow } from 'date-fns'
+import Link from 'next/link'
 
 interface PodcastPageProps {
-  params: {
+  params: Promise<{
     podcast: string
-  }
+  }>
 }
 
 export async function generateMetadata({ params }: PodcastPageProps): Promise<Metadata> {
@@ -113,7 +114,7 @@ export default async function PodcastPage({ params }: PodcastPageProps) {
                   No episodes found
                 </h3>
                 <p className="text-glass-secondary">
-                  We're working on adding more episodes for this podcast. Check back soon!
+                  We&apos;re working on adding more episodes for this podcast. Check back soon!
                 </p>
               </div>
             </div>
@@ -146,7 +147,7 @@ export default async function PodcastPage({ params }: PodcastPageProps) {
               <p className="text-glass-secondary mb-6">
                 Discover transcripts from other podcasts in our growing collection.
               </p>
-              <a
+              <Link
                 href="/blog"
                 className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-semibold rounded-lg hover:from-indigo-700 hover:to-purple-700 transition-all duration-200 transform hover:scale-105"
               >
@@ -154,7 +155,7 @@ export default async function PodcastPage({ params }: PodcastPageProps) {
                 <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
-              </a>
+              </Link>
             </div>
           </div>
         </div>
