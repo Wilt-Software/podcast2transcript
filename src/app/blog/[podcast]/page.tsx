@@ -131,8 +131,11 @@ export default async function PodcastPage({ params }: PodcastPageProps) {
               </div>
               
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {podcast.episodes.map((episode) => (
-                  <EpisodeCard key={episode.id} episode={episode} />
+                {podcast.episodes.map((episode, index) => (
+                  <EpisodeCard 
+                    key={`${podcast.slug}-${episode.slug}-${index}`} 
+                    episode={episode} 
+                  />
                 ))}
               </div>
             </>

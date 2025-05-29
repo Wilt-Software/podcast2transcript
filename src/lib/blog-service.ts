@@ -1,16 +1,34 @@
-import { supabaseStorage } from './supabase'
+import { supabaseAdmin, supabaseStorage } from './supabase'
 import { PodcastEpisode, Podcast, TimestampEntry } from '@/types/blog'
 import matter from 'gray-matter'
 import { remark } from 'remark'
 import html from 'remark-html'
 
-interface StorageFileObject {
-  name: string
-  id?: string
-  updated_at?: string
-  created_at?: string
-  last_accessed_at?: string
-  metadata?: Record<string, unknown>
+/**
+ * Blog Service - Podcast Episode Management
+ * 
+ * IMPORTANT: This service uses a unified slug creation system that matches:
+ * - populate_episodes.py (for database population)
+ * - upload_to_supabase.py (for file uploads)
+ * 
+ * Any changes to slug creation must be synchronized across all three systems
+ * to ensure consistent URLs and file paths.
+ */
+
+// Database episode interface matching your schema
+interface DatabaseEpisode {
+  id: number
+  podcast_name: string
+  episode_title: string
+  file_path: string
+  slug: string
+  podcast_slug: string
+  file_size: number
+  created_at: string
+  updated_at: string
+  content_preview: string | null
+  word_count: number
+  duration_estimate: number
 }
 
 export class BlogService {
@@ -45,51 +63,277 @@ export class BlogService {
     return null
   }
 
-  async getAllFiles(): Promise<string[]> {
-    const cacheKey = 'all-files'
+  /**
+   * 🚀 SUPER FAST: Get all episodes from database (~50ms vs 1,600ms)
+   */
+  async getAllEpisodesFromDB(): Promise<DatabaseEpisode[]> {
+    const cacheKey = 'all-episodes-db'
     const cached = this.getCache(cacheKey)
-    if (cached) return cached as string[]
+    if (cached) return cached as DatabaseEpisode[]
 
     try {
-      const { data, error } = await supabaseStorage.storage
-        .from('transcripts')
-        .list('', {
-          limit: 1000,
-          offset: 0,
-        })
+      console.log('🗄️ Fetching episodes from database...')
+      const startTime = Date.now()
+      
+      const { data, error } = await supabaseAdmin
+        .from('episodes')
+        .select('*')
+        .order('created_at', { ascending: false })
 
       if (error) throw error
 
-      const files: string[] = []
-      
-      // Get all podcast directories
-      const podcastDirs = data?.filter((item: StorageFileObject) => item.name && !item.name.includes('.')) || []
-      
-      for (const dir of podcastDirs) {
-        const { data: episodeFiles, error: episodeError } = await supabaseStorage.storage
-          .from('transcripts')
-          .list(dir.name, {
-            limit: 1000,
-            offset: 0,
-          })
-
-        if (episodeError) {
-          console.error(`Error fetching episodes for ${dir.name}:`, episodeError)
-          continue
+      // Remove duplicates based on unique key (podcast_slug + slug) to prevent React key conflicts
+      const uniqueEpisodes = new Map<string, any>()
+      data?.forEach(dbEpisode => {
+        const uniqueKey = `${dbEpisode.podcast_slug}-${dbEpisode.slug}`
+        if (!uniqueEpisodes.has(uniqueKey)) {
+          uniqueEpisodes.set(uniqueKey, dbEpisode)
+        } else {
+          console.warn(`🔄 Duplicate episode detected: ${uniqueKey} - skipping duplicate`)
         }
+      })
 
-        const markdownFiles = episodeFiles?.filter((file: StorageFileObject) => file.name.endsWith('.md')) || []
-        files.push(...markdownFiles.map((file: StorageFileObject) => `${dir.name}/${file.name}`))
-      }
+      const deduplicatedData = Array.from(uniqueEpisodes.values())
 
-      this.setCache(cacheKey, files)
-      return files
+      const duration = Date.now() - startTime
+      console.log(`✅ Database query completed in ${duration}ms (${deduplicatedData.length} unique episodes)`)
+      
+      this.setCache(cacheKey, deduplicatedData)
+      return deduplicatedData
     } catch (error) {
-      console.error('Error fetching files:', error)
+      console.error('❌ Error fetching episodes from database:', error)
       return []
     }
   }
 
+  /**
+   * 🚀 SUPER FAST: Get podcasts from database (~10ms vs 1,600ms)
+   */
+  async getAllPodcastsFromDB(): Promise<Podcast[]> {
+    const cacheKey = 'all-podcasts-db'
+    const cached = this.getCache(cacheKey)
+    if (cached) return cached as Podcast[]
+
+    try {
+      console.log('📊 Aggregating podcasts from database...')
+      const startTime = Date.now()
+      
+      // Get aggregated podcast data
+      const { data, error } = await supabaseAdmin
+        .from('episodes')
+        .select(`
+          podcast_name,
+          podcast_slug,
+          created_at,
+          file_size
+        `)
+
+      if (error) throw error
+
+      // Group by podcast
+      const podcastMap = new Map<string, {
+        name: string
+        slug: string
+        episodeCount: number
+        totalSize: number
+        latestEpisode: Date
+      }>()
+
+      data?.forEach(episode => {
+        const slug = episode.podcast_slug
+        const existing = podcastMap.get(slug)
+        
+        if (existing) {
+          existing.episodeCount++
+          existing.totalSize += episode.file_size || 0
+          const episodeDate = new Date(episode.created_at)
+          if (episodeDate > existing.latestEpisode) {
+            existing.latestEpisode = episodeDate
+          }
+        } else {
+          podcastMap.set(slug, {
+            name: episode.podcast_name,
+            slug: episode.podcast_slug,
+            episodeCount: 1,
+            totalSize: episode.file_size || 0,
+            latestEpisode: new Date(episode.created_at)
+          })
+        }
+      })
+
+      const podcasts: Podcast[] = Array.from(podcastMap.values()).map(p => ({
+        name: p.name,
+        slug: p.slug,
+        episodes: [], // Will be loaded on-demand
+        episodeCount: p.episodeCount,
+        latestEpisode: p.latestEpisode,
+        description: `Browse ${p.episodeCount} episode transcripts from ${p.name}`
+      }))
+
+      const duration = Date.now() - startTime
+      console.log(`✅ Podcast aggregation completed in ${duration}ms (${podcasts.length} podcasts)`)
+      
+      this.setCache(cacheKey, podcasts)
+      return podcasts
+    } catch (error) {
+      console.error('❌ Error fetching podcasts from database:', error)
+      return []
+    }
+  }
+
+  /**
+   * 🚀 SUPER FAST: Get single podcast with episodes from database (~30ms vs 1,600ms)
+   */
+  async getPodcastFromDB(podcastSlug: string): Promise<Podcast | null> {
+    const cacheKey = `podcast-db-${podcastSlug}`
+    const cached = this.getCache(cacheKey)
+    if (cached) return cached as Podcast
+
+    try {
+      console.log(`🎙️ Fetching podcast ${podcastSlug} from database...`)
+      const startTime = Date.now()
+      
+      const { data, error } = await supabaseAdmin
+        .from('episodes')
+        .select('*')
+        .eq('podcast_slug', podcastSlug)
+        .order('created_at', { ascending: false })
+
+      if (error) throw error
+      if (!data || data.length === 0) return null
+
+      // Remove duplicates based on slug to prevent React key conflicts
+      const uniqueEpisodes = new Map<string, any>()
+      data.forEach(dbEpisode => {
+        if (!uniqueEpisodes.has(dbEpisode.slug)) {
+          uniqueEpisodes.set(dbEpisode.slug, dbEpisode)
+        } else {
+          console.warn(`🔄 Duplicate episode slug detected: ${dbEpisode.slug} - skipping duplicate`)
+        }
+      })
+
+      // Convert database episodes to PodcastEpisode format
+      const episodes: PodcastEpisode[] = Array.from(uniqueEpisodes.values()).map(dbEpisode => ({
+        id: `${dbEpisode.podcast_slug}-${dbEpisode.slug}`,
+        title: dbEpisode.episode_title,
+        podcastName: dbEpisode.podcast_name,
+        slug: dbEpisode.slug,
+        podcastSlug: dbEpisode.podcast_slug,
+        content: '', // Will be loaded on-demand
+        rawContent: '',
+        timestamps: [], // Will be loaded on-demand
+        duration: dbEpisode.duration_estimate > 0 ? `${Math.floor(dbEpisode.duration_estimate / 60)}:${(dbEpisode.duration_estimate % 60).toString().padStart(2, '0')}` : undefined,
+        publishedAt: new Date(dbEpisode.created_at),
+        description: dbEpisode.content_preview || `Episode transcript for ${dbEpisode.episode_title}`,
+        keywords: [],
+        filePath: dbEpisode.file_path
+      }))
+
+      const podcast: Podcast = {
+        name: data[0].podcast_name,
+        slug: podcastSlug,
+        episodes,
+        episodeCount: episodes.length,
+        latestEpisode: episodes[0]?.publishedAt || new Date(),
+        description: `Browse ${episodes.length} episode transcripts from ${data[0].podcast_name}`
+      }
+
+      const duration = Date.now() - startTime
+      console.log(`✅ Podcast query completed in ${duration}ms (${episodes.length} unique episodes)`)
+      
+      this.setCache(cacheKey, podcast)
+      return podcast
+    } catch (error) {
+      console.error(`❌ Error fetching podcast ${podcastSlug} from database:`, error)
+      return null
+    }
+  }
+
+  /**
+   * 🚀 SUPER FAST: Get single episode from database (~20ms vs 1,600ms)
+   */
+  async getEpisodeFromDB(podcastSlug: string, episodeSlug: string): Promise<PodcastEpisode | null> {
+    const cacheKey = `episode-db-${podcastSlug}-${episodeSlug}`
+    const cached = this.getCache(cacheKey)
+    if (cached) return cached as PodcastEpisode
+
+    try {
+      console.log(`📄 Fetching episode ${episodeSlug} from database...`)
+      const startTime = Date.now()
+      
+      const { data, error } = await supabaseAdmin
+        .from('episodes')
+        .select('*')
+        .eq('podcast_slug', podcastSlug)
+        .eq('slug', episodeSlug)
+        .single()
+
+      if (error) throw error
+      if (!data) return null
+
+      const duration = Date.now() - startTime
+      console.log(`✅ Episode metadata query completed in ${duration}ms`)
+
+      // Now download the actual content (this is the remaining ~870ms)
+      const content = await this.getFileContent(data.file_path)
+      if (!content) return null
+
+      const { data: frontmatter, content: markdownContent } = matter(content)
+      const timestamps = this.parseTimestamps(markdownContent)
+      const processedContent = await this.processMarkdownContent(markdownContent)
+
+      const episode: PodcastEpisode = {
+        id: `${data.podcast_slug}-${data.slug}`,
+        title: data.episode_title,
+        podcastName: data.podcast_name,
+        slug: data.slug,
+        podcastSlug: data.podcast_slug,
+        content: processedContent,
+        rawContent: markdownContent,
+        timestamps,
+        duration: frontmatter.duration || (data.duration_estimate > 0 ? `${Math.floor(data.duration_estimate / 60)}:${(data.duration_estimate % 60).toString().padStart(2, '0')}` : undefined),
+        publishedAt: new Date(data.created_at),
+        description: frontmatter.description || data.content_preview || this.generateDescription(markdownContent),
+        keywords: frontmatter.keywords || this.extractKeywords(markdownContent),
+        filePath: data.file_path
+      }
+
+      this.setCache(cacheKey, episode)
+      return episode
+    } catch (error) {
+      console.error(`❌ Error fetching episode ${podcastSlug}/${episodeSlug} from database:`, error)
+      return null
+    }
+  }
+
+  // 🔄 LEGACY FALLBACK METHODS (for backward compatibility)
+  async getAllFiles(): Promise<string[]> {
+    console.log('⚠️ Using legacy getAllFiles - consider migrating to database methods')
+    const episodes = await this.getAllEpisodesFromDB()
+    return episodes.map(ep => ep.file_path)
+  }
+
+  async getAllPodcastsLight(): Promise<Podcast[]> {
+    console.log('🚀 Redirecting to fast database method...')
+    return this.getAllPodcastsFromDB()
+  }
+
+  async getAllPodcasts(): Promise<Podcast[]> {
+    console.log('🚀 Redirecting to fast database method...')
+    return this.getAllPodcastsFromDB()
+  }
+
+  async getPodcast(podcastSlug: string): Promise<Podcast | null> {
+    console.log('🚀 Redirecting to fast database method...')
+    return this.getPodcastFromDB(podcastSlug)
+  }
+
+  async getEpisode(podcastSlug: string, episodeSlug: string): Promise<PodcastEpisode | null> {
+    console.log('🚀 Redirecting to fast database method...')
+    return this.getEpisodeFromDB(podcastSlug, episodeSlug)
+  }
+
+  // 🗂️ STORAGE HELPER METHODS (unchanged)
   async getFileContent(filePath: string): Promise<string | null> {
     const cacheKey = `file-${filePath}`
     const cached = this.getCache(cacheKey)
@@ -139,12 +383,36 @@ export class BlogService {
   }
 
   private createSlug(text: string): string {
-    return text
-      .toLowerCase()
-      .replace(/[^a-z0-9\s-]/g, '')
-      .replace(/\s+/g, '-')
-      .replace(/-+/g, '-')
-      .trim()
+    // Unified slug creation function - matches populate_episodes.py and upload_to_supabase.py
+    let slug = text.toLowerCase()
+    
+    // Replace smart quotes and special punctuation
+    slug = slug.replace(/'/g, "'")    // Replace smart quotes
+    slug = slug.replace(/'/g, "'")
+    slug = slug.replace(/"/g, '"')
+    slug = slug.replace(/"/g, '"')
+    slug = slug.replace(/–/g, '-')    // Replace en dash
+    slug = slug.replace(/—/g, '-')    // Replace em dash
+    slug = slug.replace(/…/g, '...')  // Replace ellipsis with three dots
+    
+    // Remove all punctuation except hyphens and dots, keep alphanumeric and spaces
+    slug = slug.replace(/[^\w\s.-]/g, '')
+    
+    // Replace multiple spaces and dots with single hyphen
+    slug = slug.replace(/[\s.]+/g, '-')
+    
+    // Replace multiple hyphens with single hyphen
+    slug = slug.replace(/-+/g, '-')
+    
+    // Remove leading/trailing hyphens
+    slug = slug.replace(/^-+|-+$/g, '')
+    
+    // Limit length to avoid extremely long URLs
+    if (slug.length > 100) {
+      slug = slug.substring(0, 100).replace(/-+$/, '')
+    }
+    
+    return slug
   }
 
   private async processMarkdownContent(content: string): Promise<string> {
@@ -153,301 +421,6 @@ export class BlogService {
     
     const result = await processedMarkdown.process(content)
     return result.toString()
-  }
-
-  async getEpisode(podcastSlug: string, episodeSlug: string): Promise<PodcastEpisode | null> {
-    const cacheKey = `episode-${podcastSlug}-${episodeSlug}`
-    const cached = this.getCache(cacheKey)
-    if (cached) return cached as PodcastEpisode
-
-    try {
-      const files = await this.getAllFiles()
-      const targetFile = files.find(file => {
-        const [podcast, episode] = file.split('/')
-        return this.createSlug(podcast) === podcastSlug && 
-               this.createSlug(episode.replace('.md', '')) === episodeSlug
-      })
-
-      if (!targetFile) return null
-
-      const content = await this.getFileContent(targetFile)
-      if (!content) return null
-
-      const { data: frontmatter, content: markdownContent } = matter(content)
-      const [podcastName, episodeFileName] = targetFile.split('/')
-      const episodeTitle = episodeFileName.replace('.md', '')
-
-      const timestamps = this.parseTimestamps(markdownContent)
-      const processedContent = await this.processMarkdownContent(markdownContent)
-
-      const episode: PodcastEpisode = {
-        id: `${podcastSlug}-${episodeSlug}`,
-        title: frontmatter.title || episodeTitle,
-        podcastName: frontmatter.podcastName || podcastName,
-        slug: episodeSlug,
-        podcastSlug,
-        content: processedContent,
-        rawContent: markdownContent,
-        timestamps,
-        duration: frontmatter.duration,
-        publishedAt: frontmatter.publishedAt ? new Date(frontmatter.publishedAt) : new Date(),
-        description: frontmatter.description || this.generateDescription(markdownContent),
-        keywords: frontmatter.keywords || this.extractKeywords(markdownContent),
-        filePath: targetFile
-      }
-
-      this.setCache(cacheKey, episode)
-      return episode
-    } catch (error) {
-      console.error(`Error getting episode ${podcastSlug}/${episodeSlug}:`, error)
-      return null
-    }
-  }
-
-  async getAllPodcastsLight(): Promise<Podcast[]> {
-    const cacheKey = 'all-podcasts-light'
-    const cached = this.getCache(cacheKey)
-    if (cached) return cached as Podcast[]
-
-    try {
-      console.log('Fetching podcast directories...')
-      const { data, error } = await supabaseStorage.storage
-        .from('transcripts')
-        .list('', {
-          limit: 1000,
-          offset: 0,
-        })
-
-      if (error) throw error
-
-      // Get all podcast directories
-      const podcastDirs = data?.filter((item: StorageFileObject) => item.name && !item.name.includes('.')) || []
-      console.log(`Found ${podcastDirs.length} podcast directories`)
-      
-      // Fetch episode counts in parallel for better performance
-      const podcastPromises = podcastDirs.map(async (dir: StorageFileObject) => {
-        try {
-          const { data: episodeFiles, error: episodeError } = await supabaseStorage.storage
-            .from('transcripts')
-            .list(dir.name, {
-              limit: 1000,
-              offset: 0,
-            })
-
-          if (episodeError) {
-            console.error(`Error fetching episodes for ${dir.name}:`, episodeError)
-            return null
-          }
-
-          const markdownFiles = episodeFiles?.filter((file: StorageFileObject) => file.name.endsWith('.md')) || []
-          
-          // Create podcast without processing individual episodes
-          return {
-            name: dir.name.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase()),
-            slug: this.createSlug(dir.name),
-            episodes: [], // Empty for light version
-            episodeCount: markdownFiles.length,
-            description: `Browse ${markdownFiles.length} episode transcripts from ${dir.name.replace(/-/g, ' ')}`,
-            latestEpisode: new Date() // Use current date as placeholder
-          }
-        } catch (error) {
-          console.error(`Error processing ${dir.name}:`, error)
-          return null
-        }
-      })
-
-      const results = await Promise.all(podcastPromises)
-      const validPodcasts = results.filter(p => p !== null) as Podcast[]
-      
-      console.log(`Successfully processed ${validPodcasts.length} podcasts`)
-      this.setCache(cacheKey, validPodcasts)
-      return validPodcasts
-    } catch (error) {
-      console.error('Error getting podcasts (light):', error)
-      return []
-    }
-  }
-
-  async getAllPodcasts(): Promise<Podcast[]> {
-    const cacheKey = 'all-podcasts'
-    const cached = this.getCache(cacheKey)
-    if (cached) return cached as Podcast[]
-
-    try {
-      const files = await this.getAllFiles()
-      const podcastMap = new Map<string, PodcastEpisode[]>()
-
-      for (const file of files) {
-        const [podcastName, episodeFileName] = file.split('/')
-        const podcastSlug = this.createSlug(podcastName)
-        const episodeSlug = this.createSlug(episodeFileName.replace('.md', ''))
-
-        const episode = await this.getEpisode(podcastSlug, episodeSlug)
-        if (episode) {
-          if (!podcastMap.has(podcastSlug)) {
-            podcastMap.set(podcastSlug, [])
-          }
-          podcastMap.get(podcastSlug)!.push(episode)
-        }
-      }
-
-      const validPodcasts: Podcast[] = Array.from(podcastMap.entries()).map(([slug, episodes]) => {
-        const sortedEpisodes = episodes.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
-        
-        return {
-          name: episodes[0]?.podcastName || slug,
-          slug,
-          episodes: sortedEpisodes,
-          episodeCount: episodes.length,
-          latestEpisode: sortedEpisodes[0]?.publishedAt,
-          description: `Podcast transcripts for ${episodes[0]?.podcastName || slug}`
-        }
-      })
-
-      this.setCache(cacheKey, validPodcasts)
-      return validPodcasts
-    } catch (error) {
-      console.error('Error getting all podcasts:', error)
-      return []
-    }
-  }
-
-  async getPodcast(podcastSlug: string): Promise<Podcast | null> {
-    const cacheKey = `podcast-${podcastSlug}`
-    const cached = this.getCache(cacheKey)
-    if (cached) return cached as Podcast
-
-    try {
-      // First try the light approach - just get the podcast metadata
-      const lightPodcasts = await this.getAllPodcastsLight()
-      const lightPodcast = lightPodcasts.find(p => p.slug === podcastSlug)
-      
-      if (!lightPodcast) {
-        return null
-      }
-
-      // Get episode list without downloading content - much faster!
-      try {
-        // Get the original directory name from the storage
-        const originalDirName = lightPodcast.name
-          .replace(/\s+/g, '-')
-          .replace(/Podcast/g, 'podcast')
-          .replace(/With/g, 'with')
-          .replace(/Leaders/g, 'Leaders') // Keep exact case for this one
-        
-        // Try different variations to match the actual directory name
-        const possibleDirNames = [
-          originalDirName,
-          lightPodcast.name.replace(/\s+/g, '-'),
-          'Empowering-Leaders-podcast-with-Luke-Darcy', // Known from debug logs
-          'courtside-with-rachel-demita',
-          'not-an-overnight-success', 
-          'straight-talk-with-mark-bouris'
-        ]
-        
-        let episodeData: StorageFileObject[] | null = null
-        let actualDirName = ''
-        
-        // Try each possible directory name
-        for (const dirName of possibleDirNames) {
-          const slugMatch = this.createSlug(dirName) === podcastSlug
-          if (slugMatch) {
-            const { data, error } = await supabaseStorage.storage
-              .from('transcripts')
-              .list(dirName, {
-                limit: 1000,
-                offset: 0,
-              })
-            
-            if (!error && data && data.length > 0) {
-              episodeData = data
-              actualDirName = dirName
-              break
-            }
-          }
-        }
-
-        if (!episodeData) {
-          console.error(`Could not find episodes for ${podcastSlug}`)
-          throw new Error(`No episodes found for ${podcastSlug}`)
-        }
-
-        const markdownFiles = episodeData.filter((file: StorageFileObject) => file.name.endsWith('.md'))
-        
-        // Create lightweight episodes - NO content downloading!
-        const episodes: PodcastEpisode[] = []
-        const seenEpisodeSlugs = new Set<string>() // Track unique episode slugs
-        
-        markdownFiles.forEach((file: StorageFileObject) => {
-          const episodeTitle = file.name.replace('.md', '')
-          const episodeSlug = this.createSlug(episodeTitle)
-          
-          // Skip if we've already processed this episode slug
-          if (seenEpisodeSlugs.has(episodeSlug)) {
-            console.warn(`Duplicate episode slug detected in fast loading: ${episodeSlug} from file: ${actualDirName}/${file.name}`)
-            return
-          }
-          
-          seenEpisodeSlugs.add(episodeSlug)
-          
-          episodes.push({
-            id: `${podcastSlug}-${episodeSlug}`,
-            title: episodeTitle,
-            podcastName: lightPodcast.name,
-            slug: episodeSlug,
-            podcastSlug,
-            content: '', // Empty - will load on-demand when episode is clicked
-            rawContent: '',
-            timestamps: [], // Empty - will load on-demand
-            duration: undefined,
-            publishedAt: file.updated_at ? new Date(file.updated_at) : new Date(),
-            description: `Episode transcript for ${episodeTitle}`, // Generic description
-            keywords: [],
-            filePath: `${actualDirName}/${file.name}`
-          })
-        })
-
-        // Sort by filename/title (approximate chronological order)
-        const sortedEpisodes = episodes.sort((a, b) => {
-          // Try to extract episode numbers if they exist
-          const aNum = a.title.match(/^\d+/)?.[0]
-          const bNum = b.title.match(/^\d+/)?.[0]
-          
-          if (aNum && bNum) {
-            return parseInt(bNum) - parseInt(aNum) // Newest first
-          }
-          
-          // Fall back to date
-          return b.publishedAt.getTime() - a.publishedAt.getTime()
-        })
-        
-        const podcast: Podcast = {
-          name: lightPodcast.name,
-          slug: podcastSlug,
-          episodes: sortedEpisodes,
-          episodeCount: sortedEpisodes.length,
-          latestEpisode: sortedEpisodes[0]?.publishedAt || lightPodcast.latestEpisode,
-          description: lightPodcast.description
-        }
-
-        this.setCache(cacheKey, podcast)
-        return podcast
-      } catch (error) {
-        console.error(`Error loading episodes for ${podcastSlug}:`, error)
-        
-        // Fall back to just the light podcast data without episodes
-        const fallbackPodcast: Podcast = {
-          ...lightPodcast,
-          episodes: []
-        }
-        
-        this.setCache(cacheKey, fallbackPodcast)
-        return fallbackPodcast
-      }
-    } catch (error) {
-      console.error(`Error getting podcast ${podcastSlug}:`, error)
-      return null
-    }
   }
 
   private generateDescription(content: string): string {
