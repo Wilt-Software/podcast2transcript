@@ -46,6 +46,12 @@ export default function Home() {
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-8">
+                <a 
+                  href="/blog"
+                  className="text-glass-nav hover:text-gray-600 transition-colors duration-200"
+                >
+                  Blog
+                </a>
                 <button 
                   onClick={() => scrollToSection('features')} 
                   className="text-glass-nav hover:text-gray-600 transition-colors duration-200 cursor-pointer"
