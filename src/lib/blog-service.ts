@@ -83,7 +83,7 @@ export class BlogService {
       if (error) throw error
 
       // Remove duplicates based on unique key (podcast_slug + slug) to prevent React key conflicts
-      const uniqueEpisodes = new Map<string, any>()
+      const uniqueEpisodes = new Map<string, DatabaseEpisode>()
       data?.forEach(dbEpisode => {
         const uniqueKey = `${dbEpisode.podcast_slug}-${dbEpisode.slug}`
         if (!uniqueEpisodes.has(uniqueKey)) {
@@ -203,7 +203,7 @@ export class BlogService {
       if (!data || data.length === 0) return null
 
       // Remove duplicates based on slug to prevent React key conflicts
-      const uniqueEpisodes = new Map<string, any>()
+      const uniqueEpisodes = new Map<string, DatabaseEpisode>()
       data.forEach(dbEpisode => {
         if (!uniqueEpisodes.has(dbEpisode.slug)) {
           uniqueEpisodes.set(dbEpisode.slug, dbEpisode)
