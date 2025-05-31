@@ -50,11 +50,6 @@ export default async function EpisodePage({ params }: EpisodePageProps) {
   const structuredData = generateEpisodeStructuredData(episode)
   const breadcrumbs = generateBreadcrumbs(podcast || undefined, episode)
 
-  // Get related episodes (other episodes from the same podcast)
-  const relatedEpisodes = podcast?.episodes
-    .filter(ep => ep.slug !== episode.slug)
-    .slice(0, 3) || []
-
   return (
     <>
       {/* Structured Data */}
@@ -121,44 +116,6 @@ export default async function EpisodePage({ params }: EpisodePageProps) {
 
           {/* Transcript */}
           <TranscriptViewer episode={episode} />
-
-          {/* Related Episodes */}
-          {relatedEpisodes.length > 0 && (
-            <div className="mt-16">
-              <div className="glass-card rounded-xl p-8">
-                <h2 className="text-2xl font-bold text-glass-primary mb-6">
-                  More from {episode.podcastName}
-                </h2>
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-                  {relatedEpisodes.map((relatedEpisode) => (
-                    <Link
-                      key={relatedEpisode.slug}
-                      href={`/blog/${relatedEpisode.podcastSlug}/${relatedEpisode.slug}`}
-                      className="block p-4 rounded-lg hover:bg-white/5 transition-colors"
-                    >
-                      <h3 className="font-semibold text-glass-primary mb-2 line-clamp-2">
-                        {relatedEpisode.title}
-                      </h3>
-                      <p className="text-sm text-glass-muted">
-                        {formatDistanceToNow(relatedEpisode.publishedAt, { addSuffix: true })}
-                      </p>
-                    </Link>
-                  ))}
-                </div>
-                <div className="mt-6 pt-6 border-t border-white/10">
-                  <Link
-                    href={`/blog/${episode.podcastSlug}`}
-                    className="inline-flex items-center text-indigo-600 hover:text-indigo-800 font-medium"
-                  >
-                    View all episodes from {episode.podcastName}
-                    <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                    </svg>
-                  </Link>
-                </div>
-              </div>
-            </div>
-          )}
 
           {/* Call to Action */}
           <div className="mt-16">

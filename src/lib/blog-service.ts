@@ -35,7 +35,8 @@ export class BlogService {
   private static instance: BlogService
   private cache: Map<string, unknown> = new Map()
   private cacheExpiry: Map<string, number> = new Map()
-  private readonly CACHE_DURATION = 5 * 60 * 1000 // 5 minutes
+  private readonly CACHE_DURATION = 60 * 60 * 1000 // 1 hour (increased from 5 minutes)
+  private readonly FILE_CACHE_DURATION = 24 * 60 * 60 * 1000 // 24 hours for file content
 
   static getInstance(): BlogService {
     if (!BlogService.instance) {
@@ -49,9 +50,10 @@ export class BlogService {
     return expiry ? Date.now() < expiry : false
   }
 
-  private setCache(key: string, value: unknown): void {
+  private setCache(key: string, value: unknown, customDuration?: number): void {
     this.cache.set(key, value)
-    this.cacheExpiry.set(key, Date.now() + this.CACHE_DURATION)
+    const duration = customDuration || this.CACHE_DURATION
+    this.cacheExpiry.set(key, Date.now() + duration)
   }
 
   private getCache(key: string): unknown {
@@ -250,12 +252,15 @@ export class BlogService {
   }
 
   /**
-   * 🚀 SUPER FAST: Get single episode from database (~20ms vs 1,600ms)
+   * 🚀 OPTIMIZED: Get single episode from database with better caching
    */
   async getEpisodeFromDB(podcastSlug: string, episodeSlug: string): Promise<PodcastEpisode | null> {
     const cacheKey = `episode-db-${podcastSlug}-${episodeSlug}`
     const cached = this.getCache(cacheKey)
-    if (cached) return cached as PodcastEpisode
+    if (cached) {
+      console.log(`🚀 Cache hit for episode ${episodeSlug}`)
+      return cached as PodcastEpisode
+    }
 
     try {
       console.log(`📄 Fetching episode ${episodeSlug} from database...`)
@@ -271,16 +276,28 @@ export class BlogService {
       if (error) throw error
       if (!data) return null
 
-      const duration = Date.now() - startTime
-      console.log(`✅ Episode metadata query completed in ${duration}ms`)
+      const dbDuration = Date.now() - startTime
+      console.log(`✅ Episode metadata query completed in ${dbDuration}ms`)
 
-      // Now download the actual content (this is the remaining ~870ms)
-      const content = await this.getFileContent(data.file_path)
+      // Optimized content loading with better caching
+      const contentStart = Date.now()
+      const content = await this.getFileContentOptimized(data.file_path)
+      const contentDuration = Date.now() - contentStart
+      console.log(`📁 File content loaded in ${contentDuration}ms`)
+      
       if (!content) return null
 
+      const parseStart = Date.now()
       const { data: frontmatter, content: markdownContent } = matter(content)
-      const timestamps = this.parseTimestamps(markdownContent)
-      const processedContent = await this.processMarkdownContent(markdownContent)
+      
+      // Parallelize timestamp parsing and content processing for better performance
+      const [timestamps, processedContent] = await Promise.all([
+        Promise.resolve(this.parseTimestamps(markdownContent)),
+        this.processMarkdownContent(markdownContent)
+      ])
+      
+      const parseDuration = Date.now() - parseStart
+      console.log(`⚡ Content processing completed in ${parseDuration}ms`)
 
       const episode: PodcastEpisode = {
         id: `${data.podcast_slug}-${data.slug}`,
@@ -298,7 +315,12 @@ export class BlogService {
         filePath: data.file_path
       }
 
-      this.setCache(cacheKey, episode)
+      // Cache with longer duration since episode content rarely changes
+      this.setCache(cacheKey, episode, this.FILE_CACHE_DURATION)
+      
+      const totalDuration = Date.now() - startTime
+      console.log(`✅ Total episode load completed in ${totalDuration}ms`)
+      
       return episode
     } catch (error) {
       console.error(`❌ Error fetching episode ${podcastSlug}/${episodeSlug} from database:`, error)
@@ -333,13 +355,19 @@ export class BlogService {
     return this.getEpisodeFromDB(podcastSlug, episodeSlug)
   }
 
-  // 🗂️ STORAGE HELPER METHODS (unchanged)
-  async getFileContent(filePath: string): Promise<string | null> {
+  // 🗂️ OPTIMIZED STORAGE HELPER METHODS
+  async getFileContentOptimized(filePath: string): Promise<string | null> {
     const cacheKey = `file-${filePath}`
     const cached = this.getCache(cacheKey)
-    if (cached) return cached as string
+    if (cached) {
+      console.log(`🚀 File cache hit for ${filePath}`)
+      return cached as string
+    }
 
     try {
+      console.log(`📥 Downloading file ${filePath} from storage...`)
+      const downloadStart = Date.now()
+      
       const { data, error } = await supabaseStorage.storage
         .from('transcripts')
         .download(filePath)
@@ -347,12 +375,21 @@ export class BlogService {
       if (error) throw error
 
       const content = await data.text()
-      this.setCache(cacheKey, content)
+      const downloadDuration = Date.now() - downloadStart
+      console.log(`✅ File download completed in ${downloadDuration}ms (${(content.length / 1024).toFixed(2)}KB)`)
+      
+      // Cache file content for 24 hours since it rarely changes
+      this.setCache(cacheKey, content, this.FILE_CACHE_DURATION)
       return content
     } catch (error) {
-      console.error(`Error fetching file ${filePath}:`, error)
+      console.error(`❌ Error fetching file ${filePath}:`, error)
       return null
     }
+  }
+
+  // Legacy method for backward compatibility
+  async getFileContent(filePath: string): Promise<string | null> {
+    return this.getFileContentOptimized(filePath)
   }
 
   private parseTimestamps(content: string): TimestampEntry[] {
