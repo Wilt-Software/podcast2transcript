@@ -1,23 +1,48 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { generateSitemapUrls, ITEMS_PER_SITEMAP, generateSitemapXml, SitemapUrl } from '@/lib/sitemap-utils'
 
-interface RouteParams {
-  params: Promise<{
-    page: string
-  }>
-}
-
 // Cache for sitemap URLs to avoid regenerating them for each page
 let urlsCache: SitemapUrl[] | null = null
 let cacheTimestamp: number = 0
 const CACHE_DURATION = 30 * 60 * 1000 // 30 minutes
 
-export async function GET(request: NextRequest, { params }: RouteParams) {
+// Helper function to reset cache (can be called programmatically)
+export function resetSitemapCache() {
+  urlsCache = null
+  cacheTimestamp = 0
+  console.log('♻️ Sitemap cache reset programmatically')
+}
+
+export async function GET(request: NextRequest) {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://podcast2transcript.com'
   
   try {
-    const resolvedParams = await params
-    const pageNumber = parseInt(resolvedParams.page)
+    // Check for cache invalidation flag
+    const invalidateCache = request.nextUrl.searchParams.get('invalidate') === 'true'
+    
+    if (invalidateCache) {
+      resetSitemapCache()
+    }
+
+    // Extract page number from the original URL path (for middleware rewrites)
+    const pathname = new URL(request.url).pathname
+    const sitemapMatch = pathname.match(/^\/sitemap-(\d+)\.xml$/)
+    
+    let pageParam: string | null = null
+    
+    if (sitemapMatch) {
+      // Request came from middleware rewrite (sitemap-1.xml)
+      pageParam = sitemapMatch[1]
+    } else {
+      // Direct API call with query parameter
+      pageParam = request.nextUrl.searchParams.get('page')
+    }
+    
+    if (!pageParam) {
+      return new NextResponse('Page parameter is required', { status: 400 })
+    }
+    
+    const pageNumber = parseInt(pageParam)
     
     if (isNaN(pageNumber) || pageNumber < 1) {
       return new NextResponse('Invalid page number', { status: 400 })
@@ -57,8 +82,7 @@ export async function GET(request: NextRequest, { params }: RouteParams) {
     })
 
   } catch (error) {
-    const resolvedParams = await params
-    console.error(`❌ Error generating sitemap page ${resolvedParams?.page}:`, error)
+    console.error(`❌ Error generating sitemap:`, error)
     
     // Return minimal sitemap on error
     const errorUrls: SitemapUrl[] = [

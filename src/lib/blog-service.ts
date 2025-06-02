@@ -486,7 +486,43 @@ export class BlogService {
   }
 
   clearCache(): void {
+    console.log('🧹 Clearing all blog service cache')
     this.cache.clear()
     this.cacheExpiry.clear()
+  }
+
+  /**
+   * Clear cache when new transcript is added
+   * This ensures new content appears immediately
+   */
+  clearCacheForNewTranscript(podcastSlug?: string): void {
+    console.log(`🔄 Clearing cache for new transcript${podcastSlug ? ` in ${podcastSlug}` : ''}`)
+    
+    // Clear global caches that would be affected by new content
+    const globalCacheKeys = [
+      'all-episodes-db',
+      'all-podcasts-db'
+    ]
+    
+    globalCacheKeys.forEach(key => {
+      this.cache.delete(key)
+      this.cacheExpiry.delete(key)
+    })
+
+    // If specific podcast provided, clear its cache too
+    if (podcastSlug) {
+      this.cache.delete(`podcast-db-${podcastSlug}`)
+      this.cacheExpiry.delete(`podcast-db-${podcastSlug}`)
+    }
+
+    console.log('✅ Relevant caches cleared for new transcript')
+  }
+
+  /**
+   * Get the singleton instance for external cache management
+   */
+  static clearCacheExternal(podcastSlug?: string): void {
+    const instance = BlogService.getInstance()
+    instance.clearCacheForNewTranscript(podcastSlug)
   }
 } 
