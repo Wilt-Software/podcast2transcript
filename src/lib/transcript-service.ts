@@ -1,4 +1,4 @@
-import { supabaseAdmin, supabaseStorage } from './supabase'
+import { supabaseAdmin } from './supabase'
 
 interface NewTranscriptData {
   podcastName: string

@@ -1,17 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { generateSitemapUrls, ITEMS_PER_SITEMAP, generateSitemapXml, SitemapUrl } from '@/lib/sitemap-utils'
+import { getSitemapCache, setSitemapCache, resetSitemapCache } from '@/lib/sitemap-cache'
 
-// Cache for sitemap URLs to avoid regenerating them for each page
-let urlsCache: SitemapUrl[] | null = null
-let cacheTimestamp: number = 0
+// Cache duration
 const CACHE_DURATION = 30 * 60 * 1000 // 30 minutes
-
-// Helper function to reset cache (can be called programmatically)
-export function resetSitemapCache() {
-  urlsCache = null
-  cacheTimestamp = 0
-  console.log('♻️ Sitemap cache reset programmatically')
-}
 
 export async function GET(request: NextRequest) {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://podcast2transcript.com'
@@ -50,12 +42,17 @@ export async function GET(request: NextRequest) {
 
     console.log(`📄 Generating sitemap page ${pageNumber}`)
 
+    // Get current cache state
+    const { urlsCache, cacheTimestamp } = getSitemapCache()
+
     // Check if we need to regenerate the URLs cache
     const now = Date.now()
-    if (!urlsCache || (now - cacheTimestamp) > CACHE_DURATION) {
+    let currentUrlsCache = urlsCache
+    
+    if (!currentUrlsCache || (now - cacheTimestamp) > CACHE_DURATION) {
       console.log('🔄 Regenerating sitemap URLs cache...')
-      urlsCache = await generateSitemapUrls(baseUrl)
-      cacheTimestamp = now
+      currentUrlsCache = await generateSitemapUrls(baseUrl)
+      setSitemapCache(currentUrlsCache, now)
     } else {
       console.log('📋 Using cached sitemap URLs')
     }
@@ -63,7 +60,7 @@ export async function GET(request: NextRequest) {
     // Calculate pagination
     const startIndex = (pageNumber - 1) * ITEMS_PER_SITEMAP
     const endIndex = startIndex + ITEMS_PER_SITEMAP
-    const urlsForThisPage = urlsCache.slice(startIndex, endIndex)
+    const urlsForThisPage = currentUrlsCache.slice(startIndex, endIndex)
     
     if (urlsForThisPage.length === 0) {
       return new NextResponse('Page not found', { status: 404 })

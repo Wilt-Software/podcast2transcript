@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { resetSitemapCache } from '../../sitemap/route'
+import { resetSitemapCache } from '@/lib/sitemap-cache'
 import { BlogService } from '@/lib/blog-service'
 
 export async function POST(request: NextRequest) {
@@ -20,7 +20,7 @@ export async function POST(request: NextRequest) {
     try {
       body = await request.json()
       console.log('📄 Webhook payload:', body)
-    } catch (error) {
+    } catch {
       // Body parsing is optional
       console.log('📄 Webhook received without JSON payload')
     }

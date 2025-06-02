@@ -110,7 +110,12 @@ export class TranscriptHelper {
       episodeTitle: string
       success: boolean
       error?: string
-      data?: any
+      data?: {
+        id: number
+        podcastSlug: string
+        episodeSlug: string
+        filePath: string
+      }
     }>
   }> {
     console.log(`🔄 Adding ${transcripts.length} transcripts in batch...`)
@@ -170,4 +175,4 @@ if (result.success) {
 } else {
   console.error('Failed to add transcript:', result.error)
 }
-*/ 
+*/
