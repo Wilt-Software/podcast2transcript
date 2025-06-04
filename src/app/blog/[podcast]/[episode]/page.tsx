@@ -33,7 +33,10 @@ export async function generateMetadata({ params }: EpisodePageProps): Promise<Me
     keywords: metaTags.keywords,
     openGraph: metaTags.openGraph,
     twitter: metaTags.twitter,
-    robots: metaTags.robots
+    robots: metaTags.robots,
+    alternates: {
+      canonical: metaTags.canonical
+    }
   }
 }
 

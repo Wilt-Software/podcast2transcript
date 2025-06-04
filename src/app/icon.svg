@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Microphone body -->
+  <rect x="12" y="4" width="8" height="14" rx="4" fill="#2563eb" stroke="#1e40af" stroke-width="1"/>
+  
+  <!-- Microphone stand -->
+  <path d="M16 18 L16 24" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Microphone base -->
+  <path d="M10 24 L22 24" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Sound waves -->
+  <path d="M6 14 C6 18 10 22 16 22 C22 22 26 18 26 14" stroke="#6b7280" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Inner microphone details -->
+  <circle cx="16" cy="8" r="1" fill="#1e40af"/>
+  <circle cx="16" cy="11" r="1" fill="#1e40af"/>
+  <circle cx="16" cy="14" r="1" fill="#1e40af"/>
+</svg> 

@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   description: "Lightning-fast podcast transcription and summarization. Get 1-hour audio transcribed in minutes. Pay-as-you-go. No subscription required.",
   keywords: ["podcast", "transcription", "summarization", "audio", "AI", "speech-to-text"],
   authors: [{ name: "Podcast2Transcript" }],
+  manifest: "/manifest.json",
 };
 
 export const viewport: Viewport = {
