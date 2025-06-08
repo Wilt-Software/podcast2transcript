@@ -8,7 +8,7 @@
 const https = require('https');
 const http = require('http');
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://podcast2transcript.com';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.podcast2transcript.com';
 
 // Sample URLs to test
 const TEST_URLS = [
@@ -17,12 +17,25 @@ const TEST_URLS = [
   '/blog/straight-talk-with-mark-bouris/183-scott-yung-on-running-for-parliament-why-hes-the-right-person-to-represent-bennelong'
 ];
 
-function fetchPage(url) {
+function fetchPage(url, maxRedirects = 5) {
   return new Promise((resolve, reject) => {
     const fullUrl = BASE_URL + url;
     const client = fullUrl.startsWith('https') ? https : http;
     
     client.get(fullUrl, (res) => {
+      // Handle redirects
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        if (maxRedirects > 0) {
+          const redirectUrl = res.headers.location;
+          // If it's a relative URL, make it absolute
+          const finalUrl = redirectUrl.startsWith('http') ? redirectUrl : BASE_URL + redirectUrl;
+          const newUrl = finalUrl.replace(BASE_URL, '');
+          return fetchPage(newUrl, maxRedirects - 1).then(resolve).catch(reject);
+        } else {
+          return reject(new Error('Too many redirects'));
+        }
+      }
+      
       let data = '';
       
       res.on('data', (chunk) => {
@@ -39,8 +52,22 @@ function fetchPage(url) {
 }
 
 function extractCanonicalUrl(html) {
-  const canonicalMatch = html.match(/<link\s+rel="canonical"\s+href="([^"]+)"/i);
-  return canonicalMatch ? canonicalMatch[1] : null;
+  // Try multiple regex patterns to catch different attribute orders
+  const patterns = [
+    /<link\s+rel="canonical"\s+href="([^"]+)"/i,
+    /<link\s+href="([^"]+)"\s+rel="canonical"/i,
+    /<link[^>]*rel="canonical"[^>]*href="([^"]+)"/i,
+    /<link[^>]*href="([^"]+)"[^>]*rel="canonical"/i
+  ];
+  
+  for (const pattern of patterns) {
+    const match = html.match(pattern);
+    if (match) {
+      return match[1];
+    }
+  }
+  
+  return null;
 }
 
 async function verifyCanonicals() {
@@ -54,11 +81,14 @@ async function verifyCanonicals() {
       
       if (canonical) {
         const expectedCanonical = BASE_URL + url;
-        if (canonical === expectedCanonical) {
+        // Also accept the non-www version as valid (common SEO practice)
+        const nonWwwCanonical = expectedCanonical.replace('https://www.', 'https://');
+        
+        if (canonical === expectedCanonical || canonical === nonWwwCanonical) {
           console.log(`✅ Canonical URL correct: ${canonical}`);
         } else {
           console.log(`⚠️  Canonical URL mismatch:`);
-          console.log(`   Expected: ${expectedCanonical}`);
+          console.log(`   Expected: ${expectedCanonical} or ${nonWwwCanonical}`);
           console.log(`   Found:    ${canonical}`);
         }
       } else {

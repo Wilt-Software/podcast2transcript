@@ -1,26 +1,10 @@
 'use client';
 
-import { useState } from 'react';
+
 import Link from 'next/link';
+import AudioTranscriber from '@/components/AudioTranscriber';
 
 export default function Home() {
-  const [isDragOver, setIsDragOver] = useState(false);
-
-  const handleDragOver = (e: React.DragEvent) => {
-    e.preventDefault();
-    setIsDragOver(true);
-  };
-
-  const handleDragLeave = (e: React.DragEvent) => {
-    e.preventDefault();
-    setIsDragOver(false);
-  };
-
-  const handleDrop = (e: React.DragEvent) => {
-    e.preventDefault();
-    setIsDragOver(false);
-    // Handle file drop logic here
-  };
 
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
@@ -92,65 +76,36 @@ export default function Home() {
               <span className="text-glass-primary">Made Simple</span>
             </h1>
             <p className="text-xl md:text-2xl text-glass-secondary mb-12 max-w-3xl mx-auto">
-              Lightning-fast, AI-powered transcription and summarization. 
-              Transform your audio content in minutes, not hours.
+              Lightning-fast, AI-powered transcription running entirely in your browser. 
+              Transform your audio content with complete privacy and security.
             </p>
             
             {/* Feature Pills */}
             <div className="flex flex-wrap justify-center gap-4 mb-12">
               <div className="glass-card px-6 py-3 rounded-full">
                 <div className="flex items-center space-x-2">
-                  <span className="text-2xl">⚡</span>
-                  <span className="text-glass-primary font-medium">1-hour audio in 1 minute</span>
+                  <span className="text-2xl">🔒</span>
+                  <span className="text-glass-primary font-medium">100% Private & Secure</span>
                 </div>
               </div>
               <div className="glass-card px-6 py-3 rounded-full">
                 <div className="flex items-center space-x-2">
-                  <span className="text-2xl">💰</span>
-                  <span className="text-glass-primary font-medium">$0.06/min + $1/file</span>
+                  <span className="text-2xl">🚀</span>
+                  <span className="text-glass-primary font-medium">AI-Powered Whisper</span>
                 </div>
               </div>
               <div className="glass-card px-6 py-3 rounded-full">
                 <div className="flex items-center space-x-2">
-                  <span className="text-2xl">🌍</span>
-                  <span className="text-glass-primary font-medium">7 Languages</span>
+                  <span className="text-2xl">💯</span>
+                  <span className="text-glass-primary font-medium">Completely Free</span>
                 </div>
               </div>
             </div>
           </div>
 
-          {/* Upload Section */}
+          {/* Transcription Section */}
           <div className="max-w-4xl mx-auto">
-            <div 
-              className={`glass-card rounded-2xl p-8 transition-all duration-300 ${
-                isDragOver ? 'border-indigo-400 bg-white/20' : ''
-              }`}
-              onDragOver={handleDragOver}
-              onDragLeave={handleDragLeave}
-              onDrop={handleDrop}
-            >
-              <div className="text-center">
-                <div className="float mb-6">
-                  <div className="w-24 h-24 mx-auto bg-gradient-to-br from-indigo-500 to-purple-600 rounded-full flex items-center justify-center">
-                    <span className="text-4xl">🎙️</span>
-                  </div>
-                </div>
-                <h3 className="text-2xl font-bold text-glass-primary mb-4">
-                  Drop your audio file here
-                </h3>
-                <p className="text-glass-secondary mb-6">
-                  Support for MP3, WAV, M4A, and more. Up to 2GB file size.
-                </p>
-                <div className="space-y-4">
-                  <button className="pulse-glow bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-8 py-4 rounded-xl font-semibold text-lg hover:from-indigo-700 hover:to-purple-700 transition-all duration-200 transform hover:scale-105">
-                    Choose File
-                  </button>
-                  <p className="text-glass-muted text-sm">
-                    or drag and drop your file here
-                  </p>
-                </div>
-              </div>
-            </div>
+            <AudioTranscriber />
           </div>
         </div>
       </section>
@@ -169,14 +124,14 @@ export default function Home() {
             {/* Feature 1 */}
             <div className="glass-card rounded-xl p-8 text-center hover:bg-white/15 transition-all duration-300">
               <div className="w-16 h-16 mx-auto mb-6 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-full flex items-center justify-center">
-                <span className="text-2xl">🔍</span>
+                <span className="text-2xl">🔒</span>
               </div>
               <h3 className="text-xl font-bold text-glass-primary mb-4">
-                Automatic Language Detection
+                Complete Privacy
               </h3>
               <p className="text-glass-secondary">
-                English, Spanish, French, German, Italian, Portuguese, and Dutch. 
-                We automatically detect the language in your audio.
+                Your audio files never leave your device. All processing happens 
+                locally in your browser using cutting-edge WebAssembly technology.
               </p>
             </div>
 
@@ -197,14 +152,14 @@ export default function Home() {
             {/* Feature 3 */}
             <div className="glass-card rounded-xl p-8 text-center hover:bg-white/15 transition-all duration-300">
               <div className="w-16 h-16 mx-auto mb-6 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-                <span className="text-2xl">📄</span>
+                <span className="text-2xl">⏱️</span>
               </div>
               <h3 className="text-xl font-bold text-glass-primary mb-4">
-                Export Options
+                Timestamped Transcripts
               </h3>
               <p className="text-glass-secondary">
-                Get your transcripts in plain text, SRT, VTT, or JSON format. 
-                Plus AI-generated summaries.
+                Get precise timestamps for each segment, making it easy to navigate 
+                and reference specific parts of your audio content.
               </p>
             </div>
           </div>
@@ -214,20 +169,20 @@ export default function Home() {
       {/* Pricing Section */}
       <section id="pricing" className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-glass-primary mb-8">Simple Pricing</h2>
+          <h2 className="text-4xl font-bold text-glass-primary mb-8">Completely Free</h2>
           <div className="glass-card rounded-2xl p-8 mb-8">
-            <div className="text-6xl font-bold gradient-text mb-4">$0.06</div>
-            <div className="text-xl text-glass-primary mb-2">per minute</div>
-            <div className="text-glass-secondary mb-6">+ $1 per file</div>
+            <div className="text-6xl font-bold gradient-text mb-4">$0</div>
+            <div className="text-xl text-glass-primary mb-2">Forever</div>
+            <div className="text-glass-secondary mb-6">No subscriptions, no hidden fees</div>
             <div className="text-glass-primary">
-              <p className="mb-2">✓ Not subscription required</p>
-              <p className="mb-2">✓ Pay only for what you use</p>
-              <p className="mb-2">✓ Lightning-fast processing</p>
-              <p>✓ Multiple export formats</p>
+              <p className="mb-2">✓ Unlimited transcriptions</p>
+              <p className="mb-2">✓ Complete privacy protection</p>
+              <p className="mb-2">✓ OpenAI Whisper accuracy</p>
+              <p>✓ Timestamped transcripts</p>
             </div>
           </div>
           <p className="text-glass-secondary">
-            Example: A 30-minute podcast costs $2.80 ($0.06 × 30 + $1)
+            Powered by cutting-edge in-browser AI technology
           </p>
         </div>
       </section>
@@ -242,20 +197,20 @@ export default function Home() {
           <div className="space-y-6">
             {[
               {
-                question: "How long does transcription take?",
-                answer: "We can transcribe a 60-minute audio file in less than 1 minute. Processing time scales with file length."
+                question: "Is my audio data really private?",
+                answer: "Absolutely! Your audio files never leave your device. All processing happens locally in your browser using WebAssembly technology."
               },
               {
                 question: "What file formats do you support?",
-                answer: "We support all common audio and video formats including MP3, WAV, M4A, MP4, MOV, and many more."
+                answer: "We support all common audio formats including MP3, WAV, M4A, FLAC, OGG, and WEBM."
               },
               {
                 question: "How accurate are the transcriptions?",
-                answer: "Our AI-powered transcription achieves 95%+ accuracy for clear audio with minimal background noise."
+                answer: "We use OpenAI's Whisper model, which achieves state-of-the-art accuracy for speech recognition across multiple languages."
               },
               {
-                question: "Do you offer refunds?",
-                answer: "All sales are final. We recommend testing with a short file first to ensure our service meets your needs."
+                question: "Do I need to install anything?",
+                answer: "No installation required! Everything runs directly in your web browser. Just upload your audio file and start transcribing."
               }
             ].map((faq, index) => (
               <div key={index} className="glass-card rounded-xl p-6">
