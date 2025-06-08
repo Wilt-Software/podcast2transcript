@@ -89,15 +89,15 @@ export default function AudioTranscriber() {
   };
 
   // Audio preprocessing function (runs in main thread)
-  const preprocessAudio = async (audioBuffer: ArrayBuffer, filename: string): Promise<Float32Array> => {
+  const preprocessAudio = async (audioBuffer: ArrayBuffer): Promise<Float32Array> => {
     setProgress({ 
       status: 'transcribing', 
       message: 'Decoding audio format...', 
       progress: 92 
     });
 
-    // Create an AudioContext for processing
-    const audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+    // Create an AudioContext for processing with proper type
+    const audioContext = new (window.AudioContext || (window as {webkitAudioContext?: typeof AudioContext}).webkitAudioContext)();
     
     // Decode the audio data
     const audioData = await audioContext.decodeAudioData(audioBuffer);
@@ -182,7 +182,7 @@ export default function AudioTranscriber() {
       const arrayBuffer = await file.arrayBuffer();
       
       // Preprocess audio in main thread (where AudioContext is available)
-      const processedAudio = await preprocessAudio(arrayBuffer, file.name);
+      const processedAudio = await preprocessAudio(arrayBuffer);
       
       // Set up a timeout to detect if worker gets stuck
       const timeout = setTimeout(() => {
