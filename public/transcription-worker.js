@@ -205,6 +205,12 @@ function handleDownloadProgress(progress) {
         progress: 12
       }
     });
+  } else if (progress.status === 'progress') {
+    // Handle generic progress updates without specific file info
+    log(`📊 General progress update: ${progress.progress || 'N/A'}%`);
+  } else if (progress.status === 'done') {
+    // Handle completion status
+    log('✅ Download component completed');
   } else {
     log(`🔍 Unknown progress status: ${progress.status}`, progress);
   }
@@ -256,27 +262,68 @@ async function transcribeAudio(audioData, filename) {
     const audio = validateAudioInput(audioData, filename);
 
     // Step 2: Running transcription
+    // Calculate audio duration for progress estimation
+    const sampleRate = 16000; // We resampled to 16kHz
+    const durationSeconds = audio.length / sampleRate;
+    const estimatedMinutes = Math.ceil(durationSeconds / 60);
+    
     self.postMessage({
       type: 'progress',
       data: {
         status: 'transcribing',
-        message: 'Running OpenAI Whisper transcription...',
+        message: `Analyzing ${Math.round(durationSeconds)}s of audio with Whisper AI...`,
         progress: 97
       }
     });
 
-    log('🤖 Starting Whisper transcription...');
+    log(`🤖 Starting Whisper transcription for ${durationSeconds.toFixed(1)}s of audio...`);
     
-    // Run transcription with progress tracking
-    const result = await transcriber(audio, {
-      return_timestamps: true,
-      chunk_length_s: 30,
-      stride_length_s: 5,
-      language: 'english',
-      task: 'transcribe'
-    });
-
-    log('✅ Whisper transcription completed');
+    // Create a progress tracking wrapper
+    let lastProgressUpdate = Date.now();
+    const progressInterval = setInterval(() => {
+      const elapsed = Date.now() - lastProgressUpdate;
+      // Estimate progress based on typical processing speed (usually 4-10x faster than real-time)
+      const estimatedProgress = Math.min(99, 97 + (elapsed / (durationSeconds * 100))); // Very conservative estimate
+      
+      self.postMessage({
+        type: 'progress',
+        data: {
+          status: 'transcribing',
+          message: `Processing ${estimatedMinutes}min audio - Whisper AI analyzing speech patterns...`,
+          progress: estimatedProgress
+        }
+      });
+    }, 2000); // Update every 2 seconds
+    
+    let result;
+    try {
+      // Run transcription with progress tracking
+      result = await transcriber(audio, {
+        return_timestamps: true,
+        chunk_length_s: 30,
+        stride_length_s: 5,
+        language: 'english',
+        task: 'transcribe'
+      });
+      
+      clearInterval(progressInterval);
+      
+      self.postMessage({
+        type: 'progress',
+        data: {
+          status: 'transcribing',
+          message: 'Whisper AI transcription completed! Processing results...',
+          progress: 98.5
+        }
+      });
+      
+      log('✅ Whisper transcription completed');
+      
+    } catch (error) {
+      clearInterval(progressInterval);
+      log('❌ Whisper transcription failed', error);
+      throw error;
+    }
 
     // Step 3: Processing results
     self.postMessage({
@@ -317,9 +364,28 @@ async function transcribeAudio(audioData, filename) {
   } catch (error) {
     log('❌ Transcription failed', error);
     console.error('Transcription error:', error);
+    
+    // Provide more detailed error information
+    let errorMessage = 'Transcription failed';
+    if (error.message) {
+      errorMessage = error.message;
+    } else if (typeof error === 'string') {
+      errorMessage = error;
+    } else if (error.toString) {
+      errorMessage = error.toString();
+    }
+    
+    log(`💥 Error details: ${errorMessage}`);
+    
     self.postMessage({
       type: 'error',
-      data: { message: error.message || 'Transcription failed' }
+      data: { 
+        message: errorMessage,
+        details: {
+          name: error.name || 'Unknown',
+          stack: error.stack || 'No stack trace available'
+        }
+      }
     });
   }
 }

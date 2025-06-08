@@ -189,11 +189,11 @@ export default function AudioTranscriber() {
         console.warn('⏰ Transcription seems to be taking longer than expected...');
         setProgress({ 
           status: 'downloading', 
-          message: 'Download taking longer than expected... Check debug logs below.',
+          message: 'Download taking longer than expected... Check detailed progress below.',
           progress: 50 
         });
         setShowDebugLogs(true);
-      }, 60000); // 60 seconds for model download
+      }, 45000); // 45 seconds for model download
       
       if (workerRef.current) {
         console.log('🚀 Sending processed audio to worker...');
@@ -254,6 +254,40 @@ export default function AudioTranscriber() {
       const a = document.createElement('a');
       a.href = url;
       a.download = `${file?.name || 'audio'}-transcript.txt`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+  };
+
+  const formatTimeToSRT = (seconds: number): string => {
+    const hours = Math.floor(seconds / 3600);
+    const minutes = Math.floor((seconds % 3600) / 60);
+    const secs = Math.floor(seconds % 60);
+    const milliseconds = Math.floor((seconds % 1) * 1000);
+    
+    return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')},${milliseconds.toString().padStart(3, '0')}`;
+  };
+
+  const handleDownloadSRT = () => {
+    if (transcription?.chunks && transcription.chunks.length > 0) {
+      let srtContent = '';
+      
+      transcription.chunks.forEach((chunk, index) => {
+        const startTime = formatTimeToSRT(chunk.timestamp[0]);
+        const endTime = formatTimeToSRT(chunk.timestamp[1] || chunk.timestamp[0] + 5); // Default 5s if no end time
+        
+        srtContent += `${index + 1}\n`;
+        srtContent += `${startTime} --> ${endTime}\n`;
+        srtContent += `${chunk.text.trim()}\n\n`;
+      });
+      
+      const blob = new Blob([srtContent], { type: 'text/plain' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${file?.name || 'audio'}-transcript.srt`;
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);
@@ -387,7 +421,7 @@ export default function AudioTranscriber() {
                   onClick={() => setShowDebugLogs(!showDebugLogs)}
                   className="text-glass-muted text-xs underline hover:text-glass-primary"
                 >
-                  {showDebugLogs ? 'Hide' : 'Show'} Debug Logs
+                  {showDebugLogs ? 'Hide' : 'Show'} Detailed Progress
                 </button>
               </div>
             </div>
@@ -398,7 +432,7 @@ export default function AudioTranscriber() {
       {/* Debug Logs Section */}
       {showDebugLogs && debugLogs.length > 0 && (
         <div className="glass-card rounded-2xl p-4">
-          <h4 className="text-sm font-semibold text-glass-primary mb-2">🔍 Debug Logs</h4>
+          <h4 className="text-sm font-semibold text-glass-primary mb-2">📊 Detailed Progress</h4>
           <div className="bg-black/50 rounded-lg p-3 max-h-48 overflow-y-auto">
             <div className="font-mono text-xs space-y-1">
               {debugLogs.map((log, index) => (
@@ -436,9 +470,14 @@ export default function AudioTranscriber() {
                 </h3>
                 <p className="text-glass-secondary">
                   Your audio has been successfully transcribed
+                  {transcription?.chunks && transcription.chunks.length > 0 && (
+                    <span className="block text-glass-muted text-xs mt-1">
+                      Timestamps available - SRT export enabled
+                    </span>
+                  )}
                 </p>
               </div>
-              <div className="flex gap-3">
+              <div className="flex gap-3 flex-wrap">
                 <button
                   onClick={handleCopyText}
                   className="glass-card text-glass-primary px-4 py-2 rounded-lg hover:bg-white/20 transition-all duration-200 text-sm"
@@ -449,8 +488,16 @@ export default function AudioTranscriber() {
                   onClick={handleDownloadTranscript}
                   className="bg-gradient-to-r from-green-600 to-emerald-600 text-white px-4 py-2 rounded-lg hover:from-green-700 hover:to-emerald-700 transition-all duration-200 text-sm"
                 >
-                  💾 Download
+                  💾 TXT
                 </button>
+                {transcription?.chunks && transcription.chunks.length > 0 && (
+                  <button
+                    onClick={handleDownloadSRT}
+                    className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-4 py-2 rounded-lg hover:from-purple-700 hover:to-pink-700 transition-all duration-200 text-sm"
+                  >
+                    🎬 SRT
+                  </button>
+                )}
               </div>
             </div>
           </div>
