@@ -386,7 +386,7 @@ export default function AudioTranscriber() {
             <p className="text-glass-secondary mb-2">
               {progress.message || 'Processing...'}
             </p>
-            {progress.status === 'downloading' && progress.progress < 90 && (
+            {progress.status === 'downloading' && (progress.progress ?? 0) < 90 && (
               <p className="text-glass-muted text-sm">
                 This may take a minute on first use. The model will be cached for future transcriptions.
               </p>
