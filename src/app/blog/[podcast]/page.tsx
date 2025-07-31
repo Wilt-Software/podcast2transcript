@@ -13,6 +13,17 @@ interface PodcastPageProps {
   }>
 }
 
+export const revalidate = 3600 // Revalidate every hour
+
+export async function generateStaticParams() {
+  const blogService = BlogService.getInstance()
+  const allPodcasts = await blogService.getAllPodcastsFromDB()
+  
+  return allPodcasts.map((podcast) => ({
+    podcast: podcast.slug,
+  }))
+}
+
 export async function generateMetadata({ params }: PodcastPageProps): Promise<Metadata> {
   const blogService = BlogService.getInstance()
   const resolvedParams = await params
